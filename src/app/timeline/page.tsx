@@ -106,7 +106,9 @@ export default function TimelinePage() {
         .
       </p>
 
-      {Object.entries(years).map(([year, yearEvents]) => (
+      {Object.entries(years)
+        .sort(([a], [b]) => newestFirst ? Number(b) - Number(a) : Number(a) - Number(b))
+        .map(([year, yearEvents]) => (
         <div key={year} className="mb-16">
           <h2 className="text-2xl font-bold mb-8 text-gray-300 sticky top-24 bg-gray-950/90 backdrop-blur-sm py-2 z-10 year-header">
             {year}
