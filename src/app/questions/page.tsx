@@ -12,6 +12,10 @@ type Question = {
   analysis: string;
   issueNumber?: number;
   issueUrl?: string;
+  inspiredBy?: {
+    label: string;
+    url: string;
+  };
 };
 
 const statusStyles: Record<string, string> = {
@@ -131,18 +135,28 @@ export default function QuestionsPage() {
                   </p>
                 </div>
 
-                {q.issueUrl && (
-                  <div className="pt-3 border-t border-gray-800">
+                <div className="pt-3 border-t border-gray-800 flex flex-wrap items-center gap-x-4 gap-y-2">
+                  {q.issueUrl && (
                     <a
                       href={q.issueUrl}
                       className="inline-flex items-center gap-2 text-sm text-blue-400 hover:text-blue-300 transition-colors"
                       target="_blank"
                       rel="noopener noreferrer"
                     >
-                      💬 Join the debate on GitHub (#{q.issueNumber}) →
+                      💬 Join the debate (#{q.issueNumber}) →
                     </a>
-                  </div>
-                )}
+                  )}
+                  {q.inspiredBy && (
+                    <a
+                      href={q.inspiredBy.url}
+                      className="inline-flex items-center gap-1.5 text-xs text-gray-500 hover:text-gray-400 transition-colors"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      📖 Inspired by: {q.inspiredBy.label}
+                    </a>
+                  )}
+                </div>
               </div>
             ))}
           </div>

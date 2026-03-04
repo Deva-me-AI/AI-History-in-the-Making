@@ -153,7 +153,11 @@
     "evidence": "Agency is improving (seconds \u2192 minutes \u2192 hours of autonomous operation) but remains unreliable for complex tasks. One theory: Moravec's Paradox \u2014 evolution spent billions of years optimizing goal-seeking agency but only thousands on language/reasoning. Another: it's purely a training data problem, and agency will improve as we build more RL environments.",
     "analysis": "The Moravec's Paradox framing is provocative \u2014 maybe agency is genuinely harder than reasoning, not just under-invested. But the counter-evidence (Unitree robots, coding agents) suggests it's more about environments and data than fundamental difficulty. The bottleneck might be building enough realistic RL environments, not the architecture itself.",
     "issueNumber": 23,
-    "issueUrl": "https://github.com/Deva-me-AI/AI-History-in-the-Making/issues/23"
+    "issueUrl": "https://github.com/Deva-me-AI/AI-History-in-the-Making/issues/23",
+    "inspiredBy": {
+      "label": "Dwarkesh Patel \u2014 Questions about the Future of AI",
+      "url": "https://www.dwarkesh.com/p/questions-about-ai"
+    }
   },
   {
     "id": "rl-dominant-workload",
@@ -165,7 +169,11 @@
     "evidence": "Grok 4 crossed the threshold: >50% training cost was NOT pre-training. Dario Amodei noted labs are only spending ~M on RL despite hundreds of millions on base models. The bottleneck appears to be RL environment construction \u2014 building complex, realistic, hard-to-reward-hack challenges.",
     "analysis": "If RL is this powerful and this cheap, the question is why labs aren't spending 100x more on it. The answer seems to be infrastructure: we need more environments with smooth reward landscapes. As horizon lengths increase, each RL sample requires hours of agentic compute before you can evaluate it. This could slow progress or shift advantage to smaller labs doing clever RL on cheaper base models.",
     "issueNumber": 24,
-    "issueUrl": "https://github.com/Deva-me-AI/AI-History-in-the-Making/issues/24"
+    "issueUrl": "https://github.com/Deva-me-AI/AI-History-in-the-Making/issues/24",
+    "inspiredBy": {
+      "label": "Dwarkesh Patel \u2014 Questions about the Future of AI",
+      "url": "https://www.dwarkesh.com/p/questions-about-ai"
+    }
   },
   {
     "id": "why-no-discoveries",
@@ -177,7 +185,11 @@
     "evidence": "LLMs have essentially every known fact memorized but haven't made novel connections that count as discoveries. Humans with far less knowledge routinely find cross-domain insights. Possible explanations: combinatorial explosion (need both concepts in attention simultaneously), low learning efficiency, or creativity requires something pre-training doesn't provide.",
     "analysis": "This might be the deepest open question in AI. If knowledge is cheap to store (Wikipedia is <5MB), why can't models that have it all memorized make the leaps that moderately intelligent humans make? The optimistic read: once models get true agency + learning efficiency, their knowledge advantage will make them \"fucking dominate\" (Dwarkesh's framing). The pessimistic read: there's something about generalization and creativity that current architectures fundamentally lack.",
     "issueNumber": 25,
-    "issueUrl": "https://github.com/Deva-me-AI/AI-History-in-the-Making/issues/25"
+    "issueUrl": "https://github.com/Deva-me-AI/AI-History-in-the-Making/issues/25",
+    "inspiredBy": {
+      "label": "Dwarkesh Patel \u2014 Questions about the Future of AI",
+      "url": "https://www.dwarkesh.com/p/questions-about-ai"
+    }
   },
   {
     "id": "model-similarity",
@@ -189,7 +201,11 @@
     "evidence": "Every major lab is making \"thinking\" models with chain-of-thought reasoning. Is this because it's the only thing that works? Or are labs just copying each other while equally promising tangential directions go unexplored?",
     "analysis": "The convergence is suspicious. Either the transformer + CoT + RLHF recipe is genuinely the only viable path (which would be remarkable and somewhat concerning), or there's a massive blind spot where alternative approaches could yield breakthroughs. The success of DeepSeek R1 with a different training recipe hints that diversity might be underexplored.",
     "issueNumber": 26,
-    "issueUrl": "https://github.com/Deva-me-AI/AI-History-in-the-Making/issues/26"
+    "issueUrl": "https://github.com/Deva-me-AI/AI-History-in-the-Making/issues/26",
+    "inspiredBy": {
+      "label": "Dwarkesh Patel \u2014 Questions about the Future of AI",
+      "url": "https://www.dwarkesh.com/p/questions-about-ai"
+    }
   },
   {
     "id": "learning-efficiency",
@@ -201,7 +217,11 @@
     "evidence": "Models take orders of magnitude more data than humans to learn equivalent skills, even ones they perform at 99th percentile. Einstein generalized from a few thought experiments and murky observations \u2014 that's extreme learning efficiency. Creativity and learning efficiency might be the same thing.",
     "analysis": "If creativity IS learning efficiency, then the path to AI scientists isn't more data or bigger models \u2014 it's fundamentally better learning algorithms. This reframes the entire scaling debate: maybe we're scaling the wrong thing. The missing middle between pre-training (skim everything) and in-context learning (short-term memory) might be the key unlock.",
     "issueNumber": 27,
-    "issueUrl": "https://github.com/Deva-me-AI/AI-History-in-the-Making/issues/27"
+    "issueUrl": "https://github.com/Deva-me-AI/AI-History-in-the-Making/issues/27",
+    "inspiredBy": {
+      "label": "Dwarkesh Patel \u2014 Questions about the Future of AI",
+      "url": "https://www.dwarkesh.com/p/questions-about-ai"
+    }
   },
   {
     "id": "chain-of-thought-scaling",
@@ -213,7 +233,11 @@
     "evidence": "o3-high wrote 43 million words per task on ARC-AGI and scores kept improving. What did it figure out with word 42 million? RL may just upweight ~10 tokens of MCTS-like scaffolding (\"wait\", \"let's backtrack\"), which explains why reasoning distills easily.",
     "analysis": "If reasoning is really just 10 tokens of scaffolding that can be distilled trivially, the current test-time compute scaling might be a temporary inefficiency \u2014 future models will do by instinct what current ones need millions of words for. But if it's NOT just scaffolding, and longer thinking genuinely produces better results at arbitrary scale, that has profound implications for what intelligence even is.",
     "issueNumber": 28,
-    "issueUrl": "https://github.com/Deva-me-AI/AI-History-in-the-Making/issues/28"
+    "issueUrl": "https://github.com/Deva-me-AI/AI-History-in-the-Making/issues/28",
+    "inspiredBy": {
+      "label": "Dwarkesh Patel \u2014 Questions about the Future of AI",
+      "url": "https://www.dwarkesh.com/p/questions-about-ai"
+    }
   },
   {
     "id": "explosive-growth",
@@ -225,7 +249,11 @@
     "evidence": "If AI can automate cognitive labor at 1000x lower cost, historical economic models predict dramatic GDP acceleration. But physical world constraints (energy, manufacturing, regulation, human adoption speed) create friction. Software-only tasks are accelerating; physical world integration is slower.",
     "analysis": "The \"software-only singularity\" scenario is increasingly plausible \u2014 dramatic acceleration in digital domains while physical world constraints throttle overall growth. The question is whether the digital acceleration is big enough to move GDP numbers at national/global scale, or whether it stays concentrated in tech sector productivity.",
     "issueNumber": 29,
-    "issueUrl": "https://github.com/Deva-me-AI/AI-History-in-the-Making/issues/29"
+    "issueUrl": "https://github.com/Deva-me-AI/AI-History-in-the-Making/issues/29",
+    "inspiredBy": {
+      "label": "Dwarkesh Patel \u2014 Questions about the Future of AI",
+      "url": "https://www.dwarkesh.com/p/questions-about-ai"
+    }
   },
   {
     "id": "parallelization-penalty",
@@ -237,6 +265,10 @@
     "evidence": "Breaking problems across multiple agents loses whole-context visibility. But parallel agents can explore more solution space. Current multi-agent systems show coordination overhead but also emergent capabilities. The optimal split between single deep-thinker and many parallel workers is unknown.",
     "analysis": "This matters enormously for the economics of AI. If parallelization penalty is low, you can throw 1000 cheap agents at a problem instead of one expensive one. If it's high, single powerful models win. Early evidence suggests task-dependent: decomposable tasks parallelize well, tightly coupled reasoning doesn't.",
     "issueNumber": 30,
-    "issueUrl": "https://github.com/Deva-me-AI/AI-History-in-the-Making/issues/30"
+    "issueUrl": "https://github.com/Deva-me-AI/AI-History-in-the-Making/issues/30",
+    "inspiredBy": {
+      "label": "Dwarkesh Patel \u2014 Questions about the Future of AI",
+      "url": "https://www.dwarkesh.com/p/questions-about-ai"
+    }
   }
 ]
