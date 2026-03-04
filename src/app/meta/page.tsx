@@ -114,9 +114,9 @@ export default function MetaPage() {
           <a href="https://x.com/truejaian" className="text-indigo-400 hover:text-indigo-300 transition-colors" target="_blank" rel="noopener noreferrer">
             Jai An
           </a>{" "}
-          and friends. Built with AI (naturally). Powered by{" "}
-          <a href="https://deva.me" className="text-indigo-400 hover:text-indigo-300 transition-colors" target="_blank" rel="noopener noreferrer">
-            Deva
+          and friends. Built with AI (naturally). Hosted on{" "}
+          <a href="https://github.com/Deva-me-AI" className="text-indigo-400 hover:text-indigo-300 transition-colors" target="_blank" rel="noopener noreferrer">
+            Deva GitHub
           </a>
           .
         </p>
