@@ -1,0 +1,230 @@
+[
+  {
+    "date": "2022-08-22",
+    "title": "Stable Diffusion Released",
+    "description": "Stability AI open-sources Stable Diffusion, making high-quality image generation freely available. Triggers explosion of AI art tools and debate about creative AI.",
+    "category": "Open Source"
+  },
+  {
+    "date": "2022-11-30",
+    "title": "ChatGPT Launches",
+    "description": "OpenAI releases ChatGPT, reaching 100M users in two months. The moment AI went from research curiosity to mainstream phenomenon. Everything before this was prologue.",
+    "category": "Model Release"
+  },
+  {
+    "date": "2023-01-23",
+    "title": "Microsoft Invests $10B in OpenAI",
+    "description": "Microsoft commits $10 billion to OpenAI in a multi-year deal, signaling that Big Tech sees generative AI as the next platform war. Azure becomes OpenAI's exclusive cloud partner.",
+    "category": "Funding"
+  },
+  {
+    "date": "2023-02-06",
+    "title": "Google Launches Bard",
+    "description": "Google rushes out Bard as a ChatGPT competitor. A factual error in the launch demo wipes $100B off Alphabet's market cap. The AI race officially begins.",
+    "category": "Model Release"
+  },
+  {
+    "date": "2023-02-24",
+    "title": "Meta Releases LLaMA",
+    "description": "Meta releases LLaMA (Large Language Model Meta AI) to researchers. It leaks within a week, kickstarting the open-source LLM movement and democratizing access to powerful models.",
+    "category": "Open Source"
+  },
+  {
+    "date": "2023-03-14",
+    "title": "GPT-4 Released",
+    "description": "OpenAI launches GPT-4, a massive leap in reasoning and multimodal capability. Passes the bar exam, scores 90th percentile on SATs. Sets a new frontier that competitors race to match.",
+    "category": "Model Release"
+  },
+  {
+    "date": "2023-03-14",
+    "title": "Anthropic Launches Claude",
+    "description": "Anthropic releases Claude, built on Constitutional AI principles. Positions itself as the 'safety-first' alternative to GPT-4. Begins the multi-lab frontier race.",
+    "category": "Model Release"
+  },
+  {
+    "date": "2023-05-01",
+    "title": "Mistral AI Founded",
+    "description": "Arthur Mensch, Timothée Lacroix, and Guillaume Lample (ex-Meta/DeepMind) found Mistral AI in Paris. Europe's answer to the American AI lab duopoly. Raises €105M seed — a European record.",
+    "category": "Lab Formation"
+  },
+  {
+    "date": "2023-06-20",
+    "title": "Inflection AI Raises $1.3B",
+    "description": "Inflection AI (founded by Mustafa Suleyman) raises $1.3B from Microsoft, Nvidia, and others. Peak AI funding mania — the company would later be effectively absorbed by Microsoft.",
+    "category": "Funding"
+  },
+  {
+    "date": "2023-07-18",
+    "title": "Llama 2 Released Open Source",
+    "description": "Meta releases Llama 2 with a commercial license, legitimizing open-source as a viable path for frontier-adjacent models. Fine-tuning community explodes.",
+    "category": "Open Source"
+  },
+  {
+    "date": "2023-10-30",
+    "title": "Biden AI Executive Order",
+    "description": "President Biden signs sweeping executive order on AI safety, requiring disclosure of training details for powerful models. First major US government AI regulation attempt.",
+    "category": "Policy"
+  },
+  {
+    "date": "2023-11-06",
+    "title": "Elon Musk Founds xAI, Launches Grok",
+    "description": "Musk's xAI launches Grok, trained partly on X/Twitter data with a 'rebellious' personality. Adds a fourth major player to the frontier lab race.",
+    "category": "Lab Formation"
+  },
+  {
+    "date": "2023-11-17",
+    "title": "OpenAI Board Crisis",
+    "description": "OpenAI's board fires Sam Altman, triggering a 5-day corporate drama that ends with his reinstatement. Exposes tensions between safety and commercialization that define the industry.",
+    "category": "Industry"
+  },
+  {
+    "date": "2024-02-15",
+    "title": "OpenAI Announces Sora",
+    "description": "OpenAI reveals Sora, generating photorealistic video from text prompts. Hollywood takes notice. The gap between 'AI can't do X' and 'AI does X well' keeps shrinking.",
+    "category": "Model Release"
+  },
+  {
+    "date": "2024-03-04",
+    "title": "Claude 3 Family Released",
+    "description": "Anthropic launches Claude 3 Opus, Sonnet, and Haiku. Opus matches or beats GPT-4 on most benchmarks. Anthropic's breakout moment — proves the frontier isn't OpenAI-only.",
+    "category": "Model Release"
+  },
+  {
+    "date": "2024-04-18",
+    "title": "Llama 3 Released",
+    "description": "Meta releases Llama 3 (8B and 70B), setting new open-source benchmarks. The 70B model rivals GPT-3.5. Open source is no longer a generation behind.",
+    "category": "Open Source"
+  },
+  {
+    "date": "2024-05-13",
+    "title": "GPT-4o — Multimodal Native",
+    "description": "OpenAI releases GPT-4o with native voice, vision, and text in one model. Real-time voice conversation feels like science fiction. Context windows hit 128K standard.",
+    "category": "Model Release"
+  },
+  {
+    "date": "2024-05-14",
+    "title": "Gemini 1.5 Pro — 1M Context Window",
+    "description": "Google launches Gemini 1.5 Pro with a 1 million token context window. Shatters previous limits by 10x. Raises questions about whether RAG is even necessary anymore.",
+    "category": "Model Release"
+  },
+  {
+    "date": "2024-06-01",
+    "title": "Mistral Raises at $6B Valuation",
+    "description": "Mistral AI raises $640M at a $6B valuation, barely a year after founding. Europe's AI champion. Open-weight models (Mistral 7B, Mixtral) prove you don't need Bay Area scale.",
+    "category": "Funding"
+  },
+  {
+    "date": "2024-06-01",
+    "title": "AI Coding Tools Explode",
+    "description": "Cursor, GitHub Copilot, and AI coding assistants cross critical adoption thresholds. Developers start reporting 2-5x productivity gains. Coding becomes AI's killer app.",
+    "category": "Industry"
+  },
+  {
+    "date": "2024-08-01",
+    "title": "xAI Raises $6B",
+    "description": "Elon Musk's xAI raises $6B at an $18B valuation. Launches Grok 2 with improved reasoning. The AI funding arms race shows no signs of slowing.",
+    "category": "Funding"
+  },
+  {
+    "date": "2024-12-01",
+    "title": "Context Windows: 128K-200K Becomes Standard",
+    "description": "By end of 2024, 128K-200K token context windows are standard across frontier models. Just 18 months earlier, 8K was the norm. A 25x increase.",
+    "category": "Infrastructure"
+  },
+  {
+    "date": "2025-01-20",
+    "title": "DeepSeek R1 Shocks the World",
+    "description": "Chinese lab DeepSeek releases R1, an open-source reasoning model that rivals frontier labs at a fraction of the cost. Proves reasoning can be trained cheaply. Stock markets react.",
+    "category": "Open Source"
+  },
+  {
+    "date": "2025-02-01",
+    "title": "Claude 3.5 Sonnet Becomes Coding Standard",
+    "description": "Claude 3.5 Sonnet becomes the de facto model for AI-assisted coding. Developers prefer it over GPT-4 for code tasks. Anthropic's quiet dominance in the developer market.",
+    "category": "Industry"
+  },
+  {
+    "date": "2025-03-01",
+    "title": "Anthropic Raises at $60B",
+    "description": "Anthropic raises $3.5B at a $60B valuation, up from $18B a year earlier. Amazon and Google compete to be primary cloud partner. Safety-first approach is commercially viable.",
+    "category": "Funding"
+  },
+  {
+    "date": "2025-04-01",
+    "title": "OpenAI Raises at $300B",
+    "description": "OpenAI closes funding at a $300B valuation, the highest for a private company in history. But Nvidia pulling back from a rumored $100B investment suggests capital markets are questioning the trajectory.",
+    "category": "Funding"
+  },
+  {
+    "date": "2025-06-01",
+    "title": "Gemini 2.5 with Native Tool Use",
+    "description": "Google releases Gemini 2.5 Pro with native tool use and deep research capabilities. Agents can browse, code, and reason in extended chains. Google's infrastructure advantage starts showing.",
+    "category": "Model Release"
+  },
+  {
+    "date": "2025-07-01",
+    "title": "Grok 3 Released",
+    "description": "xAI releases Grok 3 with massive compute scaling. Trained on xAI's Memphis supercluster with 100K H100s. Competitive with frontier models across benchmarks.",
+    "category": "Model Release"
+  },
+  {
+    "date": "2025-09-01",
+    "title": "Agents Go from Minutes to Hours",
+    "description": "AI agents start running autonomously for hours, not just minutes. Still unreliable compared to humans, but 1000x cheaper. The math changes the game — reliability matters less when cost approaches zero.",
+    "category": "Infrastructure"
+  },
+  {
+    "date": "2025-10-01",
+    "title": "RAG Begins Looking Obsolete",
+    "description": "With 1M+ context windows and agents that can manage their own filesystem and memory, traditional RAG architectures feel increasingly unnecessary. Agents decide how to access data themselves.",
+    "category": "Infrastructure"
+  },
+  {
+    "date": "2025-12-01",
+    "title": "Frontier Model Costs Drop 10x from 2024",
+    "description": "Cost per token for frontier-quality inference drops roughly 10x year-over-year. What cost $100 in early 2024 costs $10 by end of 2025. The deflationary spiral continues.",
+    "category": "Infrastructure"
+  },
+  {
+    "date": "2026-01-15",
+    "title": "Grok 4 — The RLVR Milestone",
+    "description": "xAI releases Grok 4. First major model where more than half of training cost was NOT pre-training. Reinforcement learning from verifiable rewards (RLVR) and synthetic data cross a critical threshold.",
+    "category": "Model Release"
+  },
+  {
+    "date": "2026-02-01",
+    "title": "Claude 4 / Opus 4 Released",
+    "description": "Anthropic releases Claude 4 with Opus 4 as the new frontier reasoning model. Extended thinking, deeper code understanding, and improved reliability. Continues to dominate coding workflows.",
+    "category": "Model Release"
+  },
+  {
+    "date": "2026-02-01",
+    "title": "GPT-5 Series Launches",
+    "description": "OpenAI releases the GPT-5 family with significant improvements in reasoning, instruction following, and multimodal capabilities. The race at the frontier remains tight.",
+    "category": "Model Release"
+  },
+  {
+    "date": "2026-03-01",
+    "title": "Gemini 3 Pro Released",
+    "description": "Google launches Gemini 3 Pro with expanded context, improved reasoning, and tighter integration with Google's ecosystem. Native image generation and tool use.",
+    "category": "Model Release"
+  },
+  {
+    "date": "2026-03-01",
+    "title": "Vibe Coding Becomes Leisure Activity",
+    "description": "A cultural shift: people start replacing video games and bar time with 'vibe coding' — building things with AI for fun. Programming as entertainment, not just work. The barrier to creation approaches zero.",
+    "category": "Industry"
+  },
+  {
+    "date": "2026-03-01",
+    "title": "Energy Emerges as the Real Bottleneck",
+    "description": "Per Elon Musk on Collision/Dwarkesh: energy is the binding constraint for AI scaling in the next year, with chips becoming the bottleneck in 3-4 years. Hyperscalers continue massive capex into infrastructure.",
+    "category": "Infrastructure"
+  },
+  {
+    "date": "2026-03-01",
+    "title": "Coding Agents Write Most New Code",
+    "description": "AI coding agents are now writing the majority of new production code. The question shifts from 'will AI replace programmers?' to 'how fast?' Context windows at 200K-1M standard.",
+    "category": "Industry"
+  }
+]

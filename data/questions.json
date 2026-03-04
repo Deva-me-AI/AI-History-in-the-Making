@@ -1,0 +1,122 @@
+[
+  {
+    "id": "model-convergence",
+    "question": "Will AI models converge in capability?",
+    "status": "partial",
+    "statusLabel": "Partially Resolved",
+    "firstDebated": "2023",
+    "lastUpdated": "2026-03",
+    "evidence": "Benchmarks suggest convergence — frontier models score within a few points of each other on standard evals. But empirically, Claude dominates coding and general capabilities in ways benchmarks don't capture. Why Claude is better at coding remains genuinely unclear. There's no obvious architectural explanation.",
+    "analysis": "This is one of the most interesting open questions. If models are converging on benchmarks but diverging in real-world use, it suggests benchmarks are measuring the wrong things. The 'vibes-based' evaluation that practitioners use might be capturing something real that quantitative evals miss."
+  },
+  {
+    "id": "open-source-frontier",
+    "question": "Will open-source AI keep up with frontier labs?",
+    "status": "partial",
+    "statusLabel": "Partially Resolved",
+    "firstDebated": "2023",
+    "lastUpdated": "2026-03",
+    "evidence": "DeepSeek R1 proved open-source can compete on reasoning at dramatically lower cost. Llama 3 closed the gap to ~1 generation behind frontier. But frontier models still lead on the hardest tasks. Kimi and other Chinese labs are still emerging wildcards.",
+    "analysis": "The gap is persistent but not growing — which might be enough. Open-source doesn't need to match frontier; it needs to be 'good enough' for most use cases. The real question is whether the economics of training will concentrate or distribute. DeepSeek suggests the latter."
+  },
+  {
+    "id": "rag-obsolete",
+    "question": "Is RAG the right architecture for AI memory?",
+    "status": "resolved",
+    "statusLabel": "Mostly Resolved",
+    "firstDebated": "2023",
+    "lastUpdated": "2025-10",
+    "evidence": "Longer context windows (200K-1M tokens) combined with agents that can decide how to access filesystem and memory have made traditional RAG feel obsolete. The retrieve-then-generate pattern adds complexity without proportional benefit when you can just put everything in context.",
+    "analysis": "RAG was a patch for small context windows, not a permanent architecture. As context windows grew 100x in 2 years, the core motivation evaporated. Agents managing their own memory through filesystem access is more flexible and doesn't require embedding pipelines. RAG isn't dead for all use cases, but it's no longer the default answer."
+  },
+  {
+    "id": "cost-deflation",
+    "question": "Will frontier AI costs keep falling?",
+    "status": "resolved",
+    "statusLabel": "Resolved — Yes",
+    "firstDebated": "2023",
+    "lastUpdated": "2026-03",
+    "evidence": "Costs have dropped roughly 10x every 12-18 months since GPT-4's launch. What cost $60/M tokens in 2023 costs under $1/M in 2026. This trend shows no signs of stopping — each new generation brings better performance at lower cost.",
+    "analysis": "This is perhaps the most consequential resolved question. Exponential cost deflation means every AI application that's marginally viable today becomes obviously viable in 18 months. It's the engine driving adoption — not capability improvements, but cost improvements making existing capabilities accessible."
+  },
+  {
+    "id": "funding-bubble",
+    "question": "Is the AI lab funding bubble sustainable?",
+    "status": "partial",
+    "statusLabel": "Partially Resolved",
+    "firstDebated": "2023",
+    "lastUpdated": "2026-03",
+    "evidence": "Labs keep raising at 10x valuations year-over-year. OpenAI at $300B, Anthropic at $60B, xAI at $50B+. But Nvidia pulling back from a rumored $100B OpenAI investment is the first real crack. Hyperscalers (Microsoft, Google, Amazon) continue massive capex.",
+    "analysis": "The question isn't whether there's a bubble — there almost certainly is in some valuations. The question is whether the underlying technology justifies it long-term. Unlike crypto or social media, AI is generating measurable productivity gains now. The funding may be ahead of revenue, but it's not ahead of utility."
+  },
+  {
+    "id": "scaling-bottleneck",
+    "question": "What's the real bottleneck for AI scaling?",
+    "status": "partial",
+    "statusLabel": "Partially Resolved",
+    "firstDebated": "2024",
+    "lastUpdated": "2026-03",
+    "evidence": "Per Elon Musk (Collision/Dwarkesh interview): energy is the binding constraint in the next year, chips in the 3-4 year timeframe. Hyperscalers appear to be continuing or increasing capital investments into chip manufacturing and data center power.",
+    "analysis": "This shifted from 'data' (2023) to 'compute' (2024) to 'energy' (2025-26). The progression tells a story — AI scaling has been so aggressive that it's consuming each resource bottleneck in sequence. Energy is a harder constraint than compute because you can't just throw money at power plants the way you can at chip fabs."
+  },
+  {
+    "id": "synthetic-data-rlvr",
+    "question": "Will synthetic data / RLVR replace pre-training?",
+    "status": "partial",
+    "statusLabel": "Partially Resolved",
+    "firstDebated": "2024",
+    "lastUpdated": "2026-01",
+    "evidence": "Grok 4 is the landmark: first major model where more than half of training cost was NOT pre-training. RLVR (reinforcement learning from verifiable rewards) and synthetic data generation crossed a critical threshold. Pre-training is becoming the foundation layer, not the main event.",
+    "analysis": "This is a paradigm shift in how we think about training. If most of the intelligence comes from post-training (RLVR, synthetic data, reasoning fine-tuning), then the pre-training data moat matters less. It also means smaller labs with clever post-training recipes could compete with pre-training giants."
+  },
+  {
+    "id": "hallucinations",
+    "question": "Are hallucinations a fundamental problem?",
+    "status": "resolved",
+    "statusLabel": "Resolved — No",
+    "firstDebated": "2023",
+    "lastUpdated": "2025-06",
+    "evidence": "Hallucinations were the #1 concern and objection in 2023. 'AI can't be trusted because it makes things up.' By 2026, hallucination rates have dropped dramatically through better training, RLHF, chain-of-thought, and tool use. Not eliminated, but no longer a blocker.",
+    "analysis": "This was always an engineering problem, not a fundamental limitation. The 2023 discourse treated hallucinations as an inherent property of the architecture. In retrospect, it was like saying 'computers are unreliable' in 1960 — true at the time, but not a permanent condition. The speed of resolution was faster than almost anyone predicted."
+  },
+  {
+    "id": "context-windows",
+    "question": "How far will context windows go?",
+    "status": "partial",
+    "statusLabel": "Partially Resolved",
+    "firstDebated": "2023",
+    "lastUpdated": "2026-03",
+    "evidence": "Went from 8K (early 2023) → 32K → 128K → 200K → 1M standard in under 3 years. Gemini showed 1M+ is technically feasible. 200K-1M is becoming the standard range for frontier models.",
+    "analysis": "The trend line suggests context windows will keep growing, but the question is whether infinite context or agent-managed memory wins. At some point, stuffing everything into context becomes less efficient than letting the agent decide what to retrieve. The answer might be 'both' — huge context as a capability, with agents managing what fills it."
+  },
+  {
+    "id": "ai-replace-programmers",
+    "question": "Will AI replace human programmers?",
+    "status": "partial",
+    "statusLabel": "Partially Resolved",
+    "firstDebated": "2023",
+    "lastUpdated": "2026-03",
+    "evidence": "Coding was AI's killer app. Most new production code is increasingly AI-written or AI-assisted. Autonomous coding agents can handle multi-file changes, write tests, fix bugs. But human judgment on architecture, product decisions, and edge cases remains essential.",
+    "analysis": "The question was always wrong. It's not 'replace' — it's 'transform.' The role shifts from writing code to directing AI that writes code. The analogy isn't automation replacing factory workers; it's power tools replacing hand tools. You still need the carpenter, but one carpenter does what ten did before. The trajectory is clear, the timeline is the only debate."
+  },
+  {
+    "id": "vibe-coding-leisure",
+    "question": "Will AI coding become a leisure activity?",
+    "status": "resolved",
+    "statusLabel": "Emerging Yes",
+    "firstDebated": "2025",
+    "lastUpdated": "2026-03",
+    "evidence": "People are replacing video game time and bar time with 'vibe coding' — building things with AI for fun. The barrier to creation has dropped so low that programming is becoming entertainment. Already happening for early adopters; spreading rapidly.",
+    "analysis": "This one resolved faster than anyone expected. When building a working app takes 30 minutes instead of 30 days, the act of creation becomes accessible as leisure. It's the same shift that happened with music production (GarageBand), video (TikTok), and writing (blogs). AI did it for software. The cultural implications are enormous — an entire generation learning to build things for fun."
+  },
+  {
+    "id": "autonomous-agents",
+    "question": "Can agents run autonomously for extended periods?",
+    "status": "partial",
+    "statusLabel": "Partially Resolved",
+    "firstDebated": "2024",
+    "lastUpdated": "2026-03",
+    "evidence": "Agent runtimes have gone from seconds → minutes → hours. Still worse than humans on reliability. But 1000x cheaper, so the calculus is different — you can run them continuously and accept lower per-task success rates.",
+    "analysis": "The framing matters here. If you compare a single agent run to a single human session, agents lose on quality. But that's the wrong comparison. The right comparison is: what happens when you can run 1000 agents for the cost of one human? Reliability per run matters less when you can just keep running them. The question isn't 'are agents as good as humans?' — it's 'is the cost-adjusted output positive?' And it increasingly is."
+  }
+]
