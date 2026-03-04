@@ -45,6 +45,14 @@ type GitHubDiscussion = {
     login: string;
     avatar_url: string;
   };
+  reactions: {
+    total_count: number;
+    "+1": number;
+    "-1": number;
+    heart: number;
+    rocket: number;
+    eyes: number;
+  };
 };
 
 const labelStyles: Record<string, string> = {
@@ -145,6 +153,12 @@ export default function CommunityPage() {
         }
 
         const data: GitHubDiscussion[] = await res.json();
+        // Sort by total reactions (most popular first), then by updated_at
+        data.sort((a, b) => {
+          const reactDiff = (b.reactions?.total_count ?? 0) - (a.reactions?.total_count ?? 0);
+          if (reactDiff !== 0) return reactDiff;
+          return new Date(b.updated_at).getTime() - new Date(a.updated_at).getTime();
+        });
         setDiscussions(data);
       } catch (err) {
         setDiscussionsError(
@@ -364,6 +378,11 @@ export default function CommunityPage() {
                         <span>
                           by {discussion.user.login} · {timeAgo(discussion.updated_at)}
                         </span>
+                        {discussion.reactions?.total_count > 0 && (
+                          <span className="flex items-center gap-1 text-amber-500/70">
+                            👍 {discussion.reactions.total_count}
+                          </span>
+                        )}
                         <span className="flex items-center gap-1">
                           💬 {discussion.comments}
                         </span>
