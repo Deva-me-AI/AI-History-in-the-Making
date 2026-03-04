@@ -53,7 +53,19 @@ function timeAgo(dateStr: string): string {
 
 function truncateBody(body: string | null, maxLen = 200): string {
   if (!body) return "";
-  const cleaned = body.replace(/\r\n/g, " ").replace(/\n/g, " ").trim();
+  const cleaned = body
+    .replace(/\r\n/g, " ")
+    .replace(/\n/g, " ")
+    // Strip markdown formatting
+    .replace(/\*\*([^*]+)\*\*/g, "$1")        // **bold**
+    .replace(/\*([^*]+)\*/g, "$1")             // *italic*
+    .replace(/\[([^\]]+)\]\([^)]+\)/g, "$1")   // [text](url)
+    .replace(/#{1,6}\s/g, "")                  // headings
+    .replace(/---+/g, "")                      // horizontal rules
+    .replace(/📖[^|]*/g, "")                   // source citations
+    .replace(/\|/g, " · ")                     // pipe separators
+    .replace(/\s{2,}/g, " ")                   // collapse whitespace
+    .trim();
   if (cleaned.length <= maxLen) return cleaned;
   return cleaned.slice(0, maxLen) + "…";
 }
