@@ -5,6 +5,8 @@ type TimelineEvent = {
   title: string;
   description: string;
   category: string;
+  source?: string;
+  sourceLabel?: string;
 };
 
 const categoryColors: Record<string, string> = {
@@ -86,6 +88,16 @@ export default function TimelinePage() {
                 <p className="text-gray-400 text-sm leading-relaxed">
                   {event.description}
                 </p>
+                {event.source && (
+                  <a
+                    href={event.source}
+                    className="inline-flex items-center gap-1 mt-2 text-xs text-blue-400 hover:text-blue-300 transition-colors"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    📎 {event.sourceLabel || "Source"} →
+                  </a>
+                )}
               </div>
             ))}
           </div>
