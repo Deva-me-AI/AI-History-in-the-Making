@@ -1,4 +1,5 @@
 import timelineData from "../../../data/timeline.json";
+import ContributeCard from "@/components/ContributeCard";
 
 type TimelineEvent = {
   date: string;
@@ -48,9 +49,12 @@ export default function TimelinePage() {
   return (
     <div className="mx-auto max-w-4xl px-6 py-16">
       <h1 className="text-4xl font-bold mb-4">Timeline</h1>
-      <p className="text-gray-400 mb-12 max-w-2xl">
+      <p className="text-gray-400 mb-4 max-w-2xl">
         Major AI events from 2022 to the present. Each entry links to a moment
-        that shifted the trajectory. Data lives in{" "}
+        that shifted the trajectory.
+      </p>
+      <p className="text-gray-500 text-sm mb-12">
+        📂 Data lives in{" "}
         <a
           href="https://github.com/Deva-me-AI/AI-History-in-the-Making/blob/main/data/timeline.json"
           className="text-blue-400 hover:text-blue-300"
@@ -59,12 +63,30 @@ export default function TimelinePage() {
         >
           timeline.json
         </a>{" "}
-        — submit a PR to add events.
+        — missing an event?{" "}
+        <a
+          href="https://github.com/Deva-me-AI/AI-History-in-the-Making/issues/new?title=Missing+event:+&labels=timeline"
+          className="text-blue-400 hover:text-blue-300"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Open an issue
+        </a>{" "}
+        or{" "}
+        <a
+          href="https://github.com/Deva-me-AI/AI-History-in-the-Making/edit/main/data/timeline.json"
+          className="text-blue-400 hover:text-blue-300"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          edit directly on GitHub
+        </a>
+        .
       </p>
 
       {Object.entries(years).map(([year, yearEvents]) => (
         <div key={year} className="mb-16">
-          <h2 className="text-2xl font-bold mb-8 text-gray-300 sticky top-16 bg-gray-950/90 backdrop-blur-sm py-2 z-10">
+          <h2 className="text-2xl font-bold mb-8 text-gray-300 sticky top-24 bg-gray-950/90 backdrop-blur-sm py-2 z-10">
             {year}
           </h2>
           <div className="relative pl-8 border-l-2 border-gray-800">
@@ -103,6 +125,8 @@ export default function TimelinePage() {
           </div>
         </div>
       ))}
+
+      <ContributeCard context="Missing an event? Think a date or description is wrong?" />
     </div>
   );
 }

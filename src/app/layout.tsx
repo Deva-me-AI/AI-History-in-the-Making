@@ -2,6 +2,7 @@ import type { Metadata } from "next";
 import { Inter } from "next/font/google";
 import "./globals.css";
 import Navigation from "@/components/Navigation";
+import OpenSourceBanner from "@/components/OpenSourceBanner";
 
 const inter = Inter({ subsets: ["latin"] });
 
@@ -25,6 +26,7 @@ export default function RootLayout({
   return (
     <html lang="en" className="dark">
       <body className={`${inter.className} bg-gray-950 text-gray-100 antialiased`}>
+        <OpenSourceBanner />
         <Navigation />
         <main className="min-h-screen">{children}</main>
         <footer className="border-t border-gray-800 py-8 text-center text-sm text-gray-500">

@@ -1,4 +1,5 @@
 import questionsData from "../../../data/questions.json";
+import ContributeCard from "@/components/ContributeCard";
 
 type Question = {
   id: string;
@@ -53,7 +54,7 @@ export default function QuestionsPage() {
         .
       </p>
       <p className="text-gray-500 text-sm mb-12">
-        Data lives in{" "}
+        📂 Data lives in{" "}
         <a
           href="https://github.com/Deva-me-AI/AI-History-in-the-Making/blob/main/data/questions.json"
           className="text-blue-400 hover:text-blue-300"
@@ -62,7 +63,25 @@ export default function QuestionsPage() {
         >
           questions.json
         </a>{" "}
-        — submit a PR to add questions, update resolutions, or challenge the analysis.
+        — disagree with a resolution?{" "}
+        <a
+          href="https://github.com/Deva-me-AI/AI-History-in-the-Making/issues/new?title=Question+challenge:+&labels=questions"
+          className="text-blue-400 hover:text-blue-300"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          Open an issue
+        </a>{" "}
+        or{" "}
+        <a
+          href="https://github.com/Deva-me-AI/AI-History-in-the-Making/edit/main/data/questions.json"
+          className="text-blue-400 hover:text-blue-300"
+          target="_blank"
+          rel="noopener noreferrer"
+        >
+          edit directly on GitHub
+        </a>
+        .
       </p>
 
       {sections.map((section) => (
@@ -114,6 +133,8 @@ export default function QuestionsPage() {
           </div>
         </div>
       ))}
+
+      <ContributeCard context="Think a question is missing? Disagree with a resolution status? Have new evidence?" />
     </div>
   );
 }

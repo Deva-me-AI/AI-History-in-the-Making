@@ -1,5 +1,7 @@
 import Link from "next/link";
 
+const REPO = "https://github.com/Deva-me-AI/AI-History-in-the-Making";
+
 export default function Home() {
   return (
     <div className="mx-auto max-w-4xl px-6 py-24">
@@ -11,10 +13,19 @@ export default function Home() {
         <p className="text-xl md:text-2xl text-gray-400 max-w-2xl mx-auto mb-4">
           Documenting the fastest technological revolution in human history.
         </p>
-        <p className="text-gray-500 max-w-xl mx-auto">
+        <p className="text-gray-500 max-w-xl mx-auto mb-6">
           A living document tracking milestones, open questions, and how fast they resolve. 
           Things we debated months ago are already settled. We&apos;re watching fast-forward happen.
         </p>
+        <div className="flex items-center justify-center gap-2 text-sm text-gray-500">
+          <span className="inline-flex items-center gap-1.5 rounded-full border border-green-500/30 bg-green-500/10 px-3 py-1 text-green-400">
+            🔓 Open Source
+          </span>
+          <span>·</span>
+          <span>Community-driven</span>
+          <span>·</span>
+          <span>Debates happen on GitHub</span>
+        </div>
       </div>
 
       {/* Cards */}
@@ -56,21 +67,43 @@ export default function Home() {
         </p>
       </div>
 
-      {/* Contribute */}
-      <div className="text-center">
-        <h3 className="text-lg font-semibold mb-3">This is open source</h3>
-        <p className="text-gray-400 text-sm mb-4">
-          Submit a PR to add events, update questions, or correct the record. 
-          All data lives in simple JSON files.
+      {/* Open Source CTA */}
+      <div className="rounded-xl border border-gray-800 bg-gradient-to-br from-gray-900/80 to-gray-900/40 p-8 text-center mb-12">
+        <h3 className="text-2xl font-bold mb-3">This is 100% open source</h3>
+        <p className="text-gray-400 max-w-lg mx-auto mb-2">
+          All content lives in simple JSON files. Anyone can submit a pull request to add events, 
+          update question resolutions, or challenge the analysis.
         </p>
-        <a
-          href="https://github.com/Deva-me-AI/AI-History-in-the-Making"
-          className="inline-flex items-center gap-2 rounded-lg bg-gray-800 px-5 py-2.5 text-sm font-medium text-gray-200 transition-colors hover:bg-gray-700"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          GitHub →
-        </a>
+        <p className="text-gray-500 text-sm max-w-lg mx-auto mb-6">
+          All debates happen in GitHub Issues and PRs. What gets merged becomes the record. 
+          No editorial gatekeeping — just evidence and community consensus.
+        </p>
+        <div className="flex flex-wrap items-center justify-center gap-3">
+          <a
+            href={REPO}
+            className="inline-flex items-center gap-2 rounded-lg bg-white text-gray-900 px-5 py-2.5 text-sm font-semibold transition-colors hover:bg-gray-200"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            ⭐ Star on GitHub
+          </a>
+          <a
+            href={`${REPO}/issues/new`}
+            className="inline-flex items-center gap-2 rounded-lg bg-gray-800 px-5 py-2.5 text-sm font-medium text-gray-200 transition-colors hover:bg-gray-700"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            📝 Open an Issue
+          </a>
+          <a
+            href={`${REPO}/blob/main/CONTRIBUTING.md`}
+            className="inline-flex items-center gap-2 rounded-lg border border-gray-700 px-5 py-2.5 text-sm font-medium text-gray-400 transition-colors hover:text-gray-200 hover:border-gray-600"
+            target="_blank"
+            rel="noopener noreferrer"
+          >
+            📖 Contributing Guide
+          </a>
+        </div>
       </div>
     </div>
   );

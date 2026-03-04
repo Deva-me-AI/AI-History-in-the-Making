@@ -1,3 +1,5 @@
+const REPO = "https://github.com/Deva-me-AI/AI-History-in-the-Making";
+
 export default function MetaPage() {
   return (
     <div className="mx-auto max-w-3xl px-6 py-16">
@@ -45,34 +47,78 @@ export default function MetaPage() {
           </p>
         </section>
 
-        <section className="mb-12">
-          <h2 className="text-2xl font-semibold mb-4">How to Contribute</h2>
+        <section className="mb-12 rounded-xl border border-gray-800 bg-gray-900/30 p-8">
+          <h2 className="text-2xl font-semibold mb-4">🔓 Open Source &amp; How Truth Works Here</h2>
           <p className="text-gray-300 leading-relaxed mb-4">
-            All data lives in simple JSON files in the{" "}
+            This is a fully open-source project. All content — every timeline event, 
+            every open question, every analysis — lives in simple JSON files in a{" "}
             <a
-              href="https://github.com/Deva-me-AI/AI-History-in-the-Making"
+              href={REPO}
               className="text-blue-400 hover:text-blue-300"
               target="_blank"
               rel="noopener noreferrer"
             >
-              GitHub repo
-            </a>
-            :
+              public GitHub repository
+            </a>.
           </p>
-          <ul className="text-gray-300 space-y-2 mb-4 list-disc pl-6">
-            <li>
-              <strong>data/timeline.json</strong> — Timeline events. Add a new
-              object with date, title, description, and category.
+          <p className="text-gray-300 leading-relaxed mb-4">
+            <strong>All debates happen on GitHub.</strong> Disagree with an analysis? 
+            Think a question&apos;s status is wrong? Think we&apos;re missing a critical event? 
+            Open an issue or submit a pull request. The community discusses, evidence is weighed, 
+            and what gets merged becomes the record.
+          </p>
+          <p className="text-gray-300 leading-relaxed mb-4">
+            No editorial gatekeeping. No single arbiter of truth. Just evidence, 
+            sources, and community consensus — mediated through git.
+          </p>
+          <div className="flex flex-wrap gap-3 mt-6">
+            <a
+              href={`${REPO}/issues/new`}
+              className="inline-flex items-center gap-1.5 rounded-lg bg-gray-800 px-4 py-2 text-sm font-medium text-gray-200 transition-colors hover:bg-gray-700"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              📝 Open an Issue
+            </a>
+            <a
+              href={`${REPO}/pulls`}
+              className="inline-flex items-center gap-1.5 rounded-lg bg-gray-800 px-4 py-2 text-sm font-medium text-gray-200 transition-colors hover:bg-gray-700"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              🔀 Pull Requests
+            </a>
+            <a
+              href={`${REPO}/blob/main/CONTRIBUTING.md`}
+              className="inline-flex items-center gap-1.5 rounded-lg border border-gray-700 px-4 py-2 text-sm font-medium text-gray-400 transition-colors hover:text-gray-200 hover:border-gray-600"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              📖 Contributing Guide
+            </a>
+          </div>
+        </section>
+
+        <section className="mb-12">
+          <h2 className="text-2xl font-semibold mb-4">How to Contribute</h2>
+          <ul className="text-gray-300 space-y-3 list-none pl-0">
+            <li className="flex items-start gap-3">
+              <span className="text-lg">1.</span>
+              <span><strong>Fork the repo</strong> and edit the JSON files in <code className="text-sm bg-gray-800 px-1.5 py-0.5 rounded">data/</code></span>
             </li>
-            <li>
-              <strong>data/questions.json</strong> — Open questions. Add new
-              questions, update evidence, change resolution status.
+            <li className="flex items-start gap-3">
+              <span className="text-lg">2.</span>
+              <span><strong>Open a Pull Request</strong> with your changes and evidence</span>
+            </li>
+            <li className="flex items-start gap-3">
+              <span className="text-lg">3.</span>
+              <span><strong>Community discusses</strong> in the PR comments</span>
+            </li>
+            <li className="flex items-start gap-3">
+              <span className="text-lg">4.</span>
+              <span><strong>Merge = truth</strong> — what gets merged becomes the record</span>
             </li>
           </ul>
-          <p className="text-gray-300 leading-relaxed">
-            Submit a PR. The site rebuilds automatically on merge. No CMS, no
-            admin panel — just git and JSON.
-          </p>
         </section>
 
         <section className="mb-12">
