@@ -79,4 +79,4 @@ npm run dev
 
 ## License
 
-MIT
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — you're free to share and adapt this content for any purpose, even commercially, as long as you give appropriate credit.
