@@ -28,6 +28,25 @@ type GitHubIssue = {
   body: string | null;
 };
 
+type GitHubDiscussion = {
+  number: number;
+  title: string;
+  html_url: string;
+  created_at: string;
+  updated_at: string;
+  comments: number;
+  state: string;
+  body: string | null;
+  category: {
+    name: string;
+    slug: string;
+  };
+  user: {
+    login: string;
+    avatar_url: string;
+  };
+};
+
 const labelStyles: Record<string, string> = {
   timeline: "bg-blue-500/20 text-blue-300 border-blue-500/30",
   questions: "bg-purple-500/20 text-purple-300 border-purple-500/30",
@@ -107,9 +126,39 @@ const discussionCategories = [
 
 export default function CommunityPage() {
   const [issues, setIssues] = useState<GitHubIssue[]>([]);
+  const [discussions, setDiscussions] = useState<GitHubDiscussion[]>([]);
   const [loading, setLoading] = useState(true);
+  const [discussionsLoading, setDiscussionsLoading] = useState(true);
   const [error, setError] = useState<string | null>(null);
+  const [discussionsError, setDiscussionsError] = useState<string | null>(null);
   const [tab, setTab] = useState<"discussions" | "issues">("discussions");
+
+  useEffect(() => {
+    async function fetchDiscussions() {
+      try {
+        const res = await fetch(
+          `https://api.github.com/repos/${REPO}/discussions?per_page=50&sort=updated&direction=desc`
+        );
+
+        if (!res.ok) {
+          throw new Error("Failed to fetch discussions from GitHub");
+        }
+
+        const data: GitHubDiscussion[] = await res.json();
+        setDiscussions(data);
+      } catch (err) {
+        setDiscussionsError(
+          err instanceof Error
+            ? err.message
+            : "Failed to load discussions"
+        );
+      } finally {
+        setDiscussionsLoading(false);
+      }
+    }
+
+    fetchDiscussions();
+  }, []);
 
   useEffect(() => {
     async function fetchIssues() {
@@ -153,6 +202,13 @@ export default function CommunityPage() {
 
   const openCount = issues.filter((i) => i.state === "open").length;
   const closedCount = issues.filter((i) => i.state === "closed").length;
+
+  const discussionCategoryStyles: Record<string, string> = {
+    ideas: "bg-amber-500/20 text-amber-300 border-amber-500/30",
+    general: "bg-blue-500/20 text-blue-300 border-blue-500/30",
+    "q-a": "bg-green-500/20 text-green-300 border-green-500/30",
+    announcements: "bg-purple-500/20 text-purple-300 border-purple-500/30",
+  };
 
   return (
     <div className="mx-auto max-w-4xl px-6 py-16">
@@ -243,6 +299,81 @@ export default function CommunityPage() {
               </a>
             ))}
           </div>
+
+          {discussionsLoading && (
+            <div className="text-center py-16">
+              <div className="inline-block h-6 w-6 animate-spin rounded-full border-2 border-gray-600 border-t-purple-500" />
+              <p className="text-gray-500 mt-4 text-sm">
+                Loading discussions from GitHub...
+              </p>
+            </div>
+          )}
+
+          {discussionsError && (
+            <div className="rounded-xl border border-red-500/30 bg-red-500/10 p-6 text-center mb-8">
+              <p className="text-red-400 mb-2">
+                Couldn&apos;t load discussions: {discussionsError}
+              </p>
+              <a
+                href={`${REPO_URL}/discussions`}
+                className="text-blue-400 hover:text-blue-300 text-sm"
+                target="_blank"
+                rel="noopener noreferrer"
+              >
+                View discussions directly on GitHub →
+              </a>
+            </div>
+          )}
+
+          {!discussionsLoading && !discussionsError && discussions.length > 0 && (
+            <div className="space-y-3 mb-8">
+              {discussions.map((discussion) => (
+                <a
+                  key={discussion.number}
+                  href={discussion.html_url}
+                  className="block rounded-xl border border-gray-800 bg-gray-900/50 p-4 question-card transition-all hover:bg-gray-900/80"
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <div className="flex items-start gap-3">
+                    <div className="mt-0.5 flex-shrink-0 text-base">💬</div>
+
+                    <div className="flex-1 min-w-0">
+                      <div className="flex items-start gap-2 flex-wrap mb-1">
+                        <h3 className="font-medium text-gray-100 text-sm">
+                          {discussion.title}
+                        </h3>
+                        <span
+                          className={`inline-block rounded-full border px-2 py-0.5 text-xs font-medium ${
+                            discussionCategoryStyles[discussion.category.slug] ||
+                            "bg-gray-500/20 text-gray-300 border-gray-500/30"
+                          }`}
+                        >
+                          {discussion.category.name}
+                        </span>
+                      </div>
+
+                      {discussion.body && (
+                        <p className="text-gray-500 text-xs mb-2 leading-relaxed">
+                          {truncateBody(discussion.body, 160)}
+                        </p>
+                      )}
+
+                      <div className="flex items-center gap-3 text-xs text-gray-600">
+                        <span>#{discussion.number}</span>
+                        <span>
+                          by {discussion.user.login} · {timeAgo(discussion.updated_at)}
+                        </span>
+                        <span className="flex items-center gap-1">
+                          💬 {discussion.comments}
+                        </span>
+                      </div>
+                    </div>
+                  </div>
+                </a>
+              ))}
+            </div>
+          )}
 
           <div className="text-center">
             <a
