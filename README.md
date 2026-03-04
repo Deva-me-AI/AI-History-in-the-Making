@@ -2,25 +2,28 @@
 
 Documenting the fastest technological revolution in human history — milestones, open questions, and how fast they resolve.
 
+**Live site:** [aihistoricunfolding.com](https://www.aihistoricunfolding.com)
+
+## This is open source
+
+All content lives in simple JSON files. Anyone can contribute — add events, update question resolutions, challenge the analysis, or propose entirely new questions.
+
+**All debates happen on GitHub.** What gets merged becomes the record.
+
 ## Contributing
-
-All content lives in `data/`:
-
-- **`data/timeline.json`** — Timeline events (date, title, description, category)
-- **`data/questions.json`** — Open questions (question, status, evidence, analysis)
-
-Submit a PR to add events, update resolutions, or challenge the analysis. The site rebuilds automatically on merge.
 
 ### Adding a Timeline Event
 
-Add an object to `data/timeline.json`:
+Edit `data/timeline.json` and add:
 
 ```json
 {
   "date": "2026-03-15",
   "title": "Something Important Happened",
   "description": "A 2-3 sentence description of what happened and why it matters.",
-  "category": "Model Release"
+  "category": "Model Release",
+  "source": "https://example.com/announcement",
+  "sourceLabel": "Source Name"
 }
 ```
 
@@ -28,7 +31,7 @@ Categories: `Model Release`, `Lab Formation`, `Funding`, `Policy`, `Open Source`
 
 ### Adding an Open Question
 
-Add an object to `data/questions.json`:
+Edit `data/questions.json` and add:
 
 ```json
 {
@@ -44,6 +47,28 @@ Add an object to `data/questions.json`:
 ```
 
 Status values: `resolved`, `partial`, `open`
+
+### Contesting / Debating Content
+
+**Disagree with a resolution? Think an event is wrong or missing? Want to challenge the analysis?**
+
+1. **[Open an Issue](https://github.com/Deva-me-AI/AI-History-in-the-Making/issues/new)** — describe what you think is wrong and provide evidence
+2. The community debates in the issue thread
+3. If there's consensus, someone opens a PR with the fix
+4. What gets merged = the record
+
+Use labels to categorize your issue:
+- `timeline` — contesting or adding timeline events
+- `questions` — contesting question status, evidence, or analysis
+- `debate` — broader debates about AI trends or interpretations
+
+**Active debates show up on the [Debates page](https://www.aihistoricunfolding.com/debates) of the site**, linking directly to GitHub issues so everyone can follow and participate.
+
+### What Gets Merged
+
+This project mixes objective facts with journalistic interpretive overlay. Facts must be accurate and sourced. Analysis is opinionated by design — but it should be defensible.
+
+Maintainers merge PRs based on: factual accuracy (non-negotiable), quality of sources, clarity of writing, and whether the community discussion reached rough consensus.
 
 ## Development
 

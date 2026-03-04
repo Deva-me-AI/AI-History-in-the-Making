@@ -7,6 +7,7 @@ const links = [
   { href: "/", label: "Home" },
   { href: "/timeline", label: "Timeline" },
   { href: "/questions", label: "Open Questions" },
+  { href: "/debates", label: "Debates" },
   { href: "/meta", label: "About" },
 ];
 
