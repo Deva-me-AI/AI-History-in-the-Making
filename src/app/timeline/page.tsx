@@ -1,13 +1,18 @@
 import timelineData from "../../../data/timeline.json";
 import ContributeCard from "@/components/ContributeCard";
 
+type Source = {
+  url: string;
+  label: string;
+};
+
 type TimelineEvent = {
   date: string;
   title: string;
   description: string;
   category: string;
-  source?: string;
-  sourceLabel?: string;
+  sources?: Source[];
+  issueNumber?: number;
 };
 
 const categoryColors: Record<string, string> = {
@@ -18,6 +23,7 @@ const categoryColors: Record<string, string> = {
   "Open Source": "bg-green-500/20 text-green-300 border-green-500/30",
   Infrastructure: "bg-purple-500/20 text-purple-300 border-purple-500/30",
   Industry: "bg-pink-500/20 text-pink-300 border-pink-500/30",
+  Research: "bg-cyan-500/20 text-cyan-300 border-cyan-500/30",
 };
 
 function formatDate(dateStr: string): string {
@@ -33,12 +39,15 @@ function getYear(dateStr: string): string {
   return dateStr.slice(0, 4);
 }
 
+const REPO = "https://github.com/Deva-me-AI/AI-History-in-the-Making";
+
 export default function TimelinePage() {
+  // Sort newest first
   const events: TimelineEvent[] = [...timelineData].sort(
-    (a, b) => new Date(a.date).getTime() - new Date(b.date).getTime()
+    (a, b) => new Date(b.date).getTime() - new Date(a.date).getTime()
   );
 
-  // Group by year
+  // Group by year (will be in reverse order)
   const years: Record<string, TimelineEvent[]> = {};
   for (const event of events) {
     const year = getYear(event.date);
@@ -50,13 +59,13 @@ export default function TimelinePage() {
     <div className="mx-auto max-w-4xl px-6 py-16">
       <h1 className="text-4xl font-bold mb-4">Timeline</h1>
       <p className="text-gray-400 mb-4 max-w-2xl">
-        Major AI events from 2022 to the present. Each entry links to a moment
-        that shifted the trajectory.
+        Major AI events from the present back to the field&apos;s origins. Newest first.
+        Each event links to sources — many link to GitHub issues for active debate.
       </p>
       <p className="text-gray-500 text-sm mb-12">
         📂 Data lives in{" "}
         <a
-          href="https://github.com/Deva-me-AI/AI-History-in-the-Making/blob/main/data/timeline.json"
+          href={`${REPO}/blob/main/data/timeline.json`}
           className="text-blue-400 hover:text-blue-300"
           target="_blank"
           rel="noopener noreferrer"
@@ -65,7 +74,7 @@ export default function TimelinePage() {
         </a>{" "}
         — missing an event?{" "}
         <a
-          href="https://github.com/Deva-me-AI/AI-History-in-the-Making/issues/new?title=Missing+event:+&labels=timeline"
+          href={`${REPO}/issues/new?title=Missing+event:+&labels=timeline`}
           className="text-blue-400 hover:text-blue-300"
           target="_blank"
           rel="noopener noreferrer"
@@ -74,12 +83,12 @@ export default function TimelinePage() {
         </a>{" "}
         or{" "}
         <a
-          href="https://github.com/Deva-me-AI/AI-History-in-the-Making/edit/main/data/timeline.json"
+          href={`${REPO}/edit/main/data/timeline.json`}
           className="text-blue-400 hover:text-blue-300"
           target="_blank"
           rel="noopener noreferrer"
         >
-          edit directly on GitHub
+          submit a PR
         </a>
         .
       </p>
@@ -110,14 +119,33 @@ export default function TimelinePage() {
                 <p className="text-gray-400 text-sm leading-relaxed">
                   {event.description}
                 </p>
-                {event.source && (
+
+                {/* Sources */}
+                {event.sources && event.sources.length > 0 && (
+                  <div className="flex flex-wrap gap-3 mt-2">
+                    {event.sources.map((source, si) => (
+                      <a
+                        key={si}
+                        href={source.url}
+                        className="inline-flex items-center gap-1 text-xs text-blue-400 hover:text-blue-300 transition-colors"
+                        target="_blank"
+                        rel="noopener noreferrer"
+                      >
+                        📎 {source.label}
+                      </a>
+                    ))}
+                  </div>
+                )}
+
+                {/* Issue link */}
+                {event.issueNumber && (
                   <a
-                    href={event.source}
-                    className="inline-flex items-center gap-1 mt-2 text-xs text-blue-400 hover:text-blue-300 transition-colors"
+                    href={`${REPO}/issues/${event.issueNumber}`}
+                    className="inline-flex items-center gap-1.5 mt-2 text-xs text-amber-400 hover:text-amber-300 transition-colors"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
-                    📎 {event.sourceLabel || "Source"} →
+                    💬 Debate this event (#{event.issueNumber})
                   </a>
                 )}
               </div>
@@ -126,7 +154,7 @@ export default function TimelinePage() {
         </div>
       ))}
 
-      <ContributeCard context="Missing an event? Think a date or description is wrong?" />
+      <ContributeCard context="Missing an event? Think a date or description is wrong? Open an issue or submit a PR." />
     </div>
   );
 }
