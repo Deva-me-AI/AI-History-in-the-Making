@@ -10,6 +10,8 @@ type Question = {
   lastUpdated: string;
   evidence: string;
   analysis: string;
+  issueNumber?: number;
+  issueUrl?: string;
 };
 
 const statusStyles: Record<string, string> = {
@@ -120,7 +122,7 @@ export default function QuestionsPage() {
                   </p>
                 </div>
 
-                <div>
+                <div className="mb-4">
                   <h4 className="text-xs font-semibold uppercase tracking-wider text-gray-500 mb-2">
                     Analysis
                   </h4>
@@ -128,6 +130,19 @@ export default function QuestionsPage() {
                     {q.analysis}
                   </p>
                 </div>
+
+                {q.issueUrl && (
+                  <div className="pt-3 border-t border-gray-800">
+                    <a
+                      href={q.issueUrl}
+                      className="inline-flex items-center gap-2 text-sm text-blue-400 hover:text-blue-300 transition-colors"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      💬 Join the debate on GitHub (#{q.issueNumber}) →
+                    </a>
+                  </div>
+                )}
               </div>
             ))}
           </div>
