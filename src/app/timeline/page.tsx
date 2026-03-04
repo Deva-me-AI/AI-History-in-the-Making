@@ -1,3 +1,6 @@
+"use client";
+
+import { useState } from "react";
 import timelineData from "../../../data/timeline.json";
 import ContributeCard from "@/components/ContributeCard";
 
@@ -42,12 +45,14 @@ function getYear(dateStr: string): string {
 const REPO = "https://github.com/Deva-me-AI/AI-History-in-the-Making";
 
 export default function TimelinePage() {
-  // Sort newest first
-  const events: TimelineEvent[] = [...timelineData].sort(
-    (a, b) => new Date(b.date).getTime() - new Date(a.date).getTime()
-  );
+  const [newestFirst, setNewestFirst] = useState(true);
 
-  // Group by year (will be in reverse order)
+  const events: TimelineEvent[] = [...timelineData].sort((a, b) => {
+    const diff = new Date(a.date).getTime() - new Date(b.date).getTime();
+    return newestFirst ? -diff : diff;
+  });
+
+  // Group by year
   const years: Record<string, TimelineEvent[]> = {};
   for (const event of events) {
     const year = getYear(event.date);
@@ -57,9 +62,17 @@ export default function TimelinePage() {
 
   return (
     <div className="mx-auto max-w-4xl px-6 py-16">
-      <h1 className="text-4xl font-bold mb-4">Timeline</h1>
+      <div className="flex items-start justify-between gap-4 mb-4">
+        <h1 className="text-4xl font-bold">Timeline</h1>
+        <button
+          onClick={() => setNewestFirst(!newestFirst)}
+          className="flex-shrink-0 mt-1 inline-flex items-center gap-2 rounded-lg border border-gray-700 bg-gray-800/50 px-3 py-1.5 text-sm text-gray-300 transition-all hover:bg-gray-800 hover:border-gray-600 hover:text-white"
+        >
+          {newestFirst ? "↓ Newest first" : "↑ Oldest first"}
+        </button>
+      </div>
       <p className="text-gray-400 mb-4 max-w-2xl">
-        Major AI events from the present back to the field&apos;s origins. Newest first.
+        Major AI events from {newestFirst ? "the present back to the field's origins" : "the field's origins to the present"}.
         Each event links to sources — many link to GitHub issues for active debate.
       </p>
       <p className="text-gray-500 text-sm mb-12">
@@ -101,7 +114,6 @@ export default function TimelinePage() {
           <div className="relative pl-8 border-l-2 border-gray-800">
             {yearEvents.map((event, i) => (
               <div key={`${event.date}-${i}`} className="mb-10 relative timeline-event">
-                {/* Dot on timeline */}
                 <div className="absolute -left-[calc(2rem+5px)] top-1.5 h-3 w-3 rounded-full bg-gradient-to-r from-blue-500 to-purple-500 timeline-dot" />
 
                 <div className="text-xs text-gray-500 mb-1">
@@ -120,7 +132,6 @@ export default function TimelinePage() {
                   {event.description}
                 </p>
 
-                {/* Sources */}
                 {event.sources && event.sources.length > 0 && (
                   <div className="flex flex-wrap gap-3 mt-2">
                     {event.sources.map((source, si) => (
@@ -137,7 +148,6 @@ export default function TimelinePage() {
                   </div>
                 )}
 
-                {/* Issue link */}
                 {event.issueNumber && (
                   <a
                     href={`${REPO}/issues/${event.issueNumber}`}
