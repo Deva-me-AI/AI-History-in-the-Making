@@ -1,0 +1,60 @@
+name: "🔮 New Open Question"
+description: Propose a new open question to track
+title: "[Question] "
+labels: ["questions"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Propose a new open question about AI to track on the site. Good questions are genuinely debated, have evolving evidence, and matter for understanding where AI is heading.
+
+  - type: input
+    id: question
+    attributes:
+      label: The Question
+      description: "A clear, debatable question"
+      placeholder: "Will multimodal models replace specialized ones?"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: status
+    attributes:
+      label: Current Status
+      description: "How resolved does this seem right now?"
+      options:
+        - "🔴 Still Open — genuine uncertainty"
+        - "🟡 Partially Resolved — evidence mounting"
+        - "🟢 Resolved — consensus forming"
+    validations:
+      required: true
+
+  - type: input
+    id: first_debated
+    attributes:
+      label: When was this first seriously debated?
+      placeholder: "2024"
+    validations:
+      required: true
+
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Current Evidence
+      description: "What do we know? Cite specific data points, papers, or events."
+    validations:
+      required: true
+
+  - type: textarea
+    id: analysis
+    attributes:
+      label: Your Analysis
+      description: "What does the evidence mean? This is opinionated by design — but should be defensible."
+    validations:
+      required: true
+
+  - type: textarea
+    id: sources
+    attributes:
+      label: Sources
+      description: "Links supporting your evidence (one per line)"

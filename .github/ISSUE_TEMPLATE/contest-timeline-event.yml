@@ -1,0 +1,49 @@
+name: "⚡ Contest a Timeline Event"
+description: Challenge the accuracy, framing, or significance of an existing timeline event
+title: "[Timeline Contest] "
+labels: ["timeline", "debate"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Think an event is misdated, misframed, or shouldn't be on the timeline? Make your case with evidence.
+
+  - type: input
+    id: event
+    attributes:
+      label: Which event?
+      description: "Title of the timeline event you're contesting"
+      placeholder: "ChatGPT Launches"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: contest_type
+    attributes:
+      label: What's wrong?
+      options:
+        - Date is incorrect
+        - Description is inaccurate
+        - Framing/analysis is misleading
+        - Event isn't significant enough for the timeline
+        - Category is wrong
+        - Sources are unreliable
+        - Missing important context
+    validations:
+      required: true
+
+  - type: textarea
+    id: argument
+    attributes:
+      label: Your argument
+      description: "Explain what's wrong and what it should say instead. Include sources."
+    validations:
+      required: true
+
+  - type: textarea
+    id: sources
+    attributes:
+      label: Supporting sources
+      description: "Links that support your position (one per line)"
+    validations:
+      required: true

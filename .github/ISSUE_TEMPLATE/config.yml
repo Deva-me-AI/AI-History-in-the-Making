@@ -1,0 +1,8 @@
+blank_issues_enabled: true
+contact_links:
+  - name: 🌐 View the site
+    url: https://www.aihistoricunfolding.com
+    about: See the current state of the timeline and open questions
+  - name: 📖 Contributing Guide
+    url: https://github.com/Deva-me-AI/AI-History-in-the-Making/blob/main/CONTRIBUTING.md
+    about: Read the full contributing guide before submitting

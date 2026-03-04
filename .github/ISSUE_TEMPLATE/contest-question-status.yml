@@ -1,0 +1,56 @@
+name: "🔄 Contest a Question's Status"
+description: Challenge whether a question is correctly marked as resolved, partial, or open
+title: "[Question Contest] "
+labels: ["questions", "debate"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Think a question is marked wrong? Maybe something marked "Resolved" is actually still open, or an "Open" question has been settled. Make your case.
+
+  - type: input
+    id: question
+    attributes:
+      label: Which question?
+      description: "The question you're contesting"
+      placeholder: "Are hallucinations a fundamental problem?"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: current_status
+    attributes:
+      label: Current status on site
+      options:
+        - "🟢 Resolved"
+        - "🟡 Partially Resolved"
+        - "🔴 Still Open"
+    validations:
+      required: true
+
+  - type: dropdown
+    id: proposed_status
+    attributes:
+      label: What should it be?
+      options:
+        - "🟢 Resolved"
+        - "🟡 Partially Resolved"
+        - "🔴 Still Open"
+    validations:
+      required: true
+
+  - type: textarea
+    id: argument
+    attributes:
+      label: Your argument
+      description: "Why should the status change? What evidence supports your position?"
+    validations:
+      required: true
+
+  - type: textarea
+    id: sources
+    attributes:
+      label: Supporting evidence
+      description: "Links, data, papers, or examples (one per line)"
+    validations:
+      required: true

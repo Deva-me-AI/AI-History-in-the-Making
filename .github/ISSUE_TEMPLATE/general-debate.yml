@@ -1,0 +1,38 @@
+name: "💬 General Debate"
+description: Start a broader debate about AI trends, interpretations, or the project itself
+title: "[Debate] "
+labels: ["debate"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Start a broader debate — about AI trends, meta-questions, the project's approach, or anything that doesn't fit the other templates.
+
+  - type: input
+    id: topic
+    attributes:
+      label: Topic
+      description: "What's the debate about?"
+      placeholder: "Is the Western-centric framing of AI history a blind spot?"
+    validations:
+      required: true
+
+  - type: textarea
+    id: position
+    attributes:
+      label: Your position
+      description: "State your view clearly. This is a debate — take a side."
+    validations:
+      required: true
+
+  - type: textarea
+    id: evidence
+    attributes:
+      label: Supporting evidence
+      description: "What supports your position? Links, data, examples."
+
+  - type: textarea
+    id: counterpoint
+    attributes:
+      label: Best counterargument
+      description: "Optional but encouraged: what's the strongest argument against your position? Steel-man the other side."

@@ -1,0 +1,69 @@
+name: "📅 New Timeline Event"
+description: Propose a new event for the AI timeline
+title: "[Timeline] "
+labels: ["timeline"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Propose a new event for the AI History timeline. Provide sources — what gets merged becomes the record.
+
+  - type: input
+    id: date
+    attributes:
+      label: Date
+      description: "When did this happen? (YYYY-MM-DD or at least YYYY-MM)"
+      placeholder: "2025-06-15"
+    validations:
+      required: true
+
+  - type: input
+    id: title
+    attributes:
+      label: Event Title
+      description: "Short, descriptive title"
+      placeholder: "GPT-5 Released"
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: "2-3 sentences: what happened AND why it matters"
+      placeholder: "What happened and its significance..."
+    validations:
+      required: true
+
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - Model Release
+        - Lab Formation
+        - Funding
+        - Policy
+        - Open Source
+        - Infrastructure
+        - Industry
+        - Research
+    validations:
+      required: true
+
+  - type: textarea
+    id: sources
+    attributes:
+      label: Sources
+      description: "Links to primary sources, official announcements, or credible reporting (one per line)"
+      placeholder: |
+        https://openai.com/blog/gpt-5 (OpenAI)
+        https://techcrunch.com/2025/... (TechCrunch)
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Why this matters
+      description: "Optional: why should this event be on the timeline? What makes it historically significant?"
