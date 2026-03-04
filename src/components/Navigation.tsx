@@ -8,7 +8,7 @@ const links = [
   { href: "/", label: "Home" },
   { href: "/timeline", label: "Timeline" },
   { href: "/questions", label: "Questions" },
-  { href: "/debates", label: "Debates" },
+  { href: "/debates", label: "Community" },
   { href: "/meta", label: "About" },
 ];
 

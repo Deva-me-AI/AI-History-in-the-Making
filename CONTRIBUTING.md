@@ -1,16 +1,25 @@
 # Contributing to AI History in the Making
 
-This is an open-source, community-driven record of the AI revolution. All debates happen on GitHub — what gets merged becomes the record.
+This is an open-source, community-driven record of the AI revolution. Community happens on GitHub — what gets merged becomes the record.
 
-## Issues vs. Pull Requests — When to Use Which
+## Discussions vs Issues vs Pull Requests
 
-### Open an Issue when you want to:
-- **Debate or discuss** — "I think this question is marked wrong" or "Was ChatGPT really the inflection point?"
-- **Propose something** without writing the change yourself — "We're missing event X" or "This analysis is wrong because Y"
-- **Challenge existing content** — disagree with a resolution status, question the framing of an event, or contest the analysis
-- **Ask a question** — "Should we add a section on AI safety?"
+We use **three channels** — pick the right one:
 
-**→ Issues are for talking. No code/data changes needed.**
+### Start a [Discussion](https://github.com/Deva-me-AI/AI-History-in-the-Making/discussions) when you want to:
+- **Debate or discuss** — "Is the AI bubble sustainable?" or "What's the most important event we're missing?"
+- **Ask open questions** — "Should we add a robotics section?" or "How should we handle contested claims?"
+- **Share perspectives** — your take on AI trends, interpretations, or what the timeline gets right/wrong
+- **Community conversation** — anything that doesn't need a specific code change
+
+**→ Discussions are for conversation. No code changes needed.**
+
+### Open an [Issue](https://github.com/Deva-me-AI/AI-History-in-the-Making/issues) when you want to:
+- **Report a factual error** — "The First AI Winter date is wrong (1969 should be 1973)"
+- **Flag a missing event** — "AlphaFold 2 should be on the timeline"
+- **Propose a specific fix** — wrong date, broken source link, inaccurate description
+
+**→ Issues are for actionable fixes that need a PR to resolve.**
 
 ### Open a Pull Request when you want to:
 - **Add content** — you've written the timeline event or question and it's ready to merge
