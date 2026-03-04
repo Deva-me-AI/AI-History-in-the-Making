@@ -13,7 +13,7 @@
   },
   {
     "date": "1956-08-01",
-    "title": "Dartmouth Workshop \u2014 'Artificial Intelligence' Coined",
+    "title": "Dartmouth Workshop — 'Artificial Intelligence' Coined",
     "description": "John McCarthy, Marvin Minsky, Claude Shannon, and others convene at Dartmouth College. The term 'Artificial Intelligence' is born. The field officially begins with boundless optimism.",
     "category": "Research",
     "sources": [
@@ -25,8 +25,8 @@
   },
   {
     "date": "1966-01-01",
-    "title": "ELIZA \u2014 First Chatbot",
-    "description": "Joseph Weizenbaum creates ELIZA at MIT, simulating a Rogerian psychotherapist. Users form emotional attachments to it despite its simplicity. First demonstration of the 'ELIZA effect' \u2014 humans anthropomorphizing machines.",
+    "title": "ELIZA — First Chatbot",
+    "description": "Joseph Weizenbaum creates ELIZA at MIT, simulating a Rogerian psychotherapist. Users form emotional attachments to it despite its simplicity. First demonstration of the 'ELIZA effect' — humans anthropomorphizing machines.",
     "category": "Research",
     "sources": [
       {
@@ -50,7 +50,7 @@
   {
     "date": "1980-01-01",
     "title": "Expert Systems Boom",
-    "description": "Rule-based expert systems like MYCIN and XCON generate billions in commercial value. AI is hot again. Japan launches the Fifth Generation Computer Project. The second AI boom \u2014 which will also crash.",
+    "description": "Rule-based expert systems like MYCIN and XCON generate billions in commercial value. AI is hot again. Japan launches the Fifth Generation Computer Project. The second AI boom — which will also crash.",
     "category": "Industry",
     "sources": [
       {
@@ -74,7 +74,7 @@
   {
     "date": "1997-05-11",
     "title": "Deep Blue Beats Kasparov",
-    "description": "IBM's Deep Blue defeats world chess champion Garry Kasparov. First time a machine beats a reigning world champion in a full match. Massive cultural moment \u2014 but it's brute force, not intelligence.",
+    "description": "IBM's Deep Blue defeats world chess champion Garry Kasparov. First time a machine beats a reigning world champion in a full match. Massive cultural moment — but it's brute force, not intelligence.",
     "category": "Model Release",
     "sources": [
       {
@@ -90,7 +90,7 @@
   {
     "date": "2011-02-14",
     "title": "IBM Watson Wins Jeopardy!",
-    "description": "Watson defeats champions Ken Jennings and Brad Rutter on Jeopardy! Natural language understanding reaches mainstream awareness. IBM pivots to enterprise AI \u2014 with mixed results.",
+    "description": "Watson defeats champions Ken Jennings and Brad Rutter on Jeopardy! Natural language understanding reaches mainstream awareness. IBM pivots to enterprise AI — with mixed results.",
     "category": "Model Release",
     "sources": [
       {
@@ -101,7 +101,7 @@
   },
   {
     "date": "2012-09-30",
-    "title": "AlexNet Wins ImageNet \u2014 Deep Learning Revolution Begins",
+    "title": "AlexNet Wins ImageNet — Deep Learning Revolution Begins",
     "description": "Alex Krizhevsky's deep neural network crushes the ImageNet competition by a massive margin. The deep learning era begins. GPUs become essential AI hardware. This is the real inflection point for modern AI.",
     "category": "Research",
     "sources": [
@@ -118,7 +118,7 @@
   {
     "date": "2014-06-10",
     "title": "Generative Adversarial Networks (GANs) Published",
-    "description": "Ian Goodfellow introduces GANs \u2014 two neural networks competing to generate increasingly realistic data. Opens the door to AI-generated images, video, and audio. The generative AI seed is planted.",
+    "description": "Ian Goodfellow introduces GANs — two neural networks competing to generate increasingly realistic data. Opens the door to AI-generated images, video, and audio. The generative AI seed is planted.",
     "category": "Research",
     "sources": [
       {
@@ -130,7 +130,7 @@
   {
     "date": "2016-03-15",
     "title": "AlphaGo Defeats Lee Sedol",
-    "description": "DeepMind's AlphaGo beats world Go champion Lee Sedol 4-1. Go was considered decades away from AI mastery. Move 37 in Game 2 \u2014 a move no human would play \u2014 becomes iconic. AI capability timelines compress.",
+    "description": "DeepMind's AlphaGo beats world Go champion Lee Sedol 4-1. Go was considered decades away from AI mastery. Move 37 in Game 2 — a move no human would play — becomes iconic. AI capability timelines compress.",
     "category": "Model Release",
     "sources": [
       {
@@ -145,7 +145,7 @@
   },
   {
     "date": "2017-06-12",
-    "title": "'Attention Is All You Need' \u2014 The Transformer Paper",
+    "title": "'Attention Is All You Need' — The Transformer Paper",
     "description": "Google researchers publish the Transformer architecture. Self-attention replaces recurrence. This single paper enables GPT, BERT, Gemini, Claude, and every modern LLM. Arguably the most consequential ML paper ever written.",
     "category": "Research",
     "sources": [
@@ -161,7 +161,7 @@
   },
   {
     "date": "2018-06-11",
-    "title": "GPT-1 Released \u2014 Language Modeling at Scale",
+    "title": "GPT-1 Released — Language Modeling at Scale",
     "description": "OpenAI releases the first GPT (Generative Pre-trained Transformer). 117M parameters. Modest by later standards, but proves that unsupervised pre-training + fine-tuning works. The GPT lineage begins.",
     "category": "Model Release",
     "sources": [
@@ -173,8 +173,8 @@
   },
   {
     "date": "2019-02-14",
-    "title": "GPT-2 \u2014 'Too Dangerous to Release'",
-    "description": "OpenAI releases GPT-2 (1.5B parameters) but initially withholds the full model, citing concerns about misuse. Generates coherent paragraphs of text. The 'too dangerous to release' framing becomes a meme \u2014 and a prescient debate.",
+    "title": "GPT-2 — 'Too Dangerous to Release'",
+    "description": "OpenAI releases GPT-2 (1.5B parameters) but initially withholds the full model, citing concerns about misuse. Generates coherent paragraphs of text. The 'too dangerous to release' framing becomes a meme — and a prescient debate.",
     "category": "Model Release",
     "sources": [
       {
@@ -185,8 +185,8 @@
   },
   {
     "date": "2020-06-11",
-    "title": "GPT-3 \u2014 The Scaling Leap",
-    "description": "OpenAI releases GPT-3 with 175B parameters \u2014 100x GPT-2. Few-shot learning actually works. Developers build products on the API. The age of 'prompt engineering' begins. First real evidence that scale = capability.",
+    "title": "GPT-3 — The Scaling Leap",
+    "description": "OpenAI releases GPT-3 with 175B parameters — 100x GPT-2. Few-shot learning actually works. Developers build products on the API. The age of 'prompt engineering' begins. First real evidence that scale = capability.",
     "category": "Model Release",
     "sources": [
       {
@@ -201,7 +201,7 @@
   },
   {
     "date": "2021-01-05",
-    "title": "DALL-E \u2014 Text-to-Image Generation",
+    "title": "DALL-E — Text-to-Image Generation",
     "description": "OpenAI reveals DALL-E, generating images from text descriptions. AI creativity enters mainstream discourse. The gap between 'AI can't be creative' and 'AI generates art' closes overnight.",
     "category": "Model Release",
     "sources": [
@@ -225,7 +225,7 @@
   },
   {
     "date": "2022-04-06",
-    "title": "DALL-E 2 \u2014 Photorealistic AI Art",
+    "title": "DALL-E 2 — Photorealistic AI Art",
     "description": "OpenAI releases DALL-E 2 with dramatically improved image quality. Photorealistic generations stun the public. AI art debate explodes. Artists begin worrying about displacement.",
     "category": "Model Release",
     "sources": [
@@ -237,7 +237,7 @@
   },
   {
     "date": "2022-08-22",
-    "title": "Stable Diffusion Released \u2014 Open Source Image Generation",
+    "title": "Stable Diffusion Released — Open Source Image Generation",
     "description": "Stability AI open-sources Stable Diffusion, making high-quality image generation freely available. Triggers explosion of AI art tools and debate about creative AI. Open-source AI becomes a movement.",
     "category": "Open Source",
     "sources": [
@@ -355,7 +355,7 @@
   {
     "date": "2023-05-01",
     "title": "Mistral AI Founded",
-    "description": "Arthur Mensch, Timoth\u00e9e Lacroix, and Guillaume Lample (ex-Meta/DeepMind) found Mistral AI in Paris. Europe's answer to the American AI lab duopoly. Raises \u20ac105M seed \u2014 a European record.",
+    "description": "Arthur Mensch, Timothée Lacroix, and Guillaume Lample (ex-Meta/DeepMind) found Mistral AI in Paris. Europe's answer to the American AI lab duopoly. Raises €105M seed — a European record.",
     "category": "Lab Formation",
     "sources": [
       {
@@ -367,7 +367,7 @@
   {
     "date": "2023-06-20",
     "title": "Inflection AI Raises $1.3B",
-    "description": "Inflection AI (founded by Mustafa Suleyman) raises $1.3B from Microsoft, Nvidia, and others. Peak AI funding mania \u2014 the company would later be effectively absorbed by Microsoft.",
+    "description": "Inflection AI (founded by Mustafa Suleyman) raises $1.3B from Microsoft, Nvidia, and others. Peak AI funding mania — the company would later be effectively absorbed by Microsoft.",
     "category": "Funding",
     "sources": [
       {
@@ -463,7 +463,7 @@
   {
     "date": "2024-03-04",
     "title": "Claude 3 Family Released",
-    "description": "Anthropic launches Claude 3 Opus, Sonnet, and Haiku. Opus matches or beats GPT-4 on most benchmarks. Anthropic's breakout moment \u2014 proves the frontier isn't OpenAI-only.",
+    "description": "Anthropic launches Claude 3 Opus, Sonnet, and Haiku. Opus matches or beats GPT-4 on most benchmarks. Anthropic's breakout moment — proves the frontier isn't OpenAI-only.",
     "category": "Model Release",
     "sources": [
       {
@@ -471,6 +471,23 @@
         "label": "Anthropic"
       }
     ]
+  },
+  {
+    "date": "2024-03-13",
+    "title": "EU AI Act Passed — World's First Comprehensive AI Regulation",
+    "description": "The European Parliament passes the EU AI Act, the most comprehensive AI regulation in the world. Classifies AI systems by risk level, bans certain uses (social scoring, real-time biometric surveillance), and requires transparency for foundation models. Sets the global regulatory template.",
+    "category": "Policy",
+    "sources": [
+      {
+        "url": "https://www.europarl.europa.eu/news/en/press-room/20240308IPR19015/artificial-intelligence-act-meps-adopt-landmark-law",
+        "label": "European Parliament"
+      },
+      {
+        "url": "https://www.reuters.com/technology/stalled-eu-ai-act-clears-high-hurdle-with-key-committee-vote-2024-02-13/",
+        "label": "Reuters"
+      }
+    ],
+    "issueNumber": 42
   },
   {
     "date": "2024-04-18",
@@ -486,7 +503,7 @@
   },
   {
     "date": "2024-05-13",
-    "title": "GPT-4o \u2014 Multimodal Native",
+    "title": "GPT-4o — Multimodal Native",
     "description": "OpenAI releases GPT-4o with native voice, vision, and text in one model. Real-time voice conversation feels like science fiction. Context windows hit 128K standard.",
     "category": "Model Release",
     "sources": [
@@ -498,7 +515,7 @@
   },
   {
     "date": "2024-05-14",
-    "title": "Gemini 1.5 Pro \u2014 1M Context Window",
+    "title": "Gemini 1.5 Pro — 1M Context Window",
     "description": "Google launches Gemini 1.5 Pro with a 1 million token context window. Shatters previous limits by 10x. Raises questions about whether RAG is even necessary anymore.",
     "category": "Model Release",
     "sources": [
@@ -626,6 +643,18 @@
     ]
   },
   {
+    "date": "2025-06-01",
+    "title": "Gemini 3 Pro Released",
+    "description": "Google launches Gemini 3 Pro with expanded context, improved reasoning, and tighter integration with Google's ecosystem. Native image generation and tool use.",
+    "category": "Model Release",
+    "sources": [
+      {
+        "url": "https://blog.google/technology/google-deepmind/gemini-2-5-pro-experiment/",
+        "label": "Google Blog"
+      }
+    ]
+  },
+  {
     "date": "2025-07-01",
     "title": "Grok 3 Released",
     "description": "xAI releases Grok 3 with massive compute scaling. Trained on xAI's Memphis supercluster with 100K H100s. Competitive with frontier models across benchmarks.",
@@ -640,7 +669,7 @@
   {
     "date": "2025-09-01",
     "title": "Agents Go from Minutes to Hours",
-    "description": "AI agents start running autonomously for hours, not just minutes. Still unreliable compared to humans, but 1000x cheaper. The math changes the game \u2014 reliability matters less when cost approaches zero.",
+    "description": "AI agents start running autonomously for hours, not just minutes. Still unreliable compared to humans, but 1000x cheaper. The math changes the game — reliability matters less when cost approaches zero.",
     "category": "Infrastructure",
     "sources": [
       {
@@ -675,7 +704,7 @@
   },
   {
     "date": "2026-01-15",
-    "title": "Grok 4 \u2014 The RLVR Milestone",
+    "title": "Grok 4 — The RLVR Milestone",
     "description": "xAI releases Grok 4. First major model where more than half of training cost was NOT pre-training. Reinforcement learning from verifiable rewards (RLVR) and synthetic data cross a critical threshold.",
     "category": "Model Release",
     "sources": [
@@ -710,21 +739,9 @@
     ]
   },
   {
-    "date": "2025-06-01",
-    "title": "Gemini 3 Pro Released",
-    "description": "Google launches Gemini 3 Pro with expanded context, improved reasoning, and tighter integration with Google's ecosystem. Native image generation and tool use.",
-    "category": "Model Release",
-    "sources": [
-      {
-        "url": "https://blog.google/technology/google-deepmind/gemini-2-5-pro-experiment/",
-        "label": "Google Blog"
-      }
-    ]
-  },
-  {
     "date": "2026-03-01",
     "title": "Vibe Coding Becomes Leisure Activity",
-    "description": "A cultural shift: people start replacing video games and bar time with 'vibe coding' \u2014 building things with AI for fun. Programming as entertainment, not just work. The barrier to creation approaches zero.",
+    "description": "A cultural shift: people start replacing video games and bar time with 'vibe coding' — building things with AI for fun. Programming as entertainment, not just work. The barrier to creation approaches zero.",
     "category": "Industry",
     "sources": [
       {

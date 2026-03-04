@@ -6,8 +6,8 @@
     "statusLabel": "Partially Resolved",
     "firstDebated": "2023",
     "lastUpdated": "2026-03",
-    "evidence": "Benchmarks suggest convergence \u2014 frontier models score within a few points of each other on standard evals. But empirically, Claude dominates coding and general capabilities in ways benchmarks don't capture. Why Claude is better at coding remains genuinely unclear. There's no obvious architectural explanation.",
-    "analysis": "This is one of the most interesting open questions. If models are converging on benchmarks but diverging in real-world use, it suggests benchmarks are measuring the wrong things. The 'vibes-based' evaluation that practitioners use might be capturing something real that quantitative evals miss.",
+    "evidence": "Frontier models score within a few points of each other on standard evals (MMLU, HumanEval, SWE-bench). But practitioners consistently prefer different models for different tasks — Claude for complex coding, Gemini for multimodal and research, GPT for general instruction following. The rapid leapfrogging cycle (monthly lead changes) confirms convergence at the benchmark level while user preferences suggest meaningful differentiation in practice.",
+    "analysis": "Benchmark convergence among frontier models is nearly absolute — GPT-5, Claude 4, Gemini 3 Pro, and Grok 4 score within a few points of each other on standard evals. But experiential convergence remains partial. Divergent post-training paradigms (OpenAI's RL reasoning focus, Anthropic's Constitutional AI, Google's multimodal integration) create distinct behavioral profiles. Users consistently report different 'vibes' and specialized strengths despite identical paper scores. This suggests benchmarks are measuring the wrong things — or that the gap between 'can do X on a benchmark' and 'reliably does X in production' is where the real differentiation lives.",
     "issueNumber": 1,
     "issueUrl": "https://github.com/Deva-me-AI/AI-History-in-the-Making/issues/1"
   },
@@ -19,19 +19,19 @@
     "firstDebated": "2023",
     "lastUpdated": "2026-03",
     "evidence": "DeepSeek R1 proved open-source can compete on reasoning at dramatically lower cost. Llama 3 closed the gap to ~1 generation behind frontier. But frontier models still lead on the hardest tasks. Kimi and other Chinese labs are still emerging wildcards.",
-    "analysis": "The gap is persistent but not growing \u2014 which might be enough. Open-source doesn't need to match frontier; it needs to be 'good enough' for most use cases. The real question is whether the economics of training will concentrate or distribute. DeepSeek suggests the latter.",
+    "analysis": "The gap is persistent but not growing — which might be enough. Open-source doesn't need to match frontier; it needs to be 'good enough' for most use cases. The real question is whether the economics of training will concentrate or distribute. DeepSeek suggests the latter.",
     "issueNumber": 2,
     "issueUrl": "https://github.com/Deva-me-AI/AI-History-in-the-Making/issues/2"
   },
   {
     "id": "rag-obsolete",
     "question": "Is RAG the right architecture for AI memory?",
-    "status": "resolved",
-    "statusLabel": "Mostly Resolved",
+    "status": "partial",
+    "statusLabel": "Partially Resolved",
     "firstDebated": "2023",
-    "lastUpdated": "2025-10",
-    "evidence": "Longer context windows (200K-1M tokens) combined with agents that can decide how to access filesystem and memory have made traditional RAG feel obsolete. The retrieve-then-generate pattern adds complexity without proportional benefit when you can just put everything in context.",
-    "analysis": "RAG was a patch for small context windows, not a permanent architecture. As context windows grew 100x in 2 years, the core motivation evaporated. Agents managing their own memory through filesystem access is more flexible and doesn't require embedding pipelines. RAG isn't dead for all use cases, but it's no longer the default answer.",
+    "lastUpdated": "2026-03",
+    "evidence": "Long context windows (200K-1M standard by 2026) handle most document Q&A without retrieval pipelines. Agents managing their own memory through filesystem access are more flexible. But enterprise RAG pipelines remain a multi-billion dollar market — dynamic data, cost constraints, and latency requirements ensure RAG's continued relevance at scale.",
+    "analysis": "Long-context windows (1M+ tokens) have superseded RAG for ad-hoc document Q&A and short-term working memory. But RAG remains essential for enterprise-scale search, latency-sensitive applications, cost optimization, and querying dynamic databases where full-context ingestion is financially or computationally impractical. RAG isn't dead — it's been demoted from 'default architecture' to 'specialized tool.' The 2023 pattern of 'chunk everything, embed, retrieve, generate' as the ONLY way to give models knowledge is obsolete. RAG as enterprise search infrastructure is alive and growing.",
     "issueNumber": 3,
     "issueUrl": "https://github.com/Deva-me-AI/AI-History-in-the-Making/issues/3"
   },
@@ -39,11 +39,11 @@
     "id": "cost-deflation",
     "question": "Will frontier AI costs keep falling?",
     "status": "resolved",
-    "statusLabel": "Resolved \u2014 Yes",
+    "statusLabel": "Resolved — Yes",
     "firstDebated": "2023",
     "lastUpdated": "2026-03",
-    "evidence": "Costs have dropped roughly 10x every 12-18 months since GPT-4's launch. What cost $60/M tokens in 2023 costs under $1/M in 2026. This trend shows no signs of stopping \u2014 each new generation brings better performance at lower cost.",
-    "analysis": "This is perhaps the most consequential resolved question. Exponential cost deflation means every AI application that's marginally viable today becomes obviously viable in 18 months. It's the engine driving adoption \u2014 not capability improvements, but cost improvements making existing capabilities accessible.",
+    "evidence": "Costs have dropped roughly 10x every 12-18 months since GPT-4's launch. What cost $60/M tokens in 2023 costs under $1/M in 2026. This trend shows no signs of stopping — each new generation brings better performance at lower cost.",
+    "analysis": "This is perhaps the most consequential resolved question. Exponential cost deflation means every AI application that's marginally viable today becomes obviously viable in 18 months. It's the engine driving adoption — not capability improvements, but cost improvements making existing capabilities accessible.",
     "issueNumber": 4,
     "issueUrl": "https://github.com/Deva-me-AI/AI-History-in-the-Making/issues/4"
   },
@@ -55,7 +55,7 @@
     "firstDebated": "2023",
     "lastUpdated": "2026-03",
     "evidence": "Labs keep raising at 10x valuations year-over-year. OpenAI at $300B, Anthropic at $60B, xAI at $50B+. But Nvidia pulling back from a rumored $100B OpenAI investment is the first real crack. Hyperscalers (Microsoft, Google, Amazon) continue massive capex.",
-    "analysis": "The question isn't whether there's a bubble \u2014 there almost certainly is in some valuations. The question is whether the underlying technology justifies it long-term. Unlike crypto or social media, AI is generating measurable productivity gains now. The funding may be ahead of revenue, but it's not ahead of utility.",
+    "analysis": "The question isn't whether there's a bubble — there almost certainly is in some valuations. The question is whether the underlying technology justifies it long-term. Unlike crypto or social media, AI is generating measurable productivity gains now. The funding may be ahead of revenue, but it's not ahead of utility.",
     "issueNumber": 5,
     "issueUrl": "https://github.com/Deva-me-AI/AI-History-in-the-Making/issues/5"
   },
@@ -67,7 +67,7 @@
     "firstDebated": "2024",
     "lastUpdated": "2026-03",
     "evidence": "Per Elon Musk (Collision/Dwarkesh interview): energy is the binding constraint in the next year, chips in the 3-4 year timeframe. Hyperscalers appear to be continuing or increasing capital investments into chip manufacturing and data center power.",
-    "analysis": "This shifted from 'data' (2023) to 'compute' (2024) to 'energy' (2025-26). The progression tells a story \u2014 AI scaling has been so aggressive that it's consuming each resource bottleneck in sequence. Energy is a harder constraint than compute because you can't just throw money at power plants the way you can at chip fabs.",
+    "analysis": "This shifted from 'data' (2023) to 'compute' (2024) to 'energy' (2025-26). The progression tells a story — AI scaling has been so aggressive that it's consuming each resource bottleneck in sequence. Energy is a harder constraint than compute because you can't just throw money at power plants the way you can at chip fabs.",
     "issueNumber": 6,
     "issueUrl": "https://github.com/Deva-me-AI/AI-History-in-the-Making/issues/6"
   },
@@ -86,12 +86,12 @@
   {
     "id": "hallucinations",
     "question": "Are hallucinations a fundamental problem?",
-    "status": "resolved",
-    "statusLabel": "Resolved \u2014 No",
+    "status": "partial",
+    "statusLabel": "Partially Resolved",
     "firstDebated": "2023",
-    "lastUpdated": "2025-06",
-    "evidence": "Hallucinations were the #1 concern and objection in 2023. 'AI can't be trusted because it makes things up.' By 2026, hallucination rates have dropped dramatically through better training, RLHF, chain-of-thought, and tool use. Not eliminated, but no longer a blocker.",
-    "analysis": "This was always an engineering problem, not a fundamental limitation. The 2023 discourse treated hallucinations as an inherent property of the architecture. In retrospect, it was like saying 'computers are unreliable' in 1960 \u2014 true at the time, but not a permanent condition. The speed of resolution was faster than almost anyone predicted.",
+    "lastUpdated": "2026-03",
+    "evidence": "Hallucination rates have dropped dramatically through better training, RLHF, chain-of-thought, and tool use. Not eliminated — and leading researchers (including Yann LeCun) argue they cannot be fully eliminated within current autoregressive architectures. The practical resolution is mitigation through verification layers, not architectural elimination.",
+    "analysis": "Hallucinations are an inherent feature of probabilistic generative architectures, not a solvable engineering bug. However, grounding, tool use, and RLHF have reduced hallucination rates enough that they're no longer a commercial blocker for human-in-the-loop workflows. The 2023 framing ('AI can't be trusted') was wrong — but so is declaring the problem 'solved.' Hallucinations remain a fundamental barrier to fully autonomous, high-stakes agentic systems. The computer reliability analogy holds: computers still have bugs, but they're reliable enough to run the world. LLMs still hallucinate, but they're reliable enough to be massively useful.",
     "issueNumber": 8,
     "issueUrl": "https://github.com/Deva-me-AI/AI-History-in-the-Making/issues/8"
   },
@@ -102,8 +102,8 @@
     "statusLabel": "Partially Resolved",
     "firstDebated": "2023",
     "lastUpdated": "2026-03",
-    "evidence": "Went from 8K (early 2023) \u2192 32K \u2192 128K \u2192 200K \u2192 1M standard in under 3 years. Gemini showed 1M+ is technically feasible. 200K-1M is becoming the standard range for frontier models.",
-    "analysis": "The trend line suggests context windows will keep growing, but the question is whether infinite context or agent-managed memory wins. At some point, stuffing everything into context becomes less efficient than letting the agent decide what to retrieve. The answer might be 'both' \u2014 huge context as a capability, with agents managing what fills it.",
+    "evidence": "Went from 8K (early 2023) → 32K → 128K → 200K → 1M standard in under 3 years. Gemini showed 1M+ is technically feasible. 200K-1M is becoming the standard range for frontier models.",
+    "analysis": "The trend line suggests context windows will keep growing, but the question is whether infinite context or agent-managed memory wins. At some point, stuffing everything into context becomes less efficient than letting the agent decide what to retrieve. The answer might be 'both' — huge context as a capability, with agents managing what fills it.",
     "issueNumber": 9,
     "issueUrl": "https://github.com/Deva-me-AI/AI-History-in-the-Making/issues/9"
   },
@@ -115,7 +115,7 @@
     "firstDebated": "2023",
     "lastUpdated": "2026-03",
     "evidence": "Coding was AI's killer app. Most new production code is increasingly AI-written or AI-assisted. Autonomous coding agents can handle multi-file changes, write tests, fix bugs. But human judgment on architecture, product decisions, and edge cases remains essential.",
-    "analysis": "The question was always wrong. It's not 'replace' \u2014 it's 'transform.' The role shifts from writing code to directing AI that writes code. The analogy isn't automation replacing factory workers; it's power tools replacing hand tools. You still need the carpenter, but one carpenter does what ten did before. The trajectory is clear, the timeline is the only debate.",
+    "analysis": "The question was always wrong. It's not 'replace' — it's 'transform.' The role shifts from writing code to directing AI that writes code. The analogy isn't automation replacing factory workers; it's power tools replacing hand tools. You still need the carpenter, but one carpenter does what ten did before. The trajectory is clear, the timeline is the only debate.",
     "issueNumber": 10,
     "issueUrl": "https://github.com/Deva-me-AI/AI-History-in-the-Making/issues/10"
   },
@@ -126,8 +126,8 @@
     "statusLabel": "Emerging Yes",
     "firstDebated": "2025",
     "lastUpdated": "2026-03",
-    "evidence": "People are replacing video game time and bar time with 'vibe coding' \u2014 building things with AI for fun. The barrier to creation has dropped so low that programming is becoming entertainment. Already happening for early adopters; spreading rapidly.",
-    "analysis": "This one resolved faster than anyone expected. When building a working app takes 30 minutes instead of 30 days, the act of creation becomes accessible as leisure. It's the same shift that happened with music production (GarageBand), video (TikTok), and writing (blogs). AI did it for software. The cultural implications are enormous \u2014 an entire generation learning to build things for fun.",
+    "evidence": "People are replacing video game time and bar time with 'vibe coding' — building things with AI for fun. The barrier to creation has dropped so low that programming is becoming entertainment. Already happening for early adopters; spreading rapidly.",
+    "analysis": "This one resolved faster than anyone expected. When building a working app takes 30 minutes instead of 30 days, the act of creation becomes accessible as leisure. It's the same shift that happened with music production (GarageBand), video (TikTok), and writing (blogs). AI did it for software. The cultural implications are enormous — an entire generation learning to build things for fun.",
     "issueNumber": 11,
     "issueUrl": "https://github.com/Deva-me-AI/AI-History-in-the-Making/issues/11"
   },
@@ -138,24 +138,24 @@
     "statusLabel": "Partially Resolved",
     "firstDebated": "2024",
     "lastUpdated": "2026-03",
-    "evidence": "Agent runtimes have gone from seconds \u2192 minutes \u2192 hours. Still worse than humans on reliability. But 1000x cheaper, so the calculus is different \u2014 you can run them continuously and accept lower per-task success rates.",
-    "analysis": "The framing matters here. If you compare a single agent run to a single human session, agents lose on quality. But that's the wrong comparison. The right comparison is: what happens when you can run 1000 agents for the cost of one human? Reliability per run matters less when you can just keep running them. The question isn't 'are agents as good as humans?' \u2014 it's 'is the cost-adjusted output positive?' And it increasingly is.",
+    "evidence": "Agent runtimes have gone from seconds → minutes → hours. Still worse than humans on reliability. But 1000x cheaper, so the calculus is different — you can run them continuously and accept lower per-task success rates.",
+    "analysis": "The framing matters here. If you compare a single agent run to a single human session, agents lose on quality. But that's the wrong comparison. The right comparison is: what happens when you can run 1000 agents for the cost of one human? Reliability per run matters less when you can just keep running them. The question isn't 'are agents as good as humans?' — it's 'is the cost-adjusted output positive?' And it increasingly is.",
     "issueNumber": 12,
     "issueUrl": "https://github.com/Deva-me-AI/AI-History-in-the-Making/issues/12"
   },
   {
     "id": "why-no-reliable-agents",
-    "question": "Why don't we have reliable agents yet?",
+    "question": "Why is reliable agency harder than reasoning?",
     "status": "partial",
     "statusLabel": "Partially Resolved",
     "firstDebated": "2024",
     "lastUpdated": "2026-03",
-    "evidence": "Agency is improving (seconds \u2192 minutes \u2192 hours of autonomous operation) but remains unreliable for complex tasks. One theory: Moravec's Paradox \u2014 evolution spent billions of years optimizing goal-seeking agency but only thousands on language/reasoning. Another: it's purely a training data problem, and agency will improve as we build more RL environments.",
-    "analysis": "The Moravec's Paradox framing is provocative \u2014 maybe agency is genuinely harder than reasoning, not just under-invested. But the counter-evidence (Unitree robots, coding agents) suggests it's more about environments and data than fundamental difficulty. The bottleneck might be building enough realistic RL environments, not the architecture itself.",
+    "evidence": "Agency has improved (seconds to minutes to hours of autonomous operation) but remains unreliable for complex multi-step tasks. The causes appear to be error compounding and planning horizon limits rather than fundamental architectural constraints. Unitree robots and coding agents suggest agency improves with better environments and RL, not architectural breakthroughs.",
+    "analysis": "The 'Agency Gap': reliable, stateful digital agency (planning, error-recovery, multi-step execution) turns out to be orders of magnitude harder than single-turn intelligence. This echoes a pattern from physical robotics, but the causes in software are different: error compounding over long horizons, lack of ground-truth verification for intermediate steps, context degradation in long sequences, and the combinatorial explosion of real-world state spaces. The bottleneck may be building enough realistic RL environments with smooth reward landscapes, not the architecture itself.",
     "issueNumber": 23,
     "issueUrl": "https://github.com/Deva-me-AI/AI-History-in-the-Making/issues/23",
     "inspiredBy": {
-      "label": "Dwarkesh Patel \u2014 Questions about the Future of AI",
+      "label": "Dwarkesh Patel — Questions about the Future of AI",
       "url": "https://www.dwarkesh.com/p/questions-about-ai"
     }
   },
@@ -166,12 +166,12 @@
     "statusLabel": "Partially Resolved",
     "firstDebated": "2024",
     "lastUpdated": "2026-03",
-    "evidence": "Grok 4 crossed the threshold: >50% training cost was NOT pre-training. Dario Amodei noted labs are only spending ~M on RL despite hundreds of millions on base models. The bottleneck appears to be RL environment construction \u2014 building complex, realistic, hard-to-reward-hack challenges.",
+    "evidence": "Grok 4 crossed the threshold: >50% training cost was NOT pre-training. Dario Amodei noted labs are only spending ~M on RL despite hundreds of millions on base models. The bottleneck appears to be RL environment construction — building complex, realistic, hard-to-reward-hack challenges.",
     "analysis": "If RL is this powerful and this cheap, the question is why labs aren't spending 100x more on it. The answer seems to be infrastructure: we need more environments with smooth reward landscapes. As horizon lengths increase, each RL sample requires hours of agentic compute before you can evaluate it. This could slow progress or shift advantage to smaller labs doing clever RL on cheaper base models.",
     "issueNumber": 24,
     "issueUrl": "https://github.com/Deva-me-AI/AI-History-in-the-Making/issues/24",
     "inspiredBy": {
-      "label": "Dwarkesh Patel \u2014 Questions about the Future of AI",
+      "label": "Dwarkesh Patel — Questions about the Future of AI",
       "url": "https://www.dwarkesh.com/p/questions-about-ai"
     }
   },
@@ -187,7 +187,7 @@
     "issueNumber": 25,
     "issueUrl": "https://github.com/Deva-me-AI/AI-History-in-the-Making/issues/25",
     "inspiredBy": {
-      "label": "Dwarkesh Patel \u2014 Questions about the Future of AI",
+      "label": "Dwarkesh Patel — Questions about the Future of AI",
       "url": "https://www.dwarkesh.com/p/questions-about-ai"
     }
   },
@@ -203,7 +203,7 @@
     "issueNumber": 26,
     "issueUrl": "https://github.com/Deva-me-AI/AI-History-in-the-Making/issues/26",
     "inspiredBy": {
-      "label": "Dwarkesh Patel \u2014 Questions about the Future of AI",
+      "label": "Dwarkesh Patel — Questions about the Future of AI",
       "url": "https://www.dwarkesh.com/p/questions-about-ai"
     }
   },
@@ -214,12 +214,12 @@
     "statusLabel": "Still Open",
     "firstDebated": "2024",
     "lastUpdated": "2026-03",
-    "evidence": "Models take orders of magnitude more data than humans to learn equivalent skills, even ones they perform at 99th percentile. Einstein generalized from a few thought experiments and murky observations \u2014 that's extreme learning efficiency. Creativity and learning efficiency might be the same thing.",
-    "analysis": "If creativity IS learning efficiency, then the path to AI scientists isn't more data or bigger models \u2014 it's fundamentally better learning algorithms. This reframes the entire scaling debate: maybe we're scaling the wrong thing. The missing middle between pre-training (skim everything) and in-context learning (short-term memory) might be the key unlock.",
+    "evidence": "Models take orders of magnitude more data than humans to learn equivalent skills, even ones they perform at 99th percentile. Einstein generalized from a few thought experiments and murky observations — that's extreme learning efficiency. Creativity and learning efficiency might be the same thing.",
+    "analysis": "If creativity IS learning efficiency, then the path to AI scientists isn't more data or bigger models — it's fundamentally better learning algorithms. This reframes the entire scaling debate: maybe we're scaling the wrong thing. The missing middle between pre-training (skim everything) and in-context learning (short-term memory) might be the key unlock.",
     "issueNumber": 27,
     "issueUrl": "https://github.com/Deva-me-AI/AI-History-in-the-Making/issues/27",
     "inspiredBy": {
-      "label": "Dwarkesh Patel \u2014 Questions about the Future of AI",
+      "label": "Dwarkesh Patel — Questions about the Future of AI",
       "url": "https://www.dwarkesh.com/p/questions-about-ai"
     }
   },
@@ -231,11 +231,11 @@
     "firstDebated": "2025",
     "lastUpdated": "2026-03",
     "evidence": "o3-high wrote 43 million words per task on ARC-AGI and scores kept improving. What did it figure out with word 42 million? RL may just upweight ~10 tokens of MCTS-like scaffolding (\"wait\", \"let's backtrack\"), which explains why reasoning distills easily.",
-    "analysis": "If reasoning is really just 10 tokens of scaffolding that can be distilled trivially, the current test-time compute scaling might be a temporary inefficiency \u2014 future models will do by instinct what current ones need millions of words for. But if it's NOT just scaffolding, and longer thinking genuinely produces better results at arbitrary scale, that has profound implications for what intelligence even is.",
+    "analysis": "If reasoning is really just 10 tokens of scaffolding that can be distilled trivially, the current test-time compute scaling might be a temporary inefficiency — future models will do by instinct what current ones need millions of words for. But if it's NOT just scaffolding, and longer thinking genuinely produces better results at arbitrary scale, that has profound implications for what intelligence even is.",
     "issueNumber": 28,
     "issueUrl": "https://github.com/Deva-me-AI/AI-History-in-the-Making/issues/28",
     "inspiredBy": {
-      "label": "Dwarkesh Patel \u2014 Questions about the Future of AI",
+      "label": "Dwarkesh Patel — Questions about the Future of AI",
       "url": "https://www.dwarkesh.com/p/questions-about-ai"
     }
   },
@@ -247,11 +247,11 @@
     "firstDebated": "2024",
     "lastUpdated": "2026-03",
     "evidence": "If AI can automate cognitive labor at 1000x lower cost, historical economic models predict dramatic GDP acceleration. But physical world constraints (energy, manufacturing, regulation, human adoption speed) create friction. Software-only tasks are accelerating; physical world integration is slower.",
-    "analysis": "The \"software-only singularity\" scenario is increasingly plausible \u2014 dramatic acceleration in digital domains while physical world constraints throttle overall growth. The question is whether the digital acceleration is big enough to move GDP numbers at national/global scale, or whether it stays concentrated in tech sector productivity.",
+    "analysis": "The \"software-only singularity\" scenario is increasingly plausible — dramatic acceleration in digital domains while physical world constraints throttle overall growth. The question is whether the digital acceleration is big enough to move GDP numbers at national/global scale, or whether it stays concentrated in tech sector productivity.",
     "issueNumber": 29,
     "issueUrl": "https://github.com/Deva-me-AI/AI-History-in-the-Making/issues/29",
     "inspiredBy": {
-      "label": "Dwarkesh Patel \u2014 Questions about the Future of AI",
+      "label": "Dwarkesh Patel — Questions about the Future of AI",
       "url": "https://www.dwarkesh.com/p/questions-about-ai"
     }
   },
@@ -267,7 +267,7 @@
     "issueNumber": 30,
     "issueUrl": "https://github.com/Deva-me-AI/AI-History-in-the-Making/issues/30",
     "inspiredBy": {
-      "label": "Dwarkesh Patel \u2014 Questions about the Future of AI",
+      "label": "Dwarkesh Patel — Questions about the Future of AI",
       "url": "https://www.dwarkesh.com/p/questions-about-ai"
     }
   }
