@@ -579,6 +579,23 @@
     ]
   },
   {
+    "date": "2024-03-13",
+    "title": "EU AI Act Passed — World's First Comprehensive AI Regulation",
+    "description": "The European Parliament passes the EU AI Act, the most comprehensive AI regulation in the world. Classifies AI systems by risk level, bans certain uses (social scoring, real-time biometric surveillance), and requires transparency for foundation models. Sets the global regulatory template.",
+    "category": "Policy",
+    "sources": [
+      {
+        "url": "https://www.europarl.europa.eu/news/en/press-room/20240308IPR19015/artificial-intelligence-act-meps-adopt-landmark-law",
+        "label": "European Parliament"
+      },
+      {
+        "url": "https://www.reuters.com/technology/stalled-eu-ai-act-clears-high-hurdle-with-key-committee-vote-2024-02-13/",
+        "label": "Reuters"
+      }
+    ],
+    "issueNumber": 42
+  },
+  {
     "date": "2024-04-18",
     "title": "Llama 3 Released",
     "description": "Meta releases Llama 3 (8B and 70B), setting new open-source benchmarks. The 70B model rivals GPT-3.5. Open source is no longer a generation behind.",
