@@ -8,7 +8,10 @@ Documenting the fastest technological revolution in human history — milestones
 
 All content lives in simple JSON files. Anyone can contribute — add events, update question resolutions, challenge the analysis, or propose entirely new questions.
 
-**All debates happen on GitHub.** What gets merged becomes the record.
+**Community happens on GitHub:**
+- **[Discussions](https://github.com/Deva-me-AI/AI-History-in-the-Making/discussions)** — Open debates, questions, and community conversation about AI history
+- **[Issues](https://github.com/Deva-me-AI/AI-History-in-the-Making/issues)** — Actionable fixes: wrong dates, missing events, factual errors
+- **What gets merged becomes the record.**
 
 ## Contributing
 
@@ -48,21 +51,21 @@ Edit `data/questions.json` and add:
 
 Status values: `resolved`, `partial`, `open`
 
-### Contesting / Debating Content
+### Debating & Discussing
 
-**Disagree with a resolution? Think an event is wrong or missing? Want to challenge the analysis?**
+**Want to debate AI history or challenge the analysis?**
 
-1. **[Open an Issue](https://github.com/Deva-me-AI/AI-History-in-the-Making/issues/new)** — describe what you think is wrong and provide evidence
-2. The community debates in the issue thread
-3. If there's consensus, someone opens a PR with the fix
-4. What gets merged = the record
+→ **[Start a Discussion](https://github.com/Deva-me-AI/AI-History-in-the-Making/discussions/new)** for open-ended debates, questions, and conversation
 
-Use labels to categorize your issue:
-- `timeline` — contesting or adding timeline events
-- `questions` — contesting question status, evidence, or analysis
-- `debate` — broader debates about AI trends or interpretations
+→ **[Open an Issue](https://github.com/Deva-me-AI/AI-History-in-the-Making/issues/new)** for actionable fixes (wrong dates, missing events, factual errors)
 
-**Active debates show up on the [Debates page](https://www.aihistoricunfolding.com/debates) of the site**, linking directly to GitHub issues so everyone can follow and participate.
+**When to use Discussions vs Issues:**
+- **Discussions** — "Is the AI bubble real?", "Should we add robotics events?", "What's the most important event we're missing?" — open questions with no single right answer
+- **Issues** — "The First AI Winter date is wrong (1969 should be 1973)", "Missing event: AlphaFold 2" — specific errors that need a data change
+
+When a Discussion reaches consensus on something actionable, it gets converted to an Issue → PR → merged.
+
+**Active debates show up on the [Community page](https://www.aihistoricunfolding.com/debates) of the site**, linking to both GitHub Discussions and Issues.
 
 ### What Gets Merged
 

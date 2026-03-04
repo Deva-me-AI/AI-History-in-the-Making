@@ -15,6 +15,14 @@ export default function ContributeCard({ context }: { context?: string }) {
           </p>
           <div className="flex flex-wrap gap-2">
             <a
+              href={`${REPO}/discussions`}
+              className="btn-secondary inline-flex items-center gap-1.5 rounded-lg px-3.5 py-1.5 text-xs font-medium text-gray-300"
+              target="_blank"
+              rel="noopener noreferrer"
+            >
+              💬 Join Discussion
+            </a>
+            <a
               href={`${REPO}/issues/new/choose`}
               className="btn-secondary inline-flex items-center gap-1.5 rounded-lg px-3.5 py-1.5 text-xs font-medium text-gray-300"
               target="_blank"
