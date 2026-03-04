@@ -14,9 +14,27 @@ body {
   color: var(--color-foreground);
 }
 
+/* Subtle background grid pattern */
+body::before {
+  content: "";
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  background-image: radial-gradient(circle at 1px 1px, rgba(255,255,255,0.03) 1px, transparent 0);
+  background-size: 40px 40px;
+}
+
 /* Timeline connector line */
 .timeline-line {
   background: linear-gradient(180deg, #3b82f6 0%, #8b5cf6 50%, #ec4899 100%);
+}
+
+/* Timeline event cards */
+.timeline-event {
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+.timeline-event:hover {
+  transform: translateX(4px);
 }
 
 /* Status badge colors */
@@ -46,4 +64,74 @@ body {
   font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 0.05em;
+}
+
+/* Question cards */
+.question-card {
+  transition: border-color 0.2s ease, box-shadow 0.2s ease;
+}
+.question-card:hover {
+  border-color: rgba(139, 92, 246, 0.3);
+  box-shadow: 0 0 30px rgba(139, 92, 246, 0.05);
+}
+
+/* Gradient text helper */
+.gradient-text {
+  background: linear-gradient(135deg, #60a5fa, #a78bfa, #f472b6);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+/* Glow effect on hero */
+.hero-glow {
+  position: relative;
+}
+.hero-glow::after {
+  content: "";
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 600px;
+  height: 300px;
+  background: radial-gradient(ellipse, rgba(139,92,246,0.12) 0%, transparent 70%);
+  z-index: -1;
+  pointer-events: none;
+}
+
+/* Smooth link underlines */
+a.link-underline {
+  text-decoration: none;
+  background-image: linear-gradient(currentColor, currentColor);
+  background-size: 0% 1px;
+  background-position: left bottom;
+  background-repeat: no-repeat;
+  transition: background-size 0.3s ease;
+}
+a.link-underline:hover {
+  background-size: 100% 1px;
+}
+
+/* Year headers sticky glow */
+.year-header {
+  text-shadow: 0 0 40px rgba(139, 92, 246, 0.3);
+}
+
+/* Pulse dot on timeline */
+@keyframes pulse-dot {
+  0%, 100% { box-shadow: 0 0 0 0 rgba(139, 92, 246, 0.4); }
+  50% { box-shadow: 0 0 0 6px rgba(139, 92, 246, 0); }
+}
+.timeline-dot {
+  animation: pulse-dot 3s ease-in-out infinite;
+}
+
+/* Card hover lift */
+.card-hover {
+  transition: transform 0.2s ease, border-color 0.2s ease, box-shadow 0.2s ease;
+}
+.card-hover:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 8px 30px rgba(0, 0, 0, 0.3);
 }

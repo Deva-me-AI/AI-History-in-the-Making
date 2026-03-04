@@ -86,14 +86,14 @@ export default function TimelinePage() {
 
       {Object.entries(years).map(([year, yearEvents]) => (
         <div key={year} className="mb-16">
-          <h2 className="text-2xl font-bold mb-8 text-gray-300 sticky top-24 bg-gray-950/90 backdrop-blur-sm py-2 z-10">
+          <h2 className="text-2xl font-bold mb-8 text-gray-300 sticky top-24 bg-gray-950/90 backdrop-blur-sm py-2 z-10 year-header">
             {year}
           </h2>
           <div className="relative pl-8 border-l-2 border-gray-800">
             {yearEvents.map((event, i) => (
-              <div key={`${event.date}-${i}`} className="mb-10 relative">
+              <div key={`${event.date}-${i}`} className="mb-10 relative timeline-event">
                 {/* Dot on timeline */}
-                <div className="absolute -left-[calc(2rem+5px)] top-1.5 h-3 w-3 rounded-full bg-gradient-to-r from-blue-500 to-purple-500" />
+                <div className="absolute -left-[calc(2rem+5px)] top-1.5 h-3 w-3 rounded-full bg-gradient-to-r from-blue-500 to-purple-500 timeline-dot" />
 
                 <div className="text-xs text-gray-500 mb-1">
                   {formatDate(event.date)}

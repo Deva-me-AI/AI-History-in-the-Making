@@ -93,7 +93,7 @@ export default function QuestionsPage() {
             {section.items.map((q) => (
               <div
                 key={q.id}
-                className="rounded-xl border border-gray-800 bg-gray-900/50 p-6"
+                className="rounded-xl border border-gray-800 bg-gray-900/50 p-6 question-card"
               >
                 <div className="flex items-start justify-between gap-4 mb-4">
                   <h3 className="text-lg font-semibold">
