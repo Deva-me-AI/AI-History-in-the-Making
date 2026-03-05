@@ -449,8 +449,8 @@
     "category": "Lab Formation",
     "sources": [
       {
-        "url": "https://techcrunch.com/2023/06/13/frances-mistral-ai-raises-a-113m-seed-round-to-take-on-openai/",
-        "label": "TechCrunch"
+        "url": "https://en.wikipedia.org/wiki/Mistral_AI",
+        "label": "Wikipedia"
       }
     ]
   },
@@ -461,8 +461,8 @@
     "category": "Funding",
     "sources": [
       {
-        "url": "https://techcrunch.com/2023/06/29/inflection-ai-lands-1-3b-funding/",
-        "label": "TechCrunch"
+        "url": "https://en.wikipedia.org/wiki/Inflection_AI",
+        "label": "Wikipedia"
       }
     ]
   },
@@ -489,8 +489,8 @@
     "category": "Policy",
     "sources": [
       {
-        "url": "https://www.whitehouse.gov/briefing-room/presidential-actions/2023/10/30/executive-order-on-the-safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence/",
-        "label": "White House"
+        "url": "https://www.federalregister.gov/documents/2023/11/01/2023-24283/safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence",
+        "label": "Federal Register"
       }
     ]
   },
@@ -505,7 +505,7 @@
         "label": "UK Government"
       },
       {
-        "url": "https://www.bbc.com/news/technology-67302048",
+        "url": "https://www.bbc.com/news/uk-67302048",
         "label": "BBC"
       }
     ]
@@ -559,10 +559,6 @@
       {
         "url": "https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/",
         "label": "Google Blog"
-      },
-      {
-        "url": "https://www.theverge.com/2024/2/15/24074225/google-gemini-1-5-ai-model-llm",
-        "label": "The Verge"
       }
     ]
   },
@@ -638,8 +634,8 @@
     "category": "Industry",
     "sources": [
       {
-        "url": "https://github.blog/news-insights/product-news/github-copilot-chat-now-generally-available/",
-        "label": "GitHub Blog"
+        "url": "https://docs.github.com/en/copilot/about-github-copilot",
+        "label": "GitHub Docs"
       }
     ]
   },
@@ -650,8 +646,8 @@
     "category": "Infrastructure",
     "sources": [
       {
-        "url": "https://www.theverge.com/2024/2/15/24074225/google-gemini-1-5-ai-model-llm",
-        "label": "The Verge"
+        "url": "https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/",
+        "label": "Google Blog"
       }
     ]
   },
@@ -691,8 +687,8 @@
     "category": "Funding",
     "sources": [
       {
-        "url": "https://techcrunch.com/2025/01/08/anthropic-is-raising-2b-at-a-60b-valuation/",
-        "label": "TechCrunch"
+        "url": "https://www.wsj.com/tech/ai/anthropic-closes-2-billion-fundraising-at-60-billion-valuation-1cd73cf4",
+        "label": "Wall Street Journal"
       }
     ]
   },
@@ -727,7 +723,7 @@
     "category": "Model Release",
     "sources": [
       {
-        "url": "https://blog.google/technology/google-deepmind/gemini-2-5-pro-experiment/",
+        "url": "https://blog.google/technology/google-deepmind/gemini-model-updates-february-2025/",
         "label": "Google Blog"
       }
     ]
@@ -751,7 +747,7 @@
     "category": "Infrastructure",
     "sources": [
       {
-        "url": "https://www.sequoiacap.com/article/agentic-era/",
+        "url": "https://www.sequoiacap.com/article/generative-ai-act-two",
         "label": "Sequoia Capital"
       }
     ]
@@ -763,7 +759,7 @@
     "category": "Infrastructure",
     "sources": [
       {
-        "url": "https://simonwillison.net/2024/Jun/17/long-context-not-rag/",
+        "url": "https://simonwillison.net/tags/rag/",
         "label": "Simon Willison"
       }
     ]
@@ -835,7 +831,7 @@
     "category": "Infrastructure",
     "sources": [
       {
-        "url": "https://www.dwarkesh.com/p/elon-musk-3",
+        "url": "https://www.dwarkesh.com/p/elon-musk",
         "label": "Dwarkesh Podcast"
       }
     ]
