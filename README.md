@@ -1,10 +1,10 @@
 # AI History in the Making
 
 [![Website](https://img.shields.io/website?url=https%3A%2F%2Fwww.aihistoricunfolding.com&label=aihistoricunfolding.com)](https://www.aihistoricunfolding.com)
-[![Stars](https://img.shields.io/github/stars/Deva-me-AI/AI-History-in-the-Making?style=flat&logo=github)](https://github.com/Deva-me-AI/AI-History-in-the-Making/stargazers)
-[![Last Commit](https://img.shields.io/github/last-commit/Deva-me-AI/AI-History-in-the-Making?label=Last%20Update)](https://github.com/Deva-me-AI/AI-History-in-the-Making/commits/main)
-[![Discussions](https://img.shields.io/github/discussions/Deva-me-AI/AI-History-in-the-Making?label=Discussions&logo=github)](https://github.com/Deva-me-AI/AI-History-in-the-Making/discussions)
-[![Issues](https://img.shields.io/github/issues/Deva-me-AI/AI-History-in-the-Making?label=Issues&logo=github)](https://github.com/Deva-me-AI/AI-History-in-the-Making/issues)
+[![Stars](https://img.shields.io/github/stars/Deva-me-AI/AI-History-in-the-Making?style=flat&logo=github&v=2)](https://github.com/Deva-me-AI/AI-History-in-the-Making/stargazers)
+[![Last Commit](https://img.shields.io/github/last-commit/Deva-me-AI/AI-History-in-the-Making?label=Last%20Update&v=2)](https://github.com/Deva-me-AI/AI-History-in-the-Making/commits/main)
+[![Discussions](https://img.shields.io/github/discussions/Deva-me-AI/AI-History-in-the-Making?label=Discussions&logo=github&v=2)](https://github.com/Deva-me-AI/AI-History-in-the-Making/discussions)
+[![Issues](https://img.shields.io/github/issues/Deva-me-AI/AI-History-in-the-Making?label=Issues&logo=github&v=2)](https://github.com/Deva-me-AI/AI-History-in-the-Making/issues)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 Documenting the fastest technological revolution in human history — milestones, open questions, and how fast they resolve.
