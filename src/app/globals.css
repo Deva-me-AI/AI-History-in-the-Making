@@ -14,7 +14,8 @@ body {
   color: var(--color-foreground);
 }
 
-/* Animated mesh gradient background */
+/* Static mesh gradient background — no animation to avoid text shimmer
+   through backdrop-blur layers */
 .mesh-bg {
   position: fixed;
   inset: 0;
@@ -32,11 +33,6 @@ body {
     radial-gradient(ellipse at 20% 50%, rgba(59, 130, 246, 0.08) 0%, transparent 50%),
     radial-gradient(ellipse at 80% 20%, rgba(139, 92, 246, 0.06) 0%, transparent 50%),
     radial-gradient(ellipse at 50% 80%, rgba(236, 72, 153, 0.05) 0%, transparent 50%);
-  animation: mesh-drift 20s ease-in-out infinite alternate;
-}
-@keyframes mesh-drift {
-  0% { transform: translate(0, 0) rotate(0deg); }
-  100% { transform: translate(-5%, 3%) rotate(3deg); }
 }
 
 /* Subtle noise texture overlay */
