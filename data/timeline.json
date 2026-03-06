@@ -731,7 +731,7 @@
   {
     "date": "2025-05-22",
     "title": "Claude 4 / Opus 4 Released",
-    "description": "Anthropic releases Claude 4 with Opus 4 as the new frontier reasoning model. Extended thinking, deeper code understanding, and improved reliability. Continues to dominate coding workflows.",
+    "description": "Anthropic releases Claude 4 and Claude Opus 4, setting new standards for coding, advanced reasoning, and AI agents. Opus 4 becomes the world's best coding model with sustained performance on complex tasks. The release establishes Anthropic as the clear leader in code-generation benchmarks.",
     "category": "Model Release",
     "sources": [
       {
@@ -754,8 +754,8 @@
   },
   {
     "date": "2025-08-07",
-    "title": "GPT-5 Series Launches",
-    "description": "OpenAI releases the GPT-5 family with significant improvements in reasoning, instruction following, and multimodal capabilities. The race at the frontier remains tight.",
+    "title": "GPT-5 Released",
+    "description": "OpenAI releases GPT-5, a unified model that knows when to respond quickly and when to think longer for expert-level responses. State-of-the-art performance across coding, math, writing, visual perception, and more. A significant leap over all previous OpenAI models.",
     "category": "Model Release",
     "sources": [
       {
