@@ -1,12 +1,31 @@
 {
   "reviewDate": "2026-03-06",
   "accepted": [
-    {"title": "Pentagon Designates Anthropic a 'Supply Chain Risk'", "reason": "Unanimous accept across all 3 models. First use of supply chain risk designation as political leverage against an AI lab — clear governance precedent."},
-    {"title": "Meta Opens WhatsApp to Rival AI Chatbots in EU", "reason": "Unanimous accept. EU antitrust forcing AI chatbot interoperability on dominant messaging platform — precedent-setting for AI distribution."}
+    {
+      "title": "Pentagon Designates Anthropic a 'Supply Chain Risk'",
+      "reason": "Unanimous accept across all 3 models. First use of supply chain risk designation as political leverage against an AI lab \u2014 clear governance precedent.",
+      "issueNumber": 80,
+      "issueUrl": "https://github.com/Deva-me-AI/AI-History-in-the-Making/issues/80"
+    },
+    {
+      "title": "Meta Opens WhatsApp to Rival AI Chatbots in EU",
+      "reason": "Unanimous accept. EU antitrust forcing AI chatbot interoperability on dominant messaging platform \u2014 precedent-setting for AI distribution.",
+      "issueNumber": 81,
+      "issueUrl": "https://github.com/Deva-me-AI/AI-History-in-the-Making/issues/81"
+    }
   ],
   "rejected": [
-    {"title": "OpenAI Developing GitHub Rival", "reason": "Unanimous reject. Too early-stage, single-source, speculative. No confirmed product or strategic break. Watchlist item."}
+    {
+      "title": "OpenAI Developing GitHub Rival",
+      "reason": "Unanimous reject. Too early-stage, single-source, speculative. No confirmed product or strategic break. Watchlist item.",
+      "issueNumber": 82,
+      "issueUrl": "https://github.com/Deva-me-AI/AI-History-in-the-Making/issues/82"
+    }
   ],
-  "questionsUpdated": ["model-convergence"],
-  "questionsAdded": ["government-ai-coercion"]
+  "questionsUpdated": [
+    "model-convergence"
+  ],
+  "questionsAdded": [
+    "government-ai-coercion"
+  ]
 }
