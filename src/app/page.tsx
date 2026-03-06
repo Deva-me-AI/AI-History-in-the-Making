@@ -111,16 +111,16 @@ export default function Home() {
           </div>
           <div className="space-y-3">
             {timelineHighlights.map((event) => (
-              <article key={`${event.year}-${event.event}`} className="glass-subtle rounded-xl px-4 py-4">
-                <p className="text-xs font-medium uppercase tracking-[0.18em] text-zinc-500">{event.year}</p>
-                <p className="mt-1.5 text-sm font-medium text-zinc-100">{event.event}</p>
+              <article key={event.date} className="glass-subtle rounded-xl px-4 py-4">
+                <p className="text-xs font-medium uppercase tracking-[0.18em] text-zinc-500">{event.date.split('-')[0]}</p>
+                <p className="mt-1.5 text-sm font-medium text-zinc-100">{event.title}</p>
                 <p className="mt-1.5 line-clamp-2 text-sm text-zinc-400">{event.description}</p>
               </article>
             ))}
           </div>
         </div>
 
-        <ActivityFeed limit={5} />
+        <ActivityFeed />
       </section>
 
       <section className="mt-10 rounded-2xl border border-white/10 bg-white/[0.02] p-6 sm:p-8">
