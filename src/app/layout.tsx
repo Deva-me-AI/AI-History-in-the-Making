@@ -1,11 +1,11 @@
 import type { Metadata } from "next";
-import { Inter, JetBrains_Mono } from "next/font/google";
+import { Geist, Geist_Mono } from "next/font/google";
 import "./globals.css";
 import Navigation from "@/components/Navigation";
 import OpenSourceBanner from "@/components/OpenSourceBanner";
 
-const inter = Inter({ subsets: ["latin"], variable: "--font-inter" });
-const jetbrains = JetBrains_Mono({ subsets: ["latin"], variable: "--font-mono" });
+const geist = Geist({ subsets: ["latin"], variable: "--font-inter" });
+const geistMono = Geist_Mono({ subsets: ["latin"], variable: "--font-mono" });
 
 export const metadata: Metadata = {
   title: "AI History in the Making",
@@ -13,18 +13,6 @@ export const metadata: Metadata = {
     "Documenting the fastest technological revolution in human history — milestones, predictions, and how fast open questions get resolved.",
   icons: {
     icon: "/icon.svg",
-  },
-  openGraph: {
-    title: "AI History in the Making",
-    description:
-      "Documenting the fastest technological revolution in human history.",
-    type: "website",
-    url: "https://www.aihistoricunfolding.com",
-  },
-  twitter: {
-    card: "summary_large_image",
-    title: "AI History in the Making",
-    description: "Documenting the fastest technological revolution in human history.",
   },
 };
 
@@ -35,22 +23,25 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en" className="dark">
-      <body className={`${inter.variable} ${jetbrains.variable} font-sans bg-[#050510] text-gray-100 antialiased`}>
+      <body className={`${geist.variable} ${geistMono.variable} font-sans bg-black text-zinc-100 antialiased`}>
         <div className="mesh-bg" aria-hidden="true" />
+        <div className="dot-grid" aria-hidden="true" />
         <OpenSourceBanner />
         <Navigation />
         <main className="min-h-screen">{children}</main>
-        <div className="divider-gradient mx-auto max-w-4xl" />
-        <footer className="py-10 text-center text-sm text-gray-500">
-          <p className="mb-2">
-            <span className="gradient-text font-medium">AI History in the Making</span> — A living, open-source document.
-          </p>
-          <div className="flex items-center justify-center gap-4">
-            <a href="https://github.com/Deva-me-AI/AI-History-in-the-Making" className="text-gray-500 hover:text-gray-300 transition-colors" target="_blank" rel="noopener noreferrer">GitHub</a>
-            <span className="text-gray-800">·</span>
-            <a href="https://github.com/Deva-me-AI/AI-History-in-the-Making/issues/new/choose" className="text-gray-500 hover:text-gray-300 transition-colors" target="_blank" rel="noopener noreferrer">Open an Issue</a>
-            <span className="text-gray-800">·</span>
-            <a href="https://github.com/Deva-me-AI/AI-History-in-the-Making/blob/main/CONTRIBUTING.md" className="text-gray-500 hover:text-gray-300 transition-colors" target="_blank" rel="noopener noreferrer">Contribute</a>
+        <footer className="mx-auto mt-20 w-full max-w-6xl border-t border-white/10 px-6 py-12 sm:px-8">
+          <div className="grid gap-8 sm:grid-cols-2">
+            <div>
+              <p className="text-sm text-zinc-300">AI History in the Making</p>
+              <p className="mt-2 max-w-md text-sm text-zinc-500">
+                A living archive of milestones, open questions, and turning points in AI.
+              </p>
+            </div>
+            <div className="flex flex-wrap items-start gap-4 text-sm text-zinc-400 sm:justify-end">
+              <a href="https://github.com/Deva-me-AI/AI-History-in-the-Making" className="transition-colors hover:text-zinc-200" target="_blank" rel="noopener noreferrer">GitHub</a>
+              <a href="https://github.com/Deva-me-AI/AI-History-in-the-Making/issues/new/choose" className="transition-colors hover:text-zinc-200" target="_blank" rel="noopener noreferrer">Open Issue</a>
+              <a href="https://github.com/Deva-me-AI/AI-History-in-the-Making/blob/main/CONTRIBUTING.md" className="transition-colors hover:text-zinc-200" target="_blank" rel="noopener noreferrer">Contribute</a>
+            </div>
           </div>
         </footer>
       </body>
