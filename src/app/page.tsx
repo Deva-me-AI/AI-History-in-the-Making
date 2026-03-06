@@ -1,6 +1,7 @@
 import Link from "next/link";
 import timelineData from "../../data/timeline.json";
 import questionsData from "../../data/questions.json";
+import ActivityFeed from "@/components/ActivityFeed";
 
 const REPO = "https://github.com/Deva-me-AI/AI-History-in-the-Making";
 
@@ -64,6 +65,8 @@ export default function Home() {
           </div>
         ))}
       </div>
+
+      <ActivityFeed />
 
       {/* Section cards */}
       <div className="grid md:grid-cols-2 gap-5 mb-20">
