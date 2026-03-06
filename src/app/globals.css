@@ -1,8 +1,12 @@
 @import "tailwindcss";
 
+@custom-variant dark (&:where(.dark, .dark *));
+
 @theme {
-  --color-background: #050510;
-  --color-foreground: #f0f0f5;
+  --color-background: #ffffff;
+  --color-foreground: #111111;
+  --color-background-dark: #050510;
+  --color-foreground-dark: #f0f0f5;
 }
 
 html {
@@ -12,6 +16,12 @@ html {
 body {
   background: var(--color-background);
   color: var(--color-foreground);
+  transition: background-color 0.3s, color 0.3s;
+}
+
+.dark body {
+  background: var(--color-background-dark);
+  color: var(--color-foreground-dark);
 }
 
 /* Static mesh gradient background — no animation to avoid text shimmer
