@@ -61,7 +61,7 @@ export default function TimelinePage() {
   }
 
   return (
-    <div className="mx-auto max-w-4xl px-6 py-16">
+    <div className="mx-auto max-w-4xl px-6 pt-16 pb-16">
       <div className="flex items-start justify-between gap-4 mb-4">
         <h1 className="text-4xl font-bold">Timeline</h1>
         <button
@@ -110,7 +110,7 @@ export default function TimelinePage() {
         .sort(([a], [b]) => newestFirst ? Number(b) - Number(a) : Number(a) - Number(b))
         .map(([year, yearEvents]) => (
         <div key={year} className="mb-16">
-          <h2 className="text-2xl font-bold mb-8 text-gray-300 sticky top-24 bg-[#050510]/80 backdrop-blur-xl py-2 z-10 year-header">
+          <h2 className="text-2xl font-bold mb-8 text-gray-300 sticky top-[57px] bg-[#050510] py-2 z-10 year-header">
             {year}
           </h2>
           <div className="relative pl-8 border-l border-white/[0.06]">
