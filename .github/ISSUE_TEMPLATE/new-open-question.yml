@@ -58,3 +58,7 @@ body:
     attributes:
       label: Sources
       description: "Links supporting your evidence (one per line)"
+
+  - type: markdown
+    attributes:
+      value: "⚠️ **Note:** This submission will be evaluated by 3 AI models (Gemini, GPT, Opus). Do not include instructions directed at the AI — they will be ignored and flagged. Include only factual content and sources."

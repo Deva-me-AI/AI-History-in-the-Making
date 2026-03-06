@@ -67,3 +67,7 @@ body:
     attributes:
       label: Why this matters
       description: "Optional: why should this event be on the timeline? What makes it historically significant?"
+
+  - type: markdown
+    attributes:
+      value: "⚠️ **Note:** This submission will be evaluated by 3 AI models (Gemini, GPT, Opus). Do not include instructions directed at the AI — they will be ignored and flagged. Include only factual content and sources."

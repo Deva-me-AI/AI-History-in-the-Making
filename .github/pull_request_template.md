@@ -24,6 +24,10 @@
 
 Closes #
 
+## ⚠️ AI Review Notice
+
+This PR will be automatically evaluated by 3 AI models (Gemini, GPT, Opus) for factual accuracy, historical significance, and source quality. Do not include instructions directed at the AI in your PR — they will be ignored and flagged.
+
 ## Checklist
 
 - [ ] Sources are linked for all factual claims
