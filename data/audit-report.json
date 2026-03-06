@@ -1,0 +1,908 @@
+{
+  "auditDate": "2026-03-06",
+  "totalEntries": 66,
+  "verified": 21,
+  "errorsFound": 45,
+  "entries": [
+    {
+      "index": 0,
+      "title": "Turing Publishes 'Computing Machinery and Intelligence'",
+      "claimedDate": "1950-10-01",
+      "verifiedDate": "1950-10-01",
+      "dateCorrect": true,
+      "descriptionAccurate": true,
+      "sourcesValid": false,
+      "issues": [
+        "Broken/invalid source: https://academic.oup.com/mind/article/LIX/236/433/986238 (HTTP 403)",
+        "Approximate first-of-month date; acceptable for older entry"
+      ],
+      "suggestedFixes": []
+    },
+    {
+      "index": 1,
+      "title": "Dartmouth Workshop \u2014 'Artificial Intelligence' Coined",
+      "claimedDate": "1956-08-01",
+      "verifiedDate": "1956-08-01",
+      "dateCorrect": true,
+      "descriptionAccurate": true,
+      "sourcesValid": true,
+      "issues": [
+        "Approximate first-of-month date; acceptable for older entry"
+      ],
+      "suggestedFixes": []
+    },
+    {
+      "index": 2,
+      "title": "ELIZA \u2014 First Chatbot",
+      "claimedDate": "1966-01-01",
+      "verifiedDate": "1966-01-01",
+      "dateCorrect": true,
+      "descriptionAccurate": true,
+      "sourcesValid": true,
+      "issues": [
+        "Approximate first-of-month date; acceptable for older entry"
+      ],
+      "suggestedFixes": []
+    },
+    {
+      "index": 3,
+      "title": "First AI Winter Begins",
+      "claimedDate": "1973-01-01",
+      "verifiedDate": "1973-01-01",
+      "dateCorrect": true,
+      "descriptionAccurate": true,
+      "sourcesValid": true,
+      "issues": [
+        "Approximate first-of-month date; acceptable for older entry"
+      ],
+      "suggestedFixes": []
+    },
+    {
+      "index": 4,
+      "title": "Expert Systems Boom",
+      "claimedDate": "1980-01-01",
+      "verifiedDate": "1980-01-01",
+      "dateCorrect": true,
+      "descriptionAccurate": true,
+      "sourcesValid": true,
+      "issues": [
+        "Approximate first-of-month date; acceptable for older entry"
+      ],
+      "suggestedFixes": []
+    },
+    {
+      "index": 5,
+      "title": "Second AI Winter",
+      "claimedDate": "1987-01-01",
+      "verifiedDate": "1987-01-01",
+      "dateCorrect": true,
+      "descriptionAccurate": true,
+      "sourcesValid": true,
+      "issues": [
+        "Approximate first-of-month date; acceptable for older entry"
+      ],
+      "suggestedFixes": []
+    },
+    {
+      "index": 6,
+      "title": "Deep Blue Beats Kasparov",
+      "claimedDate": "1997-05-11",
+      "verifiedDate": "1997-05-11",
+      "dateCorrect": true,
+      "descriptionAccurate": true,
+      "sourcesValid": false,
+      "issues": [
+        "Broken/invalid source: https://www.nytimes.com/1997/05/12/nyregion/swift-and-slashing-computer-topples-kasparov.html (HTTP 403)"
+      ],
+      "suggestedFixes": []
+    },
+    {
+      "index": 7,
+      "title": "IBM Watson Wins Jeopardy!",
+      "claimedDate": "2011-02-14",
+      "verifiedDate": "2011-02-14",
+      "dateCorrect": true,
+      "descriptionAccurate": true,
+      "sourcesValid": false,
+      "issues": [
+        "Broken/invalid source: https://www.nytimes.com/2011/02/17/science/17jeopardy-watson.html (HTTP 403)"
+      ],
+      "suggestedFixes": []
+    },
+    {
+      "index": 8,
+      "title": "AlexNet Wins ImageNet \u2014 Deep Learning Revolution Begins",
+      "claimedDate": "2012-09-30",
+      "verifiedDate": "2012-09-30",
+      "dateCorrect": true,
+      "descriptionAccurate": true,
+      "sourcesValid": true,
+      "issues": [],
+      "suggestedFixes": []
+    },
+    {
+      "index": 9,
+      "title": "Word2Vec Introduces Dense Word Embeddings",
+      "claimedDate": "2013-09-07",
+      "verifiedDate": "2013-09-07",
+      "dateCorrect": true,
+      "descriptionAccurate": true,
+      "sourcesValid": true,
+      "issues": [],
+      "suggestedFixes": []
+    },
+    {
+      "index": 10,
+      "title": "Generative Adversarial Networks (GANs) Published",
+      "claimedDate": "2014-06-10",
+      "verifiedDate": "2014-06-10",
+      "dateCorrect": true,
+      "descriptionAccurate": true,
+      "sourcesValid": true,
+      "issues": [],
+      "suggestedFixes": []
+    },
+    {
+      "index": 11,
+      "title": "AlphaGo Defeats Lee Sedol",
+      "claimedDate": "2016-03-15",
+      "verifiedDate": "2016-03-15",
+      "dateCorrect": true,
+      "descriptionAccurate": true,
+      "sourcesValid": true,
+      "issues": [],
+      "suggestedFixes": []
+    },
+    {
+      "index": 12,
+      "title": "'Attention Is All You Need' \u2014 The Transformer Paper",
+      "claimedDate": "2017-06-12",
+      "verifiedDate": "2017-06-12",
+      "dateCorrect": true,
+      "descriptionAccurate": true,
+      "sourcesValid": true,
+      "issues": [],
+      "suggestedFixes": []
+    },
+    {
+      "index": 13,
+      "title": "GPT-1 Released \u2014 Language Modeling at Scale",
+      "claimedDate": "2018-06-11",
+      "verifiedDate": "2018-06-11",
+      "dateCorrect": true,
+      "descriptionAccurate": true,
+      "sourcesValid": false,
+      "issues": [
+        "Broken/invalid source: https://openai.com/index/language-unsupervised/ (HTTP 403)"
+      ],
+      "suggestedFixes": []
+    },
+    {
+      "index": 14,
+      "title": "Google Releases BERT \u2014 Bidirectional Transformers Dominate NLP",
+      "claimedDate": "2018-10-11",
+      "verifiedDate": "2018-10-11",
+      "dateCorrect": true,
+      "descriptionAccurate": true,
+      "sourcesValid": true,
+      "issues": [],
+      "suggestedFixes": []
+    },
+    {
+      "index": 15,
+      "title": "GPT-2 \u2014 'Too Dangerous to Release'",
+      "claimedDate": "2019-02-14",
+      "verifiedDate": "2019-02-14",
+      "dateCorrect": true,
+      "descriptionAccurate": true,
+      "sourcesValid": false,
+      "issues": [
+        "Broken/invalid source: https://openai.com/index/better-language-models/ (HTTP 403)"
+      ],
+      "suggestedFixes": []
+    },
+    {
+      "index": 16,
+      "title": "GPT-3 \u2014 The Scaling Leap",
+      "claimedDate": "2020-06-11",
+      "verifiedDate": "2020-06-11",
+      "dateCorrect": true,
+      "descriptionAccurate": true,
+      "sourcesValid": false,
+      "issues": [
+        "Broken/invalid source: https://openai.com/index/gpt-3-apps/ (HTTP 403)"
+      ],
+      "suggestedFixes": []
+    },
+    {
+      "index": 17,
+      "title": "AlphaFold 2 Solves Protein Folding at CASP14",
+      "claimedDate": "2020-11-30",
+      "verifiedDate": "2020-11-30",
+      "dateCorrect": true,
+      "descriptionAccurate": true,
+      "sourcesValid": true,
+      "issues": [],
+      "suggestedFixes": []
+    },
+    {
+      "index": 18,
+      "title": "DALL-E \u2014 Text-to-Image Generation",
+      "claimedDate": "2021-01-05",
+      "verifiedDate": "2021-01-05",
+      "dateCorrect": true,
+      "descriptionAccurate": true,
+      "sourcesValid": false,
+      "issues": [
+        "Broken/invalid source: https://openai.com/index/dall-e/ (HTTP 403)"
+      ],
+      "suggestedFixes": []
+    },
+    {
+      "index": 19,
+      "title": "GitHub Copilot Technical Preview",
+      "claimedDate": "2021-06-01",
+      "verifiedDate": "2021-06-01",
+      "dateCorrect": true,
+      "descriptionAccurate": true,
+      "sourcesValid": true,
+      "issues": [
+        "Approximate first-of-month date; acceptable for older entry"
+      ],
+      "suggestedFixes": []
+    },
+    {
+      "index": 20,
+      "title": "InstructGPT Establishes RLHF as the Alignment Standard",
+      "claimedDate": "2022-01-27",
+      "verifiedDate": "2022-01-27",
+      "dateCorrect": true,
+      "descriptionAccurate": true,
+      "sourcesValid": false,
+      "issues": [
+        "Broken/invalid source: https://openai.com/research/instruction-following (HTTP 403)"
+      ],
+      "suggestedFixes": []
+    },
+    {
+      "index": 21,
+      "title": "Chinchilla Scaling Laws Reshape Model Training",
+      "claimedDate": "2022-03-29",
+      "verifiedDate": "2022-03-29",
+      "dateCorrect": true,
+      "descriptionAccurate": true,
+      "sourcesValid": true,
+      "issues": [],
+      "suggestedFixes": []
+    },
+    {
+      "index": 22,
+      "title": "DALL-E 2 \u2014 Photorealistic AI Art",
+      "claimedDate": "2022-04-06",
+      "verifiedDate": "2022-04-06",
+      "dateCorrect": true,
+      "descriptionAccurate": true,
+      "sourcesValid": false,
+      "issues": [
+        "Broken/invalid source: https://openai.com/index/dall-e-2/ (HTTP 403)"
+      ],
+      "suggestedFixes": []
+    },
+    {
+      "index": 23,
+      "title": "Stable Diffusion Released \u2014 Open Source Image Generation",
+      "claimedDate": "2022-08-22",
+      "verifiedDate": "2022-08-22",
+      "dateCorrect": true,
+      "descriptionAccurate": true,
+      "sourcesValid": true,
+      "issues": [],
+      "suggestedFixes": []
+    },
+    {
+      "index": 24,
+      "title": "ChatGPT Launches",
+      "claimedDate": "2022-11-30",
+      "verifiedDate": "2022-11-30",
+      "dateCorrect": true,
+      "descriptionAccurate": true,
+      "sourcesValid": false,
+      "issues": [
+        "Broken/invalid source: https://openai.com/index/chatgpt/ (HTTP 403)",
+        "Broken/invalid source: https://www.reuters.com/technology/chatgpt-sets-record-fastest-growing-user-base-analyst-note-2023-02-01/ (HTTP 401)"
+      ],
+      "suggestedFixes": []
+    },
+    {
+      "index": 25,
+      "title": "Microsoft Invests $10B in OpenAI",
+      "claimedDate": "2023-01-23",
+      "verifiedDate": "2023-01-23",
+      "dateCorrect": true,
+      "descriptionAccurate": false,
+      "sourcesValid": false,
+      "issues": [
+        "Broken/invalid source: https://www.nytimes.com/2023/01/23/business/microsoft-chatgpt-artificial-intelligence.html (HTTP 403)",
+        "Title/description not clearly supported by fetched source text"
+      ],
+      "suggestedFixes": [
+        "Use a primary source that explicitly states the event and date"
+      ]
+    },
+    {
+      "index": 26,
+      "title": "Google Launches Bard",
+      "claimedDate": "2023-02-06",
+      "verifiedDate": "2023-02-06",
+      "dateCorrect": true,
+      "descriptionAccurate": true,
+      "sourcesValid": true,
+      "issues": [],
+      "suggestedFixes": []
+    },
+    {
+      "index": 27,
+      "title": "Meta Releases LLaMA",
+      "claimedDate": "2023-02-24",
+      "verifiedDate": "2023-02-24",
+      "dateCorrect": true,
+      "descriptionAccurate": false,
+      "sourcesValid": true,
+      "issues": [
+        "Title/description not clearly supported by fetched source text"
+      ],
+      "suggestedFixes": [
+        "Use a primary source that explicitly states the event and date"
+      ]
+    },
+    {
+      "index": 28,
+      "title": "Stanford Alpaca \u2014 Fine-Tuning for $600 Ignites Open-Source Explosion",
+      "claimedDate": "2023-03-13",
+      "verifiedDate": "2023-03-13",
+      "dateCorrect": true,
+      "descriptionAccurate": false,
+      "sourcesValid": true,
+      "issues": [
+        "Title/description not clearly supported by fetched source text"
+      ],
+      "suggestedFixes": [
+        "Use a primary source that explicitly states the event and date"
+      ]
+    },
+    {
+      "index": 29,
+      "title": "GPT-4 Released",
+      "claimedDate": "2023-03-14",
+      "verifiedDate": "2023-03-14",
+      "dateCorrect": true,
+      "descriptionAccurate": false,
+      "sourcesValid": false,
+      "issues": [
+        "Broken/invalid source: https://openai.com/index/gpt-4/ (HTTP 403)",
+        "Title/description not clearly supported by fetched source text"
+      ],
+      "suggestedFixes": [
+        "Use a primary source that explicitly states the event and date"
+      ]
+    },
+    {
+      "index": 30,
+      "title": "Anthropic Launches Claude",
+      "claimedDate": "2023-03-14",
+      "verifiedDate": "2023-03-14",
+      "dateCorrect": true,
+      "descriptionAccurate": false,
+      "sourcesValid": true,
+      "issues": [
+        "Title/description not clearly supported by fetched source text"
+      ],
+      "suggestedFixes": [
+        "Use a primary source that explicitly states the event and date"
+      ]
+    },
+    {
+      "index": 31,
+      "title": "'Pause Giant AI Experiments' Open Letter",
+      "claimedDate": "2023-03-22",
+      "verifiedDate": "2023-03-22",
+      "dateCorrect": true,
+      "descriptionAccurate": true,
+      "sourcesValid": false,
+      "issues": [
+        "Broken/invalid source: https://www.nytimes.com/2023/03/29/technology/ai-artificial-intelligence-musk-risks.html (HTTP 403)"
+      ],
+      "suggestedFixes": []
+    },
+    {
+      "index": 32,
+      "title": "Mistral AI Founded",
+      "claimedDate": "2023-05-01",
+      "verifiedDate": "2023-05-01",
+      "dateCorrect": true,
+      "descriptionAccurate": true,
+      "sourcesValid": true,
+      "issues": [],
+      "suggestedFixes": []
+    },
+    {
+      "index": 33,
+      "title": "Inflection AI Raises $1.3B",
+      "claimedDate": "2023-06-20",
+      "verifiedDate": "2023-06-20",
+      "dateCorrect": true,
+      "descriptionAccurate": true,
+      "sourcesValid": true,
+      "issues": [],
+      "suggestedFixes": []
+    },
+    {
+      "index": 34,
+      "title": "Llama 2 Released Open Source",
+      "claimedDate": "2023-07-18",
+      "verifiedDate": "2023-07-18",
+      "dateCorrect": true,
+      "descriptionAccurate": true,
+      "sourcesValid": true,
+      "issues": [],
+      "suggestedFixes": []
+    },
+    {
+      "index": 35,
+      "title": "Biden AI Executive Order",
+      "claimedDate": "2023-10-30",
+      "verifiedDate": "2023-10-30",
+      "dateCorrect": true,
+      "descriptionAccurate": false,
+      "sourcesValid": true,
+      "issues": [
+        "Title/description not clearly supported by fetched source text"
+      ],
+      "suggestedFixes": [
+        "Use a primary source that explicitly states the event and date"
+      ]
+    },
+    {
+      "index": 36,
+      "title": "UK AI Safety Summit at Bletchley Park",
+      "claimedDate": "2023-11-01",
+      "verifiedDate": "2023-11-01",
+      "dateCorrect": true,
+      "descriptionAccurate": true,
+      "sourcesValid": true,
+      "issues": [],
+      "suggestedFixes": []
+    },
+    {
+      "index": 37,
+      "title": "Elon Musk Founds xAI, Launches Grok",
+      "claimedDate": "2023-11-06",
+      "verifiedDate": "2023-11-06",
+      "dateCorrect": true,
+      "descriptionAccurate": false,
+      "sourcesValid": false,
+      "issues": [
+        "Broken/invalid source: https://x.ai/blog/grok (HTTP 403)",
+        "No valid source text for strict-year verification",
+        "Title/description not clearly supported by fetched source text"
+      ],
+      "suggestedFixes": [
+        "Use a primary source that explicitly states the event and date"
+      ]
+    },
+    {
+      "index": 38,
+      "title": "OpenAI Board Crisis",
+      "claimedDate": "2023-11-17",
+      "verifiedDate": "2023-11-17",
+      "dateCorrect": true,
+      "descriptionAccurate": false,
+      "sourcesValid": false,
+      "issues": [
+        "Broken/invalid source: https://www.nytimes.com/2023/11/17/technology/openai-sam-altman.html (HTTP 403)",
+        "Title/description not clearly supported by fetched source text"
+      ],
+      "suggestedFixes": [
+        "Use a primary source that explicitly states the event and date"
+      ]
+    },
+    {
+      "index": 39,
+      "title": "OpenAI Announces Sora",
+      "claimedDate": "2024-02-15",
+      "verifiedDate": "2024-02-15",
+      "dateCorrect": true,
+      "descriptionAccurate": false,
+      "sourcesValid": false,
+      "issues": [
+        "Broken/invalid source: https://openai.com/index/sora/ (HTTP 403)",
+        "No valid source text for strict-year verification",
+        "Title/description not clearly supported by fetched source text"
+      ],
+      "suggestedFixes": [
+        "Use a primary source that explicitly states the event and date"
+      ]
+    },
+    {
+      "index": 40,
+      "title": "Gemini 1.5 Pro \u2014 1M Context Window",
+      "claimedDate": "2024-02-15",
+      "verifiedDate": "2024-02-15",
+      "dateCorrect": true,
+      "descriptionAccurate": true,
+      "sourcesValid": true,
+      "issues": [],
+      "suggestedFixes": []
+    },
+    {
+      "index": 41,
+      "title": "Claude 3 Family Released",
+      "claimedDate": "2024-03-04",
+      "verifiedDate": "2024-03-04",
+      "dateCorrect": true,
+      "descriptionAccurate": true,
+      "sourcesValid": true,
+      "issues": [],
+      "suggestedFixes": []
+    },
+    {
+      "index": 42,
+      "title": "EU AI Act Passed \u2014 World's First Comprehensive AI Regulation",
+      "claimedDate": "2024-03-13",
+      "verifiedDate": "2024-03-13",
+      "dateCorrect": true,
+      "descriptionAccurate": false,
+      "sourcesValid": false,
+      "issues": [
+        "Broken/invalid source: https://www.reuters.com/technology/stalled-eu-ai-act-clears-high-hurdle-with-key-committee-vote-2024-02-13/ (HTTP 401)",
+        "Title/description not clearly supported by fetched source text"
+      ],
+      "suggestedFixes": [
+        "Use a primary source that explicitly states the event and date"
+      ]
+    },
+    {
+      "index": 43,
+      "title": "Llama 3 Released",
+      "claimedDate": "2024-04-18",
+      "verifiedDate": "2024-04-18",
+      "dateCorrect": true,
+      "descriptionAccurate": true,
+      "sourcesValid": true,
+      "issues": [],
+      "suggestedFixes": []
+    },
+    {
+      "index": 44,
+      "title": "GPT-4o \u2014 Multimodal Native",
+      "claimedDate": "2024-05-13",
+      "verifiedDate": "2024-05-13",
+      "dateCorrect": true,
+      "descriptionAccurate": false,
+      "sourcesValid": false,
+      "issues": [
+        "Broken/invalid source: https://openai.com/index/hello-gpt-4o/ (HTTP 403)",
+        "No valid source text for strict-year verification",
+        "Title/description not clearly supported by fetched source text"
+      ],
+      "suggestedFixes": [
+        "Use a primary source that explicitly states the event and date"
+      ]
+    },
+    {
+      "index": 45,
+      "title": "Mistral Raises at $6B Valuation",
+      "claimedDate": "2024-06-01",
+      "verifiedDate": "2024-06-01",
+      "dateCorrect": true,
+      "descriptionAccurate": true,
+      "sourcesValid": true,
+      "issues": [],
+      "suggestedFixes": []
+    },
+    {
+      "index": 46,
+      "title": "AI Coding Tools Explode",
+      "claimedDate": "2024-06-01",
+      "verifiedDate": "2024-06-01",
+      "dateCorrect": true,
+      "descriptionAccurate": false,
+      "sourcesValid": true,
+      "issues": [
+        "Title/description not clearly supported by fetched source text"
+      ],
+      "suggestedFixes": [
+        "Use a primary source that explicitly states the event and date"
+      ]
+    },
+    {
+      "index": 47,
+      "title": "Context Windows: 200K+ Becomes Commodity, 1M+ at Frontier",
+      "claimedDate": "2024-12-01",
+      "verifiedDate": "2024-12-01",
+      "dateCorrect": true,
+      "descriptionAccurate": false,
+      "sourcesValid": true,
+      "issues": [
+        "Title/description not clearly supported by fetched source text"
+      ],
+      "suggestedFixes": [
+        "Use a primary source that explicitly states the event and date"
+      ]
+    },
+    {
+      "index": 48,
+      "title": "DeepSeek R1 Shocks the World",
+      "claimedDate": "2025-01-20",
+      "verifiedDate": "2025-01-20",
+      "dateCorrect": true,
+      "descriptionAccurate": false,
+      "sourcesValid": false,
+      "issues": [
+        "Broken/invalid source: https://www.reuters.com/technology/artificial-intelligence/chinas-deepseek-sets-off-ai-market-rout-2025-01-27/ (HTTP 401)",
+        "Title/description not clearly supported by fetched source text"
+      ],
+      "suggestedFixes": [
+        "Use a primary source that explicitly states the event and date"
+      ]
+    },
+    {
+      "index": 49,
+      "title": "Claude 3.5 Sonnet Becomes Coding Standard",
+      "claimedDate": "2025-02-01",
+      "verifiedDate": "2024-06-20",
+      "dateCorrect": false,
+      "descriptionAccurate": false,
+      "sourcesValid": true,
+      "issues": [
+        "Title/description not clearly supported by fetched source text",
+        "Corrected release date to Anthropic announcement date"
+      ],
+      "suggestedFixes": [
+        "Use a primary source that explicitly states the event and date",
+        "Updated date to 2024-06-20"
+      ]
+    },
+    {
+      "index": 50,
+      "title": "Grok 3 Released",
+      "claimedDate": "2025-02-17",
+      "verifiedDate": "2025-02-17",
+      "dateCorrect": true,
+      "descriptionAccurate": false,
+      "sourcesValid": false,
+      "issues": [
+        "Broken/invalid source: https://x.ai/blog/grok-3 (HTTP 403)",
+        "No valid source text for strict-year verification",
+        "Title/description not clearly supported by fetched source text"
+      ],
+      "suggestedFixes": [
+        "Use a primary source that explicitly states the event and date"
+      ]
+    },
+    {
+      "index": 51,
+      "title": "Anthropic Raises $3.5B at $60B Valuation",
+      "claimedDate": "2025-03-01",
+      "verifiedDate": "2025-03-01",
+      "dateCorrect": true,
+      "descriptionAccurate": false,
+      "sourcesValid": false,
+      "issues": [
+        "Broken/invalid source: https://www.wsj.com/tech/ai/anthropic-closes-2-billion-fundraising-at-60-billion-valuation-1cd73cf4 (HTTP 403)",
+        "No valid source text for strict-year verification",
+        "Title/description not clearly supported by fetched source text"
+      ],
+      "suggestedFixes": [
+        "Use a primary source that explicitly states the event and date"
+      ]
+    },
+    {
+      "index": 52,
+      "title": "Gemini 2.5 with Native Tool Use",
+      "claimedDate": "2025-03-25",
+      "verifiedDate": "2025-03-25",
+      "dateCorrect": true,
+      "descriptionAccurate": true,
+      "sourcesValid": true,
+      "issues": [],
+      "suggestedFixes": []
+    },
+    {
+      "index": 53,
+      "title": "OpenAI Raises at $300B Valuation",
+      "claimedDate": "2025-04-01",
+      "verifiedDate": "2025-04-01",
+      "dateCorrect": true,
+      "descriptionAccurate": false,
+      "sourcesValid": false,
+      "issues": [
+        "Broken/invalid source: https://www.bloomberg.com/news/articles/2025-03-31/openai-closes-40-billion-round-at-record-300-billion-valuation (HTTP 403)",
+        "No valid source text for strict-year verification",
+        "Title/description not clearly supported by fetched source text"
+      ],
+      "suggestedFixes": [
+        "Use a primary source that explicitly states the event and date"
+      ]
+    },
+    {
+      "index": 54,
+      "title": "Claude 4 / Opus 4 Released",
+      "claimedDate": "2025-05-22",
+      "verifiedDate": "2025-05-22",
+      "dateCorrect": true,
+      "descriptionAccurate": false,
+      "sourcesValid": true,
+      "issues": [
+        "Title/description not clearly supported by fetched source text"
+      ],
+      "suggestedFixes": [
+        "Use a primary source that explicitly states the event and date"
+      ]
+    },
+    {
+      "index": 55,
+      "title": "Grok 4 \u2014 The RLVR Milestone",
+      "claimedDate": "2025-07-09",
+      "verifiedDate": "2025-07-09",
+      "dateCorrect": true,
+      "descriptionAccurate": false,
+      "sourcesValid": false,
+      "issues": [
+        "Broken/invalid source: https://x.ai/blog/grok-4 (HTTP 403)",
+        "No valid source text for strict-year verification",
+        "Title/description not clearly supported by fetched source text"
+      ],
+      "suggestedFixes": [
+        "Use a primary source that explicitly states the event and date"
+      ]
+    },
+    {
+      "index": 56,
+      "title": "GPT-5 Released",
+      "claimedDate": "2025-08-07",
+      "verifiedDate": "2025-08-07",
+      "dateCorrect": true,
+      "descriptionAccurate": false,
+      "sourcesValid": false,
+      "issues": [
+        "Broken/invalid source: https://openai.com/index/gpt-5/ (HTTP 403)",
+        "No valid source text for strict-year verification",
+        "Title/description not clearly supported by fetched source text"
+      ],
+      "suggestedFixes": [
+        "Use a primary source that explicitly states the event and date"
+      ]
+    },
+    {
+      "index": 57,
+      "title": "Agents Go from Minutes to Hours",
+      "claimedDate": "2025-09-01",
+      "verifiedDate": "2025-09-01",
+      "dateCorrect": true,
+      "descriptionAccurate": true,
+      "sourcesValid": true,
+      "issues": [],
+      "suggestedFixes": []
+    },
+    {
+      "index": 58,
+      "title": "RAG Begins Looking Obsolete",
+      "claimedDate": "2025-10-01",
+      "verifiedDate": "2025-10-01",
+      "dateCorrect": true,
+      "descriptionAccurate": false,
+      "sourcesValid": true,
+      "issues": [
+        "Title/description not clearly supported by fetched source text"
+      ],
+      "suggestedFixes": [
+        "Use a primary source that explicitly states the event and date"
+      ]
+    },
+    {
+      "index": 59,
+      "title": "Gemini 3 Pro Released",
+      "claimedDate": "2025-11-18",
+      "verifiedDate": "2025-11-18",
+      "dateCorrect": true,
+      "descriptionAccurate": true,
+      "sourcesValid": true,
+      "issues": [
+        "Source appears inconsistent with claimed Nov 2025 date"
+      ],
+      "suggestedFixes": [
+        "Replace with exact launch source/date or remove until verified"
+      ]
+    },
+    {
+      "index": 60,
+      "title": "Frontier Model Costs Drop 10x from 2024",
+      "claimedDate": "2025-12-01",
+      "verifiedDate": "2025-12-01",
+      "dateCorrect": true,
+      "descriptionAccurate": false,
+      "sourcesValid": true,
+      "issues": [
+        "Title/description not clearly supported by fetched source text"
+      ],
+      "suggestedFixes": [
+        "Use a primary source that explicitly states the event and date"
+      ]
+    },
+    {
+      "index": 61,
+      "title": "Pentagon Designates Anthropic a 'Supply Chain Risk'",
+      "claimedDate": "2026-02-28",
+      "verifiedDate": "2026-02-28",
+      "dateCorrect": true,
+      "descriptionAccurate": false,
+      "sourcesValid": false,
+      "issues": [
+        "Broken/invalid source: https://www.cnbc.com/2026/03/04/pentagon-blacklist-anthropic-defense-tech-claude.html (HTTP 403)",
+        "Title/description not clearly supported by fetched source text"
+      ],
+      "suggestedFixes": [
+        "Use a primary source that explicitly states the event and date"
+      ]
+    },
+    {
+      "index": 62,
+      "title": "Vibe Coding Becomes Leisure Activity",
+      "claimedDate": "2026-03-01",
+      "verifiedDate": "2026-03-01",
+      "dateCorrect": true,
+      "descriptionAccurate": false,
+      "sourcesValid": true,
+      "issues": [
+        "Title/description not clearly supported by fetched source text"
+      ],
+      "suggestedFixes": [
+        "Use a primary source that explicitly states the event and date"
+      ]
+    },
+    {
+      "index": 63,
+      "title": "Energy Emerges as the Real Bottleneck",
+      "claimedDate": "2026-03-01",
+      "verifiedDate": "2026-03-01",
+      "dateCorrect": true,
+      "descriptionAccurate": false,
+      "sourcesValid": true,
+      "issues": [
+        "Title/description not clearly supported by fetched source text"
+      ],
+      "suggestedFixes": [
+        "Use a primary source that explicitly states the event and date"
+      ]
+    },
+    {
+      "index": 64,
+      "title": "Coding Agents Write Most New Code",
+      "claimedDate": "2026-03-01",
+      "verifiedDate": "2026-03-01",
+      "dateCorrect": true,
+      "descriptionAccurate": true,
+      "sourcesValid": true,
+      "issues": [],
+      "suggestedFixes": []
+    },
+    {
+      "index": 65,
+      "title": "Meta Opens WhatsApp to Rival AI Chatbots in EU",
+      "claimedDate": "2026-03-05",
+      "verifiedDate": "2026-03-05",
+      "dateCorrect": true,
+      "descriptionAccurate": false,
+      "sourcesValid": false,
+      "issues": [
+        "Broken/invalid source: https://www.reuters.com/legal/litigation/meta-allow-ai-rivals-whatsapp-bid-stave-off-eu-action-2026-03-05/ (HTTP 401)",
+        "No valid source text for strict-year verification",
+        "Title/description not clearly supported by fetched source text"
+      ],
+      "suggestedFixes": [
+        "Use a primary source that explicitly states the event and date"
+      ]
+    }
+  ]
+}
