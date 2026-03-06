@@ -5,174 +5,153 @@ import ActivityFeed from "@/components/ActivityFeed";
 
 const REPO = "https://github.com/Deva-me-AI/AI-History-in-the-Making";
 
+const timelineHighlights = timelineData.slice(-3).reverse();
+
 export default function Home() {
   const totalEvents = timelineData.length;
   const totalQuestions = questionsData.length;
   const resolved = questionsData.filter((q) => q.status === "resolved").length;
+  const activeDebates = questionsData.filter((q) => q.status !== "resolved").length;
   const yearsSpanned = new Date().getFullYear() - 1950;
 
   return (
-    <div className="mx-auto max-w-4xl px-4 sm:px-6 overflow-hidden">
-      {/* Hero */}
-      <div className="text-center pt-24 pb-20 hero-glow">
-        <div className="inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/[0.03] px-4 py-1.5 text-xs text-gray-400 mb-10 backdrop-blur-sm">
-          <span className="inline-flex h-1.5 w-1.5 rounded-full bg-green-400 animate-pulse" />
-          Open source · Community driven · 30+ active debates
+    <div className="mx-auto max-w-6xl px-6 pb-24 pt-16 sm:px-8 lg:px-10">
+      <section className="relative overflow-hidden rounded-3xl border border-white/10 bg-white/[0.02] px-6 py-14 sm:px-10 sm:py-20">
+        <div className="pointer-events-none absolute inset-0 bg-[radial-gradient(circle_at_20%_0%,rgba(124,58,237,0.2),transparent_40%),radial-gradient(circle_at_80%_10%,rgba(59,130,246,0.18),transparent_35%)]" />
+        <div className="relative mx-auto max-w-3xl text-center">
+          <div className="mb-7 inline-flex items-center gap-2 rounded-full border border-white/15 bg-white/[0.03] px-4 py-1.5 text-xs text-zinc-300 backdrop-blur-md">
+            <span className="inline-flex h-1.5 w-1.5 rounded-full bg-emerald-400" />
+            Open source archive · Living community timeline
+          </div>
+
+          <h1 className="text-balance text-4xl font-semibold tracking-tight text-white sm:text-6xl lg:text-7xl">
+            AI history, <span className="gradient-text">documented in real time.</span>
+          </h1>
+
+          <p className="mx-auto mt-6 max-w-2xl text-pretty text-base leading-relaxed text-zinc-400 sm:text-lg">
+            A Vercel-style command center for major milestones, unresolved debates,
+            and community truth-making as AI evolves week by week.
+          </p>
+
+          <div className="mt-9 flex flex-wrap items-center justify-center gap-3">
+            <Link href="/timeline" className="btn-primary rounded-lg px-5 py-2.5 text-sm font-medium">
+              Explore timeline
+            </Link>
+            <Link href="/questions" className="btn-secondary rounded-lg px-5 py-2.5 text-sm font-medium">
+              Track open questions
+            </Link>
+            <a
+              href={REPO}
+              target="_blank"
+              rel="noopener noreferrer"
+              className="btn-secondary rounded-lg px-5 py-2.5 text-sm font-medium"
+            >
+              Star on GitHub
+            </a>
+          </div>
         </div>
+      </section>
 
-        <h1 className="text-3xl sm:text-5xl md:text-7xl font-bold mb-6 gradient-text leading-[1.1] pb-2 tracking-tight">
-          AI History<br />in the Making
-        </h1>
-
-        <p className="text-lg md:text-xl text-gray-400 max-w-xl mx-auto mb-10 leading-relaxed">
-          Documenting the fastest technological revolution in human history.
-          What we debated months ago is already settled.
-        </p>
-
-        <div className="flex flex-wrap items-center justify-center gap-3">
-          <Link
-            href="/timeline"
-            className="btn-primary rounded-lg px-5 sm:px-6 py-2.5 text-sm font-medium text-white"
-          >
-            Explore Timeline
-          </Link>
-          <a
-            href={REPO}
-            className="btn-secondary rounded-lg px-5 sm:px-6 py-2.5 text-sm font-medium text-gray-300"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            ⭐ Star on GitHub
-          </a>
-        </div>
-      </div>
-
-      {/* Stats */}
-      <div className="grid grid-cols-2 md:grid-cols-4 gap-4 mb-20">
+      <section className="mt-10 grid gap-4 sm:grid-cols-2 lg:grid-cols-4">
         {[
-          { value: totalEvents, label: "Events", suffix: "+" },
-          { value: yearsSpanned, label: "Years Covered", suffix: "" },
-          { value: totalQuestions, label: "Questions", suffix: "" },
-          { value: resolved, label: "Resolved", suffix: "" },
-        ].map((stat) => (
-          <div key={stat.label} className="glass-card rounded-xl p-5 text-center">
-            <div className="text-3xl font-bold stat-glow text-white mb-1">
-              {stat.value}{stat.suffix}
-            </div>
-            <div className="text-xs text-gray-500 uppercase tracking-wider">
-              {stat.label}
-            </div>
+          { value: `${totalEvents}+`, label: "Milestones" },
+          { value: `${yearsSpanned}`, label: "Years Covered" },
+          { value: `${resolved}`, label: "Resolved Questions" },
+          { value: `${activeDebates}`, label: "Active Debates" },
+        ].map((item) => (
+          <div key={item.label} className="glass-card rounded-2xl px-5 py-6">
+            <p className="text-2xl font-semibold tracking-tight text-white">{item.value}</p>
+            <p className="mt-1 text-sm text-zinc-400">{item.label}</p>
           </div>
         ))}
-      </div>
+      </section>
 
-      <ActivityFeed />
-
-      {/* Section cards */}
-      <div className="grid md:grid-cols-2 gap-5 mb-20">
-        <Link href="/timeline" className="glass-card rounded-2xl p-7 group">
-          <div className="flex items-center gap-3 mb-4">
-            <div className="flex h-10 w-10 items-center justify-center rounded-lg bg-blue-500/10 text-blue-400 text-lg">
-              📅
-            </div>
-            <h2 className="text-lg font-semibold group-hover:text-blue-400 transition-colors">
-              Timeline
-            </h2>
-          </div>
-          <p className="text-gray-400 text-sm leading-relaxed mb-3">
-            Every major AI event from Turing&apos;s 1950 paper to today — model launches,
-            lab formations, funding rounds, and cultural inflection points.
+      <section className="mt-12 grid gap-6 lg:grid-cols-3">
+        <Link href="/timeline" className="glass-card group rounded-2xl p-6">
+          <p className="text-xs uppercase tracking-[0.2em] text-zinc-500">Core</p>
+          <h2 className="mt-3 text-xl font-semibold text-white">Timeline</h2>
+          <p className="mt-3 text-sm leading-relaxed text-zinc-400">
+            Follow landmark papers, launches, and culture-shifting moments from 1950 to today.
           </p>
-          <span className="text-xs text-indigo-400 font-medium">
-            {totalEvents} events →
+          <span className="mt-5 inline-flex text-sm font-medium text-indigo-300 transition-colors group-hover:text-indigo-200">
+            Browse all events →
           </span>
         </Link>
 
-        <Link href="/questions" className="glass-card rounded-2xl p-7 group">
-          <div className="flex items-center gap-3 mb-4">
-            <div className="flex h-10 w-10 items-center justify-center rounded-lg bg-purple-500/10 text-purple-400 text-lg">
-              🔮
-            </div>
-            <h2 className="text-lg font-semibold group-hover:text-purple-400 transition-colors">
-              Open Questions
-            </h2>
-          </div>
-          <p className="text-gray-400 text-sm leading-relaxed mb-3">
-            The big debates — what&apos;s resolved, what&apos;s still open, and how fast
-            the answers are arriving.
+        <Link href="/questions" className="glass-card group rounded-2xl p-6">
+          <p className="text-xs uppercase tracking-[0.2em] text-zinc-500">Signal</p>
+          <h2 className="mt-3 text-xl font-semibold text-white">Questions</h2>
+          <p className="mt-3 text-sm leading-relaxed text-zinc-400">
+            See what the community debated, what resolved quickly, and what still needs evidence.
           </p>
-          <span className="text-xs text-indigo-400 font-medium">
-            {totalQuestions} questions →
+          <span className="mt-5 inline-flex text-sm font-medium text-indigo-300 transition-colors group-hover:text-indigo-200">
+            Review open debates →
           </span>
         </Link>
 
-        <Link href="/debates" className="glass-card rounded-2xl p-7 group">
-          <div className="flex items-center gap-3 mb-4">
-            <div className="flex h-10 w-10 items-center justify-center rounded-lg bg-amber-500/10 text-amber-400 text-lg">
-              💬
-            </div>
-            <h2 className="text-lg font-semibold group-hover:text-amber-400 transition-colors">
-              Debates
-            </h2>
-          </div>
-          <p className="text-gray-400 text-sm leading-relaxed mb-3">
-            Active discussions on GitHub — contested events, challenged resolutions,
-            and broader questions about where AI is heading.
+        <Link href="/debates" className="glass-card group rounded-2xl p-6">
+          <p className="text-xs uppercase tracking-[0.2em] text-zinc-500">Community</p>
+          <h2 className="mt-3 text-xl font-semibold text-white">Debates</h2>
+          <p className="mt-3 text-sm leading-relaxed text-zinc-400">
+            Enter active GitHub discussions where claims are challenged and sources shape the record.
           </p>
-          <span className="text-xs text-indigo-400 font-medium">
-            View debates →
+          <span className="mt-5 inline-flex text-sm font-medium text-indigo-300 transition-colors group-hover:text-indigo-200">
+            Join the conversation →
           </span>
         </Link>
+      </section>
 
-        <a href={`${REPO}/issues/new/choose`} className="glass-card rounded-2xl p-7 group border-dashed!" target="_blank" rel="noopener noreferrer">
-          <div className="flex items-center gap-3 mb-4">
-            <div className="flex h-10 w-10 items-center justify-center rounded-lg bg-green-500/10 text-green-400 text-lg">
-              ✏️
-            </div>
-            <h2 className="text-lg font-semibold group-hover:text-green-400 transition-colors">
-              Contribute
-            </h2>
+      <section className="mt-12 grid gap-6 lg:grid-cols-[1.4fr_1fr]">
+        <div className="glass-card rounded-2xl p-6 sm:p-7">
+          <div className="mb-5 flex items-center justify-between">
+            <h3 className="text-base font-semibold text-white">Latest timeline cards</h3>
+            <Link href="/timeline" className="text-sm text-zinc-400 hover:text-zinc-200">
+              View all
+            </Link>
           </div>
-          <p className="text-gray-400 text-sm leading-relaxed mb-3">
-            Add events, propose questions, challenge the analysis. All content is
-            community-driven through GitHub Issues and PRs.
-          </p>
-          <span className="text-xs text-indigo-400 font-medium">
-            Start contributing →
-          </span>
-        </a>
-      </div>
-
-      {/* Pull quote */}
-      <div className="relative mb-20 px-2">
-        <div className="absolute left-0 top-0 bottom-0 w-px bg-gradient-to-b from-indigo-500 via-purple-500 to-pink-500 rounded-full" />
-        <div className="pl-8">
-          <p className="text-xl text-gray-300 italic leading-relaxed font-light">
-            &ldquo;I wonder things and they get resolved so fast that it feels like
-            we should be documenting this historic time in history.&rdquo;
-          </p>
+          <div className="space-y-3">
+            {timelineHighlights.map((event) => (
+              <article key={event.date} className="glass-subtle rounded-xl px-4 py-4">
+                <p className="text-xs font-medium uppercase tracking-[0.18em] text-zinc-500">{event.date.split('-')[0]}</p>
+                <p className="mt-1.5 text-sm font-medium text-zinc-100">{event.title}</p>
+                <p className="mt-1.5 line-clamp-2 text-sm text-zinc-400">{event.description}</p>
+              </article>
+            ))}
+          </div>
         </div>
-      </div>
 
-      {/* How it works */}
-      <div className="glass-card rounded-2xl p-8 mb-16">
-        <h3 className="text-lg font-semibold mb-8 text-center text-gray-200">
-          How truth works here
-        </h3>
-        <div className="grid md:grid-cols-3 gap-8">
-          {[
-            { icon: "📝", title: "Submit", desc: "Fork the repo, edit the JSON data files, open a pull request with sources." },
-            { icon: "💬", title: "Debate", desc: "All discussion happens in GitHub Issues and PR comments. Evidence wins." },
-            { icon: "✅", title: "Merge = Truth", desc: "What gets merged becomes the record. No gatekeeping — just consensus." },
-          ].map((step) => (
-            <div key={step.title} className="text-center">
-              <div className="text-2xl mb-3">{step.icon}</div>
-              <h4 className="font-medium text-gray-200 mb-1.5 text-sm">{step.title}</h4>
-              <p className="text-gray-500 text-xs leading-relaxed">{step.desc}</p>
-            </div>
-          ))}
-        </div>
-      </div>
+        <ActivityFeed />
+      </section>
+
+      <section className="mt-10 rounded-2xl border border-white/10 bg-white/[0.02] p-6 sm:p-8">
+        <p className="text-sm text-zinc-500">Quote from the community vision</p>
+        <p className="mt-3 max-w-3xl text-lg font-light leading-relaxed text-zinc-200 sm:text-xl">
+          “I wonder things and they get resolved so fast that it feels like we should be documenting this historic time in history.”
+        </p>
+      </section>
+
+      <section className="mt-10 grid gap-4 rounded-2xl border border-white/10 bg-white/[0.02] p-6 sm:grid-cols-3 sm:p-8">
+        {[
+          {
+            title: "Submit",
+            desc: "Fork the repo, update data files, and open a pull request with sources.",
+          },
+          {
+            title: "Debate",
+            desc: "Use issues and PR comments to challenge details with verifiable evidence.",
+          },
+          {
+            title: "Merge",
+            desc: "Consensus gets merged into the living record of AI history.",
+          },
+        ].map((step, index) => (
+          <div key={step.title} className="glass-subtle rounded-xl p-4">
+            <p className="text-xs uppercase tracking-[0.16em] text-zinc-500">0{index + 1}</p>
+            <h4 className="mt-2 text-sm font-semibold text-white">{step.title}</h4>
+            <p className="mt-2 text-sm leading-relaxed text-zinc-400">{step.desc}</p>
+          </div>
+        ))}
+      </section>
     </div>
   );
 }
