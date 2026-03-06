@@ -12,7 +12,7 @@ export default function Home() {
   const yearsSpanned = new Date().getFullYear() - 1950;
 
   return (
-    <div className="mx-auto max-w-4xl px-6">
+    <div className="mx-auto max-w-4xl px-4 sm:px-6 overflow-hidden">
       {/* Hero */}
       <div className="text-center pt-24 pb-20 hero-glow">
         <div className="inline-flex items-center gap-2 rounded-full border border-white/10 bg-white/[0.03] px-4 py-1.5 text-xs text-gray-400 mb-10 backdrop-blur-sm">
@@ -20,7 +20,7 @@ export default function Home() {
           Open source · Community driven · 30+ active debates
         </div>
 
-        <h1 className="text-5xl sm:text-6xl md:text-7xl font-bold mb-6 gradient-text leading-[1.1] pb-2 tracking-tight">
+        <h1 className="text-3xl sm:text-5xl md:text-7xl font-bold mb-6 gradient-text leading-[1.1] pb-2 tracking-tight">
           AI History<br />in the Making
         </h1>
 
@@ -29,16 +29,16 @@ export default function Home() {
           What we debated months ago is already settled.
         </p>
 
-        <div className="flex items-center justify-center gap-3">
+        <div className="flex flex-wrap items-center justify-center gap-3">
           <Link
             href="/timeline"
-            className="btn-primary rounded-lg px-6 py-2.5 text-sm font-medium text-white"
+            className="btn-primary rounded-lg px-5 sm:px-6 py-2.5 text-sm font-medium text-white"
           >
             Explore Timeline
           </Link>
           <a
             href={REPO}
-            className="btn-secondary rounded-lg px-6 py-2.5 text-sm font-medium text-gray-300"
+            className="btn-secondary rounded-lg px-5 sm:px-6 py-2.5 text-sm font-medium text-gray-300"
             target="_blank"
             rel="noopener noreferrer"
           >
