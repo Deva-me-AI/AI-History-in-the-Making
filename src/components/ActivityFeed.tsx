@@ -38,10 +38,30 @@ function relativeTime(iso: string): string {
   return `${years} year${years === 1 ? "" : "s"} ago`;
 }
 
+function stripMarkdown(text: string): string {
+  return text
+    .replace(/#{1,6}\s+/g, "")           // headings
+    .replace(/\*\*([^*]+)\*\*/g, "$1")    // bold
+    .replace(/\*([^*]+)\*/g, "$1")        // italic
+    .replace(/__([^_]+)__/g, "$1")        // bold underscores
+    .replace(/_([^_]+)_/g, "$1")          // italic underscores
+    .replace(/\[([^\]]+)\]\([^)]+\)/g, "$1") // links
+    .replace(/`([^`]+)`/g, "$1")          // inline code
+    .replace(/```[\s\S]*?```/g, "")       // code blocks
+    .replace(/^\s*[-*+]\s+/gm, "")        // list markers
+    .replace(/^\s*\d+\.\s+/gm, "")        // ordered list markers
+    .replace(/\|/g, " ")                  // table pipes
+    .replace(/\n+/g, " ")                 // newlines to spaces
+    .replace(/\s{2,}/g, " ")             // collapse whitespace
+    .trim();
+}
+
 function shortPreview(body: string): string {
-  if (!body) return "No preview available.";
-  if (body.length <= 100) return body;
-  return `${body.slice(0, 100).trimEnd()}…`;
+  if (!body) return "";
+  const clean = stripMarkdown(body);
+  if (!clean) return "";
+  if (clean.length <= 120) return clean;
+  return `${clean.slice(0, 120).trimEnd()}…`;
 }
 
 function labelTextColor(hex: string): string {

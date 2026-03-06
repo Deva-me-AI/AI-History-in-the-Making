@@ -681,6 +681,18 @@
     ]
   },
   {
+    "date": "2025-02-17",
+    "title": "Grok 3 Released",
+    "description": "xAI releases Grok 3 with massive compute scaling. Trained on xAI's Memphis supercluster with 100K H100s. Competitive with frontier models across benchmarks.",
+    "category": "Model Release",
+    "sources": [
+      {
+        "url": "https://x.ai/blog/grok-3",
+        "label": "xAI"
+      }
+    ]
+  },
+  {
     "date": "2025-03-01",
     "title": "Anthropic Raises $3.5B at $60B Valuation",
     "description": "Anthropic raises $3.5B at a $60B valuation, up from $18B a year earlier. Amazon and Google compete to be primary cloud partner. Safety-first approach is commercially viable.",
@@ -689,6 +701,18 @@
       {
         "url": "https://www.wsj.com/tech/ai/anthropic-closes-2-billion-fundraising-at-60-billion-valuation-1cd73cf4",
         "label": "Wall Street Journal"
+      }
+    ]
+  },
+  {
+    "date": "2025-03-25",
+    "title": "Gemini 2.5 with Native Tool Use",
+    "description": "Google releases Gemini 2.5 Pro with native tool use and deep research capabilities. Agents can browse, code, and reason in extended chains. Google's infrastructure advantage starts showing.",
+    "category": "Model Release",
+    "sources": [
+      {
+        "url": "https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/",
+        "label": "Google Blog"
       }
     ]
   },
@@ -705,38 +729,38 @@
     ]
   },
   {
-    "date": "2025-06-01",
-    "title": "Gemini 2.5 with Native Tool Use",
-    "description": "Google releases Gemini 2.5 Pro with native tool use and deep research capabilities. Agents can browse, code, and reason in extended chains. Google's infrastructure advantage starts showing.",
+    "date": "2025-05-22",
+    "title": "Claude 4 / Opus 4 Released",
+    "description": "Anthropic releases Claude 4 with Opus 4 as the new frontier reasoning model. Extended thinking, deeper code understanding, and improved reliability. Continues to dominate coding workflows.",
     "category": "Model Release",
     "sources": [
       {
-        "url": "https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/",
-        "label": "Google Blog"
+        "url": "https://www.anthropic.com/news/claude-4",
+        "label": "Anthropic"
       }
     ]
   },
   {
-    "date": "2025-06-01",
-    "title": "Gemini 3 Pro Released",
-    "description": "Google launches Gemini 3 Pro with expanded context, improved reasoning, and tighter integration with Google's ecosystem. Native image generation and tool use.",
+    "date": "2025-07-09",
+    "title": "Grok 4 \u2014 The RLVR Milestone",
+    "description": "xAI releases Grok 4. First major model where more than half of training cost was NOT pre-training. Reinforcement learning from verifiable rewards (RLVR) and synthetic data cross a critical threshold.",
     "category": "Model Release",
     "sources": [
       {
-        "url": "https://blog.google/technology/google-deepmind/gemini-model-updates-february-2025/",
-        "label": "Google Blog"
-      }
-    ]
-  },
-  {
-    "date": "2025-07-01",
-    "title": "Grok 3 Released",
-    "description": "xAI releases Grok 3 with massive compute scaling. Trained on xAI's Memphis supercluster with 100K H100s. Competitive with frontier models across benchmarks.",
-    "category": "Model Release",
-    "sources": [
-      {
-        "url": "https://x.ai/blog/grok-3",
+        "url": "https://x.ai/blog/grok-4",
         "label": "xAI"
+      }
+    ]
+  },
+  {
+    "date": "2025-08-07",
+    "title": "GPT-5 Series Launches",
+    "description": "OpenAI releases the GPT-5 family with significant improvements in reasoning, instruction following, and multimodal capabilities. The race at the frontier remains tight.",
+    "category": "Model Release",
+    "sources": [
+      {
+        "url": "https://openai.com/index/gpt-5/",
+        "label": "OpenAI"
       }
     ]
   },
@@ -765,6 +789,18 @@
     ]
   },
   {
+    "date": "2025-11-18",
+    "title": "Gemini 3 Pro Released",
+    "description": "Google launches Gemini 3 Pro with expanded context, improved reasoning, and tighter integration with Google's ecosystem. Native image generation and tool use.",
+    "category": "Model Release",
+    "sources": [
+      {
+        "url": "https://blog.google/technology/google-deepmind/gemini-model-updates-february-2025/",
+        "label": "Google Blog"
+      }
+    ]
+  },
+  {
     "date": "2025-12-01",
     "title": "Frontier Model Costs Drop 10x from 2024",
     "description": "Cost per token for frontier-quality inference drops roughly 10x year-over-year. What cost $100 in early 2024 costs $10 by end of 2025. The deflationary spiral continues.",
@@ -773,42 +809,6 @@
       {
         "url": "https://a16z.com/generative-ai-enterprise-2024/",
         "label": "a16z"
-      }
-    ]
-  },
-  {
-    "date": "2026-01-15",
-    "title": "Grok 4 \u2014 The RLVR Milestone",
-    "description": "xAI releases Grok 4. First major model where more than half of training cost was NOT pre-training. Reinforcement learning from verifiable rewards (RLVR) and synthetic data cross a critical threshold.",
-    "category": "Model Release",
-    "sources": [
-      {
-        "url": "https://x.ai/blog/grok-4",
-        "label": "xAI"
-      }
-    ]
-  },
-  {
-    "date": "2026-02-01",
-    "title": "Claude 4 / Opus 4 Released",
-    "description": "Anthropic releases Claude 4 with Opus 4 as the new frontier reasoning model. Extended thinking, deeper code understanding, and improved reliability. Continues to dominate coding workflows.",
-    "category": "Model Release",
-    "sources": [
-      {
-        "url": "https://www.anthropic.com/news/claude-4",
-        "label": "Anthropic"
-      }
-    ]
-  },
-  {
-    "date": "2026-02-01",
-    "title": "GPT-5 Series Launches",
-    "description": "OpenAI releases the GPT-5 family with significant improvements in reasoning, instruction following, and multimodal capabilities. The race at the frontier remains tight.",
-    "category": "Model Release",
-    "sources": [
-      {
-        "url": "https://openai.com/index/gpt-5/",
-        "label": "OpenAI"
       }
     ]
   },
