@@ -17,8 +17,8 @@ export default function Navigation() {
   const [open, setOpen] = useState(false);
 
   return (
-    <nav className="sticky top-0 z-50 border-b border-white/5 bg-[#050510]/60 backdrop-blur-2xl">
-      <div className="mx-auto flex max-w-5xl items-center justify-between px-6 py-3.5">
+    <nav className="sticky top-0 z-50">
+      <div className="mx-auto mt-3 flex w-[min(1040px,calc(100%-2rem))] items-center justify-between rounded-2xl border border-white/10 bg-black/45 px-4 py-2.5 shadow-[0_10px_40px_rgba(0,0,0,0.35)] backdrop-blur-xl sm:px-6">
         <Link href="/" className="flex items-center gap-2 group">
           <span className="text-lg">⏳</span>
           <span className="text-sm font-semibold tracking-tight text-gray-200 group-hover:text-white transition-colors">
@@ -27,7 +27,7 @@ export default function Navigation() {
         </Link>
 
         {/* Desktop */}
-        <div className="hidden md:flex items-center gap-1">
+        <div className="hidden items-center gap-1 md:flex">
           {links.map((link) => (
             <Link
               key={link.href}
@@ -49,7 +49,7 @@ export default function Navigation() {
         {/* Mobile hamburger */}
         <button
           onClick={() => setOpen(!open)}
-          className="md:hidden text-gray-400 hover:text-white transition-colors p-1"
+          className="p-1 text-gray-400 transition-colors hover:text-white md:hidden"
           aria-label="Toggle menu"
         >
           <svg width="20" height="20" viewBox="0 0 20 20" fill="currentColor">
@@ -64,7 +64,7 @@ export default function Navigation() {
 
       {/* Mobile menu */}
       {open && (
-        <div className="md:hidden border-t border-white/5 bg-[#050510]/95 backdrop-blur-xl px-6 py-3">
+        <div className="mx-auto mt-2 w-[min(1040px,calc(100%-2rem))] rounded-2xl border border-white/10 bg-black/80 px-4 py-3 backdrop-blur-xl md:hidden sm:px-6">
           {links.map((link) => (
             <Link
               key={link.href}
