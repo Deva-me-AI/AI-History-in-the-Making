@@ -1,59 +1,14 @@
 {
-  "scanDate": "2026-03-06",
-  "candidates": [
-    {
-      "type": "timeline_event",
-      "date": "2026-02-28",
-      "title": "Pentagon Designates Anthropic a 'Supply Chain Risk'",
-      "description": "Defense Secretary Pete Hegseth designates Anthropic a 'supply chain risk,' barring any contractor or supplier doing business with the US military from commercial activity with Anthropic. The move follows Anthropic's refusal to remove safeguards against autonomous weapons and mass domestic surveillance from Claude. Defense contractors including Lockheed Martin begin dropping Claude. CEO Dario Amodei responds with a scathing memo: 'We haven't donated to Trump. We haven't given dictator-style praise to Trump.' First time the US government weaponizes supply chain designations against an AI company for policy disagreements — not security concerns.",
-      "category": "Policy",
-      "sources": [
-        {"url": "https://www.cnbc.com/2026/03/04/pentagon-blacklist-anthropic-defense-tech-claude.html", "label": "CNBC"},
-        {"url": "https://www.anthropic.com/news/statement-comments-secretary-war", "label": "Anthropic Statement"}
-      ],
-      "significance": "First use of supply chain risk designation as political leverage against an AI lab. Sets precedent for government coercion of AI safety policies. The inverse effect — Claude breaking App Store records globally — suggests the market may punish government overreach.",
-      "confidence": "high"
-    },
-    {
-      "type": "timeline_event",
-      "date": "2026-03-05",
-      "title": "Meta Opens WhatsApp to Rival AI Chatbots in EU",
-      "description": "Under pressure from European Commission antitrust regulators, Meta announces it will temporarily allow rival AI chatbots (including ChatGPT, Copilot) on WhatsApp via the Business API in Europe for 12 months, 'for a fee.' Previously Meta had been blocking competitors' AI chatbots on the platform.",
-      "category": "Policy",
-      "sources": [
-        {"url": "https://www.reuters.com/legal/litigation/meta-allow-ai-rivals-whatsapp-bid-stave-off-eu-action-2026-03-05/", "label": "Reuters"}
-      ],
-      "significance": "EU antitrust action forcing platform interoperability for AI chatbots. Sets precedent for whether messaging platforms can lock out rival AI — a key distribution question for the entire industry.",
-      "confidence": "medium"
-    },
-    {
-      "type": "timeline_event",
-      "date": "2026-03-03",
-      "title": "OpenAI Developing GitHub Rival",
-      "description": "OpenAI is in early stages of developing its own code repository platform, putting it in direct competition with GitHub (owned by Microsoft, which holds a significant stake in OpenAI). Prompted by recent GitHub outages. The move signals OpenAI's ambition to own the full AI-assisted development stack.",
-      "category": "Industry",
-      "sources": [
-        {"url": "https://www.theverge.com/ai-artificial-intelligence", "label": "The Verge"}
-      ],
-      "significance": "OpenAI competing directly with its largest investor's subsidiary. If shipped, could restructure AI-assisted development tooling and the OpenAI-Microsoft relationship. Still early — confidence medium.",
-      "confidence": "medium"
-    }
-  ],
+  "scanDate": "2026-03-07",
+  "candidates": [],
   "questionUpdates": [
     {
-      "questionId": "model-convergence",
-      "newEvidence": "Claude breaking App Store records globally after Pentagon designation suggests brand differentiation matters more than benchmarks. Users are actively choosing Claude over alternatives, indicating experiential divergence despite benchmark convergence.",
+      "questionId": "government-ai-coercion",
+      "newEvidence": "Week of Mar 3-7: Pentagon supply chain risk designation is having cascading real-world effects. CNBC reports (Mar 4) that defense contractors including Lockheed Martin are actively removing Claude from their supply chains. J2 Ventures says 10 portfolio companies have backed off Claude for defense use cases. Meanwhile, a leaked Dario Amodei internal memo (Mar 5) explicitly blamed Anthropic's refusal to 'pander to Trump' — stating they haven't donated to or praised the president, unlike OpenAI. Paradoxically, Claude is now the #1 free app on the US iOS App Store (AppFigures, Mar 6-7), breaking daily signup records globally — a textbook Streisand effect. Anthropic argues (citing 10 USC 3252) that Hegseth lacks legal authority for the designation. The situation remains in limbo: no official legal action filed by either side.",
       "suggestedStatusChange": "none",
-      "source": "https://www.theverge.com/ai-artificial-intelligence"
+      "source": "https://www.cnbc.com/2026/03/04/pentagon-blacklist-anthropic-defense-tech-claude.html"
     }
   ],
-  "newQuestions": [
-    {
-      "id": "government-ai-coercion",
-      "question": "Will governments use regulatory/procurement power to coerce AI companies on safety policies?",
-      "status": "open",
-      "evidence": "The Pentagon's supply chain risk designation of Anthropic is the first clear case of a government weaponizing procurement power to pressure an AI lab into changing its safety guardrails. Anthropic refused to remove restrictions on autonomous weapons and mass surveillance. The market response (record signups, App Store charts) suggests public sympathy with the lab, but defense contractors are complying with the government.",
-      "analysis": "This may be the most consequential AI governance question of 2026. If Anthropic capitulates, it signals that safety policies are negotiable under government pressure. If they successfully resist (legally or via market support), it establishes that AI labs can maintain independent safety standards. The US-China dynamic adds complexity — if the US forces its labs to remove safety guardrails for military use, it undermines the 'democratic AI is safer' narrative."
-    }
-  ]
+  "newQuestions": [],
+  "notes": "Scanned The Verge, CNBC, Ars Technica, Sources (Alex Heath), AppFigures. Other stories considered but did not meet timeline bar: OpenAI developing a GitHub rival (early stage, months away — not an event yet); OpenAI Codex Security launch (product update); AI Wikipedia translation hallucinations (interesting but not historically significant); OpenAI delaying ChatGPT 'adult mode' (product timing). The Anthropic/Pentagon saga continues to evolve but the base event (Feb 28 designation) is already on the timeline — current developments are evidence accumulation, not a new inflection point. Note: web_search was unavailable (Gemini API key invalid), so scanning was done via web_fetch on major news sites."
 }
