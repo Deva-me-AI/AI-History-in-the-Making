@@ -640,6 +640,18 @@
     ]
   },
   {
+    "date": "2024-06-20",
+    "title": "Claude 3.5 Sonnet Becomes Coding Standard",
+    "description": "Claude 3.5 Sonnet becomes the de facto model for AI-assisted coding. Developers prefer it over GPT-4 for code tasks. Anthropic's quiet dominance in the developer market.",
+    "category": "Industry",
+    "sources": [
+      {
+        "url": "https://www.anthropic.com/news/claude-3-5-sonnet",
+        "label": "Anthropic"
+      }
+    ]
+  },
+  {
     "date": "2024-12-01",
     "title": "Context Windows: 200K+ Becomes Commodity, 1M+ at Frontier",
     "description": "By end of 2024, 200K+ token context windows are commodity across frontier models, with Gemini offering 1M-2M. GPT-4 Turbo hit 128K in Nov 2023, Claude 3 launched at 200K in March 2024. The frontier pushes toward practical 1M+ usage.",
@@ -667,18 +679,6 @@
       }
     ],
     "issueNumber": 16
-  },
-  {
-    "date": "2024-06-20",
-    "title": "Claude 3.5 Sonnet Becomes Coding Standard",
-    "description": "Claude 3.5 Sonnet becomes the de facto model for AI-assisted coding. Developers prefer it over GPT-4 for code tasks. Anthropic's quiet dominance in the developer market.",
-    "category": "Industry",
-    "sources": [
-      {
-        "url": "https://www.anthropic.com/news/claude-3-5-sonnet",
-        "label": "Anthropic"
-      }
-    ]
   },
   {
     "date": "2025-02-17",
@@ -875,5 +875,64 @@
         "label": "Reuters"
       }
     ]
+  },
+  {
+    "date": "2026-03-05",
+    "title": "Claude AI Reportedly Used in US Strike That Killed Iran's Supreme Leader",
+    "description": "Multiple reports indicate Claude, integrated into Palantir's Maven Smart System, was used by the US military for targeting and intelligence analysis in Operation Lion's Roar \u2014 the strike that killed Iran's Supreme Leader Khamenei. Claude reportedly processed vast amounts of data to identify and prioritize over 1,000 targets in the first 24 hours. This occurred despite a simultaneous government-wide ban on Anthropic technology, revealing deep contradictions in the Pentagon's AI policy.",
+    "category": "Military & Security",
+    "sources": [
+      {
+        "url": "https://www.washingtonpost.com",
+        "label": "Washington Post"
+      },
+      {
+        "url": "https://www.wsj.com",
+        "label": "Wall Street Journal"
+      },
+      {
+        "url": "https://time.com",
+        "label": "Time"
+      }
+    ],
+    "significance": "First confirmed use of frontier AI in a military strike killing a head of state. Reveals the contradiction: the Pentagon banned Anthropic while its military actively depended on Claude for operations. A watershed moment for AI in warfare."
+  },
+  {
+    "date": "2026-03-07",
+    "title": "DOGE Uses ChatGPT to Cancel Federal Grants at Scale",
+    "description": "The New York Times reveals that DOGE staffers used ChatGPT to decide which National Endowment for the Humanities grants to cancel. They fed grant summaries with the prompt: \"Does the following relate at all to D.E.I.? Respond factually in less than 120 characters. Begin with Yes or No.\" First confirmed case of a US government agency using an AI chatbot for mass consequential policy decisions. Multiple historical and linguistic associations filed a lawsuit alleging constitutional violations.",
+    "category": "Policy",
+    "sources": [
+      {
+        "url": "https://www.nytimes.com/2026/03/07/arts/humanities-endowment-doge-trump.html",
+        "label": "New York Times"
+      },
+      {
+        "url": "https://www.historians.org",
+        "label": "American Historical Association (lawsuit)"
+      }
+    ],
+    "significance": "First documented case of US government using AI chatbot for mass consequential decisions \u2014 grant cancellations based on a yes/no ChatGPT prompt. Sets precedent for AI-driven policy enforcement with minimal human oversight."
+  },
+  {
+    "date": "2026-03-07",
+    "title": "OpenAI Pentagon Deal Exposed as \"Any Lawful Use\" \u2014 Robotics Lead Resigns",
+    "description": "Sources reveal OpenAI's Pentagon deal amounts to \"any lawful use\" of its technology by the US military, despite Sam Altman framing it as preserving red lines against surveillance and lethal autonomy. OpenAI's head of robotics Caitlin Kalinowski resigns in protest. Former policy head Miles Brundage publicly states employees should assume \"OpenAI caved + framed it as not caving.\" Altman later admits the deal was \"rushed\" and announces amendments to prohibit domestic surveillance.",
+    "category": "Policy",
+    "sources": [
+      {
+        "url": "https://www.theverge.com/ai-artificial-intelligence/887309/openai-anthropic-dod-military-pentagon-contract-sam-altman-hegseth",
+        "label": "The Verge"
+      },
+      {
+        "url": "https://www.forbes.com",
+        "label": "Forbes"
+      },
+      {
+        "url": "https://www.businessinsider.com",
+        "label": "Business Insider"
+      }
+    ],
+    "significance": "Crystallizes the divergence between frontier AI labs on military AI: OpenAI chose compliance, Anthropic chose resistance. The high-profile resignation and internal criticism mark a new phase of the AI safety vs. commercialization tension."
   }
 ]
