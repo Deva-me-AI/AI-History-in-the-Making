@@ -21,6 +21,14 @@ export const metadata: Metadata = {
       "Documenting the fastest technological revolution in human history.",
     type: "website",
     url: "https://www.aihistoricunfolding.com",
+    images: [
+      {
+        url: "https://www.aihistoricunfolding.com/og-image.jpg",
+        width: 1024,
+        height: 1024,
+        alt: "AI History in the Making — from early computing to humanoid robots",
+      },
+    ],
   },
   twitter: {
     card: "summary_large_image",
@@ -28,6 +36,7 @@ export const metadata: Metadata = {
     description: "Documenting the fastest technological revolution in human history.",
     creator: "@AI_History_Deva",
     site: "@AI_History_Deva",
+    images: ["https://www.aihistoricunfolding.com/og-image.jpg"],
   },
 };
 
