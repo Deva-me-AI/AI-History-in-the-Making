@@ -27,6 +27,7 @@ const categoryColors: Record<string, string> = {
   Infrastructure: "bg-purple-500/20 text-purple-300 border-purple-500/30",
   Industry: "bg-pink-500/20 text-pink-300 border-pink-500/30",
   Research: "bg-cyan-500/20 text-cyan-300 border-cyan-500/30",
+  "Military & Security": "bg-orange-500/20 text-orange-300 border-orange-500/30",
 };
 
 function formatDate(dateStr: string): string {
@@ -46,13 +47,23 @@ const REPO = "https://github.com/Deva-me-AI/AI-History-in-the-Making";
 
 export default function TimelinePage() {
   const [newestFirst, setNewestFirst] = useState(true);
+  const [selectedCategories, setSelectedCategories] = useState<string[]>([]);
 
-  const events: TimelineEvent[] = [...timelineData].sort((a, b) => {
+  const allEvents = timelineData as TimelineEvent[];
+  const allCategories = Array.from(new Set(allEvents.map((event) => event.category))).sort((a, b) =>
+    a.localeCompare(b)
+  );
+
+  const filteredEvents = allEvents.filter((event) => {
+    if (selectedCategories.length === 0) return true;
+    return selectedCategories.includes(event.category);
+  });
+
+  const events: TimelineEvent[] = [...filteredEvents].sort((a, b) => {
     const diff = new Date(a.date).getTime() - new Date(b.date).getTime();
     return newestFirst ? -diff : diff;
   });
 
-  // Group by year
   const years: Record<string, TimelineEvent[]> = {};
   for (const event of events) {
     const year = getYear(event.date);
@@ -75,7 +86,7 @@ export default function TimelinePage() {
         Major AI events from {newestFirst ? "the present back to the field's origins" : "the field's origins to the present"}.
         Each event links to sources — many link to GitHub issues for active debate.
       </p>
-      <p className="text-gray-500 text-sm mb-12">
+      <p className="text-gray-500 text-sm mb-8">
         📂 Data lives in{" "}
         <a
           href={`${REPO}/blob/main/data/timeline.json`}
@@ -106,85 +117,119 @@ export default function TimelinePage() {
         .
       </p>
 
+      <div className="flex flex-wrap gap-2 mb-4">
+        <button
+          onClick={() => setSelectedCategories([])}
+          className={`rounded-full border px-3 py-1 text-sm transition-colors ${
+            selectedCategories.length === 0
+              ? "bg-gray-200 text-gray-900 border-gray-200"
+              : "border-gray-600 text-gray-300 hover:border-gray-500 hover:text-white"
+          }`}
+        >
+          All
+        </button>
+        {allCategories.map((category) => {
+          const isSelected = selectedCategories.includes(category);
+          const colorClass =
+            categoryColors[category] || "bg-gray-500/20 text-gray-300 border-gray-500/30";
+          const outlinedClass = `${colorClass.replace(/bg-\S+/g, "bg-transparent").replace(/text-\S+/g, "text-gray-300")}`;
+
+          return (
+            <button
+              key={category}
+              onClick={() =>
+                setSelectedCategories((prev) =>
+                  prev.includes(category)
+                    ? prev.filter((item) => item !== category)
+                    : [...prev, category]
+                )
+              }
+              className={`rounded-full border px-3 py-1 text-sm transition-colors ${
+                isSelected ? colorClass : outlinedClass
+              }`}
+            >
+              {category}
+            </button>
+          );
+        })}
+      </div>
+
+      <p className="text-sm text-gray-400 mb-12">Showing {events.length} of {allEvents.length} events</p>
+
       {Object.entries(years)
-        .sort(([a], [b]) => newestFirst ? Number(b) - Number(a) : Number(a) - Number(b))
+        .sort(([a], [b]) => (newestFirst ? Number(b) - Number(a) : Number(a) - Number(b)))
         .map(([year, yearEvents]) => (
-        <div key={year} className="mb-16">
-          <h2 className="text-2xl font-bold mb-8 text-gray-300 sticky top-[57px] bg-[#050510] py-2 z-10 year-header">
-            {year}
-          </h2>
-          <div className="relative pl-8 border-l border-white/[0.06]">
-            {yearEvents.map((event, i) => (
-              <div key={`${event.date}-${i}`} className="mb-10 relative timeline-event">
-                <div className="absolute -left-[calc(2rem+4px)] top-1.5 h-2.5 w-2.5 rounded-full bg-gradient-to-r from-indigo-400 to-purple-400 timeline-dot" />
+          <div key={year} className="mb-16">
+            <h2 className="text-2xl font-bold mb-8 text-gray-300 sticky top-[57px] bg-[#050510] py-2 z-10 year-header">
+              {year}
+            </h2>
+            <div className="relative pl-8 border-l border-white/[0.06]">
+              {yearEvents.map((event, i) => (
+                <div key={`${event.date}-${i}`} className="mb-10 relative timeline-event">
+                  <div className="absolute -left-[calc(2rem+4px)] top-1.5 h-2.5 w-2.5 rounded-full bg-gradient-to-r from-indigo-400 to-purple-400 timeline-dot" />
 
-                <div className="text-xs text-gray-500 mb-1">
-                  {formatDate(event.date)}
+                  <div className="text-xs text-gray-500 mb-1">{formatDate(event.date)}</div>
+                  {event.issueNumber ? (
+                    <a
+                      href={`${REPO}/issues/${event.issueNumber}`}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="text-lg font-semibold mb-1 break-words hover:text-indigo-300 transition-colors block"
+                    >
+                      {event.title} <span className="text-xs text-gray-500 font-normal">💬</span>
+                    </a>
+                  ) : (
+                    <h3 className="text-lg font-semibold mb-1 break-words">{event.title}</h3>
+                  )}
+                  <span
+                    className={`category-badge inline-block mb-2 border ${
+                      categoryColors[event.category] || "bg-gray-500/20 text-gray-300 border-gray-500/30"
+                    }`}
+                  >
+                    {event.category}
+                  </span>
+                  <p className="text-gray-400 text-sm leading-relaxed break-words">{event.description}</p>
+
+                  {event.sources && event.sources.length > 0 && (
+                    <div className="flex flex-wrap gap-3 mt-2">
+                      {event.sources.map((source, si) => (
+                        <a
+                          key={si}
+                          href={source.url}
+                          className="inline-flex items-center gap-1 text-xs text-blue-400 hover:text-blue-300 transition-colors"
+                          target="_blank"
+                          rel="noopener noreferrer"
+                        >
+                          📎 {source.label}
+                        </a>
+                      ))}
+                    </div>
+                  )}
+
+                  {event.issueNumber ? (
+                    <a
+                      href={`${REPO}/issues/${event.issueNumber}`}
+                      className="inline-flex items-center gap-1.5 mt-2 text-xs text-amber-400 hover:text-amber-300 transition-colors"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      💬 View debate (#{event.issueNumber})
+                    </a>
+                  ) : (
+                    <a
+                      href={`${REPO}/discussions`}
+                      className="inline-flex items-center gap-1.5 mt-2 text-xs text-gray-500 hover:text-gray-400 transition-colors"
+                      target="_blank"
+                      rel="noopener noreferrer"
+                    >
+                      💬 Discuss on GitHub
+                    </a>
+                  )}
                 </div>
-                {event.issueNumber ? (
-                  <a
-                    href={`${REPO}/issues/${event.issueNumber}`}
-                    target="_blank"
-                    rel="noopener noreferrer"
-                    className="text-lg font-semibold mb-1 break-words hover:text-indigo-300 transition-colors block"
-                  >
-                    {event.title} <span className="text-xs text-gray-500 font-normal">💬</span>
-                  </a>
-                ) : (
-                  <h3 className="text-lg font-semibold mb-1 break-words">{event.title}</h3>
-                )}
-                <span
-                  className={`category-badge inline-block mb-2 border ${
-                    categoryColors[event.category] ||
-                    "bg-gray-500/20 text-gray-300 border-gray-500/30"
-                  }`}
-                >
-                  {event.category}
-                </span>
-                <p className="text-gray-400 text-sm leading-relaxed break-words">
-                  {event.description}
-                </p>
-
-                {event.sources && event.sources.length > 0 && (
-                  <div className="flex flex-wrap gap-3 mt-2">
-                    {event.sources.map((source, si) => (
-                      <a
-                        key={si}
-                        href={source.url}
-                        className="inline-flex items-center gap-1 text-xs text-blue-400 hover:text-blue-300 transition-colors"
-                        target="_blank"
-                        rel="noopener noreferrer"
-                      >
-                        📎 {source.label}
-                      </a>
-                    ))}
-                  </div>
-                )}
-
-                {event.issueNumber ? (
-                  <a
-                    href={`${REPO}/issues/${event.issueNumber}`}
-                    className="inline-flex items-center gap-1.5 mt-2 text-xs text-amber-400 hover:text-amber-300 transition-colors"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    💬 View debate (#{event.issueNumber})
-                  </a>
-                ) : (
-                  <a
-                    href={`${REPO}/discussions`}
-                    className="inline-flex items-center gap-1.5 mt-2 text-xs text-gray-500 hover:text-gray-400 transition-colors"
-                    target="_blank"
-                    rel="noopener noreferrer"
-                  >
-                    💬 Discuss on GitHub
-                  </a>
-                )}
-              </div>
-            ))}
+              ))}
+            </div>
           </div>
-        </div>
-      ))}
+        ))}
 
       <ContributeCard context="Missing an event? Think a date or description is wrong? Open an issue or submit a PR." />
     </div>
