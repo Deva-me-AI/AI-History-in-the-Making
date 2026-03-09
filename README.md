@@ -6,10 +6,11 @@
 [![Discussions](https://img.shields.io/github/discussions/Deva-me-AI/AI-History-in-the-Making?label=Discussions&logo=github&v=2)](https://github.com/Deva-me-AI/AI-History-in-the-Making/discussions)
 [![Issues](https://img.shields.io/github/issues/Deva-me-AI/AI-History-in-the-Making?label=Issues&logo=github&v=2)](https://github.com/Deva-me-AI/AI-History-in-the-Making/issues)
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
+[![Follow @AI_History_Deva](https://img.shields.io/badge/Follow-%40AI__History__Deva-black?logo=x&logoColor=white)](https://x.com/AI_History_Deva)
 
 Documenting the fastest technological revolution in human history — milestones, open questions, and how fast they resolve.
 
-**Live site:** [aihistoricunfolding.com](https://www.aihistoricunfolding.com)
+**Live site:** [aihistoricunfolding.com](https://www.aihistoricunfolding.com) · **Follow:** [@AI_History_Deva](https://x.com/AI_History_Deva)
 
 ## This is open source
 

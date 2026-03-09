@@ -26,6 +26,8 @@ export const metadata: Metadata = {
     card: "summary_large_image",
     title: "AI History in the Making",
     description: "Documenting the fastest technological revolution in human history.",
+    creator: "@AI_History_Deva",
+    site: "@AI_History_Deva",
   },
 };
 
@@ -48,6 +50,8 @@ export default function RootLayout({
             <span className="gradient-text font-medium">AI History in the Making</span> — A living, open-source document.
           </p>
           <div className="flex items-center justify-center gap-4">
+            <a href="https://x.com/AI_History_Deva" className="text-gray-400 dark:text-gray-500 hover:text-gray-700 dark:hover:text-gray-300 transition-colors" target="_blank" rel="noopener noreferrer">𝕏 @AI_History_Deva</a>
+            <span className="text-gray-300 dark:text-gray-800">·</span>
             <a href="https://github.com/Deva-me-AI/AI-History-in-the-Making" className="text-gray-400 dark:text-gray-500 hover:text-gray-700 dark:hover:text-gray-300 transition-colors" target="_blank" rel="noopener noreferrer">GitHub</a>
             <span className="text-gray-300 dark:text-gray-800">·</span>
             <a href="https://github.com/Deva-me-AI/AI-History-in-the-Making/issues/new/choose" className="text-gray-400 dark:text-gray-500 hover:text-gray-700 dark:hover:text-gray-300 transition-colors" target="_blank" rel="noopener noreferrer">Open an Issue</a>
