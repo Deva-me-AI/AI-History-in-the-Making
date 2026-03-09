@@ -1,1 +1,79 @@
-{"scanDate":"2026-03-08","candidates":[],"questionUpdates":[],"newQuestions":[]}
+{
+  "scanDate": "2026-03-09",
+  "candidates": [
+    {
+      "type": "timeline_event",
+      "date": "2026-03-08",
+      "title": "OpenAI Stargate Data Center Deal with Oracle Collapses",
+      "description": "OpenAI's massive Stargate data center project — announced in January 2025 as a $500B AI infrastructure joint venture — reportedly canceled after OpenAI and Oracle could not reach terms. The operator reportedly struggled with reliability issues. Meta is said to be interested in snatching excess capacity. If confirmed, this represents a major shift in the AI compute buildout landscape.",
+      "category": "Infrastructure & Compute",
+      "sources": [
+        {
+          "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-massive-stargate-data-center-canceled-as-firm-cant-reach-terms-with-oracle-operator-struggles-with-reliability-issues-meta-said-to-be-interested-in-snatching-excess-capacity",
+          "label": "Tom's Hardware (Mar 8, 2026)"
+        }
+      ],
+      "significance": "The Stargate project was the single largest announced AI infrastructure investment in history ($500B). Its collapse signals that even the most well-funded AI compute buildouts face execution risk, and reshuffles the compute landscape if Meta absorbs the capacity.",
+      "confidence": "medium"
+    },
+    {
+      "type": "timeline_event",
+      "date": "2026-03-07",
+      "title": "OpenAI Head of Robotics Resigns Over Pentagon Deal",
+      "description": "Caitlin Kalinowski, OpenAI's head of robotics, resigned over the company's Pentagon contract, saying it didn't do enough to protect Americans from warrantless surveillance and that granting AI 'lethal autonomy without human authorization' deserved more deliberation. This is the first high-profile executive departure from a major AI lab explicitly over military AI ethics.",
+      "category": "Power & Governance",
+      "sources": [
+        {
+          "url": "https://x.com/kalinowski007/status/2030320074121478618",
+          "label": "Caitlin Kalinowski on X (Mar 7, 2026)"
+        },
+        {
+          "url": "https://www.theverge.com/ai-artificial-intelligence/887309/openai-anthropic-dod-military-pentagon-contract-sam-altman-hegseth",
+          "label": "The Verge coverage"
+        }
+      ],
+      "significance": "First senior executive resignation from a major AI lab specifically over military AI ethics. Sets a precedent for internal dissent at AI companies over government contracts and lethal autonomy questions.",
+      "confidence": "high"
+    },
+    {
+      "type": "timeline_event",
+      "date": "2026-02-24",
+      "title": "Qwen 3.5 Released — Multimodal Hybrid Reasoning from Alibaba",
+      "description": "Alibaba's Qwen team releases Qwen 3.5, featuring models from 0.8B to 397B parameters with Mixture-of-Experts architecture, 256K context across 201 languages, unified vision-language foundation with early fusion, and thinking/non-thinking modes. The 35B-A3B model (only 3B active parameters) runs on consumer hardware while matching much larger dense models.",
+      "category": "Model Release",
+      "sources": [
+        {
+          "url": "https://huggingface.co/Qwen/Qwen3.5-27B",
+          "label": "Hugging Face model card (created Feb 24, 2026)"
+        },
+        {
+          "url": "https://unsloth.ai/docs/models/qwen3.5",
+          "label": "Unsloth guide with GGUF benchmarks"
+        }
+      ],
+      "significance": "Represents a significant open-weights frontier model with hybrid MoE architecture, multimodal reasoning, and extreme efficiency. The 35B-A3B model running on a 22GB device while competing with much larger models signals that MoE efficiency is making frontier-class capabilities accessible on consumer hardware. Major step for open-source keeping pace with closed frontier labs.",
+      "confidence": "high"
+    }
+  ],
+  "questionUpdates": [
+    {
+      "questionId": "government-ai-coercion",
+      "newEvidence": "Defense contractors are already backing off Claude after Pentagon 'supply chain risk' designation (CNBC, Mar 4). Simultaneously, Anthropic usage is paradoxically booming — breaking daily signup records and topping App Store charts in dozens of countries (AppFigures data, Mar 6). Anthropic CEO Dario Amodei sent internal memo suggesting the designation came because Anthropic wouldn't donate to or praise Trump, unlike competitors. This creates a split: government coercion is working on defense contractors but backfiring in the consumer/commercial market.",
+      "suggestedStatusChange": "none",
+      "source": "https://www.theverge.com/ai-artificial-intelligence"
+    },
+    {
+      "questionId": "open-source-frontier",
+      "newEvidence": "Qwen 3.5's MoE models (35B-A3B, 122B-A10B, 397B-A17B) with 256K context and multimodal capabilities demonstrate open-weights models matching closed frontier capabilities. The 35B model with only 3B active parameters runs on consumer hardware (22GB RAM), significantly lowering the bar for running frontier-class models locally.",
+      "suggestedStatusChange": "none",
+      "source": "https://huggingface.co/Qwen/Qwen3.5-27B"
+    },
+    {
+      "questionId": "scaling-bottleneck",
+      "newEvidence": "Stargate's collapse (if confirmed) — the largest announced AI compute project ($500B) failing due to commercial terms and reliability issues — suggests that the real bottleneck for AI scaling may be business execution and infrastructure reliability rather than raw capital availability. Apple's 512GB Mac Studio vanishing also points to DRAM/HBM supply as a concrete hardware constraint.",
+      "suggestedStatusChange": "none",
+      "source": "https://www.tomshardware.com/tech-industry/artificial-intelligence/openais-massive-stargate-data-center-canceled-as-firm-cant-reach-terms-with-oracle-operator-struggles-with-reliability-issues-meta-said-to-be-interested-in-snatching-excess-capacity"
+    }
+  ],
+  "newQuestions": []
+}
