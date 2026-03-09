@@ -895,7 +895,8 @@
         "label": "Time"
       }
     ],
-    "significance": "First confirmed use of frontier AI in a military strike killing a head of state. Reveals the contradiction: the Pentagon banned Anthropic while its military actively depended on Claude for operations. A watershed moment for AI in warfare."
+    "significance": "First confirmed use of frontier AI in a military strike killing a head of state. Reveals the contradiction: the Pentagon banned Anthropic while its military actively depended on Claude for operations. A watershed moment for AI in warfare.",
+    "issueNumber": 85
   },
   {
     "date": "2026-03-07",
@@ -912,7 +913,8 @@
         "label": "American Historical Association (lawsuit)"
       }
     ],
-    "significance": "First documented case of US government using AI chatbot for mass consequential decisions \u2014 grant cancellations based on a yes/no ChatGPT prompt. Sets precedent for AI-driven policy enforcement with minimal human oversight."
+    "significance": "First documented case of US government using AI chatbot for mass consequential decisions \u2014 grant cancellations based on a yes/no ChatGPT prompt. Sets precedent for AI-driven policy enforcement with minimal human oversight.",
+    "issueNumber": 83
   },
   {
     "date": "2026-03-07",
@@ -933,6 +935,7 @@
         "label": "Business Insider"
       }
     ],
-    "significance": "Crystallizes the divergence between frontier AI labs on military AI: OpenAI chose compliance, Anthropic chose resistance. The high-profile resignation and internal criticism mark a new phase of the AI safety vs. commercialization tension."
+    "significance": "Crystallizes the divergence between frontier AI labs on military AI: OpenAI chose compliance, Anthropic chose resistance. The high-profile resignation and internal criticism mark a new phase of the AI safety vs. commercialization tension.",
+    "issueNumber": 84
   }
 ]

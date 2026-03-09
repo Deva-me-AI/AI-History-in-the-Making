@@ -121,7 +121,18 @@ export default function TimelinePage() {
                 <div className="text-xs text-gray-500 mb-1">
                   {formatDate(event.date)}
                 </div>
-                <h3 className="text-lg font-semibold mb-1 break-words">{event.title}</h3>
+                {event.issueNumber ? (
+                  <a
+                    href={`${REPO}/issues/${event.issueNumber}`}
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="text-lg font-semibold mb-1 break-words hover:text-indigo-300 transition-colors block"
+                  >
+                    {event.title} <span className="text-xs text-gray-500 font-normal">💬</span>
+                  </a>
+                ) : (
+                  <h3 className="text-lg font-semibold mb-1 break-words">{event.title}</h3>
+                )}
                 <span
                   className={`category-badge inline-block mb-2 border ${
                     categoryColors[event.category] ||
@@ -150,14 +161,23 @@ export default function TimelinePage() {
                   </div>
                 )}
 
-                {event.issueNumber && (
+                {event.issueNumber ? (
                   <a
                     href={`${REPO}/issues/${event.issueNumber}`}
                     className="inline-flex items-center gap-1.5 mt-2 text-xs text-amber-400 hover:text-amber-300 transition-colors"
                     target="_blank"
                     rel="noopener noreferrer"
                   >
-                    💬 Debate this event (#{event.issueNumber})
+                    💬 View debate (#{event.issueNumber})
+                  </a>
+                ) : (
+                  <a
+                    href={`${REPO}/discussions`}
+                    className="inline-flex items-center gap-1.5 mt-2 text-xs text-gray-500 hover:text-gray-400 transition-colors"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    💬 Discuss on GitHub
                   </a>
                 )}
               </div>
