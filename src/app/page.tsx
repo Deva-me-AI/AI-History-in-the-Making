@@ -113,8 +113,8 @@ export default function Home() {
             {timelineHighlights.map((event) => (
               <article key={event.date} className="glass-subtle rounded-xl px-4 py-4 overflow-hidden min-w-0">
                 <p className="text-xs font-medium uppercase tracking-[0.18em] text-zinc-500">{event.date.split('-')[0]}</p>
-                <p className="mt-1.5 text-sm font-medium text-zinc-100 break-words">{event.title}</p>
-                <p className="mt-1.5 line-clamp-2 text-sm text-zinc-400 break-words">{event.description}</p>
+                <p className="mt-1.5 text-sm font-medium text-zinc-100 break-words line-clamp-2">{event.title}</p>
+                <p className="mt-1.5 line-clamp-2 text-sm text-zinc-400 break-words overflow-hidden">{event.description}</p>
               </article>
             ))}
           </div>

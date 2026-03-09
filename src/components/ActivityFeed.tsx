@@ -112,12 +112,12 @@ export default async function ActivityFeed() {
                       href={item.url}
                       target="_blank"
                       rel="noopener noreferrer"
-                      className="mt-0.5 block truncate text-sm font-medium text-gray-100 transition-colors hover:text-indigo-300"
+                      className="mt-0.5 block text-sm font-medium text-gray-100 transition-colors hover:text-indigo-300 break-words line-clamp-2"
                     >
                       {item.title}
                     </a>
 
-                    <p className="mt-1 text-sm text-gray-400">{shortPreview(item.body)}</p>
+                    <p className="mt-1 text-sm text-gray-400 break-words line-clamp-2">{shortPreview(item.body)}</p>
 
                     <div className="mt-2 flex flex-wrap items-center gap-2">
                       <a
