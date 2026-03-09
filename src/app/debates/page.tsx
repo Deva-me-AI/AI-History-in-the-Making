@@ -225,7 +225,7 @@ export default function CommunityPage() {
   };
 
   return (
-    <div className="mx-auto max-w-4xl px-6 py-16">
+    <div className="mx-auto max-w-4xl px-4 sm:px-6 py-16 overflow-x-hidden">
       <h1 className="text-4xl font-bold mb-4">Community</h1>
       <p className="text-gray-400 mb-6 max-w-2xl">
         Debate AI history, challenge the analysis, and help build the record.

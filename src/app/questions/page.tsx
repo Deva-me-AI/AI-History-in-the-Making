@@ -44,7 +44,7 @@ export default function QuestionsPage() {
   ].filter((s) => s.items.length > 0);
 
   return (
-    <div className="mx-auto max-w-4xl px-6 py-16">
+    <div className="mx-auto max-w-4xl px-4 sm:px-6 py-16 overflow-x-hidden">
       <h1 className="text-4xl font-bold mb-4 tracking-tight">Open Questions</h1>
       <p className="text-gray-400 mb-4 max-w-2xl leading-relaxed">
         The big debates about AI — tracked from when they were first seriously

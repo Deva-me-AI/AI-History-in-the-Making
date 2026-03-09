@@ -61,7 +61,7 @@ export default function TimelinePage() {
   }
 
   return (
-    <div className="mx-auto max-w-4xl px-6 pt-16 pb-16">
+    <div className="mx-auto max-w-4xl px-4 sm:px-6 pt-16 pb-16 overflow-x-hidden">
       <div className="flex items-start justify-between gap-4 mb-4">
         <h1 className="text-4xl font-bold">Timeline</h1>
         <button
@@ -121,7 +121,7 @@ export default function TimelinePage() {
                 <div className="text-xs text-gray-500 mb-1">
                   {formatDate(event.date)}
                 </div>
-                <h3 className="text-lg font-semibold mb-1">{event.title}</h3>
+                <h3 className="text-lg font-semibold mb-1 break-words">{event.title}</h3>
                 <span
                   className={`category-badge inline-block mb-2 border ${
                     categoryColors[event.category] ||
@@ -130,7 +130,7 @@ export default function TimelinePage() {
                 >
                   {event.category}
                 </span>
-                <p className="text-gray-400 text-sm leading-relaxed">
+                <p className="text-gray-400 text-sm leading-relaxed break-words">
                   {event.description}
                 </p>
 

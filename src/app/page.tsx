@@ -15,8 +15,8 @@ export default function Home() {
   const yearsSpanned = new Date().getFullYear() - 1950;
 
   return (
-    <div className="mx-auto max-w-6xl px-6 pb-24 pt-16 sm:px-8 lg:px-10">
-      <section className="relative overflow-hidden rounded-3xl border border-white/10 bg-white/[0.02] px-6 py-14 sm:px-10 sm:py-20">
+    <div className="mx-auto max-w-6xl px-4 pb-24 pt-16 sm:px-8 lg:px-10 overflow-x-hidden">
+      <section className="relative overflow-hidden rounded-2xl sm:rounded-3xl border border-white/10 bg-white/[0.02] px-4 py-10 sm:px-10 sm:py-20">
         <div className="pointer-events-none absolute inset-0 bg-[radial-gradient(circle_at_20%_0%,rgba(124,58,237,0.2),transparent_40%),radial-gradient(circle_at_80%_10%,rgba(59,130,246,0.18),transparent_35%)]" />
         <div className="relative mx-auto max-w-3xl text-center">
           <div className="mb-7 inline-flex items-center gap-2 rounded-full border border-white/15 bg-white/[0.03] px-4 py-1.5 text-xs text-zinc-300 backdrop-blur-md">
@@ -24,7 +24,7 @@ export default function Home() {
             Open source archive · Living community timeline
           </div>
 
-          <h1 className="text-balance text-4xl font-semibold tracking-tight text-white sm:text-6xl lg:text-7xl">
+          <h1 className="text-balance text-3xl font-semibold tracking-tight text-white sm:text-6xl lg:text-7xl">
             AI history, <span className="gradient-text">documented in real time.</span>
           </h1>
 
@@ -102,7 +102,7 @@ export default function Home() {
       </section>
 
       <section className="mt-12 grid gap-6 lg:grid-cols-[1.4fr_1fr]">
-        <div className="glass-card rounded-2xl p-6 sm:p-7">
+        <div className="glass-card rounded-2xl p-4 sm:p-7 overflow-hidden min-w-0">
           <div className="mb-5 flex items-center justify-between">
             <h3 className="text-base font-semibold text-white">Latest timeline cards</h3>
             <Link href="/timeline" className="text-sm text-zinc-400 hover:text-zinc-200">
@@ -111,10 +111,10 @@ export default function Home() {
           </div>
           <div className="space-y-3">
             {timelineHighlights.map((event) => (
-              <article key={event.date} className="glass-subtle rounded-xl px-4 py-4">
+              <article key={event.date} className="glass-subtle rounded-xl px-4 py-4 overflow-hidden min-w-0">
                 <p className="text-xs font-medium uppercase tracking-[0.18em] text-zinc-500">{event.date.split('-')[0]}</p>
-                <p className="mt-1.5 text-sm font-medium text-zinc-100">{event.title}</p>
-                <p className="mt-1.5 line-clamp-2 text-sm text-zinc-400">{event.description}</p>
+                <p className="mt-1.5 text-sm font-medium text-zinc-100 break-words">{event.title}</p>
+                <p className="mt-1.5 line-clamp-2 text-sm text-zinc-400 break-words">{event.description}</p>
               </article>
             ))}
           </div>
