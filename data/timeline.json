@@ -1079,22 +1079,5 @@
       }
     ],
     "issueNumber": 94
-  },
-  {
-    "title": "Anthropic Sues Pentagon Over 'Supply Chain Risk' Designation",
-    "date": "2026-03-10",
-    "description": "Anthropic filed a federal lawsuit challenging the Pentagon's designation of the company as a 'supply chain risk.' This is the first time an AI lab has sued the US government over national security classification, escalating the confrontation between frontier AI companies and military oversight. The suit argues the designation was made without due process and threatens the company's ability to operate.",
-    "category": "Policy",
-    "sources": [
-      {
-        "url": "https://www.nytimes.com/2026/03/09/technology/anthropic-sues-defense-department.html",
-        "label": "NYT - Anthropic Sues Department of Defense"
-      },
-      {
-        "url": "https://www.bbc.com/news/technology",
-        "label": "BBC - Anthropic challenges Pentagon designation"
-      }
-    ],
-    "issueNumber": 147
   }
 ]
