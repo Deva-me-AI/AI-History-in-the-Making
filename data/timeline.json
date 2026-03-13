@@ -9,7 +9,8 @@
         "url": "https://academic.oup.com/mind/article/LIX/236/433/986238",
         "label": "Oxford Academic (Original Paper)"
       }
-    ]
+    ],
+    "issueNumber": 95
   },
   {
     "date": "1956-08-01",
@@ -21,7 +22,8 @@
         "url": "https://en.wikipedia.org/wiki/Dartmouth_workshop",
         "label": "Wikipedia"
       }
-    ]
+    ],
+    "issueNumber": 96
   },
   {
     "date": "1966-01-01",
@@ -33,7 +35,8 @@
         "url": "https://en.wikipedia.org/wiki/ELIZA",
         "label": "Wikipedia"
       }
-    ]
+    ],
+    "issueNumber": 97
   },
   {
     "date": "1973-01-01",
@@ -45,7 +48,8 @@
         "url": "https://en.wikipedia.org/wiki/AI_winter",
         "label": "Wikipedia"
       }
-    ]
+    ],
+    "issueNumber": 98
   },
   {
     "date": "1980-01-01",
@@ -57,7 +61,8 @@
         "url": "https://en.wikipedia.org/wiki/Expert_system",
         "label": "Wikipedia"
       }
-    ]
+    ],
+    "issueNumber": 99
   },
   {
     "date": "1987-01-01",
@@ -69,7 +74,8 @@
         "url": "https://en.wikipedia.org/wiki/AI_winter#The_collapse_of_the_Lisp_machine_market_in_1987",
         "label": "Wikipedia"
       }
-    ]
+    ],
+    "issueNumber": 100
   },
   {
     "date": "1997-05-11",
@@ -85,7 +91,8 @@
         "url": "https://www.nytimes.com/1997/05/12/nyregion/swift-and-slashing-computer-topples-kasparov.html",
         "label": "New York Times"
       }
-    ]
+    ],
+    "issueNumber": 101
   },
   {
     "date": "2011-02-14",
@@ -97,7 +104,8 @@
         "url": "https://www.nytimes.com/2011/02/17/science/17jeopardy-watson.html",
         "label": "New York Times"
       }
-    ]
+    ],
+    "issueNumber": 102
   },
   {
     "date": "2012-09-30",
@@ -113,7 +121,8 @@
         "url": "https://en.wikipedia.org/wiki/AlexNet",
         "label": "Wikipedia"
       }
-    ]
+    ],
+    "issueNumber": 103
   },
   {
     "date": "2013-09-07",
@@ -138,7 +147,8 @@
         "url": "https://arxiv.org/abs/1406.2661",
         "label": "arXiv Paper"
       }
-    ]
+    ],
+    "issueNumber": 104
   },
   {
     "date": "2016-03-15",
@@ -154,7 +164,8 @@
         "url": "https://www.nature.com/articles/nature16961",
         "label": "Nature"
       }
-    ]
+    ],
+    "issueNumber": 105
   },
   {
     "date": "2017-06-12",
@@ -170,7 +181,8 @@
         "url": "https://proceedings.neurips.cc/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa-Abstract.html",
         "label": "NeurIPS"
       }
-    ]
+    ],
+    "issueNumber": 106
   },
   {
     "date": "2018-06-11",
@@ -182,7 +194,8 @@
         "url": "https://openai.com/index/language-unsupervised/",
         "label": "OpenAI"
       }
-    ]
+    ],
+    "issueNumber": 107
   },
   {
     "date": "2018-10-11",
@@ -211,7 +224,8 @@
         "url": "https://openai.com/index/better-language-models/",
         "label": "OpenAI"
       }
-    ]
+    ],
+    "issueNumber": 108
   },
   {
     "date": "2020-06-11",
@@ -227,7 +241,8 @@
         "url": "https://arxiv.org/abs/2005.14165",
         "label": "arXiv Paper"
       }
-    ]
+    ],
+    "issueNumber": 109
   },
   {
     "date": "2020-11-30",
@@ -256,7 +271,8 @@
         "url": "https://openai.com/index/dall-e/",
         "label": "OpenAI"
       }
-    ]
+    ],
+    "issueNumber": 110
   },
   {
     "date": "2021-06-01",
@@ -268,7 +284,8 @@
         "url": "https://github.blog/news-insights/product-news/github-copilot-is-generally-available-to-all-developers/",
         "label": "GitHub Blog"
       }
-    ]
+    ],
+    "issueNumber": 111
   },
   {
     "date": "2022-01-27",
@@ -310,7 +327,8 @@
         "url": "https://openai.com/index/dall-e-2/",
         "label": "OpenAI"
       }
-    ]
+    ],
+    "issueNumber": 112
   },
   {
     "date": "2022-08-22",
@@ -322,7 +340,8 @@
         "url": "https://stability.ai/blog/stable-diffusion-public-release",
         "label": "Stability AI"
       }
-    ]
+    ],
+    "issueNumber": 113
   },
   {
     "date": "2022-11-30",
@@ -355,7 +374,8 @@
         "url": "https://www.nytimes.com/2023/01/23/business/microsoft-chatgpt-artificial-intelligence.html",
         "label": "New York Times"
       }
-    ]
+    ],
+    "issueNumber": 114
   },
   {
     "date": "2023-02-06",
@@ -371,7 +391,8 @@
         "url": "https://www.theverge.com/2023/2/8/23590864/google-ai-chatbot-bard-mistake-error-exoplanet-demo",
         "label": "The Verge"
       }
-    ]
+    ],
+    "issueNumber": 115
   },
   {
     "date": "2023-02-24",
@@ -383,7 +404,8 @@
         "url": "https://ai.meta.com/blog/large-language-model-llama-meta-ai/",
         "label": "Meta AI"
       }
-    ]
+    ],
+    "issueNumber": 116
   },
   {
     "date": "2023-03-13",
@@ -412,7 +434,8 @@
         "url": "https://arxiv.org/abs/2303.08774",
         "label": "arXiv Technical Report"
       }
-    ]
+    ],
+    "issueNumber": 117
   },
   {
     "date": "2023-03-14",
@@ -424,7 +447,8 @@
         "url": "https://www.anthropic.com/news/introducing-claude",
         "label": "Anthropic"
       }
-    ]
+    ],
+    "issueNumber": 118
   },
   {
     "date": "2023-03-22",
@@ -440,7 +464,8 @@
         "url": "https://www.nytimes.com/2023/03/29/technology/ai-artificial-intelligence-musk-risks.html",
         "label": "New York Times"
       }
-    ]
+    ],
+    "issueNumber": 119
   },
   {
     "date": "2023-05-01",
@@ -452,7 +477,8 @@
         "url": "https://en.wikipedia.org/wiki/Mistral_AI",
         "label": "Wikipedia"
       }
-    ]
+    ],
+    "issueNumber": 120
   },
   {
     "date": "2023-06-20",
@@ -464,7 +490,8 @@
         "url": "https://en.wikipedia.org/wiki/Inflection_AI",
         "label": "Wikipedia"
       }
-    ]
+    ],
+    "issueNumber": 121
   },
   {
     "date": "2023-07-18",
@@ -480,7 +507,8 @@
         "url": "https://ai.meta.com/blog/llama-2/",
         "label": "Meta AI Blog"
       }
-    ]
+    ],
+    "issueNumber": 122
   },
   {
     "date": "2023-10-30",
@@ -492,7 +520,8 @@
         "url": "https://www.federalregister.gov/documents/2023/11/01/2023-24283/safe-secure-and-trustworthy-development-and-use-of-artificial-intelligence",
         "label": "Federal Register"
       }
-    ]
+    ],
+    "issueNumber": 123
   },
   {
     "date": "2023-11-01",
@@ -508,7 +537,8 @@
         "url": "https://www.bbc.com/news/uk-67302048",
         "label": "BBC"
       }
-    ]
+    ],
+    "issueNumber": 124
   },
   {
     "date": "2023-11-06",
@@ -520,7 +550,8 @@
         "url": "https://x.ai/blog/grok",
         "label": "xAI"
       }
-    ]
+    ],
+    "issueNumber": 125
   },
   {
     "date": "2023-11-17",
@@ -536,7 +567,8 @@
         "url": "https://www.theverge.com/2023/11/17/23965982/openai-ceo-sam-altman-fired",
         "label": "The Verge"
       }
-    ]
+    ],
+    "issueNumber": 14
   },
   {
     "date": "2024-02-15",
@@ -548,7 +580,8 @@
         "url": "https://openai.com/index/sora/",
         "label": "OpenAI"
       }
-    ]
+    ],
+    "issueNumber": 126
   },
   {
     "date": "2024-02-15",
@@ -560,7 +593,8 @@
         "url": "https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/",
         "label": "Google Blog"
       }
-    ]
+    ],
+    "issueNumber": 127
   },
   {
     "date": "2024-03-04",
@@ -572,7 +606,8 @@
         "url": "https://www.anthropic.com/news/claude-3-family",
         "label": "Anthropic"
       }
-    ]
+    ],
+    "issueNumber": 128
   },
   {
     "date": "2024-03-13",
@@ -601,7 +636,8 @@
         "url": "https://ai.meta.com/blog/meta-llama-3/",
         "label": "Meta AI"
       }
-    ]
+    ],
+    "issueNumber": 129
   },
   {
     "date": "2024-05-13",
@@ -613,7 +649,8 @@
         "url": "https://openai.com/index/hello-gpt-4o/",
         "label": "OpenAI"
       }
-    ]
+    ],
+    "issueNumber": 130
   },
   {
     "date": "2024-06-01",
@@ -625,7 +662,8 @@
         "url": "https://techcrunch.com/2024/06/11/paris-based-ai-startup-mistral-ai-raises-640-million/",
         "label": "TechCrunch"
       }
-    ]
+    ],
+    "issueNumber": 131
   },
   {
     "date": "2024-06-01",
@@ -637,7 +675,8 @@
         "url": "https://docs.github.com/en/copilot/about-github-copilot",
         "label": "GitHub Docs"
       }
-    ]
+    ],
+    "issueNumber": 132
   },
   {
     "date": "2024-06-20",
@@ -649,7 +688,8 @@
         "url": "https://www.anthropic.com/news/claude-3-5-sonnet",
         "label": "Anthropic"
       }
-    ]
+    ],
+    "issueNumber": 133
   },
   {
     "date": "2024-12-01",
@@ -661,7 +701,8 @@
         "url": "https://blog.google/technology/ai/google-gemini-next-generation-model-february-2024/",
         "label": "Google Blog"
       }
-    ]
+    ],
+    "issueNumber": 134
   },
   {
     "date": "2025-01-20",
@@ -690,7 +731,8 @@
         "url": "https://x.ai/blog/grok-3",
         "label": "xAI"
       }
-    ]
+    ],
+    "issueNumber": 135
   },
   {
     "date": "2025-03-01",
@@ -702,7 +744,8 @@
         "url": "https://www.wsj.com/tech/ai/anthropic-closes-2-billion-fundraising-at-60-billion-valuation-1cd73cf4",
         "label": "Wall Street Journal"
       }
-    ]
+    ],
+    "issueNumber": 136
   },
   {
     "date": "2025-03-25",
@@ -714,7 +757,8 @@
         "url": "https://blog.google/technology/google-deepmind/gemini-model-thinking-updates-march-2025/",
         "label": "Google Blog"
       }
-    ]
+    ],
+    "issueNumber": 137
   },
   {
     "date": "2025-04-01",
@@ -726,7 +770,8 @@
         "url": "https://www.bloomberg.com/news/articles/2025-03-31/openai-closes-40-billion-round-at-record-300-billion-valuation",
         "label": "Bloomberg"
       }
-    ]
+    ],
+    "issueNumber": 138
   },
   {
     "date": "2025-05-22",
@@ -738,7 +783,8 @@
         "url": "https://www.anthropic.com/news/claude-4",
         "label": "Anthropic"
       }
-    ]
+    ],
+    "issueNumber": 139
   },
   {
     "date": "2025-07-09",
@@ -750,7 +796,8 @@
         "url": "https://x.ai/blog/grok-4",
         "label": "xAI"
       }
-    ]
+    ],
+    "issueNumber": 140
   },
   {
     "date": "2025-08-07",
@@ -762,7 +809,8 @@
         "url": "https://openai.com/index/gpt-5/",
         "label": "OpenAI"
       }
-    ]
+    ],
+    "issueNumber": 141
   },
   {
     "date": "2025-09-01",
@@ -774,7 +822,8 @@
         "url": "https://www.sequoiacap.com/article/generative-ai-act-two",
         "label": "Sequoia Capital"
       }
-    ]
+    ],
+    "issueNumber": 142
   },
   {
     "date": "2025-10-01",
@@ -786,7 +835,8 @@
         "url": "https://simonwillison.net/tags/rag/",
         "label": "Simon Willison"
       }
-    ]
+    ],
+    "issueNumber": 143
   },
   {
     "date": "2025-11-18",
@@ -798,7 +848,8 @@
         "url": "https://blog.google/technology/google-deepmind/gemini-model-updates-february-2025/",
         "label": "Google Blog"
       }
-    ]
+    ],
+    "issueNumber": 144
   },
   {
     "date": "2025-12-01",
@@ -810,7 +861,8 @@
         "url": "https://a16z.com/generative-ai-enterprise-2024/",
         "label": "a16z"
       }
-    ]
+    ],
+    "issueNumber": 145
   },
   {
     "date": "2026-02-28",
@@ -826,7 +878,8 @@
         "url": "https://www.anthropic.com/news/statement-comments-secretary-war",
         "label": "Anthropic Statement"
       }
-    ]
+    ],
+    "issueNumber": 146
   },
   {
     "date": "2026-03-01",
