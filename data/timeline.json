@@ -1113,5 +1113,48 @@
       }
     ],
     "issueNumber": 148
+  },
+  {
+    "title": "White House Unveils National AI Policy Framework",
+    "date": "2026-03-23",
+    "description": "The White House's 'National Policy Framework for Artificial Intelligence' dominated headlines, calling on Congress to establish a unified federal AI standard that preempts state laws, opposes a new federal AI regulator, and suggests regulatory sandboxes for innovation.",
+    "category": "Policy",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRX3DbQXKZYOGWt_rjN9ALpYFYNtzqOmXMbA5VkZv-Z-R3nkwPzxEBQ6TSiqvO3snitDt_7pXJbOheM1D86RoKJm_DiidzWi5a6HFN20TEkPEv1LdNyvzuJ24w2L3z-432qlvA00tFgXc0vl7Gf8Xwm7AwGPdinOByEQOyCb2vjup-6yqRnlst79yqKQ2KKOv3oJx8aPFn588eMuUapjJsTehDYKbEBBX6UjkIoZISpZOh3tLK0ufCleIrKsyRaTN7zMBjCXEhHFKkXc2QCgdSjr84-sZvKdqAtjPH-6qiBdXIYaE=",
+        "label": "wilmerhale.com"
+      },
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHjdQ5TL4QLAC3kY5_aoLnlPliGPxWIFCEoE-rcwlx9R7XJpkWEhJnUagtucT9-swaoYyv_CebWsjAKEYdvxUNeZ6Whmj7FmcdyzaZMKSRoAOv0Fe6v7DjYVw8VLzJnODQGuse8Mmkr_d-aVbIq8saYbAo97_dT9vf9TKwfRR6K1rU4JRfw9kJW-mIipDJXElcRI7VWrhfzIkW5-h4j",
+        "label": "governing.com"
+      }
+    ],
+    "issueNumber": 149
+  },
+  {
+    "title": "Anthropic Faces Pentagon in Court Over AI Military Use",
+    "date": "2026-03-24",
+    "description": "Anthropic faced the Department of Defense in federal court over its refusal to allow Claude AI to be used for autonomous lethal weapons and domestic surveillance, sparking a dispute over ethical AI deployment.",
+    "category": "Policy",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWrpFdwZH4TdXTFq5nrpG3g6b900mq77tQhqDtAG9a7R7-lXD02cjnGr2ImJolpzs_l7s3pMnZTEoty-f8V5VBZOOYLICWJB3ntQYsmgN8SHIctKmY1v-SU1YWhLx9orH6FUuDAFe6I_qxo5iai5W-hyMxbMCTa-mWzjB8qYJuI-npgDY=",
+        "label": "theguardian.com"
+      }
+    ],
+    "issueNumber": 150
+  },
+  {
+    "title": "U.S. Treasury Launches AI Innovation Series for Financial Sector",
+    "date": "2026-03-23",
+    "description": "The U.S. Treasury and the Financial Stability Oversight Council (FSOC) launched a public-private initiative to explore AI use cases in the financial sector, with a focus on fraud detection and cybersecurity.",
+    "category": "Policy",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHVCJ4q5kSnb57AASuvILujjnCXCldPk5O5PV8tbet5Vr1gMscznaurv4y33OwJVNxeLYF_6R-zHCDAXmmhLtXeJkQUZnH0hA1bdRy4E0uolClBdsxcTCloaALtkBShDA26FID0lZd8uLz-322qR_8l7Q==",
+        "label": "treasury.gov"
+      }
+    ],
+    "issueNumber": 151
   }
 ]
