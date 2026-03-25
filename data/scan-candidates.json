@@ -2,76 +2,61 @@
   "scanDate": "2026-03-25",
   "candidates": [
     {
-      "title": "Confirm Launches Unified AI Agents HR Platform",
-      "date": "2026-03-23",
-      "description": "Confirm introduced a new HR platform utilizing autonomous AI agents for onboarding, coaching, and performance management, aiming to replace single-purpose tools with a unified system.",
-      "category": "Industry Structure",
-      "significance": "Represents a significant shift towards autonomous, multi-functional AI agents in enterprise HR, potentially streamlining operations and setting new standards for workforce management.",
-      "confidence": "high",
-      "sources": [
-        {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFc1XZE1OIU3SpNoP-hmjzbGsGp03OdtA629EKI4qgPq_Thzf5ZsHLW02igSRrFjLhLtVddBXgUkhQrqw_tpTSJyMN3y2wIz7bw8-1OKCXj0KX5WbLDEEKKXNFIuwCjv5zs-CCtsG8k7Oty8VZkH72C0a3FryllSALl_o5UKZdV0IK1aQjgWmX9WXQd-3Cw9XpYOlriFTp",
-          "label": "Confirm Launch"
-        }
-      ],
-      "type": "timeline_event"
-    },
-    {
-      "title": "ChartHop Debuts AI Pro with 'Agentic Actions'",
+      "title": "OpenAI Shuts Down Sora AI Video Generation Tool",
       "date": "2026-03-24",
-      "description": "ChartHop launched AI Pro, enabling HR and Finance leaders to execute complex workflows like headcount planning and attrition risk analysis using natural language through 'Agentic Actions.'",
-      "category": "Industry Structure",
-      "significance": "Further demonstrates the growing adoption and capability of agentic AI in critical business functions, moving beyond simple chatbots to complex task execution.",
+      "description": "OpenAI announced the shutdown of its viral AI video generation tool, Sora, citing a shift in priorities and concerns over deepfakes and nonconsensual content. The company plans to integrate the underlying technology into other professional tools.",
+      "category": "Policy",
+      "significance": "High. This decision by a leading AI company due to ethical concerns could set important precedents for responsible AI development and deployment, influencing future product releases and industry self-governance.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHASOquUBe6pzwWFSa0YSroAYcl-xHuPjmKjKYpYVsw-brQWU0xlFt009vg87DT1gccrq8gUI56FkzAInpO1KNHQHhNvcOirJwRlDS51REXyQ-pE_4PYa23Y-UPVedCR4vTKmEHUpgA-YvyoW4pP4ov-SOMPhVWTKl4ypA4_xMl5YHgSShFE5v0ubUvKA==",
-          "label": "ChartHop AI Pro"
+          "url": "https://www.wpsu.org",
+          "label": "wpsu.org"
         }
       ],
       "type": "timeline_event"
     },
     {
-      "title": "Redwood AI Presents Reactosphere for Drug Discovery",
-      "date": "2026-03-25",
-      "description": "Redwood AI unveiled Reactosphere, an AI-driven platform designed to accelerate drug discovery and chemical hazard assessment through advanced chemical synthesis.",
-      "category": "Research",
-      "significance": "Could significantly impact pharmaceutical R&D by speeding up discovery processes and improving safety assessments, marking a step forward in AI's role in complex scientific fields.",
-      "confidence": "high",
-      "sources": [
-        {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF0RTjaNYOZ9HLlTuMX-UBe58UVueUsRUGhRGFntdxZc2C2O3kksnUkxuKqVI9KkYI5qxI0bfbf5mbuNvx2FzQSRvj6uZxo0EwOvIgquALDFnu8tYE8fC8FIJg1rfVvPSnuMYSQQald3ThUy9nAGDu7F0Bns4HZdUpBZZ4tjb-EbOVJukVS0RoLUBSK7iyTMH5lUucb-uT-kp65eV05BIoO5nzt6NrMj-QRiFR0y2m-plHbUlu682QaJ-RQU99dYzuGsoJlCr7Nctee2vdwhgRHBiI=",
-          "label": "Redwood AI Reactosphere"
-        }
-      ],
-      "type": "timeline_event"
-    },
-    {
-      "title": "Landmark Study Reveals Explainable AI Strategy for Chemical Catalysis Discovery",
+      "title": "Oracle Unveils Agentic AI Innovations with Unified Memory Core and Private Agent Factory",
       "date": "2026-03-24",
-      "description": "A study published in ACS Catalysis by the Max Planck Institute and BASF introduced an AI strategy that not only accelerates chemical catalyst discovery but also explains the underlying logic, demonstrated in propane to propylene conversion.",
-      "category": "Research",
-      "significance": "Advances the field of explainable AI and has profound implications for industrial chemistry, sustainable manufacturing, and energy efficiency by optimizing catalyst design.",
+      "description": "Oracle introduced a suite of agentic AI innovations, including the Oracle Unified Memory Core for stateful memory in AI agents and a no-code Private Agent Factory for deploying autonomous data-centric agents. This marks a significant push towards autonomous AI solutions in the enterprise sector.",
+      "category": "Infrastructure",
+      "significance": "Medium to High. Oracle's strong entry into agentic AI could accelerate its adoption across enterprises, fundamentally changing how businesses integrate and leverage AI for automated operations.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyBiIh2tAVnN50rigmbh1HhG0RM5HFRvzbq1AHO5nFM1Ol9tkoAm_KsAwyu5NLN_dLeqfvMYDmQ4xZSCguoXd18Z3N6hoxiSuEEGjr0DreOH5QCtvIwkGTeFY1Qg0_cOsCvK3_3D0F7wnuGVJQ0JfBuSisAbQjbpWiefAJM41Wf-lDuJo=",
-          "label": "Catalysis AI Study"
+          "url": "https://www.futurumgroup.com",
+          "label": "futurumgroup.com"
         }
       ],
       "type": "timeline_event"
     },
     {
-      "title": "Google and University of Hawaiʻi Unveil AI Co-Scientist System",
+      "title": "OpenClaw Open-Source Agentic AI Framework Gains Viral Traction",
       "date": "2026-03-25",
-      "description": "A workshop highlighted the 'AI Co-Scientist System,' a Gemini-based toolset designed to assist researchers in hypothesis generation and federated learning for global scientific collaboration.",
-      "category": "Research",
-      "significance": "Represents a significant step towards AI acting as a direct collaborative partner in scientific research, potentially accelerating discoveries across various domains and fostering global scientific cooperation.",
+      "description": "The open-source framework 'OpenClaw' gained significant industry attention, with NVIDIA's Jensen Huang calling it the 'next ChatGPT'. OpenClaw enables fully autonomous AI agents to run locally on personal hardware, potentially challenging the dominance of cloud-based AI models.",
+      "category": "Open Source",
+      "significance": "High. If OpenClaw fulfills its potential, it could lead to a decentralization of AI development and usage, democratizing access to advanced AI and profoundly reshaping the industry's landscape and competitive dynamics.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8oR0qS6m4H1f5UwG60M7Bpp_FKUPc-qBBeATNCEwQ334sLku0lTx-Bc9WuqzSLorGDflpfSH4DvuVGwXThUiXsiW42KNZzSKO7-AoSUWLQfhT6IEHbHBMRiTlHuPUylAYx0vnpklTrwAyTV6KP0Brhmost3mKLL_KGd1hJ2s=",
-          "label": "AI Co-Scientist System"
+          "url": "https://www.devflokers.com",
+          "label": "devflokers.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "ElevenLabs and IBM Partner for Advanced Voice Capabilities in watsonx Orchestrate",
+      "date": "2026-03-25",
+      "description": "ElevenLabs and IBM announced a strategic collaboration to integrate premium, human-like voice capabilities into IBM watsonx Orchestrate. This partnership aims to enable enterprises to develop voice-first autonomous agents supporting over 70 languages.",
+      "category": "Industry Structure",
+      "significance": "Medium. This collaboration between a leading AI voice company and a major enterprise AI platform provider highlights a trend towards specialized AI integrations and could enhance the accessibility and functionality of conversational AI for businesses globally.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://www.ibm.com",
+          "label": "ibm.com"
         }
       ],
       "type": "timeline_event"
