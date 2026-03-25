@@ -1,1 +1,97 @@
-{"scanDate":"2026-03-25","candidates":[],"questionUpdates":[]}
+{
+  "scanDate": "2026-03-25",
+  "candidates": [
+    {
+      "title": "OpenAI Raises $110 Billion at $730 Billion Valuation",
+      "date": "2026-03-24",
+      "description": "OpenAI reportedly raised $110 billion at a $730 billion valuation, with funding from Amazon, NVIDIA, and SoftBank, to expand AWS distribution and NVIDIA-based infrastructure.",
+      "category": "Funding",
+      "significance": "Massive funding round indicating significant investment and projected growth for OpenAI, impacting the AI industry structure and model development for years to come.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://mlq.ai",
+          "label": "mlq.ai"
+        },
+        {
+          "url": "https://www.youtube.com",
+          "label": "youtube.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Meta and AMD Announce $60 Billion GPU Pact; Thinking Machines Labs Secures 1GW NVIDIA Compute",
+      "date": "2026-03-24",
+      "description": "Meta and AMD formalized a $60 billion pact for a 6GW GPU rollout. Separately, Thinking Machines Labs (led by Mira Murati) secured a multiyear deal with NVIDIA for 1GW of 'Vera Rubin' compute for 2027 frontier models.",
+      "category": "Infrastructure",
+      "significance": "These are monumental infrastructure commitments, demonstrating the immense scale of investment in AI hardware and compute power, which will profoundly shape the AI landscape.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://mlq.ai",
+          "label": "mlq.ai"
+        },
+        {
+          "url": "https://www.youtube.com",
+          "label": "youtube.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Elon Musk Announces 'Terafab' for Terawatt-Scale AI Chip Manufacturing",
+      "date": "2026-03-23",
+      "description": "Elon Musk announced Terafab, a joint project between Tesla, SpaceX, and xAI in Austin, Texas, aiming to be the world's largest chip manufacturing plant, producing a terawatt of computing power annually.",
+      "category": "Infrastructure",
+      "significance": "An extremely ambitious infrastructure initiative from a major industry figure, potentially revolutionizing AI hardware production and availability on a global scale.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://www.youtube.com",
+          "label": "youtube.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Arm Launches AGI CPU for Agentic AI",
+      "date": "2026-03-25",
+      "description": "Arm Holdings unveiled its first in-house AI data center chip, the AGI CPU, designed specifically for 'agentic AI' systems. Developed in partnership with Meta, early customers include OpenAI, Cloudflare, and SAP.",
+      "category": "Infrastructure",
+      "significance": "A foundational hardware development for AI, specifically targeting agentic AI, which could significantly accelerate its development and deployment and alter the AI hardware market.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://www.youtube.com",
+          "label": "youtube.com"
+        },
+        {
+          "url": "https://communicationstoday.co.in",
+          "label": "communicationstoday.co.in"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Washington State Enacts Landmark AI Safety Legislation",
+      "date": "2026-03-24",
+      "description": "Washington Governor Bob Ferguson signed two bills into law: HB 2225, mandating safety protocols for AI chatbots (especially regarding minors and self-harm), and HB 1170, requiring clear disclosure for AI-generated content.",
+      "category": "Policy",
+      "significance": "This represents a significant advancement in AI policy and regulation, setting precedents for how AI systems are governed and used, with potential to influence broader legislative efforts.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://transparencycoalition.ai",
+          "label": "transparencycoalition.ai"
+        },
+        {
+          "url": "https://www.youtube.com",
+          "label": "youtube.com"
+        }
+      ],
+      "type": "timeline_event"
+    }
+  ],
+  "questionUpdates": []
+}
