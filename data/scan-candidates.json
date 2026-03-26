@@ -1,47 +1,47 @@
 {
-  "scanDate": "2026-03-25",
+  "scanDate": "2026-03-26",
   "candidates": [
     {
-      "title": "OpenClaw Open-Source AI Agent Framework Gains Mass Adoption",
+      "title": "NVIDIA Acquires Groq, Unveils Groq 3 LPU",
       "date": "2026-03-24",
-      "description": "OpenClaw, an open-source AI agent framework developed by Peter Steinberger, is hailed by NVIDIA CEO Jensen Huang as \"the most popular open-source project in human history,\" enabling fully autonomous AI agents to run locally on personal computers, challenging cloud-based AI dominance.",
+      "description": "NVIDIA completes a $20 billion acquisition of Groq and introduces the Groq 3 LPU, a new ultra-fast inference hardware, significantly reshaping the AI chip landscape.",
+      "category": "Industry Structure",
+      "significance": "High - This acquisition and new hardware release by a dominant player will profoundly impact the AI hardware market and accelerate inference capabilities across the industry for years to come.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF8pabFf7rNxbDknEuFa9rX-BZd1IBnbkfOH5ilfAJ-DpbTOh1OIiPVu6SWurw5MsvyleBSaIeYf-6Kt7Ut-YPpJIw4C2tzDhJtHDpEKQpekXnmiLxixW3F5nIGrAVlJyoxqsKTQTAHIQvg7hJWLdkQmQQCIcoqmHPc-_iy5yPkSv_zfHw8__vWm1ce08Esy97P8kZsix9A9Z6babVKzggQY9Rf8w5M-H9wxxY=",
+          "label": "hpcwire.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "OpenClaw Open-Source AI Agent Framework Gains Viral Adoption",
+      "date": "2026-03-24",
+      "description": "OpenClaw, an open-source framework enabling fully autonomous AI agents to run locally on personal computers, achieves viral status, marking a 'black swan event' for decentralized AI development.",
       "category": "Open Source",
-      "significance": "High",
+      "significance": "High - This framework could democratize agentic AI, fostering widespread innovation and shifting power dynamics in AI development towards individual users and smaller teams.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://devflokers.com/",
-          "label": "Devflokers.com"
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4B5D9Zw0I2SVRzy0s3TTsAXVTwvr-v6WAWu22yNvsJS1ryPvGnzWkoyxvDL2wdXpxy692stxqXJz2_nNqkl3NpkeljsDVyFYb1UAH--BztyOQl5rKUXpTcXjt36fYBPqLlRrsf1t2C8Ap9-3nc_kq1vZgcIrO3aO4ZTYVpQ9q-L0Ac8xU0hY=",
+          "label": "devflokers.com"
         }
       ],
       "type": "timeline_event"
     },
     {
-      "title": "U.S. Releases National AI Policy Framework",
+      "title": "Trump Administration Releases National AI Policy Framework",
       "date": "2026-03-24",
-      "description": "The Trump Administration released a \"National Policy Framework for Artificial Intelligence,\" advocating for a unified federal AI standard, opposing new federal regulatory bodies, and suggesting that training AI on copyrighted material does not violate copyright law.",
+      "description": "The Trump Administration issues a 'National Policy Framework for Artificial Intelligence,' proposing a unified federal standard for AI regulation and aiming to preempt state-level AI laws.",
       "category": "Policy",
-      "significance": "High",
+      "significance": "High - This federal initiative will likely set the course for AI regulation in the US for years, impacting development, deployment, and ethical considerations across the industry.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://www.gibsondunn.com/",
-          "label": "Gibson Dunn"
-        }
-      ],
-      "type": "timeline_event"
-    },
-    {
-      "title": "Meta Announces New Custom AI Chips (MTIA 300-500)",
-      "date": "2026-03-24",
-      "description": "Meta announced four new custom AI chips (MTIA 300-500), designed to reduce its reliance on NVIDIA and optimize content ranking and recommendations in its data centers by 2027.",
-      "category": "Infrastructure",
-      "significance": "High",
-      "confidence": "high",
-      "sources": [
-        {
-          "url": "https://devflokers.com/",
-          "label": "Devflokers.com"
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEtuIUQTCt1RbRh7jdVG2SERlifmG1lha8d4w-g8BkFpEmwmme1yTnYLU77GlA1RJDwFw4vU10jgt1P1VH45eoJjyIIViSZDcL4g2mdgSMWyEd7TYbVAJz3Ql0UT4N-T84zKqLeb9VoCNoSB-DhxXUTOmdqVxt1mVeSAAoM0fyMS9jIZWMI7T3QF0nNe5qwr0w9NgG4Da64Q60Kqmxoe8ZdHfgg3nLej83vrgfkjQ-3Rh3OzY7tu8G8Z6p_eZ8pL0=",
+          "label": "gibsondunn.com"
         }
       ],
       "type": "timeline_event"
@@ -49,29 +49,29 @@
     {
       "title": "Cambridge Researchers Develop Energy-Efficient AI Memristor",
       "date": "2026-03-24",
-      "description": "Researchers at the University of Cambridge developed a brain-inspired \"memristor\" using hafnium oxide, a nanoelectronic device that could potentially reduce AI hardware energy consumption by up to 70%.",
+      "description": "Researchers at the University of Cambridge announce a brain-inspired memristor material (hafnium oxide) capable of reducing AI hardware energy consumption by up to 70%, promising a greener future for AI.",
       "category": "Research",
-      "significance": "High",
+      "significance": "High - This breakthrough in material science and hardware design has the potential to dramatically lower the environmental footprint and operational costs of AI, influencing infrastructure development for decades.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://www.cam.ac.uk/",
-          "label": "University of Cambridge"
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEaRZDYBmeWvn9MCl_I5j7dbQjlbbpCO8nTIlLLAlhzF7ycHDOViFu2Va8n5e16m1GXDlHtlQt41-TwF6TLq_eXQaH1GAZ6X5_NF2ExRL0acjm4ye2w30uLnRwhaC0VwLmZFjn3kVHsI1W3Ahsx7bfb_-3EHsa6GafSGB8dTldvIlc=",
+          "label": "cam.ac.uk"
         }
       ],
       "type": "timeline_event"
     },
     {
-      "title": "Japan Health Ministry Approves AI for Initial Diagnostic Image Review",
-      "date": "2026-03-25",
-      "description": "Japan’s Health Ministry approved a plan allowing AI to perform the initial review of diagnostic images for lung, stomach, and breast cancer screenings, marking a significant step in AI adoption for healthcare.",
-      "category": "Policy",
-      "significance": "High",
+      "title": "Microsoft Showcases Copilot Wave 3 with Enhanced Agentic AI",
+      "date": "2026-03-26",
+      "description": "At its AI Tour in Seoul, Microsoft unveils Copilot Wave 3, featuring significantly enhanced 'agentic' capabilities that empower the AI to autonomously plan and execute multi-step tasks.",
+      "category": "Model Release",
+      "significance": "High - The expansion of agentic capabilities in a widely adopted platform like Copilot signifies a major step towards more autonomous and capable AI systems being integrated into everyday workflows.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://www.histalk2.com/",
-          "label": "HIStalk2.0"
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGX5EfD4WZ5Ao2LBwiXwmz13fqaLPWAItFIPef26Pf87NYmbPOVFMw8S6-bORYUgxWCKSy-Rb-8dHIEdt8otU-BP09S8y87NrO9bqXo91WdrXqGyH6LsCKbelOIljP7GY6SRNGq2WBGLtgSjumVpFKVTL64ARACjo9tRAJSrHUwzOIFbpxHtNXglLSKVj-iiMx3kPOXp-BGue_Gr9OZo5se-V2EXSutjsXDD0hbZ-e-1qnpfjfGg7aQfhzwL_1L38yaD9wXO2nF-T9wUf4DQdl7rn0hETleGfsgjJGfMYVwsym6_Gi7jY=",
+          "label": "microsoft.com"
         }
       ],
       "type": "timeline_event"
