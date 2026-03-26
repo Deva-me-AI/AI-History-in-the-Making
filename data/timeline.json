@@ -1302,5 +1302,70 @@
       }
     ],
     "issueNumber": 161
+  },
+  {
+    "title": "OpenClaw Open-Source AI Agent Framework Gains Mass Adoption",
+    "date": "2026-03-24",
+    "description": "OpenClaw, an open-source AI agent framework developed by Peter Steinberger, is hailed by NVIDIA CEO Jensen Huang as \"the most popular open-source project in human history,\" enabling fully autonomous AI agents to run locally on personal computers, challenging cloud-based AI dominance.",
+    "category": "Open Source",
+    "sources": [
+      {
+        "url": "https://devflokers.com/",
+        "label": "Devflokers.com"
+      }
+    ],
+    "issueNumber": 162
+  },
+  {
+    "title": "U.S. Releases National AI Policy Framework",
+    "date": "2026-03-24",
+    "description": "The Trump Administration released a \"National Policy Framework for Artificial Intelligence,\" advocating for a unified federal AI standard, opposing new federal regulatory bodies, and suggesting that training AI on copyrighted material does not violate copyright law.",
+    "category": "Policy",
+    "sources": [
+      {
+        "url": "https://www.gibsondunn.com/",
+        "label": "Gibson Dunn"
+      }
+    ],
+    "issueNumber": 163
+  },
+  {
+    "title": "Meta Announces New Custom AI Chips (MTIA 300-500)",
+    "date": "2026-03-24",
+    "description": "Meta announced four new custom AI chips (MTIA 300-500), designed to reduce its reliance on NVIDIA and optimize content ranking and recommendations in its data centers by 2027.",
+    "category": "Infrastructure",
+    "sources": [
+      {
+        "url": "https://devflokers.com/",
+        "label": "Devflokers.com"
+      }
+    ],
+    "issueNumber": 164
+  },
+  {
+    "title": "Cambridge Researchers Develop Energy-Efficient AI Memristor",
+    "date": "2026-03-24",
+    "description": "Researchers at the University of Cambridge developed a brain-inspired \"memristor\" using hafnium oxide, a nanoelectronic device that could potentially reduce AI hardware energy consumption by up to 70%.",
+    "category": "Research",
+    "sources": [
+      {
+        "url": "https://www.cam.ac.uk/",
+        "label": "University of Cambridge"
+      }
+    ],
+    "issueNumber": 165
+  },
+  {
+    "title": "Japan Health Ministry Approves AI for Initial Diagnostic Image Review",
+    "date": "2026-03-25",
+    "description": "Japan’s Health Ministry approved a plan allowing AI to perform the initial review of diagnostic images for lung, stomach, and breast cancer screenings, marking a significant step in AI adoption for healthcare.",
+    "category": "Policy",
+    "sources": [
+      {
+        "url": "https://www.histalk2.com/",
+        "label": "HIStalk2.0"
+      }
+    ],
+    "issueNumber": 166
   }
 ]
