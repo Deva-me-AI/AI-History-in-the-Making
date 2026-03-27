@@ -1,81 +1,77 @@
 {
-  "scanDate": "2026-03-26",
+  "scanDate": "2026-03-27",
   "candidates": [
     {
-      "title": "NVIDIA Unveils Groq 3 LPU and Vera Rubin Systems, Acquires Groq for $20B",
-      "date": "2026-03-25",
-      "description": "At NVIDIA GTC 2026, Jensen Huang announced the Groq 3 LPU and Vera Rubin rack-scale systems, following NVIDIA's $20 billion acquisition of Groq. These advancements signal a major shift in AI hardware and infrastructure.",
-      "category": "Infrastructure",
-      "significance": "High. This event reshapes the AI hardware landscape, accelerating performance and influencing future data center designs. The acquisition consolidates key technology, impacting the competitive ecosystem for years.",
-      "confidence": "high",
-      "sources": [
-        {
-          "url": "https://theneuron.ai",
-          "label": "theneuron.ai"
-        }
-      ],
-      "type": "timeline_event"
-    },
-    {
-      "title": "OpenAI Pivots Strategy: Discontinues Sora, Ends Disney Partnership, Secures AWS Government Contract",
-      "date": "2026-03-25",
-      "description": "OpenAI announced a significant strategic shift, discontinuing its Sora video application and ending a $1 billion partnership with Disney. Concurrently, the company secured a major contract with AWS to provide AI tools for classified work to U.S. government customers, reducing its reliance on Microsoft Azure.",
-      "category": "Industry Structure",
-      "significance": "High. This pivot by a leading AI company indicates a mature market demanding focused, high-value applications and diversification of cloud partnerships. The move into classified government contracts positions OpenAI uniquely in the national security AI landscape.",
-      "confidence": "high",
-      "sources": [
-        {
-          "url": "https://theneuron.ai",
-          "label": "theneuron.ai"
-        }
-      ],
-      "type": "timeline_event"
-    },
-    {
-      "title": "Anthropic Launches Research Preview of 'Claude Computer Use' for Autonomous Interface Control",
-      "date": "2026-03-25",
-      "description": "Anthropic released a research preview of 'Claude Computer Use,' empowering its Claude model to directly control and navigate a Mac interface to execute complex, multi-step tasks. This represents a significant advancement in AI's agentic capabilities.",
-      "category": "Research",
-      "significance": "High. The ability of an AI model to autonomously interact with computer interfaces is a critical step towards more general and capable AI systems, promising to redefine human-computer interaction and automation paradigms.",
-      "confidence": "high",
-      "sources": [
-        {
-          "url": "https://theneuron.ai",
-          "label": "theneuron.ai"
-        }
-      ],
-      "type": "timeline_event"
-    },
-    {
-      "title": "Arm and Meta Collaborate on First 'AGI CPU' for Reasoning Requirements",
-      "date": "2026-03-25",
-      "description": "Arm and Meta unveiled a collaborative project for what they describe as the first 'AGI CPU.' This specialized processor is designed to handle the unique reasoning requirements of Artificial General Intelligence, marking a potential milestone in foundational AI hardware.",
-      "category": "Infrastructure",
-      "significance": "High. The development of hardware explicitly tailored for AGI reasoning indicates a long-term commitment to achieving advanced general AI, potentially setting the stage for significant breakthroughs in AI capabilities over the next decade.",
-      "confidence": "high",
-      "sources": [
-        {
-          "url": "https://theneuron.ai",
-          "label": "theneuron.ai"
-        }
-      ],
-      "type": "timeline_event"
-    },
-    {
-      "title": "U.S. Lawmakers Propose Moratorium on New AI Data Center Construction",
+      "title": "Apple to Potentially Open Siri to Third-Party AI Tools in iOS 27",
       "date": "2026-03-26",
-      "description": "Progressive U.S. lawmakers introduced a bill calling for a moratorium on new AI data center construction. The proposed pause is intended to allow for the establishment of national safeguards concerning environmental impact, worker protection, and privacy, addressing the massive resource demands of AI infrastructure.",
-      "category": "Policy",
-      "significance": "High. This legislative initiative highlights growing regulatory scrutiny over the environmental and social costs of AI. A moratorium could significantly impact the growth and geographical distribution of AI development, forcing the industry to address sustainability and ethical concerns.",
+      "description": "Reports suggest Apple is preparing to open its Siri voice assistant to third-party AI tools in the upcoming iOS 27, which could allow users to integrate specialized AI agents from providers like OpenAI, Anthropic, or Perplexity, significantly altering the mobile AI ecosystem.",
+      "category": "Industry Structure",
+      "significance": "This potential strategic shift by Apple could transform the competitive landscape of AI assistants and platforms, fostering greater innovation and choice for users by allowing external AI models to integrate deeply within iOS, impacting user experience and developer opportunities for years to come.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://theneuron.ai",
-          "label": "theneuron.ai"
-        },
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyKYIXvjaX1vxyKYRFJ_3mWLkW5ArzldFmNRu5NAcPMLwHqYtcuHQbVNIT_zk7CCLt2wd7D28KdavAAnpA-po_2LIg0GV1G5yX6-6YaXYW_WJ9JWUs63CWHet9jSgsI1Jav8V_Xxyl7Xkk99tr379DBxDJ_gX4JR3ItebsP6OgaAFgYD33ZaVj9SsrvytSxpj5hfhpXIgmJUD2k-1lVEuupPgkdlRXTU9fiL_EUnh",
+          "label": "appleinsider.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Meta's Acquisition of Agentic AI Startup Manus Faces Geopolitical Hurdles",
+      "date": "2026-03-27",
+      "description": "Meta's proposed acquisition of the agentic AI startup Manus is reportedly facing significant geopolitical hurdles, with China restricting the startup's founders from leaving the country. This signals a tightening of 'AI talent borders' and increased state intervention in global AI development.",
+      "category": "Policy",
+      "significance": "This event highlights the escalating geopolitical competition in AI, where national interests are increasingly influencing corporate acquisitions and talent mobility. Such restrictions could fragment the global AI talent pool and accelerate the development of distinct, nationally-aligned AI ecosystems, impacting future innovation and collaboration.",
+      "confidence": "high",
+      "sources": [
         {
-          "url": "https://www.latimes.com",
-          "label": "latimes.com"
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzOd8rDaUu9F94BG8kolLgumhClo1-hFIq3XKns3b_dtkqll5Q1YiAu9KMgORLH1ozSmbudE0OHIN2L65838tpQve1Rqj9yo_wTsRH85Gv6akfcNHG3JZmt7hBzX5ar-T_WkUjIQ4jBk9pI3UpiAsVQKPgdS9V",
+          "label": "theregister.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "China Computer Federation Urges Boycott of NeurIPS Conference",
+      "date": "2026-03-27",
+      "description": "The China Computer Federation (CCF) has urged Chinese scientists to boycott the NeurIPS conference, a prominent international AI research event. This action follows new restrictions that prevent certain Chinese entities from submitting research to U.S.-linked academic foundations.",
+      "category": "Policy",
+      "significance": "This boycott represents a significant escalation in the decoupling of global AI research. It could lead to the formation of parallel, less interconnected AI research communities, hindering the free exchange of scientific knowledge and potentially slowing down universal advancements in AI, while also fostering distinct national AI trajectories.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzOd8rDaUu9F94BG8kolLgumhClo1-hFIq3XKns3b_dtkqll5Q1YiAu9KMgORLH1ozSmbudE0OHIN2L65838tpQve1Rqj9yo_wTsRH85Gv6akfcNHG3JZmt7hBzX5ar-T_WkUjIQ4jBk9pI3UpiAsVQKPgdS9V",
+          "label": "theregister.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "U.S. States Advance AI Provenance and Liability Legislation",
+      "date": "2026-03-27",
+      "description": "A wave of AI-related bills is moving through U.S. state legislatures, including the 'AI Provenance Data Act,' which aims to combat deepfakes, and the 'Chatbot Response Liability Act,' seeking to hold companies legally responsible for harmful advice generated by autonomous agents.",
+      "category": "Policy",
+      "significance": "These legislative efforts signal a proactive and decentralized approach to AI regulation within the U.S. The establishment of provenance requirements for AI-generated content and liability frameworks for AI outputs will profoundly influence how AI models are developed, deployed, and governed, potentially shaping industry standards and consumer trust for the next decade.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyKYIXvjaX1vxyKYRFJ_3mWLkW5ArzldFmNRu5NAcPMLwHqYtcuHQbVNIT_zk7CCLt2wd7D28KdavAAnpA-po_2LIg0GV1G5yX6-6YaXYW_WJ9JWUs63CWHet9jSgsI1Jav8V_Xxyl7Xkk99tr379DBxDJ_gX4JR3ItebsP6OgaAFgYD33ZaVj9SsrvytSxpj5hfhpXIgmJUD2k-1lVEuupPgkdlRXTU9fiL_EUnh",
+          "label": "appleinsider.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "NVIDIA GTC 2026 Concludes with Focus on Agentic AI Software",
+      "date": "2026-03-26",
+      "description": "NVIDIA's GTC 2026 conference concluded with significant updates to its Blackwell architecture and the unveiling of new software libraries specifically designed for Agentic AI. These libraries aim to enable more autonomous reasoning and complex task execution in enterprise workflows.",
+      "category": "Research",
+      "significance": "The advancements in Agentic AI software, combined with foundational hardware like Blackwell, represent a critical step towards more autonomous and capable AI systems. This development could accelerate the integration of AI agents into various industries, driving new paradigms in automation and intelligent systems over the next five years and beyond.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxP6V--BH0IPFafmeLOZCYEDmS6CeJ49YENdT2ky5axfPaosiAcSYyNXZ57P1-lqW9KRWhTSIJbQ2b_Mf9ipEvXp8DE7PH0X79aixxPFOt8UXeOnOC7oJ7SmPNeRm_xZNRmbXRbhkKn_l4fCksTXH2ErRsFNn7oy6zDQgXwNmIO39QT_pR0P1U0E1MtGCuo-YmA7FErhPZbdEqRC4tiAyqiTP5NBvYOA==",
+          "label": "domo.health"
         }
       ],
       "type": "timeline_event"
