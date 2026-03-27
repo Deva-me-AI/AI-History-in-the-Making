@@ -1380,5 +1380,74 @@
       }
     ],
     "issueNumber": 167
+  },
+  {
+    "title": "NVIDIA Unveils Groq 3 LPU and Vera Rubin Systems, Acquires Groq for $20B",
+    "date": "2026-03-25",
+    "description": "At NVIDIA GTC 2026, Jensen Huang announced the Groq 3 LPU and Vera Rubin rack-scale systems, following NVIDIA's $20 billion acquisition of Groq. These advancements signal a major shift in AI hardware and infrastructure.",
+    "category": "Infrastructure",
+    "sources": [
+      {
+        "url": "https://theneuron.ai",
+        "label": "theneuron.ai"
+      }
+    ],
+    "issueNumber": 168
+  },
+  {
+    "title": "OpenAI Pivots Strategy: Discontinues Sora, Ends Disney Partnership, Secures AWS Government Contract",
+    "date": "2026-03-25",
+    "description": "OpenAI announced a significant strategic shift, discontinuing its Sora video application and ending a $1 billion partnership with Disney. Concurrently, the company secured a major contract with AWS to provide AI tools for classified work to U.S. government customers, reducing its reliance on Microsoft Azure.",
+    "category": "Industry Structure",
+    "sources": [
+      {
+        "url": "https://theneuron.ai",
+        "label": "theneuron.ai"
+      }
+    ],
+    "issueNumber": 169
+  },
+  {
+    "title": "Anthropic Launches Research Preview of 'Claude Computer Use' for Autonomous Interface Control",
+    "date": "2026-03-25",
+    "description": "Anthropic released a research preview of 'Claude Computer Use,' empowering its Claude model to directly control and navigate a Mac interface to execute complex, multi-step tasks. This represents a significant advancement in AI's agentic capabilities.",
+    "category": "Research",
+    "sources": [
+      {
+        "url": "https://theneuron.ai",
+        "label": "theneuron.ai"
+      }
+    ],
+    "issueNumber": 170
+  },
+  {
+    "title": "Arm and Meta Collaborate on First 'AGI CPU' for Reasoning Requirements",
+    "date": "2026-03-25",
+    "description": "Arm and Meta unveiled a collaborative project for what they describe as the first 'AGI CPU.' This specialized processor is designed to handle the unique reasoning requirements of Artificial General Intelligence, marking a potential milestone in foundational AI hardware.",
+    "category": "Infrastructure",
+    "sources": [
+      {
+        "url": "https://theneuron.ai",
+        "label": "theneuron.ai"
+      }
+    ],
+    "issueNumber": 171
+  },
+  {
+    "title": "U.S. Lawmakers Propose Moratorium on New AI Data Center Construction",
+    "date": "2026-03-26",
+    "description": "Progressive U.S. lawmakers introduced a bill calling for a moratorium on new AI data center construction. The proposed pause is intended to allow for the establishment of national safeguards concerning environmental impact, worker protection, and privacy, addressing the massive resource demands of AI infrastructure.",
+    "category": "Policy",
+    "sources": [
+      {
+        "url": "https://theneuron.ai",
+        "label": "theneuron.ai"
+      },
+      {
+        "url": "https://www.latimes.com",
+        "label": "latimes.com"
+      }
+    ],
+    "issueNumber": 172
   }
 ]
