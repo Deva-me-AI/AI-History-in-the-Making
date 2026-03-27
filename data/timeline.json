@@ -1449,5 +1449,44 @@
       }
     ],
     "issueNumber": 172
+  },
+  {
+    "title": "NVIDIA GTC 2026 Focuses on Enterprise Agentic Deployments and New Frameworks",
+    "date": "2026-03-26",
+    "description": "The NVIDIA GTC 2026 conference concluded with a strong emphasis on enterprise agentic AI deployments. Key announcements included the NeMoCLAW and OpenCLAW frameworks, designed to facilitate the orchestration of autonomous AI agents in production environments, signaling a significant shift towards practical, agent-driven AI solutions for businesses.",
+    "category": "Industry Structure",
+    "sources": [
+      {
+        "url": "https://digitalapplied.com",
+        "label": "Digital Applied"
+      }
+    ],
+    "issueNumber": 173
+  },
+  {
+    "title": "Model Context Protocol (MCP) Surpasses 97 Million Installations, Becomes Foundational AI Agent Infrastructure",
+    "date": "2026-03-26",
+    "description": "The Model Context Protocol (MCP) reached a critical milestone, exceeding 97 million installations. This widespread adoption confirms its transition from an experimental standard to a foundational infrastructure component for AI agents, with major providers now integrating MCP-compatible tools, standardizing how AI agents interact with data and environments.",
+    "category": "Infrastructure",
+    "sources": [
+      {
+        "url": "https://digitalapplied.com",
+        "label": "Digital Applied"
+      }
+    ],
+    "issueNumber": 97
+  },
+  {
+    "title": "Santander, Visa, and Mastercard Pioneer Agentic Commerce with First Controlled Pilots",
+    "date": "2026-03-27",
+    "description": "A major breakthrough in 'agentic commerce' was announced, with Santander and Visa completing the first controlled pilot in Latin America, and Mastercard and Santander executing Europe’s first live end-to-end payment by an AI agent. These pilots demonstrate the capability of AI agents to autonomously purchase goods, paving the way for a new era of automated financial transactions.",
+    "category": "Industry Structure",
+    "sources": [
+      {
+        "url": "https://fintechfutures.com",
+        "label": "Fintech Futures"
+      }
+    ],
+    "issueNumber": 174
   }
 ]
