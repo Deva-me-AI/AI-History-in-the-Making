@@ -1488,5 +1488,78 @@
       }
     ],
     "issueNumber": 174
+  },
+  {
+    "title": "OpenAI Discontinues Sora API and Web Platform Due to Unsustainable Economics",
+    "date": "2026-03-26",
+    "description": "OpenAI ceased public access to its Sora video generation API and web platform, citing prohibitively high compute costs for high-quality video production that exceeded market willingness to pay. This move highlights significant economic challenges in scaling advanced generative media models.",
+    "category": "Industry Structure",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHN-rAtZW_2D3BzvZxPWhVb3eSLSIju5Bmam_lgoZwZs-9EQhMhSond3e1TGupeHgUh-0wFxOW_M1f5ZvrZsD90QzOyHOK6mWXEjUpKnyWMHirmp5qcxZW98Txe3FZ2nCNkflBdk1inkjU2cxa_GcQ7YjEqNd4P-QA=",
+        "label": "saasnik.com"
+      }
+    ],
+    "issueNumber": 175
+  },
+  {
+    "title": "GPT-5.4 and Gemini 3.1 Achieve Widespread Enterprise Deployment, GPT-5.4 Matches Human Experts on GDPVal Benchmark",
+    "date": "2026-03-28",
+    "description": "Both OpenAI's GPT-5.4 and Google's Gemini 3.1 saw widespread enterprise adoption, marking a new phase of commercial integration for advanced AI models. Notably, GPT-5.4 achieved an 83% score on the GDPVal benchmark, demonstrating human-expert level capabilities in complex economic reasoning.",
+    "category": "Model Release, Research, Industry Structure",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHN-rAtZW_2D3BzvZxPWhVb3eSLSIju5Bmam_lgoZwZs-9EQhMhSond3e1TGupeHgUh-0wFxOW_M1f5ZvrZsD90QzOyHOK6mWXEjUpKnyWMHirmp5qcxZW98Txe3FZ2nCNkflBdk1inkjU2cxa_GcQ7YjEqNd4P-QA=",
+        "label": "saasnik.com"
+      },
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFl_GpmF-r7TzxlhRa7hKJl16OsNfUEONxdG6qx_0HKMh-CH_mxyHHMeahIWID4SFvAGS2iUGPPj0Vdr6Z1Pnr9sHspHM2UGrfa_Q2mn30zgTXAtyBUvH8pr-GPL3uNEwkJ9r2qtnxuVnrqg73IKM6zgwAPCqqFrO1SRHsiX43aaKTlGN-78FWNs1epCeBhKt9l",
+        "label": "digitalapplied.com"
+      }
+    ],
+    "issueNumber": 176
+  },
+  {
+    "title": "Google Unveils 'TurboQuant' Algorithm, Drastically Reducing AI Model Memory Requirements",
+    "date": "2026-03-27",
+    "description": "Google introduced 'TurboQuant' (also known as 'Pied Piper'), a revolutionary memory compression algorithm that reduces AI model memory footprint by over sixfold without accuracy loss. This innovation enables powerful AI models to operate efficiently on edge devices like new smartphones.",
+    "category": "Research, Infrastructure",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGGne-S9SV2IX7SrZJ9BPfRsFWBVvTO1UyowvVuyg-iODsFsMNYB8PQY88Kw86FTQSCU8d6DabyjM9KqftPFgMFwQKsIy7crKu2m6rI5sTH2xthJNyosaLh7ht-iWjI6t25B12oeg==",
+        "label": "youtube.com"
+      },
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHy2vcarR4NBqO1IcZCWNdcns4_s6BXQfqD5s7zJMMncrGGiXv-35VnwNWaoHlz1VW1C8suc_Ml5np94sF3RFB2ZucjpbMZvl6soSSf6vPZRSfaTA4jWq4k9fjmCjC-MSTuKu9Ow==",
+        "label": "youtube.com"
+      }
+    ],
+    "issueNumber": 177
+  },
+  {
+    "title": "Open-Source Agent Framework 'OpenClaw' Goes Viral, Challenging Cloud-Based AI Dominance",
+    "date": "2026-03-27",
+    "description": "The open-source agent framework 'OpenClaw' gained significant traction, lauded by figures like NVIDIA CEO Jensen Huang as a potential 'next ChatGPT.' It allows fully autonomous AI agents to run locally on consumer hardware, offering an alternative to traditional cloud-based AI services.",
+    "category": "Open Source, Industry Structure",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHvbDjmrt2gEx2NbzHC_IYd-W0tnyU_tEJvR95ueC3N7XmQayRLqLTJoZhjr9YZbrjVIKqEEsCUONbwGmhn4iiuZk31KfUii7PKEkcygquYlqfP1gr1JvpgF0Akk7yTdgPvaC7syqLIo0iGihO7f4sP3NNjFfD1CRrGgrJgCFTnz9AN9p5mw==",
+        "label": "devflokers.com"
+      }
+    ],
+    "issueNumber": 178
+  },
+  {
+    "title": "OpenAI Closes $110 Billion Funding Round, Reaching $840 Billion Valuation",
+    "date": "2026-03-28",
+    "description": "OpenAI secured a substantial $110 billion funding round, led by Amazon, SoftBank, and NVIDIA, elevating its valuation to $840 billion. This investment underscores continued investor confidence despite a reported dip in enterprise market share.",
+    "category": "Funding, Industry Structure",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRZsMkq9x71aQXBKkwhzEUJXbtsYai6FamcXTnDP6wQweVpjbkht5DV1lImbhYfmtvjGfurjpfqq_8nRZ6TfTmKPXAGSQ50UbqD19xmNhR0zrMRtkDTUKT_06eYUu9kJtymNhhaIdFxC0_p7zEdl7BYO_4PE0KAr7-fouIUdQ=",
+        "label": "thehumansintheloop.ai"
+      }
+    ],
+    "issueNumber": 179
   }
 ]
