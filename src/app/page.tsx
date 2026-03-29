@@ -29,7 +29,7 @@ export default function Home() {
           </h1>
 
           <p className="mx-auto mt-6 max-w-2xl text-pretty text-base leading-relaxed text-zinc-400 sm:text-lg">
-            A Vercel-style command center for major milestones, unresolved debates,
+            A command center for major milestones, unresolved debates,
             and community truth-making as AI evolves week by week.
           </p>
 
