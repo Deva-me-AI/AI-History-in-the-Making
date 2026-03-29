@@ -1,1 +1,81 @@
-{"scanDate":"2026-03-29","candidates":[],"questionUpdates":[]}
+{
+  "scanDate": "2026-03-29",
+  "candidates": [
+    {
+      "title": "Nvidia Declares Artificial General Intelligence Achieved",
+      "date": "2026-03-27",
+      "description": "Nvidia CEO Jensen Huang announced that Artificial General Intelligence (AGI) has been achieved, describing it as \"foundational infrastructure\" for billion-dollar businesses, sparking debate within the research community regarding benchmarks and definitions.",
+      "category": "Research",
+      "significance": "A declaration of AGI, even if contested, sets a new benchmark and shifts the conversation around AI capabilities and future development.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvtvXLlrFBbnEYWr11GC9Qcah9PrwuZflqf76dIC7DBhGG08qSIvmP1LZ6AeiYRxHnyebRRAPRqxCyx4bODMzloGIjFyZfnSm1BWlbnlJgBTepIz-1vUuUgyobccmSgk71KY0HYPhhdHVauh3990rtSKwdfRlb",
+          "label": "neuralbuddies.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "OpenAI Faces Internal Turmoil Over Pentagon Deal and High-Profile Resignations",
+      "date": "2026-03-27",
+      "description": "OpenAI experienced internal unrest following a controversial deal with the Pentagon (previously rejected by Anthropic), leading to the resignation of its Robotics Director and VP of Research, who subsequently joined Anthropic.",
+      "category": "Military & Security",
+      "significance": "This event signals significant internal dissent and potential shifts in ethical stances or strategic direction at a leading AI lab, impacting its talent, public perception, and future trajectory.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzDAYYjQNbGw8U_te1Inu-ctAOCNsqvGOR53oql95JxqRUTWe0gNNIcT33kJ2qmu93wsSuC9eOBtk9CEN6bR9r5Sj8RFnRfFIb_WehBX5YrNz4yEU8Xm9kWe9rbynvYM0pfmRIobHzFj72MPTCrgW71Hlpbq-exN2nId5eHUiH",
+          "label": "thehumansintheloop.ai"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Block Announces 40% Workforce Cut, Citing AI's Impact on Operations",
+      "date": "2026-03-27",
+      "description": "Jack Dorsey announced a 40% reduction in Block's workforce, explicitly stating that AI's capacity to fundamentally alter company operations was the reason for the cuts.",
+      "category": "Industry Structure",
+      "significance": "A significant workforce reduction by a major company directly attributing it to AI highlights a growing trend of automation impacting employment across industries, signaling long-term shifts in labor markets.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzDAYYjQNbGw8U_te1Inu-ctAOCNsqvGOR53oql95JxqRUTWe0gNNIcT33kJ2qmu93wsSuC9eOBtk9CEN6bR9r5Sj8RFnRfFIb_WehBX5YrNz4yEU8Xm9kWe9rbynvYM0pfmRIobHzFj72MPTNxgW71Hlpbq-exN2nId5eHUiH",
+          "label": "thehumansintheloop.ai"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Neuro-Symbolic AI Achieves 100x Energy Efficiency Breakthrough for Robotic Tasks",
+      "date": "2026-03-28",
+      "description": "Researchers at Tufts University demonstrated a proof-of-concept for neuro-symbolic AI that uses 100 times less energy than current large-scale models, while maintaining high accuracy for robotic tasks.",
+      "category": "Research",
+      "significance": "A 100x improvement in energy efficiency for a promising AI paradigm like neuro-symbolic AI could dramatically reduce the environmental footprint of AI and enable more widespread, power-constrained applications, paving the way for sustainable AI.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFrv7qgKkSjhSslpMmwvY4kMNoalDl3ccYqmKqb1u2xgNJIT0o-8Jfh_zA-YRGeuCMV0Qf1zHTN-FStsFg-A4LVKZJUZkg5cOv1hkwsZrIk1Z185VOR6eVPwNEFzKSnFyBXxYiM3Ap4OpYBz4W_JiMf4_K1H3QY0gRVJEeo29stfBygwtx7oZKwm710OzghuDw9c0vexekODZKeFe-GxpdQ",
+          "label": "scitechdaily.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Hachette Cancels Publication of AI-Generated Novel, Highlighting Literary Crisis",
+      "date": "2026-03-29",
+      "description": "Hachette canceled the US release of the novel Shy Girl after it was found to be up to 78% AI-generated, triggering an industry-wide struggle over the difficulty of detecting AI-written literature and questions of authorship.",
+      "category": "Industry Structure",
+      "significance": "This event exposes a critical challenge in intellectual property, authorship, and content authentication within creative industries, forcing a re-evaluation of current practices and future policies regarding AI-generated content.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_rJJjEpAPfXubUJ54bi-2Th8-JP_eP_VF9QwNZatcK-l9ffIzwmktlcYrYxUXmV7ey-bdicWi3o_BLg35pkYnxKbE0Unh01t5t5w-vMPQcCiHdD3myTLO-Sjrp54mw756Ui5BEKLkkUt2LVvrtykCMCdWMCVprM-HeFcKmtR3vLQLyiVBjD3okx460doFe5uuC7jCH0FwEQ",
+          "label": "theguardian.com"
+        }
+      ],
+      "type": "timeline_event"
+    }
+  ],
+  "questionUpdates": []
+}
