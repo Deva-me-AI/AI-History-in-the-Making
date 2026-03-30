@@ -1691,5 +1691,57 @@
       }
     ],
     "issueNumber": 189
+  },
+  {
+    "title": "OpenAI Discontinues Sora Video App to Refocus on Foundational AI",
+    "date": "2026-03-28",
+    "description": "OpenAI announced the discontinuation of its Sora video-generation mobile app, stating a reallocation of resources towards core AI development, infrastructure, and enterprise-grade products, citing high compute demands and a strategic shift toward foundational world-simulation models.",
+    "category": "Industry Structure",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHk3S6HDXVlS-WlbsIyrC0dbfQY_esUFenRhSab3U6aNBPqfvJIpsqZtlwhIfgOSHF-DsQUVXuYauo7F-gEVH8ifWP2zldz4nMqhcGOHq0o6r5F5d_eta2e_WQyAdK3OAipSjzRoiJIB8q8pKTMmZiv1AZ0n9k=",
+        "label": "neuralbuddies.com"
+      }
+    ],
+    "issueNumber": 190
+  },
+  {
+    "title": "Federal Judge Blocks Pentagon from Labeling Anthropic as Supply Chain Risk",
+    "date": "2026-03-28",
+    "description": "A federal judge temporarily blocked the U.S. Pentagon from branding Anthropic as a 'supply chain risk,' marking a significant legal victory for the AI company as it seeks to expand its presence in enterprise and government sectors.",
+    "category": "Policy",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.google.com/grounding-api-redirect/AUZIYQFS69j3iF7M-8OinH6mYb5FBJgisSMMg9SsNaym_IJQ2mJE_kVgRZlIamZU-hK6mupvwvJTC4uemaN-NJDNQWKjXhVMQFaCl9q7eggsDfiRgzVo3PlcRuUdgmo9sZlYTYrZ7G5DJTNMoe4bbffNsWa0RGDtK-c-onump1KbAErIfCEHuREK_fyb0jggTMsN_UuAhMuIU7NGvUCViI0qfuuT-PGoRI1hAUjl",
+        "label": "AI News Summary"
+      }
+    ],
+    "issueNumber": 191
+  },
+  {
+    "title": "Nvidia Unveils 'Orbital Data Centers' for AI in Space",
+    "date": "2026-03-28",
+    "description": "Nvidia announced new hardware modules for 'Orbital Data Centers' (ODCs) designed to host AI data centers in space. These ODCs aim to leverage solar energy and vacuum cooling to overcome terrestrial environmental and power limitations.",
+    "category": "Infrastructure",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.google.com/grounding-api-redirect/AUZIYQFS69j3iF7M-8OinH6mYb5FBJgisSMMg9SsNaym_IJQ2mJE_kVgRZlIamZU-hK6mupvwvJTC4uemaN-NJDNQWKjXhVMQFaCl9q7eggsDfiRgzVo3PlcRuUdgmo9sZlYTYrZ7G5DJTNMoe4bbffNsWa0RGDtK-c-onump1KbAErIfCEHuREK_fyb0jggTMsN_UuAhMuIU7NGvUCViI0qfuuT-PGoRI1hAUjl",
+        "label": "AI News Summary"
+      }
+    ],
+    "issueNumber": 192
+  },
+  {
+    "title": "China Launches National Platform to Integrate AI with Industry at Zhongguancun Forum",
+    "date": "2026-03-28",
+    "description": "During the 'AI + Industry' Forum at the Zhongguancun Forum, China unveiled a national platform designed to connect AI technology suppliers with various industrial application scenarios across the country.",
+    "category": "Policy",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyCuk7CiD-czVHcW7_1RvmvL_IknSddf5nfqbRHgCP9bhW16BwKcJu08RWgwdGbYNRffpjmmPUYKsbK9SErkvwYX99PfEHgNRS_NgKaoiVa8puBDEudNlxz9OsxjAOrUUpVa_xWYcFPH2XONDkQVrWbW06Rmv0QbKIn1PZcqEjP6GOUDSUhdZczY_4HPGvfj47EJ8Des9fIM-N7pYojunNK5h9Jfo15xD6SaQQanahjyEaT_HrR25lGcfUwd3Zd0pLWjnyXSLsprARh3U=",
+        "label": "prnewswire.com"
+      }
+    ],
+    "issueNumber": 193
   }
 ]
