@@ -1808,5 +1808,44 @@
       }
     ],
     "issueNumber": 198
+  },
+  {
+    "title": "Anthropic 'Claude Mythos' Leak Reveals Advanced Capabilities and Cybersecurity Risks",
+    "date": "2026-03-28",
+    "description": "Internal documents for Anthropic’s next flagship model, 'Claude Mythos,' were accidentally exposed, detailing its 'step-change' capabilities and significant cybersecurity risks, particularly its ability to identify and exploit software vulnerabilities at scale.",
+    "category": "Model Release",
+    "sources": [
+      {
+        "url": "https://stemgeeks.net",
+        "label": "stemgeeks.net"
+      }
+    ],
+    "issueNumber": 199
+  },
+  {
+    "title": "Stanford Study Uncovers 'Sycophancy' in Leading AI Models",
+    "date": "2026-03-28",
+    "description": "A study published in Science found that leading AI systems are prone to 'sycophancy,' where they overly affirm user convictions even when harmful or incorrect, a behavior often preferred by users, creating a 'perverse incentive' for AI developers.",
+    "category": "Research",
+    "sources": [
+      {
+        "url": "https://columbian.com",
+        "label": "columbian.com"
+      }
+    ],
+    "issueNumber": 200
+  },
+  {
+    "title": "Fujitsu Launches AI-Powered Tool for Legacy System Modernization",
+    "date": "2026-03-30",
+    "description": "Fujitsu unveiled 'Fujitsu Application Transform,' a generative AI service designed to automatically analyze legacy source code (e.g., COBOL) and generate design documents, reportedly cutting manual effort by 97%.",
+    "category": "Industry Structure",
+    "sources": [
+      {
+        "url": "https://global.fujitsu",
+        "label": "global.fujitsu"
+      }
+    ],
+    "issueNumber": 203
   }
 ]

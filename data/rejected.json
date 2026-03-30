@@ -285,7 +285,7 @@
     }
   },
   {
-    "title": "Google and University of Hawai\u02bbi Unveil AI Co-Scientist System",
+    "title": "Google and University of Hawaiʻi Unveil AI Co-Scientist System",
     "date": "2026-03-25",
     "description": "**Date:** 2026-03-25",
     "category": "",
@@ -565,7 +565,7 @@
   {
     "title": "[Analysis] Model convergence question underestimates benchmark parity",
     "date": "2026-03-04",
-    "description": "**Item:** Open Question 1 \u2014 \"Will AI models converge in capability?\" (Status: Partial)",
+    "description": "**Item:** Open Question 1 — \"Will AI models converge in capability?\" (Status: Partial)",
     "category": "gemini-3-pro",
     "issueNumber": 45,
     "reviewedAt": "2026-03-04T09:19:48Z",
@@ -578,7 +578,7 @@
     }
   },
   {
-    "title": "[Missing Event] LLaMA weights leak + Stanford Alpaca (March 2023) \u2014 the real open-source ignition",
+    "title": "[Missing Event] LLaMA weights leak + Stanford Alpaca (March 2023) — the real open-source ignition",
     "date": "2026-03-04",
     "description": "**Item:** Timeline mentions LLaMA release (Feb 2023) but misses the actual catalyst.",
     "category": "gemini-3-pro",
@@ -593,9 +593,9 @@
     }
   },
   {
-    "title": "[Accuracy] 128K-200K 'standard' in Dec 2024 is outdated \u2014 frontier was already at 1M+",
+    "title": "[Accuracy] 128K-200K 'standard' in Dec 2024 is outdated — frontier was already at 1M+",
     "date": "2026-03-04",
-    "description": "**Item:** Timeline entry #35 \u2014 \"2024-12 \u2014 Context Windows: 128K-200K Becomes Standard\"",
+    "description": "**Item:** Timeline entry #35 — \"2024-12 — Context Windows: 128K-200K Becomes Standard\"",
     "category": "gemini-3-pro",
     "issueNumber": 43,
     "reviewedAt": "2026-03-04T09:19:45Z",
@@ -625,7 +625,7 @@
   {
     "title": "[Analysis] Moravec's Paradox misapplied to software agents",
     "date": "2026-03-04",
-    "description": "**Item:** Open Question 13 \u2014 \"Why don't we have reliable agents yet?\" (Uses Moravec's Paradox framing)",
+    "description": "**Item:** Open Question 13 — \"Why don't we have reliable agents yet?\" (Uses Moravec's Paradox framing)",
     "category": "gemini-3-pro",
     "issueNumber": 41,
     "reviewedAt": "2026-03-04T09:19:42Z",
@@ -655,7 +655,7 @@
   {
     "title": "[Date Error] Gemini 1.5 Pro 1M context was February 2024, not May",
     "date": "2026-03-04",
-    "description": "**Item:** Timeline entry #32 \u2014 \"2024-05 \u2014 Gemini 1.5 Pro 1M Context Window\"",
+    "description": "**Item:** Timeline entry #32 — \"2024-05 — Gemini 1.5 Pro 1M Context Window\"",
     "category": "gemini-3-pro",
     "issueNumber": 39,
     "reviewedAt": "2026-03-04T09:19:39Z",
@@ -668,7 +668,7 @@
     }
   },
   {
-    "title": "[Missing Event] InstructGPT / RLHF (2022) \u2014 The alignment breakthrough that enabled ChatGPT",
+    "title": "[Missing Event] InstructGPT / RLHF (2022) — The alignment breakthrough that enabled ChatGPT",
     "date": "2026-03-04",
     "description": "**Gap:** The timeline shows ChatGPT (Nov 2022) but doesn't explain WHY it worked. InstructGPT and RLHF are the answer.",
     "category": "gemini-3-pro",
@@ -683,7 +683,7 @@
     }
   },
   {
-    "title": "[Date Error] xAI $6B funding duplicated \u2014 two entries for the same raise",
+    "title": "[Date Error] xAI $6B funding duplicated — two entries for the same raise",
     "date": "2026-03-04",
     "description": "**Item:** Timeline entries #33 (June 2024) and #34 (August 2024) both list \"xAI raises $6B\"",
     "category": "gemini-3-pro",
@@ -698,9 +698,9 @@
     }
   },
   {
-    "title": "[Accuracy] Hallucinations marked 'Resolved \u2014 No' is contested",
+    "title": "[Accuracy] Hallucinations marked 'Resolved — No' is contested",
     "date": "2026-03-04",
-    "description": "**Item:** Open Question 8 \u2014 \"Are hallucinations a fundamental problem?\" (Status: Resolved \u2014 No)",
+    "description": "**Item:** Open Question 8 — \"Are hallucinations a fundamental problem?\" (Status: Resolved — No)",
     "category": "gemini-3-pro",
     "issueNumber": 36,
     "reviewedAt": "2026-03-04T09:19:35Z",
@@ -713,9 +713,9 @@
     }
   },
   {
-    "title": "[Accuracy] RAG marked 'Resolved/Obsolete' is premature \u2014 models disagree",
+    "title": "[Accuracy] RAG marked 'Resolved/Obsolete' is premature — models disagree",
     "date": "2026-03-04",
-    "description": "**Item:** Open Question 3 \u2014 \"Is RAG the right architecture for AI memory?\" (Status: Resolved \u2014 Mostly Resolved)",
+    "description": "**Item:** Open Question 3 — \"Is RAG the right architecture for AI memory?\" (Status: Resolved — Mostly Resolved)",
     "category": "gemini-3-pro",
     "issueNumber": 35,
     "reviewedAt": "2026-03-04T08:21:51Z",
@@ -743,7 +743,7 @@
     }
   },
   {
-    "title": "[Missing Event] AlphaFold 2 (2020) \u2014 AI solves protein folding",
+    "title": "[Missing Event] AlphaFold 2 (2020) — AI solves protein folding",
     "date": "2026-03-04",
     "description": "**Gap:** The timeline has zero entries for AI in scientific discovery. AlphaFold 2 is arguably the single most impactful real-world AI application to date.",
     "category": "gemini-3-pro",
@@ -758,7 +758,7 @@
     }
   },
   {
-    "title": "[Missing Event] BERT (2018) \u2014 The bidirectional transformer breakthrough",
+    "title": "[Missing Event] BERT (2018) — The bidirectional transformer breakthrough",
     "date": "2026-03-04",
     "description": "**Gap:** Timeline lists GPT-1 (June 2018) but completely omits BERT (October 2018).",
     "category": "gemini-3-pro",
@@ -775,7 +775,7 @@
   {
     "title": "[Date Error] First AI Winter started ~1973, not 1969",
     "date": "2026-03-04",
-    "description": "**Item:** Timeline entry \"1969-01 \u2014 First AI Winter Begins\"",
+    "description": "**Item:** Timeline entry \"1969-01 — First AI Winter Begins\"",
     "category": "gemini-3-pro",
     "issueNumber": 31,
     "reviewedAt": "2026-03-04T08:20:24Z"
@@ -783,7 +783,7 @@
   {
     "title": "[Question] How much of a parallelization penalty do multi-agent systems pay?",
     "date": "2026-03-04",
-    "description": "**Status:** \ud83d\udd34 Still Open | **Inspired by:** [Dwarkesh Patel](https://www.dwarkesh.com/p/questions-about-ai)",
+    "description": "**Status:** 🔴 Still Open | **Inspired by:** [Dwarkesh Patel](https://www.dwarkesh.com/p/questions-about-ai)",
     "category": "questions",
     "issueNumber": 30,
     "reviewedAt": "2026-03-04T09:21:49Z"
@@ -791,7 +791,7 @@
   {
     "title": "[Question] Will AI cause explosive economic growth?",
     "date": "2026-03-04",
-    "description": "**Status:** \ud83d\udd34 Still Open | **Inspired by:** [Dwarkesh Patel](https://www.dwarkesh.com/p/questions-about-ai)",
+    "description": "**Status:** 🔴 Still Open | **Inspired by:** [Dwarkesh Patel](https://www.dwarkesh.com/p/questions-about-ai)",
     "category": "questions",
     "issueNumber": 29,
     "reviewedAt": "2026-03-04T09:21:46Z"
@@ -799,7 +799,7 @@
   {
     "title": "[Question] Why does test-time compute keep helping even at absurd scale?",
     "date": "2026-03-04",
-    "description": "**Status:** \ud83d\udd34 Still Open | **Inspired by:** [Dwarkesh Patel](https://www.dwarkesh.com/p/questions-about-ai)",
+    "description": "**Status:** 🔴 Still Open | **Inspired by:** [Dwarkesh Patel](https://www.dwarkesh.com/p/questions-about-ai)",
     "category": "questions",
     "issueNumber": 28,
     "reviewedAt": "2026-03-04T09:21:43Z"
@@ -807,7 +807,7 @@
   {
     "title": "[Question] Can AI achieve superhuman science without human-level learning efficiency?",
     "date": "2026-03-04",
-    "description": "**Status:** \ud83d\udd34 Still Open | **Inspired by:** [Dwarkesh Patel](https://www.dwarkesh.com/p/questions-about-ai)",
+    "description": "**Status:** 🔴 Still Open | **Inspired by:** [Dwarkesh Patel](https://www.dwarkesh.com/p/questions-about-ai)",
     "category": "questions",
     "issueNumber": 27,
     "reviewedAt": "2026-03-04T09:21:41Z"
@@ -815,7 +815,7 @@
   {
     "title": "[Question] Why are all AI labs converging on the same architecture?",
     "date": "2026-03-04",
-    "description": "**Status:** \ud83d\udd34 Still Open | **Inspired by:** [Dwarkesh Patel](https://www.dwarkesh.com/p/questions-about-ai)",
+    "description": "**Status:** 🔴 Still Open | **Inspired by:** [Dwarkesh Patel](https://www.dwarkesh.com/p/questions-about-ai)",
     "category": "questions",
     "issueNumber": 26,
     "reviewedAt": "2026-03-04T09:21:38Z"
@@ -823,7 +823,7 @@
   {
     "title": "[Question] Why haven't LLMs made genuine scientific discoveries?",
     "date": "2026-03-04",
-    "description": "**Status:** \ud83d\udd34 Still Open | **Inspired by:** [Dwarkesh Patel](https://www.dwarkesh.com/p/questions-about-ai)",
+    "description": "**Status:** 🔴 Still Open | **Inspired by:** [Dwarkesh Patel](https://www.dwarkesh.com/p/questions-about-ai)",
     "category": "questions",
     "issueNumber": 25,
     "reviewedAt": "2026-03-04T09:21:35Z"
@@ -831,7 +831,7 @@
   {
     "title": "[Question] When will RL become the dominant training workload?",
     "date": "2026-03-04",
-    "description": "**Status:** \ud83d\udfe1 Partially Resolved | **Inspired by:** [Dwarkesh Patel](https://www.dwarkesh.com/p/questions-about-ai)",
+    "description": "**Status:** 🟡 Partially Resolved | **Inspired by:** [Dwarkesh Patel](https://www.dwarkesh.com/p/questions-about-ai)",
     "category": "questions",
     "issueNumber": 24,
     "reviewedAt": "2026-03-04T09:21:31Z"
@@ -839,7 +839,7 @@
   {
     "title": "[Question] Why don't we have reliable agents yet? (Moravec's Paradox)",
     "date": "2026-03-04",
-    "description": "**Status:** \ud83d\udfe1 Partially Resolved | **Inspired by:** [Dwarkesh Patel](https://www.dwarkesh.com/p/questions-about-ai)",
+    "description": "**Status:** 🟡 Partially Resolved | **Inspired by:** [Dwarkesh Patel](https://www.dwarkesh.com/p/questions-about-ai)",
     "category": "questions",
     "issueNumber": 23,
     "reviewedAt": "2026-03-04T09:21:28Z"
@@ -887,7 +887,7 @@
   {
     "title": "[Question] Can agents run autonomously for extended periods?",
     "date": "2026-03-04",
-    "description": "**Status:** \ud83d\udfe1 Partially Resolved",
+    "description": "**Status:** 🟡 Partially Resolved",
     "category": "questions",
     "issueNumber": 12,
     "reviewedAt": "2026-03-04T09:21:25Z"
@@ -895,7 +895,7 @@
   {
     "title": "[Question] Will AI coding become a leisure activity? (Currently marked: Emerging Yes)",
     "date": "2026-03-04",
-    "description": "**Status:** \ud83d\udfe2 Emerging Yes",
+    "description": "**Status:** 🟢 Emerging Yes",
     "category": "questions",
     "issueNumber": 11,
     "reviewedAt": "2026-03-04T09:21:23Z"
@@ -903,7 +903,7 @@
   {
     "title": "[Question] Will AI replace human programmers?",
     "date": "2026-03-04",
-    "description": "**Status:** \ud83d\udfe1 Partially Resolved",
+    "description": "**Status:** 🟡 Partially Resolved",
     "category": "questions",
     "issueNumber": 10,
     "reviewedAt": "2026-03-04T09:21:20Z"
@@ -911,15 +911,15 @@
   {
     "title": "[Question] How far will context windows go?",
     "date": "2026-03-04",
-    "description": "**Status:** \ud83d\udfe1 Partially Resolved",
+    "description": "**Status:** 🟡 Partially Resolved",
     "category": "questions",
     "issueNumber": 9,
     "reviewedAt": "2026-03-04T09:21:17Z"
   },
   {
-    "title": "[Question] Are hallucinations a fundamental problem? (Currently marked: Resolved \u2014 No)",
+    "title": "[Question] Are hallucinations a fundamental problem? (Currently marked: Resolved — No)",
     "date": "2026-03-04",
-    "description": "**Status:** \ud83d\udfe2 Resolved \u2014 No",
+    "description": "**Status:** 🟢 Resolved — No",
     "category": "questions",
     "issueNumber": 8,
     "reviewedAt": "2026-03-04T09:21:15Z"
@@ -927,7 +927,7 @@
   {
     "title": "[Question] Will synthetic data / RLVR replace pre-training?",
     "date": "2026-03-04",
-    "description": "**Status:** \ud83d\udfe1 Partially Resolved",
+    "description": "**Status:** 🟡 Partially Resolved",
     "category": "questions",
     "issueNumber": 7,
     "reviewedAt": "2026-03-04T09:21:11Z"
@@ -935,7 +935,7 @@
   {
     "title": "[Question] What's the real bottleneck for AI scaling?",
     "date": "2026-03-04",
-    "description": "**Status:** \ud83d\udfe1 Partially Resolved",
+    "description": "**Status:** 🟡 Partially Resolved",
     "category": "questions",
     "issueNumber": 6,
     "reviewedAt": "2026-03-04T09:21:09Z"
@@ -943,15 +943,15 @@
   {
     "title": "[Question] Is the AI lab funding bubble sustainable?",
     "date": "2026-03-04",
-    "description": "**Status:** \ud83d\udfe1 Partially Resolved",
+    "description": "**Status:** 🟡 Partially Resolved",
     "category": "questions",
     "issueNumber": 5,
     "reviewedAt": "2026-03-04T09:21:06Z"
   },
   {
-    "title": "[Question] Will frontier AI costs keep falling? (Currently marked: Resolved \u2014 Yes)",
+    "title": "[Question] Will frontier AI costs keep falling? (Currently marked: Resolved — Yes)",
     "date": "2026-03-04",
-    "description": "**Status:** \ud83d\udfe2 Resolved \u2014 Yes",
+    "description": "**Status:** 🟢 Resolved — Yes",
     "category": "questions",
     "issueNumber": 4,
     "reviewedAt": "2026-03-04T09:21:03Z"
@@ -959,7 +959,7 @@
   {
     "title": "[Question] Is RAG obsolete? (Currently marked: Mostly Resolved)",
     "date": "2026-03-04",
-    "description": "**Status:** \ud83d\udfe2 Mostly Resolved",
+    "description": "**Status:** 🟢 Mostly Resolved",
     "category": "questions",
     "issueNumber": 3,
     "reviewedAt": "2026-03-04T09:21:00Z"
@@ -967,7 +967,7 @@
   {
     "title": "[Question] Will open-source AI keep up with frontier labs?",
     "date": "2026-03-04",
-    "description": "**Status:** \ud83d\udfe1 Partially Resolved",
+    "description": "**Status:** 🟡 Partially Resolved",
     "category": "questions",
     "issueNumber": 2,
     "reviewedAt": "2026-03-04T09:20:57Z"
@@ -975,7 +975,7 @@
   {
     "title": "[Question] Will AI models converge in capability?",
     "date": "2026-03-04",
-    "description": "**Status:** \ud83d\udfe1 Partially Resolved",
+    "description": "**Status:** 🟡 Partially Resolved",
     "category": "questions",
     "issueNumber": 1,
     "reviewedAt": "2026-03-04T09:20:53Z"
@@ -996,7 +996,7 @@
     }
   },
   {
-    "title": "ELIZA \u2014 First Chatbot",
+    "title": "ELIZA — First Chatbot",
     "date": "1966-01-01",
     "description": "**Date:** 1966-01-01",
     "category": "",
@@ -1009,5 +1009,45 @@
       "gpt": "reject",
       "claude": "reject"
     }
+  },
+  {
+    "title": "New $100M Political Fund Aims to Influence Pro-AI Deregulation in US Midterms",
+    "date": "2026-03-30",
+    "description": "Innovation Council Action, a new political group backed by former Trump aides and David Sacks, announced plans to spend over $100 million in the 2026 US midterms to support pro-deregulation candidates and advance the 'AI race against China.'",
+    "category": "Policy",
+    "sources": [
+      {
+        "url": "https://aa.com.tr",
+        "label": "aa.com.tr"
+      }
+    ],
+    "votes": {
+      "accept": 2,
+      "reject": 2,
+      "gemini": "ACCEPT",
+      "gpt": "ACCEPT",
+      "claude": "REJECT"
+    },
+    "reviewedAt": "2026-03-30T16:04:30Z"
+  },
+  {
+    "title": "Industry Reports Highlight Enterprise AI ROI Challenges Amid Soaring Budgets",
+    "date": "2026-03-30",
+    "description": "Industry reports indicate a growing gap between soaring AI budgets and actual ROI, with only 25% of enterprises successfully moving more than 40% of their AI pilots into full production due to challenges in proving tangible returns.",
+    "category": "Industry Structure",
+    "sources": [
+      {
+        "url": "https://computerworld.com",
+        "label": "computerworld.com"
+      }
+    ],
+    "votes": {
+      "accept": 1,
+      "reject": 1,
+      "gemini": "ABSTAIN",
+      "gpt": "ACCEPT",
+      "claude": "REJECT"
+    },
+    "reviewedAt": "2026-03-30T16:06:31Z"
   }
 ]
