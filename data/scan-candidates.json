@@ -1,1 +1,81 @@
-{"scanDate":"2026-03-30","candidates":[],"questionUpdates":[]}
+{
+  "scanDate": "2026-03-30",
+  "candidates": [
+    {
+      "title": "Arm Launches First \"AGI CPU\" in Collaboration with Meta and OpenAI",
+      "date": "2026-03-29",
+      "description": "Arm Holdings, in collaboration with Meta and OpenAI, released its first physical silicon, the \"Arm AGI CPU,\" a 136-core processor specifically optimized for agentic AI workloads and inference. This marks a significant advancement in dedicated hardware for advanced AI.",
+      "category": "Infrastructure",
+      "significance": "This dedicated hardware for agentic AI, developed with major AI players, will likely set new standards for AI processing efficiency and enable more complex AI applications, profoundly impacting the future of AI development and deployment.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCjgGaZmeJlRj1pnfh1xnUjdmyPAf9WgLQRvI19HXHQa46OrLz4mi3gv_QqSD697o2IoXH-SsZkT7dYeIrRbRli7fx_g14Sqqg3B3_zZZEoHV7IYnNP8zjPzOpuHx8BhsJAcpN9WTZQXGM0utAUuWwJ5n-VkXtV5i3nA==",
+          "label": "stemgeeks.net"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Google Rolls Out Gemini 3.1 Flash Live with Real-time Audio and Visuals",
+      "date": "2026-03-29",
+      "description": "Google initiated the global rollout of Gemini 3.1 Flash Live, an updated model featuring real-time audio conversations and the ability to integrate visual context from a phone's camera, enhancing interactive AI capabilities.",
+      "category": "Model Release",
+      "significance": "The integration of real-time audio and visual context in a widely distributed model represents a significant leap in multimodal AI interaction, potentially reshaping how users engage with AI assistants and opening new applications.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEvsmNAQpMEr6af-pAf4FowrIPzslCj9uUYNhTlf4ZbbauhptOOzpBromGkPABqWecwDhLZ99POHxGS7pwZkG5XWi6p2GP97H7pVznJrlc-m3itK_NSOdwTg7dSUClUctHGq7UQ6X1SjkQySRaEqMfb_aIeQFjPY4bA2aETP2Y2_dxIRHQbA5Vv7IfRXh9q6WkPviZSBQ9Q7-7XstcjcCBrzEo==",
+          "label": "coaio.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Meta Overhauls Reality Labs, Rebrands Roles to Focus on AI Integration",
+      "date": "2026-03-29",
+      "description": "Meta's Reality Labs division underwent a significant restructuring, replacing traditional job titles with \"AI Builder\" and \"AI Pod Lead.\" This shift aims to flatten the organizational structure and integrate AI systems into management functions, reflecting a company-wide commitment to AI-driven operations.",
+      "category": "Industry Structure",
+      "significance": "This internal restructuring by a major tech giant to embed AI deeply into its corporate hierarchy and management processes could serve as a blueprint for other large organizations, signaling a fundamental change in how companies operate and manage talent in an AI-first era.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_i02AzfHC2egEJhl05lzrkENRfzS_Gl7En4NrF6bJ42SfJepQNYyLXWkKt07qUkWDKIrTKI8v4HiQcITVXNbAUNmqW1BZhq0zPIsxps8zidYsj2ruvK2PwM18zgndHPsK7bf0g0lF2RrkqISJElrqdI90J4uabyNcd8I-FkP6iy5MueD854i6-rDZJZuxIKMbLqS-KXLmZn6A==",
+          "label": "hrkatha.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Apple Reportedly Opening Siri to Rival AI Assistants in iOS 27",
+      "date": "2026-03-29",
+      "description": "Reports suggest that Apple plans to open its voice assistant, Siri, to rival AI assistants like Google Gemini and Anthropic's Claude in iOS 27. This change would allow users to route voice queries directly to their preferred AI model, breaking down a significant walled garden in the AI ecosystem.",
+      "category": "Policy",
+      "significance": "This strategic shift by Apple, a major platform gatekeeper, would democratize access to AI assistants on its devices, fostering greater competition, innovation, and user choice in the AI space, with profound implications for the future of intelligent agents.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCjgGaZmeJlRj1pnfh1xnUjdmyPAf9WgLQRvI19HXHQa46OrLz4mi3gv_QqSD697o2IoXH-SsZkT7dYeIrRbRli7fx_g14Sqqg3B3_zZZEoHV7IYnNP8zjPzOpuHx8BhsJAcpN9WTZQXGM0utAUuWwJ5n-VkXtV5i3nA==",
+          "label": "stemgeeks.net"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "SoftBank Establishes $40 Billion Credit Line for OpenAI Investments",
+      "date": "2026-03-29",
+      "description": "SoftBank has created a new $40 billion credit line specifically designated for further investments in OpenAI. This substantial financial commitment underscores the massive capital requirements for developing and scaling foundational AI infrastructure.",
+      "category": "Funding",
+      "significance": "This enormous injection of capital into OpenAI by a major global investor highlights the intense financial backing required for cutting-edge AI development. It will accelerate OpenAI's research and deployment capabilities, shaping the competitive landscape for foundational AI models for years to come.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4T5TUQkfsMFH6rS0AjjUpLdldC9yV4cnd-OmMs99htjjrYwMxS5zJT3jwVfGA0ynfBiiSXF5k-POCatroVGqrIMVDPOeecCxl4Mvpq1mdsfnrLLKnn1Chr-jLYmJCLe_OxvOCmiiDH5_ZYXlNPHxamyP02MU701uY7n-mc1bQDLAJdDHlxh1FiTjBeuDDdu35gyRLCDRFLHCN1dBmk78W3Rdk",
+          "label": "sergeytereshkin.com"
+        }
+      ],
+      "type": "timeline_event"
+    }
+  ],
+  "questionUpdates": []
+}
