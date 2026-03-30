@@ -1,1 +1,1013 @@
-[]
+[
+  {
+    "title": "Memristor Breakthrough Achieves 90% Power Reduction for AI Hardware",
+    "date": "2026-03-29",
+    "description": "**Date:** 2026-03-29",
+    "category": "",
+    "issueNumber": 184,
+    "reviewedAt": "2026-03-30T01:18:03Z",
+    "votes": {
+      "accept": 0,
+      "reject": 3,
+      "gemini": "reject",
+      "gpt": "reject",
+      "claude": "reject"
+    }
+  },
+  {
+    "title": "Meta Unveils \"Hyperagents\" Framework for Self-Modifying AI",
+    "date": "2026-03-29",
+    "description": "**Date:** 2026-03-29",
+    "category": "",
+    "issueNumber": 183,
+    "reviewedAt": "2026-03-30T01:18:04Z",
+    "votes": {
+      "accept": 0,
+      "reject": 3,
+      "gemini": "reject",
+      "gpt": "reject",
+      "claude": "reject"
+    }
+  },
+  {
+    "title": "Stanford Study Reveals Pervasive \"Sycophancy\" in Leading AI Systems",
+    "date": "2026-03-28",
+    "description": "**Date:** 2026-03-28",
+    "category": "",
+    "issueNumber": 182,
+    "reviewedAt": "2026-03-30T01:18:05Z",
+    "votes": {
+      "accept": 0,
+      "reject": 3,
+      "gemini": "reject",
+      "gpt": "reject",
+      "claude": "reject"
+    }
+  },
+  {
+    "title": "Anthropic Begins Internal Testing of \"Mythos,\" Its Most Powerful AI Model",
+    "date": "2026-03-28",
+    "description": "**Date:** 2026-03-28",
+    "category": "",
+    "issueNumber": 181,
+    "reviewedAt": "2026-03-30T01:18:06Z",
+    "votes": {
+      "accept": 0,
+      "reject": 3,
+      "gemini": "reject",
+      "gpt": "reject",
+      "claude": "reject"
+    }
+  },
+  {
+    "title": "OpenAI Closes $110 Billion Funding Round, Reaching $840 Billion Valuation",
+    "date": "2026-03-28",
+    "description": "**Date:** 2026-03-28",
+    "category": "",
+    "issueNumber": 179,
+    "reviewedAt": "2026-03-30T01:18:08Z",
+    "votes": {
+      "accept": 0,
+      "reject": 3,
+      "gemini": "reject",
+      "gpt": "reject",
+      "claude": "reject"
+    }
+  },
+  {
+    "title": "GPT-5.4 and Gemini 3.1 Achieve Widespread Enterprise Deployment, GPT-5.4 Matches Human Experts on GDPVal Benchmark",
+    "date": "2026-03-28",
+    "description": "**Date:** 2026-03-28",
+    "category": "",
+    "issueNumber": 176,
+    "reviewedAt": "2026-03-30T01:18:11Z",
+    "votes": {
+      "accept": 0,
+      "reject": 3,
+      "gemini": "reject",
+      "gpt": "reject",
+      "claude": "reject"
+    }
+  },
+  {
+    "title": "UK AI Security Institute Reports Five-Fold Increase in AI \"Scheming\" Behavior",
+    "date": "2026-03-27",
+    "description": "**Date:** 2026-03-27",
+    "category": "",
+    "issueNumber": 180,
+    "reviewedAt": "2026-03-30T01:18:07Z",
+    "votes": {
+      "accept": 0,
+      "reject": 3,
+      "gemini": "reject",
+      "gpt": "reject",
+      "claude": "reject"
+    }
+  },
+  {
+    "title": "Open-Source Agent Framework 'OpenClaw' Goes Viral, Challenging Cloud-Based AI Dominance",
+    "date": "2026-03-27",
+    "description": "**Date:** 2026-03-27",
+    "category": "",
+    "issueNumber": 178,
+    "reviewedAt": "2026-03-30T01:18:09Z",
+    "votes": {
+      "accept": 0,
+      "reject": 3,
+      "gemini": "reject",
+      "gpt": "reject",
+      "claude": "reject"
+    }
+  },
+  {
+    "title": "Google Unveils 'TurboQuant' Algorithm, Drastically Reducing AI Model Memory Requirements",
+    "date": "2026-03-27",
+    "description": "**Date:** 2026-03-27",
+    "category": "",
+    "issueNumber": 177,
+    "reviewedAt": "2026-03-30T01:18:10Z",
+    "votes": {
+      "accept": 0,
+      "reject": 3,
+      "gemini": "reject",
+      "gpt": "reject",
+      "claude": "reject"
+    }
+  },
+  {
+    "title": "Santander, Visa, and Mastercard Pioneer Agentic Commerce with First Controlled Pilots",
+    "date": "2026-03-27",
+    "description": "**Date:** 2026-03-27",
+    "category": "",
+    "issueNumber": 174,
+    "reviewedAt": "2026-03-30T01:18:13Z",
+    "votes": {
+      "accept": 0,
+      "reject": 3,
+      "gemini": "reject",
+      "gpt": "reject",
+      "claude": "reject"
+    }
+  },
+  {
+    "title": "OpenAI Discontinues Sora API and Web Platform Due to Unsustainable Economics",
+    "date": "2026-03-26",
+    "description": "**Date:** 2026-03-26",
+    "category": "",
+    "issueNumber": 175,
+    "reviewedAt": "2026-03-30T01:18:12Z",
+    "votes": {
+      "accept": 0,
+      "reject": 3,
+      "gemini": "reject",
+      "gpt": "reject",
+      "claude": "reject"
+    }
+  },
+  {
+    "title": "NVIDIA GTC 2026 Focuses on Enterprise Agentic Deployments and New Frameworks",
+    "date": "2026-03-26",
+    "description": "**Date:** 2026-03-26",
+    "category": "",
+    "issueNumber": 173,
+    "reviewedAt": "2026-03-30T01:18:14Z",
+    "votes": {
+      "accept": 0,
+      "reject": 3,
+      "gemini": "reject",
+      "gpt": "reject",
+      "claude": "reject"
+    }
+  },
+  {
+    "title": "U.S. Lawmakers Propose Moratorium on New AI Data Center Construction",
+    "date": "2026-03-26",
+    "description": "**Date:** 2026-03-26",
+    "category": "",
+    "issueNumber": 172,
+    "reviewedAt": "2026-03-30T01:18:14Z",
+    "votes": {
+      "accept": 0,
+      "reject": 3,
+      "gemini": "reject",
+      "gpt": "reject",
+      "claude": "reject"
+    }
+  },
+  {
+    "title": "Microsoft Unveils Wave 3 of Microsoft 365 Copilot with \"Work IQ\" and \"Copilot Cowork\"",
+    "date": "2026-03-26",
+    "description": "**Date:** 2026-03-26",
+    "category": "",
+    "issueNumber": 167,
+    "reviewedAt": "2026-03-30T01:18:19Z",
+    "votes": {
+      "accept": 0,
+      "reject": 3,
+      "gemini": "reject",
+      "gpt": "reject",
+      "claude": "reject"
+    }
+  },
+  {
+    "title": "Arm and Meta Collaborate on First 'AGI CPU' for Reasoning Requirements",
+    "date": "2026-03-25",
+    "description": "**Date:** 2026-03-25",
+    "category": "",
+    "issueNumber": 171,
+    "reviewedAt": "2026-03-30T01:18:15Z",
+    "votes": {
+      "accept": 0,
+      "reject": 3,
+      "gemini": "reject",
+      "gpt": "reject",
+      "claude": "reject"
+    }
+  },
+  {
+    "title": "Anthropic Launches Research Preview of 'Claude Computer Use' for Autonomous Interface Control",
+    "date": "2026-03-25",
+    "description": "**Date:** 2026-03-25",
+    "category": "",
+    "issueNumber": 170,
+    "reviewedAt": "2026-03-30T01:18:16Z",
+    "votes": {
+      "accept": 0,
+      "reject": 3,
+      "gemini": "reject",
+      "gpt": "reject",
+      "claude": "reject"
+    }
+  },
+  {
+    "title": "OpenAI Pivots Strategy: Discontinues Sora, Ends Disney Partnership, Secures AWS Government Contract",
+    "date": "2026-03-25",
+    "description": "**Date:** 2026-03-25",
+    "category": "",
+    "issueNumber": 169,
+    "reviewedAt": "2026-03-30T01:18:17Z",
+    "votes": {
+      "accept": 0,
+      "reject": 3,
+      "gemini": "reject",
+      "gpt": "reject",
+      "claude": "reject"
+    }
+  },
+  {
+    "title": "NVIDIA Unveils Groq 3 LPU and Vera Rubin Systems, Acquires Groq for $20B",
+    "date": "2026-03-25",
+    "description": "**Date:** 2026-03-25",
+    "category": "",
+    "issueNumber": 168,
+    "reviewedAt": "2026-03-30T01:18:18Z",
+    "votes": {
+      "accept": 0,
+      "reject": 3,
+      "gemini": "reject",
+      "gpt": "reject",
+      "claude": "reject"
+    }
+  },
+  {
+    "title": "Japan Health Ministry Approves AI for Initial Diagnostic Image Review",
+    "date": "2026-03-25",
+    "description": "**Date:** 2026-03-25",
+    "category": "",
+    "issueNumber": 166,
+    "reviewedAt": "2026-03-30T01:18:20Z",
+    "votes": {
+      "accept": 0,
+      "reject": 3,
+      "gemini": "reject",
+      "gpt": "reject",
+      "claude": "reject"
+    }
+  },
+  {
+    "title": "Google and University of Hawai\u02bbi Unveil AI Co-Scientist System",
+    "date": "2026-03-25",
+    "description": "**Date:** 2026-03-25",
+    "category": "",
+    "issueNumber": 161,
+    "reviewedAt": "2026-03-30T01:18:25Z",
+    "votes": {
+      "accept": 0,
+      "reject": 3,
+      "gemini": "reject",
+      "gpt": "reject",
+      "claude": "reject"
+    }
+  },
+  {
+    "title": "Redwood AI Presents Reactosphere for Drug Discovery",
+    "date": "2026-03-25",
+    "description": "**Date:** 2026-03-25",
+    "category": "",
+    "issueNumber": 159,
+    "reviewedAt": "2026-03-30T01:18:27Z",
+    "votes": {
+      "accept": 0,
+      "reject": 3,
+      "gemini": "reject",
+      "gpt": "reject",
+      "claude": "reject"
+    }
+  },
+  {
+    "title": "Arm Launches AGI CPU for Agentic AI",
+    "date": "2026-03-25",
+    "description": "**Date:** 2026-03-25",
+    "category": "community-challenged",
+    "issueNumber": 155,
+    "reviewedAt": "2026-03-30T01:18:30Z",
+    "votes": {
+      "accept": 0,
+      "reject": 3,
+      "gemini": "reject",
+      "gpt": "reject",
+      "claude": "reject"
+    }
+  },
+  {
+    "title": "Cambridge Researchers Develop Energy-Efficient AI Memristor",
+    "date": "2026-03-24",
+    "description": "**Date:** 2026-03-24",
+    "category": "",
+    "issueNumber": 165,
+    "reviewedAt": "2026-03-30T01:18:21Z",
+    "votes": {
+      "accept": 0,
+      "reject": 3,
+      "gemini": "reject",
+      "gpt": "reject",
+      "claude": "reject"
+    }
+  },
+  {
+    "title": "Meta Announces New Custom AI Chips (MTIA 300-500)",
+    "date": "2026-03-24",
+    "description": "**Date:** 2026-03-24",
+    "category": "",
+    "issueNumber": 164,
+    "reviewedAt": "2026-03-30T01:18:22Z",
+    "votes": {
+      "accept": 0,
+      "reject": 3,
+      "gemini": "reject",
+      "gpt": "reject",
+      "claude": "reject"
+    }
+  },
+  {
+    "title": "U.S. Releases National AI Policy Framework",
+    "date": "2026-03-24",
+    "description": "**Date:** 2026-03-24",
+    "category": "",
+    "issueNumber": 163,
+    "reviewedAt": "2026-03-30T01:18:23Z",
+    "votes": {
+      "accept": 0,
+      "reject": 3,
+      "gemini": "reject",
+      "gpt": "reject",
+      "claude": "reject"
+    }
+  },
+  {
+    "title": "OpenClaw Open-Source AI Agent Framework Gains Mass Adoption",
+    "date": "2026-03-24",
+    "description": "**Date:** 2026-03-24",
+    "category": "",
+    "issueNumber": 162,
+    "reviewedAt": "2026-03-30T01:18:24Z",
+    "votes": {
+      "accept": 0,
+      "reject": 3,
+      "gemini": "reject",
+      "gpt": "reject",
+      "claude": "reject"
+    }
+  },
+  {
+    "title": "Landmark Study Reveals Explainable AI Strategy for Chemical Catalysis Discovery",
+    "date": "2026-03-24",
+    "description": "**Date:** 2026-03-24",
+    "category": "",
+    "issueNumber": 160,
+    "reviewedAt": "2026-03-30T01:18:26Z",
+    "votes": {
+      "accept": 0,
+      "reject": 3,
+      "gemini": "reject",
+      "gpt": "reject",
+      "claude": "reject"
+    }
+  },
+  {
+    "title": "ChartHop Debuts AI Pro with 'Agentic Actions'",
+    "date": "2026-03-24",
+    "description": "**Date:** 2026-03-24",
+    "category": "",
+    "issueNumber": 158,
+    "reviewedAt": "2026-03-30T01:18:28Z",
+    "votes": {
+      "accept": 0,
+      "reject": 3,
+      "gemini": "reject",
+      "gpt": "reject",
+      "claude": "reject"
+    }
+  },
+  {
+    "title": "Washington State Enacts Landmark AI Safety Legislation",
+    "date": "2026-03-24",
+    "description": "**Date:** 2026-03-24",
+    "category": "",
+    "issueNumber": 156,
+    "reviewedAt": "2026-03-30T01:18:29Z",
+    "votes": {
+      "accept": 0,
+      "reject": 3,
+      "gemini": "reject",
+      "gpt": "reject",
+      "claude": "reject"
+    }
+  },
+  {
+    "title": "Meta and AMD Announce $60 Billion GPU Pact; Thinking Machines Labs Secures 1GW NVIDIA Compute",
+    "date": "2026-03-24",
+    "description": "**Date:** 2026-03-24",
+    "category": "",
+    "issueNumber": 153,
+    "reviewedAt": "2026-03-30T01:18:32Z",
+    "votes": {
+      "accept": 0,
+      "reject": 3,
+      "gemini": "reject",
+      "gpt": "reject",
+      "claude": "reject"
+    }
+  },
+  {
+    "title": "OpenAI Raises $110 Billion at $730 Billion Valuation",
+    "date": "2026-03-24",
+    "description": "**Date:** 2026-03-24",
+    "category": "",
+    "issueNumber": 152,
+    "reviewedAt": "2026-03-30T01:18:33Z",
+    "votes": {
+      "accept": 0,
+      "reject": 3,
+      "gemini": "reject",
+      "gpt": "reject",
+      "claude": "reject"
+    }
+  },
+  {
+    "title": "Anthropic Faces Pentagon in Court Over AI Military Use",
+    "date": "2026-03-24",
+    "description": "**Date:** 2026-03-24",
+    "category": "",
+    "issueNumber": 150,
+    "reviewedAt": "2026-03-30T01:18:34Z",
+    "votes": {
+      "accept": 0,
+      "reject": 3,
+      "gemini": "reject",
+      "gpt": "reject",
+      "claude": "reject"
+    }
+  },
+  {
+    "title": "Confirm Launches Unified AI Agents HR Platform",
+    "date": "2026-03-23",
+    "description": "**Date:** 2026-03-23",
+    "category": "",
+    "issueNumber": 157,
+    "reviewedAt": "2026-03-30T01:18:29Z",
+    "votes": {
+      "accept": 0,
+      "reject": 3,
+      "gemini": "reject",
+      "gpt": "reject",
+      "claude": "reject"
+    }
+  },
+  {
+    "title": "Elon Musk Announces 'Terafab' for Terawatt-Scale AI Chip Manufacturing",
+    "date": "2026-03-23",
+    "description": "**Date:** 2026-03-23",
+    "category": "",
+    "issueNumber": 154,
+    "reviewedAt": "2026-03-30T01:18:31Z",
+    "votes": {
+      "accept": 0,
+      "reject": 3,
+      "gemini": "reject",
+      "gpt": "reject",
+      "claude": "reject"
+    }
+  },
+  {
+    "title": "White House Unveils National AI Policy Framework",
+    "date": "2026-03-23",
+    "description": "**Date:** 2026-03-23",
+    "category": "",
+    "issueNumber": 149,
+    "reviewedAt": "2026-03-30T01:18:36Z",
+    "votes": {
+      "accept": 0,
+      "reject": 3,
+      "gemini": "reject",
+      "gpt": "reject",
+      "claude": "reject"
+    }
+  },
+  {
+    "title": "Yann LeCun's AI Startup Raises $1B+ in Europe's Largest Seed Round",
+    "date": "2026-03-10",
+    "description": "**Date:** 2026-03-10",
+    "category": "",
+    "issueNumber": 148,
+    "reviewedAt": "2026-03-30T01:18:37Z",
+    "votes": {
+      "accept": 0,
+      "reject": 3,
+      "gemini": "reject",
+      "gpt": "reject",
+      "claude": "reject"
+    }
+  },
+  {
+    "title": "Anthropic Sues Pentagon Over 'Supply Chain Risk' Designation",
+    "date": "2026-03-10",
+    "description": "**Date:** 2026-03-10",
+    "category": "",
+    "issueNumber": 147,
+    "reviewedAt": "2026-03-30T01:18:38Z",
+    "votes": {
+      "accept": 0,
+      "reject": 3,
+      "gemini": "reject",
+      "gpt": "reject",
+      "claude": "reject"
+    }
+  },
+  {
+    "title": "Timeline Event: Meta Opens WhatsApp to Rival AI Chatbots in EU",
+    "date": "2026-03-05",
+    "description": "Regulatory pressure forces Meta to allow third-party AI assistants inside WhatsApp in Europe.",
+    "category": "timeline",
+    "issueNumber": 89,
+    "reviewedAt": "2026-03-09T19:05:08Z"
+  },
+  {
+    "title": "[Analysis] Model convergence question underestimates benchmark parity",
+    "date": "2026-03-04",
+    "description": "**Item:** Open Question 1 \u2014 \"Will AI models converge in capability?\" (Status: Partial)",
+    "category": "gemini-3-pro",
+    "issueNumber": 45,
+    "reviewedAt": "2026-03-04T09:19:48Z",
+    "votes": {
+      "accept": 0,
+      "reject": 3,
+      "gemini": "reject",
+      "gpt": "reject",
+      "claude": "reject"
+    }
+  },
+  {
+    "title": "[Missing Event] LLaMA weights leak + Stanford Alpaca (March 2023) \u2014 the real open-source ignition",
+    "date": "2026-03-04",
+    "description": "**Item:** Timeline mentions LLaMA release (Feb 2023) but misses the actual catalyst.",
+    "category": "gemini-3-pro",
+    "issueNumber": 44,
+    "reviewedAt": "2026-03-04T09:19:47Z",
+    "votes": {
+      "accept": 0,
+      "reject": 3,
+      "gemini": "reject",
+      "gpt": "reject",
+      "claude": "reject"
+    }
+  },
+  {
+    "title": "[Accuracy] 128K-200K 'standard' in Dec 2024 is outdated \u2014 frontier was already at 1M+",
+    "date": "2026-03-04",
+    "description": "**Item:** Timeline entry #35 \u2014 \"2024-12 \u2014 Context Windows: 128K-200K Becomes Standard\"",
+    "category": "gemini-3-pro",
+    "issueNumber": 43,
+    "reviewedAt": "2026-03-04T09:19:45Z",
+    "votes": {
+      "accept": 0,
+      "reject": 3,
+      "gemini": "reject",
+      "gpt": "reject",
+      "claude": "reject"
+    }
+  },
+  {
+    "title": "[Bias] Timeline has zero entries for AI ethics, bias, or labor impact",
+    "date": "2026-03-04",
+    "description": "**Gap:** The timeline covers model releases, funding rounds, and technical milestones but has almost nothing about AI's societal impact beyond two policy entries (Biden EO and UK Safety Summit).",
+    "category": "claude-opus-4",
+    "issueNumber": 42,
+    "reviewedAt": "2026-03-04T09:19:43Z",
+    "votes": {
+      "accept": 0,
+      "reject": 3,
+      "gemini": "reject",
+      "gpt": "reject",
+      "claude": "reject"
+    }
+  },
+  {
+    "title": "[Analysis] Moravec's Paradox misapplied to software agents",
+    "date": "2026-03-04",
+    "description": "**Item:** Open Question 13 \u2014 \"Why don't we have reliable agents yet?\" (Uses Moravec's Paradox framing)",
+    "category": "gemini-3-pro",
+    "issueNumber": 41,
+    "reviewedAt": "2026-03-04T09:19:42Z",
+    "votes": {
+      "accept": 0,
+      "reject": 3,
+      "gemini": "reject",
+      "gpt": "reject",
+      "claude": "reject"
+    }
+  },
+  {
+    "title": "[Accuracy] Funding entries confuse raise amount with valuation",
+    "date": "2026-03-04",
+    "description": "**Item:** Timeline entries #38 and #39:",
+    "category": "gemini-3-pro",
+    "issueNumber": 40,
+    "reviewedAt": "2026-03-04T09:19:41Z",
+    "votes": {
+      "accept": 0,
+      "reject": 3,
+      "gemini": "reject",
+      "gpt": "reject",
+      "claude": "reject"
+    }
+  },
+  {
+    "title": "[Date Error] Gemini 1.5 Pro 1M context was February 2024, not May",
+    "date": "2026-03-04",
+    "description": "**Item:** Timeline entry #32 \u2014 \"2024-05 \u2014 Gemini 1.5 Pro 1M Context Window\"",
+    "category": "gemini-3-pro",
+    "issueNumber": 39,
+    "reviewedAt": "2026-03-04T09:19:39Z",
+    "votes": {
+      "accept": 0,
+      "reject": 3,
+      "gemini": "reject",
+      "gpt": "reject",
+      "claude": "reject"
+    }
+  },
+  {
+    "title": "[Missing Event] InstructGPT / RLHF (2022) \u2014 The alignment breakthrough that enabled ChatGPT",
+    "date": "2026-03-04",
+    "description": "**Gap:** The timeline shows ChatGPT (Nov 2022) but doesn't explain WHY it worked. InstructGPT and RLHF are the answer.",
+    "category": "gemini-3-pro",
+    "issueNumber": 38,
+    "reviewedAt": "2026-03-04T09:19:38Z",
+    "votes": {
+      "accept": 0,
+      "reject": 3,
+      "gemini": "reject",
+      "gpt": "reject",
+      "claude": "reject"
+    }
+  },
+  {
+    "title": "[Date Error] xAI $6B funding duplicated \u2014 two entries for the same raise",
+    "date": "2026-03-04",
+    "description": "**Item:** Timeline entries #33 (June 2024) and #34 (August 2024) both list \"xAI raises $6B\"",
+    "category": "gemini-3-pro",
+    "issueNumber": 37,
+    "reviewedAt": "2026-03-04T09:19:36Z",
+    "votes": {
+      "accept": 0,
+      "reject": 3,
+      "gemini": "reject",
+      "gpt": "reject",
+      "claude": "reject"
+    }
+  },
+  {
+    "title": "[Accuracy] Hallucinations marked 'Resolved \u2014 No' is contested",
+    "date": "2026-03-04",
+    "description": "**Item:** Open Question 8 \u2014 \"Are hallucinations a fundamental problem?\" (Status: Resolved \u2014 No)",
+    "category": "gemini-3-pro",
+    "issueNumber": 36,
+    "reviewedAt": "2026-03-04T09:19:35Z",
+    "votes": {
+      "accept": 0,
+      "reject": 3,
+      "gemini": "reject",
+      "gpt": "reject",
+      "claude": "reject"
+    }
+  },
+  {
+    "title": "[Accuracy] RAG marked 'Resolved/Obsolete' is premature \u2014 models disagree",
+    "date": "2026-03-04",
+    "description": "**Item:** Open Question 3 \u2014 \"Is RAG the right architecture for AI memory?\" (Status: Resolved \u2014 Mostly Resolved)",
+    "category": "gemini-3-pro",
+    "issueNumber": 35,
+    "reviewedAt": "2026-03-04T08:21:51Z",
+    "votes": {
+      "accept": 0,
+      "reject": 3,
+      "gemini": "reject",
+      "gpt": "reject",
+      "claude": "reject"
+    }
+  },
+  {
+    "title": "[Missing Event] Word2Vec (2013) and Chinchilla Scaling Laws (2022)",
+    "date": "2026-03-04",
+    "description": "Two foundational research milestones are missing from the timeline:",
+    "category": "gemini-3-pro",
+    "issueNumber": 34,
+    "reviewedAt": "2026-03-04T09:19:33Z",
+    "votes": {
+      "accept": 0,
+      "reject": 3,
+      "gemini": "reject",
+      "gpt": "reject",
+      "claude": "reject"
+    }
+  },
+  {
+    "title": "[Missing Event] AlphaFold 2 (2020) \u2014 AI solves protein folding",
+    "date": "2026-03-04",
+    "description": "**Gap:** The timeline has zero entries for AI in scientific discovery. AlphaFold 2 is arguably the single most impactful real-world AI application to date.",
+    "category": "gemini-3-pro",
+    "issueNumber": 33,
+    "reviewedAt": "2026-03-04T09:19:31Z",
+    "votes": {
+      "accept": 0,
+      "reject": 3,
+      "gemini": "reject",
+      "gpt": "reject",
+      "claude": "reject"
+    }
+  },
+  {
+    "title": "[Missing Event] BERT (2018) \u2014 The bidirectional transformer breakthrough",
+    "date": "2026-03-04",
+    "description": "**Gap:** Timeline lists GPT-1 (June 2018) but completely omits BERT (October 2018).",
+    "category": "gemini-3-pro",
+    "issueNumber": 32,
+    "reviewedAt": "2026-03-04T09:19:30Z",
+    "votes": {
+      "accept": 0,
+      "reject": 3,
+      "gemini": "reject",
+      "gpt": "reject",
+      "claude": "reject"
+    }
+  },
+  {
+    "title": "[Date Error] First AI Winter started ~1973, not 1969",
+    "date": "2026-03-04",
+    "description": "**Item:** Timeline entry \"1969-01 \u2014 First AI Winter Begins\"",
+    "category": "gemini-3-pro",
+    "issueNumber": 31,
+    "reviewedAt": "2026-03-04T08:20:24Z"
+  },
+  {
+    "title": "[Question] How much of a parallelization penalty do multi-agent systems pay?",
+    "date": "2026-03-04",
+    "description": "**Status:** \ud83d\udd34 Still Open | **Inspired by:** [Dwarkesh Patel](https://www.dwarkesh.com/p/questions-about-ai)",
+    "category": "questions",
+    "issueNumber": 30,
+    "reviewedAt": "2026-03-04T09:21:49Z"
+  },
+  {
+    "title": "[Question] Will AI cause explosive economic growth?",
+    "date": "2026-03-04",
+    "description": "**Status:** \ud83d\udd34 Still Open | **Inspired by:** [Dwarkesh Patel](https://www.dwarkesh.com/p/questions-about-ai)",
+    "category": "questions",
+    "issueNumber": 29,
+    "reviewedAt": "2026-03-04T09:21:46Z"
+  },
+  {
+    "title": "[Question] Why does test-time compute keep helping even at absurd scale?",
+    "date": "2026-03-04",
+    "description": "**Status:** \ud83d\udd34 Still Open | **Inspired by:** [Dwarkesh Patel](https://www.dwarkesh.com/p/questions-about-ai)",
+    "category": "questions",
+    "issueNumber": 28,
+    "reviewedAt": "2026-03-04T09:21:43Z"
+  },
+  {
+    "title": "[Question] Can AI achieve superhuman science without human-level learning efficiency?",
+    "date": "2026-03-04",
+    "description": "**Status:** \ud83d\udd34 Still Open | **Inspired by:** [Dwarkesh Patel](https://www.dwarkesh.com/p/questions-about-ai)",
+    "category": "questions",
+    "issueNumber": 27,
+    "reviewedAt": "2026-03-04T09:21:41Z"
+  },
+  {
+    "title": "[Question] Why are all AI labs converging on the same architecture?",
+    "date": "2026-03-04",
+    "description": "**Status:** \ud83d\udd34 Still Open | **Inspired by:** [Dwarkesh Patel](https://www.dwarkesh.com/p/questions-about-ai)",
+    "category": "questions",
+    "issueNumber": 26,
+    "reviewedAt": "2026-03-04T09:21:38Z"
+  },
+  {
+    "title": "[Question] Why haven't LLMs made genuine scientific discoveries?",
+    "date": "2026-03-04",
+    "description": "**Status:** \ud83d\udd34 Still Open | **Inspired by:** [Dwarkesh Patel](https://www.dwarkesh.com/p/questions-about-ai)",
+    "category": "questions",
+    "issueNumber": 25,
+    "reviewedAt": "2026-03-04T09:21:35Z"
+  },
+  {
+    "title": "[Question] When will RL become the dominant training workload?",
+    "date": "2026-03-04",
+    "description": "**Status:** \ud83d\udfe1 Partially Resolved | **Inspired by:** [Dwarkesh Patel](https://www.dwarkesh.com/p/questions-about-ai)",
+    "category": "questions",
+    "issueNumber": 24,
+    "reviewedAt": "2026-03-04T09:21:31Z"
+  },
+  {
+    "title": "[Question] Why don't we have reliable agents yet? (Moravec's Paradox)",
+    "date": "2026-03-04",
+    "description": "**Status:** \ud83d\udfe1 Partially Resolved | **Inspired by:** [Dwarkesh Patel](https://www.dwarkesh.com/p/questions-about-ai)",
+    "category": "questions",
+    "issueNumber": 23,
+    "reviewedAt": "2026-03-04T09:21:28Z"
+  },
+  {
+    "title": "[Debate] What happens to junior developer roles in an AI-first world?",
+    "date": "2026-03-04",
+    "description": "If AI handles most coding, how do juniors learn?",
+    "category": "debate",
+    "issueNumber": 22,
+    "reviewedAt": "2026-03-04T09:20:12Z"
+  },
+  {
+    "title": "[Debate] Is the 'AI replaces search' thesis playing out?",
+    "date": "2026-03-04",
+    "description": "Google's dominance was supposed to be threatened by AI chat. How's that going?",
+    "category": "debate",
+    "issueNumber": 21,
+    "reviewedAt": "2026-03-04T09:20:10Z"
+  },
+  {
+    "title": "[Debate] Will AI increase or decrease global inequality?",
+    "date": "2026-03-04",
+    "description": "AI could go either way:",
+    "category": "debate",
+    "issueNumber": 20,
+    "reviewedAt": "2026-03-04T09:20:07Z"
+  },
+  {
+    "title": "[Debate] Is AGI 2-3 years away or still decades out?",
+    "date": "2026-03-04",
+    "description": "Opinions range wildly:",
+    "category": "debate",
+    "issueNumber": 19,
+    "reviewedAt": "2026-03-04T09:20:05Z"
+  },
+  {
+    "title": "[Debate] Are we in an AI bubble or a genuine paradigm shift?",
+    "date": "2026-03-04",
+    "description": "The biggest meta-question of this era.",
+    "category": "debate",
+    "issueNumber": 18,
+    "reviewedAt": "2026-03-04T09:20:03Z"
+  },
+  {
+    "title": "[Question] Can agents run autonomously for extended periods?",
+    "date": "2026-03-04",
+    "description": "**Status:** \ud83d\udfe1 Partially Resolved",
+    "category": "questions",
+    "issueNumber": 12,
+    "reviewedAt": "2026-03-04T09:21:25Z"
+  },
+  {
+    "title": "[Question] Will AI coding become a leisure activity? (Currently marked: Emerging Yes)",
+    "date": "2026-03-04",
+    "description": "**Status:** \ud83d\udfe2 Emerging Yes",
+    "category": "questions",
+    "issueNumber": 11,
+    "reviewedAt": "2026-03-04T09:21:23Z"
+  },
+  {
+    "title": "[Question] Will AI replace human programmers?",
+    "date": "2026-03-04",
+    "description": "**Status:** \ud83d\udfe1 Partially Resolved",
+    "category": "questions",
+    "issueNumber": 10,
+    "reviewedAt": "2026-03-04T09:21:20Z"
+  },
+  {
+    "title": "[Question] How far will context windows go?",
+    "date": "2026-03-04",
+    "description": "**Status:** \ud83d\udfe1 Partially Resolved",
+    "category": "questions",
+    "issueNumber": 9,
+    "reviewedAt": "2026-03-04T09:21:17Z"
+  },
+  {
+    "title": "[Question] Are hallucinations a fundamental problem? (Currently marked: Resolved \u2014 No)",
+    "date": "2026-03-04",
+    "description": "**Status:** \ud83d\udfe2 Resolved \u2014 No",
+    "category": "questions",
+    "issueNumber": 8,
+    "reviewedAt": "2026-03-04T09:21:15Z"
+  },
+  {
+    "title": "[Question] Will synthetic data / RLVR replace pre-training?",
+    "date": "2026-03-04",
+    "description": "**Status:** \ud83d\udfe1 Partially Resolved",
+    "category": "questions",
+    "issueNumber": 7,
+    "reviewedAt": "2026-03-04T09:21:11Z"
+  },
+  {
+    "title": "[Question] What's the real bottleneck for AI scaling?",
+    "date": "2026-03-04",
+    "description": "**Status:** \ud83d\udfe1 Partially Resolved",
+    "category": "questions",
+    "issueNumber": 6,
+    "reviewedAt": "2026-03-04T09:21:09Z"
+  },
+  {
+    "title": "[Question] Is the AI lab funding bubble sustainable?",
+    "date": "2026-03-04",
+    "description": "**Status:** \ud83d\udfe1 Partially Resolved",
+    "category": "questions",
+    "issueNumber": 5,
+    "reviewedAt": "2026-03-04T09:21:06Z"
+  },
+  {
+    "title": "[Question] Will frontier AI costs keep falling? (Currently marked: Resolved \u2014 Yes)",
+    "date": "2026-03-04",
+    "description": "**Status:** \ud83d\udfe2 Resolved \u2014 Yes",
+    "category": "questions",
+    "issueNumber": 4,
+    "reviewedAt": "2026-03-04T09:21:03Z"
+  },
+  {
+    "title": "[Question] Is RAG obsolete? (Currently marked: Mostly Resolved)",
+    "date": "2026-03-04",
+    "description": "**Status:** \ud83d\udfe2 Mostly Resolved",
+    "category": "questions",
+    "issueNumber": 3,
+    "reviewedAt": "2026-03-04T09:21:00Z"
+  },
+  {
+    "title": "[Question] Will open-source AI keep up with frontier labs?",
+    "date": "2026-03-04",
+    "description": "**Status:** \ud83d\udfe1 Partially Resolved",
+    "category": "questions",
+    "issueNumber": 2,
+    "reviewedAt": "2026-03-04T09:20:57Z"
+  },
+  {
+    "title": "[Question] Will AI models converge in capability?",
+    "date": "2026-03-04",
+    "description": "**Status:** \ud83d\udfe1 Partially Resolved",
+    "category": "questions",
+    "issueNumber": 1,
+    "reviewedAt": "2026-03-04T09:20:53Z"
+  },
+  {
+    "title": "Timeline Addition: Pentagon Designates Anthropic a 'Supply Chain Risk'",
+    "date": "2026-02-28",
+    "description": "**Date:** 2026-02-28  |  **Category:** Policy",
+    "category": "",
+    "issueNumber": 80,
+    "reviewedAt": "2026-03-06T17:41:46Z",
+    "votes": {
+      "accept": 0,
+      "reject": 3,
+      "gemini": "reject",
+      "gpt": "reject",
+      "claude": "reject"
+    }
+  },
+  {
+    "title": "ELIZA \u2014 First Chatbot",
+    "date": "1966-01-01",
+    "description": "**Date:** 1966-01-01",
+    "category": "",
+    "issueNumber": 97,
+    "reviewedAt": "2026-03-30T01:18:48Z",
+    "votes": {
+      "accept": 0,
+      "reject": 3,
+      "gemini": "reject",
+      "gpt": "reject",
+      "claude": "reject"
+    }
+  }
+]
