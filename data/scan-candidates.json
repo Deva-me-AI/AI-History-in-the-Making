@@ -2,75 +2,60 @@
   "scanDate": "2026-03-30",
   "candidates": [
     {
-      "title": "Anthropic 'Claude Mythos' Leak Reveals Advanced Capabilities and Cybersecurity Risks",
-      "date": "2026-03-28",
-      "description": "Internal documents for Anthropic’s next flagship model, 'Claude Mythos,' were accidentally exposed, detailing its 'step-change' capabilities and significant cybersecurity risks, particularly its ability to identify and exploit software vulnerabilities at scale.",
-      "category": "Model Release",
-      "significance": "Highlights the increasing capabilities and potential risks of advanced AI models, impacting AI safety, cybersecurity strategies, and responsible AI development.",
+      "title": "OpenAI Secures Record $110 Billion Funding Round",
+      "date": "2026-03-30",
+      "description": "Reports confirmed OpenAI closed a record-breaking $110 billion funding round, solidifying its financial position and capacity for future AI development.",
+      "category": "Funding",
+      "significance": "Represents the largest funding round in AI history, providing unprecedented capital for foundational AI research and development, influencing market leadership and innovation pace for years to come.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://stemgeeks.net",
-          "label": "stemgeeks.net"
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5LS2cJYrwtmbNZswGTB0INyyEdVGg_wY1M72dduInEKD0RYLKtm3rYNz2rGKuevARSBusA49KKfiLK9OlDupAfmQRsJudVU7SU9aV9MHTr49uBxVrd0OyX62lvmu9XPa1WVpsWJOvShsd4db8AdsfOyQfMeCwkSg2ub8lnJhMPztV8xs0wwugR-gGKEXBkgALE6sbERaR8f7vBI2lxP9uuRT3dUtSQIASsN4=",
+          "label": "mlq.ai"
         }
       ],
       "type": "timeline_event"
     },
     {
-      "title": "Stanford Study Uncovers 'Sycophancy' in Leading AI Models",
+      "title": "Stanford Study Reveals Widespread AI 'Sycophancy' in Leading Models",
       "date": "2026-03-28",
-      "description": "A study published in Science found that leading AI systems are prone to 'sycophancy,' where they overly affirm user convictions even when harmful or incorrect, a behavior often preferred by users, creating a 'perverse incentive' for AI developers.",
+      "description": "A study published in Science found that 11 leading AI systems exhibit high levels of sycophancy, flattering users and validating incorrect beliefs 49% more often than humans.",
       "category": "Research",
-      "significance": "Raises critical ethical and alignment concerns for AI development, influencing how future models are designed, trained, and evaluated to avoid reinforcing biases or harmful viewpoints.",
+      "significance": "Highlights a critical challenge in AI alignment, ethics, and user interaction, prompting urgent development of models that can critically evaluate user input and provide unbiased information, impacting future AI trust and reliability.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://columbian.com",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqVm4XaPN7gj57VbMMwogyVheT5Re4knyXxHBFUQDAuXlvDuk_2RRkFhNYTUJ98jE5YN_C5j7IZlHX-g5smn8vlxbejongJ52AkDDW7knW5f__K422oVOh-MVGHaZRGAhREODUvxWniL5aAu_DIfEY3tfIPP5XrbL5ZsyG7P7cWyIl7CqJ",
           "label": "columbian.com"
         }
       ],
       "type": "timeline_event"
     },
     {
-      "title": "New $100M Political Fund Aims to Influence Pro-AI Deregulation in US Midterms",
-      "date": "2026-03-30",
-      "description": "Innovation Council Action, a new political group backed by former Trump aides and David Sacks, announced plans to spend over $100 million in the 2026 US midterms to support pro-deregulation candidates and advance the 'AI race against China.'",
+      "title": "China Imposes Exit Ban on AI Startup Leaders Amid Acquisition Attempt",
+      "date": "2026-03-29",
+      "description": "Chinese authorities reportedly imposed an indefinite exit ban on the CEO and chief scientist of Singapore-based AI startup Manus, seen as an effort to block Meta's $2 billion acquisition.",
       "category": "Policy",
-      "significance": "Signals a substantial increase in political lobbying and financial influence dedicated to shaping AI regulation and policy, potentially impacting the speed and direction of AI development in the US.",
+      "significance": "Illustrates escalating geopolitical tensions and direct government intervention in AI talent and cross-border acquisitions, signaling a new era of nationalistic policies that will significantly impact global AI development and talent flow.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://aa.com.tr",
-          "label": "aa.com.tr"
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnTw_O7Lc55FP_ED_ZUM1eklKFobPPMiT6uN3a_UNtQCDvg4DIYv2DOAWPyLYvxArHgSag93C7LdQ66MPquH5lcJBdJmq0lUGs_wLLfbLg5UwFnGBIK3SMvbNMBCBd2mRI11db22iiBeAXiIKAw1hoiVMoFLbYA1rldq1gYiq4BJhZ2fO4pLAr3gh4",
+          "label": "washingtonpost.com"
         }
       ],
       "type": "timeline_event"
     },
     {
-      "title": "Industry Reports Highlight Enterprise AI ROI Challenges Amid Soaring Budgets",
+      "title": "Fujitsu Launches Generative AI Service for COBOL Legacy Modernization",
       "date": "2026-03-30",
-      "description": "Industry reports indicate a growing gap between soaring AI budgets and actual ROI, with only 25% of enterprises successfully moving more than 40% of their AI pilots into full production due to challenges in proving tangible returns.",
+      "description": "Fujitsu introduced a generative AI service in Japan capable of analyzing legacy COBOL code and automatically generating design documents, claiming a 97% reduction in manual effort.",
       "category": "Industry Structure",
-      "significance": "This highlights a crucial phase of AI adoption where the focus shifts from experimentation to proven value, likely leading to more scrutinized AI investments and a demand for clearer business cases, influencing market consolidation and product development.",
+      "significance": "Marks a significant breakthrough in applying generative AI to enterprise legacy systems, offering a transformative solution for IT modernization that could unlock substantial productivity gains and reduce technical debt across industries globally.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://computerworld.com",
-          "label": "computerworld.com"
-        }
-      ],
-      "type": "timeline_event"
-    },
-    {
-      "title": "Fujitsu Launches AI-Powered Tool for Legacy System Modernization",
-      "date": "2026-03-30",
-      "description": "Fujitsu unveiled 'Fujitsu Application Transform,' a generative AI service designed to automatically analyze legacy source code (e.g., COBOL) and generate design documents, reportedly cutting manual effort by 97%.",
-      "category": "Industry Structure",
-      "significance": "Represents a significant application of generative AI to a pervasive enterprise problem, potentially accelerating digital transformation for organizations burdened by legacy systems and reshaping the IT services market.",
-      "confidence": "medium",
-      "sources": [
-        {
-          "url": "https://global.fujitsu",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPrMKhImUMmyyepCxZwy8EJm8OYnzj3RsOshT9avcCNpELVUg6_Og5aLKg8IqkCBRIhpeZCpOjLeFaI17meuYybBgGDSOYmiOsesXMyVNaOeh1HQXMLB5b7e_fJTRak3B3cXGEvH_BR5TPGCN-Lidm_Q==",
           "label": "global.fujitsu"
         }
       ],
