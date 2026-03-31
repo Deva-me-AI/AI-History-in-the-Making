@@ -1049,5 +1049,25 @@
       "claude": "REJECT"
     },
     "reviewedAt": "2026-03-30T16:06:31Z"
+  },
+  {
+    "title": "NVIDIA and Marvell Announce $2 Billion Strategic Partnership for AI Infrastructure",
+    "date": "2026-03-31",
+    "description": "NVIDIA announced a $2 billion investment in Marvell Technology, forming a strategic partnership to integrate Marvell into NVIDIA's AI factory and AI-RAN ecosystem. This collaboration leverages NVIDIA NVLink Fusion to enable semi-custom AI infrastructure and advance silicon photonics for 5G/6G networks.",
+    "category": "Infrastructure",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH44Rq7SvbEuL_nb4qUPX0xeWR2x_G9AwXDVuOjGntzRfwAFtruAFGohpAKDM_AIjEwQ6u5WpLHJb-87HvM1rTeXhTjISqdakt3f0sYlmpDzU6KO_0nppyG2V1LCheeQgNoR-xI9-Jw5yEKhE8-zNgkRTxEjuGvm7bIaSN6WnR83wQDT68DcUNc1E5sR-S5hQ6-qXEM8S4aQTFGqkeyl58xaPZNdyP65Ay5HrnWcC2G",
+        "label": "marvell.com"
+      }
+    ],
+    "votes": {
+      "accept": 2,
+      "reject": 2,
+      "gemini": "ACCEPT",
+      "gpt": "ACCEPT",
+      "claude": "REJECT"
+    },
+    "reviewedAt": "2026-03-31T20:01:18Z"
   }
 ]

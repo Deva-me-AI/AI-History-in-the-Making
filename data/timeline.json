@@ -1899,5 +1899,44 @@
       }
     ],
     "issueNumber": 207
+  },
+  {
+    "title": "Canadian Government Invests in AI and Aerospace Innovation",
+    "date": "2026-03-31",
+    "description": "The Government of Canada announced major investments in AI and aerospace innovation during an event in North Saanich, B.C. The funding aims to expand defense research capacity and support local companies in global supply chains, fostering growth in strategic technological sectors.",
+    "category": "Policy",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF39zGkjaKYSloC5qyoz1D7flQf3vrN-s3q8lJMHPkWUD4-TNiEburBWKXT7zyZ4DkLQJhv2rQOKgRXXPKNgcgnRiyt5TPlY636MPNAAe0I-XSM6CPHkmv48HIwp-g-ikiKssVYuW2FQe7VtLYaUeDGwmt6UudS2puDUOgaRB6G0hOGbwYLz40uOWqGVAb-KLGXkpp9jQ1kJ16xnKxzsmU94b0sKU3tL41p8sekdyZnd-9eW-_b_HRB9DK4peCs7stkAfBHDXhq85rqeYNbiROQBsZUF17WUfodoAu0dLVHoETiK1y_QoMQfQ==",
+        "label": "canada.ca"
+      }
+    ],
+    "issueNumber": 209
+  },
+  {
+    "title": "RSAC 2026 Analysis Highlights Agentic AI Security as Dominant Theme",
+    "date": "2026-03-29",
+    "description": "Post-conference reports from the RSA Conference 2026, which concluded on March 26, emphasized Agentic AI security as the year's dominant theme. Discussions focused on the evolving risks posed by autonomous AI agents in global cyber threats and the critical need for 'active defense' strategies to counter them.",
+    "category": "Military & Security",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSgFylE8ID9EPS8XLj2dB1xjkyh74RXZH2mBB4ClwdH1mX_U5t56rarQ1NuW75NUBRc3fqqPyg7ScBu89aJcEVYVHSX0oNLffGyrx2HtSTo0xu5AhDibkZkOKPXqzQWuIDifYCNhrwSO08u3zIPvJntTvEEJDaVXeuQedf9e__j49REn-G2Crf7mRIg360JFYidlMOG4hMdns9wB1xPKyFUajSEuRD5j7f",
+        "label": "govtech.com"
+      }
+    ],
+    "issueNumber": 210
+  },
+  {
+    "title": "TensorWave Rebrands Flagship Event to 'Beyond Summit,' Emphasizing Open AI Infrastructure",
+    "date": "2026-03-31",
+    "description": "TensorWave announced the rebranding of its flagship event from 'Beyond CUDA' to 'Beyond Summit.' Scheduled for April 8, the summit will focus on open AI infrastructure and the deployment of production AI workloads on non-NVIDIA hardware, specifically mentioning AMD Instinct GPUs.",
+    "category": "Infrastructure",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7ChCjfR7ZUetZLmeh4jZuTR72dDomNt7Ez0Ow3DrTK3FuVcYIYhmatF-L6k-Q5vmM2HuT7jNMrCCJVmZrN_32M8F2-R4R_N0KP7VJ8y8nxdVyx_1HhbLaIe0Ashvq_jAFTxHsERXuLYbtSK9i9zOteJcntC_1bIesYhYeMHOXyb1HAZ7dVFpHNZxinrYCEDJ_tyTnXCvttdnv_qvOexOeD6jX5rvmh_Yo6kwKPIFWcMauqz5m0OsEh3NrALgNKlfc9SwBHXnUcDPIbdTNhSz5P9K4VkGL",
+        "label": "morningstar.com"
+      }
+    ],
+    "issueNumber": 211
   }
 ]
