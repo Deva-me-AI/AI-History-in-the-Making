@@ -1,1 +1,66 @@
-{"scanDate":"2026-03-31","candidates":[],"questionUpdates":[]}
+{
+  "scanDate": "2026-03-31",
+  "candidates": [
+    {
+      "title": "NVIDIA and Marvell Announce $2 Billion Strategic Partnership for AI Infrastructure",
+      "date": "2026-03-31",
+      "description": "NVIDIA announced a $2 billion investment in Marvell Technology, forming a strategic partnership to integrate Marvell into NVIDIA's AI factory and AI-RAN ecosystem. This collaboration leverages NVIDIA NVLink Fusion to enable semi-custom AI infrastructure and advance silicon photonics for 5G/6G networks.",
+      "category": "Infrastructure",
+      "significance": "This significant investment and strategic alliance between two major chip companies is set to accelerate the development of specialized AI hardware and network infrastructure. The focus on semi-custom AI solutions and next-generation connectivity will likely shape the foundational technology landscape for AI over the next five years, impacting data centers, telecommunications, and edge computing.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH44Rq7SvbEuL_nb4qUPX0xeWR2x_G9AwXDVuOjGntzRfwAFtruAFGohpAKDM_AIjEwQ6u5WpLHJb-87HvM1rTeXhTjISqdakt3f0sYlmpDzU6KO_0nppyG2V1LCheeQgNoR-xI9-Jw5yEKhE8-zNgkRTxEjuGvm7bIaSN6WnR83wQDT68DcUNc1E5sR-S5hQ6-qXEM8S4aQTFGqkeyl58xaPZNdyP65Ay5HrnWcC2G",
+          "label": "marvell.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Canadian Government Invests in AI and Aerospace Innovation",
+      "date": "2026-03-31",
+      "description": "The Government of Canada announced major investments in AI and aerospace innovation during an event in North Saanich, B.C. The funding aims to expand defense research capacity and support local companies in global supply chains, fostering growth in strategic technological sectors.",
+      "category": "Policy",
+      "significance": "Government funding initiatives are crucial for national AI development, research, and economic competitiveness. This investment signals Canada's commitment to leveraging AI for defense and industrial growth, which will have a lasting impact on its technological capabilities and position in the global AI landscape over the next five years.",
+      "confidence": "medium",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF39zGkjaKYSloC5qyoz1D7flQf3vrN-s3q8lJMHPkWUD4-TNiEburBWKXT7zyZ4DkLQJhv2rQOKgRXXPKNgcgnRiyt5TPlY636MPNAAe0I-XSM6CPHkmv48HIwp-g-ikiKssVYuW2FQe7VtLYaUeDGwmt6UudS2puDUOgaRB6G0hOGbwYLz40uOWqGVAb-KLGXkpp9jQ1kJ16xnKxzsmU94b0sKU3tL41p8sekdyZnd-9eW-_b_HRB9DK4peCs7stkAfBHDXhq85rqeYNbiROQBsZUF17WUfodoAu0dLVHoETiK1y_QoMQfQ==",
+          "label": "canada.ca"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "RSAC 2026 Analysis Highlights Agentic AI Security as Dominant Theme",
+      "date": "2026-03-29",
+      "description": "Post-conference reports from the RSA Conference 2026, which concluded on March 26, emphasized Agentic AI security as the year's dominant theme. Discussions focused on the evolving risks posed by autonomous AI agents in global cyber threats and the critical need for 'active defense' strategies to counter them.",
+      "category": "Military & Security",
+      "significance": "The prominence of Agentic AI security at a major cybersecurity conference indicates a significant shift in the focus of global cyber defense. As AI agents become more sophisticated and autonomous, their potential for both benevolent and malicious uses will grow exponentially. This focus is crucial for developing robust security frameworks and policies that will be essential for managing AI risks in the coming five years and beyond.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSgFylE8ID9EPS8XLj2dB1xjkyh74RXZH2mBB4ClwdH1mX_U5t56rarQ1NuW75NUBRc3fqqPyg7ScBu89aJcEVYVHSX0oNLffGyrx2HtSTo0xu5AhDibkZkOKPXqzQWuIDifYCNhrwSO08u3zIPvJntTvEEJDaVXeuQedf9e__j49REn-G2Crf7mRIg360JFYidlMOG4hMdns9wB1xPKyFUajSEuRD5j7f",
+          "label": "govtech.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "TensorWave Rebrands Flagship Event to 'Beyond Summit,' Emphasizing Open AI Infrastructure",
+      "date": "2026-03-31",
+      "description": "TensorWave announced the rebranding of its flagship event from 'Beyond CUDA' to 'Beyond Summit.' Scheduled for April 8, the summit will focus on open AI infrastructure and the deployment of production AI workloads on non-NVIDIA hardware, specifically mentioning AMD Instinct GPUs.",
+      "category": "Infrastructure",
+      "significance": "This rebranding and strategic focus highlight a growing industry movement towards diversifying AI hardware ecosystems beyond NVIDIA's dominance. The emphasis on open infrastructure and support for alternative hardware like AMD Instinct GPUs could foster greater competition, innovation, and resilience in the AI infrastructure landscape, influencing architectural decisions and development over the next five years.",
+      "confidence": "medium",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7ChCjfR7ZUetZLmeh4jZuTR72dDomNt7Ez0Ow3DrTK3FuVcYIYhmatF-L6k-Q5vmM2HuT7jNMrCCJVmZrN_32M8F2-R4R_N0KP7VJ8y8nxdVyx_1HhbLaIe0Ashvq_jAFTxHsERXuLYbtSK9i9zOteJcntC_1bIesYhYeMHOXyb1HAZ7dVFpHNZxinrYCEDJ_tyTnXCvttdnv_qvOexOeD6jX5rvmh_Yo6kwKPIFWcMauqz5m0OsEh3NrALgNKlfc9SwBHXnUcDPIbdTNhSz5P9K4VkGL",
+          "label": "morningstar.com"
+        }
+      ],
+      "type": "timeline_event"
+    }
+  ],
+  "questionUpdates": []
+}
