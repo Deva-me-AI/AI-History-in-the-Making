@@ -2,46 +2,61 @@
   "scanDate": "2026-03-31",
   "candidates": [
     {
-      "title": "California Establishes New AI Safety Standards and Watermarking Requirements",
-      "date": "2026-03-30",
-      "description": "Governor Gavin Newsom signed a major executive order establishing new safety standards for AI companies doing business with the state, requiring policies against harmful content distribution (like deepfake pornography) and mandating watermarking standards for AI-generated media.",
+      "title": "California Enacts Agent Transparency Act for AI",
+      "date": "2026-03-29",
+      "description": "California implements one of the first laws globally, mandating that AI agents explicitly disclose their underlying ownership and incentives to prevent hidden biases in autonomous decision-making.",
       "category": "Policy",
-      "significance": "This sets a precedent for state-level AI regulation in the US, potentially influencing federal policy and corporate behavior regarding AI safety, ethics, and content authenticity for years to come.",
+      "significance": "This pioneering legislation sets a crucial precedent for accountability and transparency in the rapidly evolving field of AI, influencing future regulatory frameworks worldwide.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFC8P5joJMj_UEnlB8ZDDzOqkwtKQn7MP77T9FHx-gv1OGezx6tl3EXYK5uruFwaQ4Zy60wG_mnz64tY2Q6NR3hiO9WFAfT7uDWwc8l1fTdduXax3QhIut7K9oHZJIYg6b5GP2P2TOW2L7xZib5YLXA9JFjukoJO320yRpm2CPKTF6Jdhr6CrR1iQ==",
-          "label": "theguardian.com"
+          "url": "https://youtube.com",
+          "label": "YouTube (via Vertex AI Search)"
         }
       ],
       "type": "timeline_event"
     },
     {
-      "title": "Anthropic Wins Legal Battle Against Pentagon Over AI Use in Autonomous Weaponry",
+      "title": "Major AI Labs Launch \"Sovereign Frontier\" Initiative, Investing in Independent Infrastructure",
       "date": "2026-03-29",
-      "description": "Anthropic secured a legal victory as a U.S. judge temporarily blocked the Department of Defense from labeling the company a 'supply chain risk' after Anthropic refused to allow its models for autonomous weaponry.",
-      "category": "Policy",
-      "significance": "This event underscores the growing ethical divide between AI developers and military applications, setting a precedent for companies to resist defense contracts based on ethical concerns and influencing future discussions around AI governance and military AI.",
-      "confidence": "high",
-      "sources": [
-        {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXgkdtmT7ozBOrnF4DnwNJbQ2tp7_Jd4MnY3VQJh2oEJMKkJyBImP8bHtPBMbZigb0AcZqRmDMpl5x_fFpOEzIrvL3s7Enik1lqFp9Ariq7tbvOqodHblgPZfhJik9cPG26j7c6w==",
-          "label": "youtube.com"
-        }
-      ],
-      "type": "timeline_event"
-    },
-    {
-      "title": "Hachette Cancels Novel Due to Suspected 78% AI Generation",
-      "date": "2026-03-29",
-      "description": "Publisher Hachette cancelled the U.S. release of Shy Girl by Mia Ballard after an internal review suggested the horror novel was up to 78% AI-generated, sparking debate about AI writing in literature.",
+      "description": "Leading AI companies, including OpenAI, Microsoft, and Meta, begin aggressively decoupling from traditional supply chains through massive investments in proprietary gigascale power plants and custom chip factories, aiming for technological independence.",
       "category": "Industry Structure",
-      "significance": "This incident highlights the challenges and ethical dilemmas surrounding AI-generated content in creative fields, particularly publishing. It will likely accelerate the development of AI detection tools and shape future policies on authorship, copyright, and authenticity in arts and media.",
+      "significance": "This movement signifies a fundamental shift in the AI industry's power dynamics and supply chain, potentially leading to greater vertical integration and geopolitical implications for AI dominance.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHpLQFjA6RAZK1prddMD1uqCbG0G2_n52ROtmfuNhU-YWlq-StyvoA5U6j4AkfVsgHcqpm1Ed9rZYCdlus838r8tI3Z4H498KArAAxsOx5OY0zXcJHzlQs2GNCvmYgJjTZ3AfAi1bV5uuSPXJvMYkZ1_ni0rf56JtKmT8owUa2mzE-r2VzDp0VzLwJ3YY==",
-          "label": "theguardian.com"
+          "url": "https://youtube.com",
+          "label": "YouTube (via Vertex AI Search)"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "OECD AI-WIPS Conference Kicks Off, Focusing on Agentic AI Governance",
+      "date": "2026-03-30",
+      "description": "The fifth international conference on AI in Work, Innovation, Productivity, and Skills (AI-WIPS) commences in Paris, gathering global leaders to discuss the impact of \"Agentic AI\" on employment and the governance of algorithmic management.",
+      "category": "Policy",
+      "significance": "This high-level international forum addresses critical issues around the ethical and societal implications of advanced agentic AI, shaping global discourse and potential future policy directions.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://ieu-monitoring.com",
+          "label": "IEU Monitoring (via Vertex AI Search)"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Model Context Protocol (MCP) Achieves Industry Standard Status with 97 Million Installs",
+      "date": "2026-03-31",
+      "description": "The Model Context Protocol (MCP) reaches a critical mass of 97 million installations, establishing itself as the industry standard for agentic infrastructure, with all major AI providers now shipping MCP-compatible tooling.",
+      "category": "Infrastructure",
+      "significance": "The widespread adoption of MCP as a standard is a pivotal development for interoperability and rapid advancement in agentic AI, streamlining development and deployment across the ecosystem.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://wordpress.com",
+          "label": "WordPress (via Vertex AI Search)"
         }
       ],
       "type": "timeline_event"
