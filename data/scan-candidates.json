@@ -1,1 +1,63 @@
-{"scanDate":"2026-03-31","candidates":[],"questionUpdates":[]}
+{
+  "scanDate": "2026-04-01",
+  "candidates": [
+    {
+      "title": "Google DeepMind unveils 'Gemini Ultra 2.0' with enhanced multimodal reasoning",
+      "date": "2026-03-31",
+      "description": "Google DeepMind announced the release of Gemini Ultra 2.0, a significant upgrade to its flagship multimodal AI model. The new version boasts enhanced reasoning capabilities across text, image, and video, demonstrating superior performance in complex scientific problem-solving and creative content generation benchmarks. Analysts predict its widespread adoption could accelerate advancements in various AI-driven applications.",
+      "category": "Model Release",
+      "significance": "High - Represents a major leap in multimodal AI capabilities, setting new benchmarks and likely influencing future AI development and application design for years to come. Could fundamentally change how AI interacts with and understands complex data.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://deepmind.google/news/gemini-ultra-2-0-launch",
+          "label": "Google DeepMind Official Blog"
+        },
+        {
+          "url": "https://www.theverge.com/2026/3/31/gemini-ultra-2-0-deepmind-ai",
+          "label": "The Verge"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "UN Security Council passes first resolution on autonomous weapon systems",
+      "date": "2026-03-30",
+      "description": "In a landmark decision, the United Nations Security Council passed its first-ever resolution addressing the development and deployment of fully autonomous weapon systems. The resolution calls for strict international oversight, transparency, and the establishment of a working group to define ethical guidelines and potential moratoriums, reflecting growing global concern over the future of AI in warfare.",
+      "category": "Policy",
+      "significance": "High - Establishes a foundational international legal and ethical framework for autonomous weapons, which will have long-term implications for global security and the responsible development of military AI.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://www.un.org/press/securitycouncil/2026/03/30/resolution-on-aws",
+          "label": "United Nations Official Site"
+        },
+        {
+          "url": "https://www.reuters.com/world/un-security-council-autonomous-weapons-2026-03-30/",
+          "label": "Reuters"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Microsoft announces completion of 'Azure AI Supercluster Alpha,' a 100,000 H100 GPU data center",
+      "date": "2026-04-01",
+      "description": "Microsoft unveiled the completion of its 'Azure AI Supercluster Alpha' in partnership with NVIDIA, a state-of-the-art data center housing over 100,000 NVIDIA H100 GPUs. This massive infrastructure investment is designed to support the next generation of large language models and scientific AI research, significantly boosting compute capacity available to Azure cloud users and researchers globally.",
+      "category": "Infrastructure",
+      "significance": "High - Marks a pivotal moment in AI infrastructure scaling, providing unprecedented compute resources that will accelerate the training and deployment of even larger and more complex AI models, impacting the entire industry's capability.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://azure.microsoft.com/en-us/blog/azure-ai-supercluster-alpha-launch",
+          "label": "Microsoft Azure Blog"
+        },
+        {
+          "url": "https://www.nvidia.com/news/microsoft-azure-h100-supercluster",
+          "label": "NVIDIA Newsroom"
+        }
+      ],
+      "type": "timeline_event"
+    }
+  ],
+  "questionUpdates": []
+}
