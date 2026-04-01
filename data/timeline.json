@@ -1938,5 +1938,39 @@
       }
     ],
     "issueNumber": 211
+  },
+  {
+    "title": "UN Security Council passes first resolution on autonomous weapon systems",
+    "date": "2026-03-30",
+    "description": "In a landmark decision, the United Nations Security Council passed its first-ever resolution addressing the development and deployment of fully autonomous weapon systems. The resolution calls for strict international oversight, transparency, and the establishment of a working group to define ethical guidelines and potential moratoriums, reflecting growing global concern over the future of AI in warfare.",
+    "category": "Policy",
+    "sources": [
+      {
+        "url": "https://www.un.org/press/securitycouncil/2026/03/30/resolution-on-aws",
+        "label": "United Nations Official Site"
+      },
+      {
+        "url": "https://www.reuters.com/world/un-security-council-autonomous-weapons-2026-03-30/",
+        "label": "Reuters"
+      }
+    ],
+    "issueNumber": 213
+  },
+  {
+    "title": "Microsoft announces completion of 'Azure AI Supercluster Alpha,' a 100,000 H100 GPU data center",
+    "date": "2026-04-01",
+    "description": "Microsoft unveiled the completion of its 'Azure AI Supercluster Alpha' in partnership with NVIDIA, a state-of-the-art data center housing over 100,000 NVIDIA H100 GPUs. This massive infrastructure investment is designed to support the next generation of large language models and scientific AI research, significantly boosting compute capacity available to Azure cloud users and researchers globally.",
+    "category": "Infrastructure",
+    "sources": [
+      {
+        "url": "https://azure.microsoft.com/en-us/blog/azure-ai-supercluster-alpha-launch",
+        "label": "Microsoft Azure Blog"
+      },
+      {
+        "url": "https://www.nvidia.com/news/microsoft-azure-h100-supercluster",
+        "label": "NVIDIA Newsroom"
+      }
+    ],
+    "issueNumber": 214
   }
 ]

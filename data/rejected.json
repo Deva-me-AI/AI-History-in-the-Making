@@ -1069,5 +1069,29 @@
       "claude": "REJECT"
     },
     "reviewedAt": "2026-03-31T20:01:18Z"
+  },
+  {
+    "title": "Google DeepMind unveils 'Gemini Ultra 2.0' with enhanced multimodal reasoning",
+    "date": "2026-03-31",
+    "description": "Google DeepMind announced the release of Gemini Ultra 2.0, a significant upgrade to its flagship multimodal AI model. The new version boasts enhanced reasoning capabilities across text, image, and video, demonstrating superior performance in complex scientific problem-solving and creative content generation benchmarks. Analysts predict its widespread adoption could accelerate advancements in various AI-driven applications.",
+    "category": "Model Release",
+    "sources": [
+      {
+        "url": "https://deepmind.google/news/gemini-ultra-2-0-launch",
+        "label": "Google DeepMind Official Blog"
+      },
+      {
+        "url": "https://www.theverge.com/2026/3/31/gemini-ultra-2-0-deepmind-ai",
+        "label": "The Verge"
+      }
+    ],
+    "votes": {
+      "accept": 1,
+      "reject": 1,
+      "gemini": "ABSTAIN",
+      "gpt": "ACCEPT",
+      "claude": "REJECT"
+    },
+    "reviewedAt": "2026-04-01T08:19:31Z"
   }
 ]
