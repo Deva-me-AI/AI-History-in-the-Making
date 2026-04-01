@@ -1,5 +1,81 @@
 {
   "scanDate": "2026-04-01",
-  "candidates": [],
+  "candidates": [
+    {
+      "title": "OpenAI Closes Record-Breaking $122 Billion Funding Round, GPT-5.4 Drives Agentic Workflows",
+      "date": "2026-03-31",
+      "description": "OpenAI secured a historic $122 billion funding round, achieving an $852 billion post-money valuation. The company reported $2 billion in monthly revenue, with GPT-5.4 noted for driving record engagement in agentic workflows.",
+      "category": "Funding",
+      "significance": "This massive funding and valuation solidifies OpenAI's leading position and indicates a continued surge in AI investment, profoundly shaping the industry's direction and the development of advanced AI agents over the next five years.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGN8xaTbFh8gAR0CWDHKluYS5eaE642MpVlIsD072ajHfjEiVBipN28sYqCVMxsiEJY7Qz4eCKS_JB1kavSTOGlAEaD_dNfEUDMLmMS5hXmxItP1s1e6c4uyaHXy5ceNWEoJs-pjpzt_z9uPclc4k86dg=",
+          "label": "OpenAI News"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Q1 2026 Sets Historic Venture Capital Record, AI Startups Account for 81%",
+      "date": "2026-04-01",
+      "description": "The first quarter of 2026 concluded as the largest quarter for venture funding in history, totaling nearly $300 billion. AI startups dominated this investment, securing 81% of the total with significant rounds for OpenAI, Anthropic, xAI, and Waymo.",
+      "category": "Funding",
+      "significance": "This unprecedented concentration of venture capital in AI signals sustained exponential growth and strategic importance of the sector, guaranteeing accelerated development and market expansion for years to come.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUGUmU4GGoH5pNs2gtWapyCRKDos8S-A4wTk_m_sqQyIKhPLaCY4g7LkOjRqibt-f_3HZGs0Bjmn2UYzUZcV9joNrs5erZ8xVLWqAXWNHOjx-t4g2PZBDFg_6XgGMEP3YUw_uZW0vnsSzCEWrUyBM0fXNhgtvCO-DGCB6T9HlWS0fjF6SMvbsm",
+          "label": "Crunchbase Report"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Nvidia Invests $2 Billion in Marvell Technology to Form 'AI Factories'",
+      "date": "2026-03-31",
+      "description": "Nvidia invested $2 billion in Marvell Technology to integrate Marvell’s specialized XPU chips with Nvidia’s NVLink technology. This partnership aims to create 'AI Factories' designed for hyperscalers and 5G/6G infrastructure.",
+      "category": "Infrastructure",
+      "significance": "This strategic hardware partnership is a critical step in building next-generation AI infrastructure, enhancing processing capabilities for large-scale AI operations, and will drive the foundational technology for future AI advancements.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEH4AS7oOfHRgTCEe2gFZ4zqEjHT8TDlM8g9LNKXKerD3Ty58Hald2Uo3R8ZTHG3SwtGvE8srimJAEHlzDittZvvXRmZm92dlEomPMtpdg-a-Nq7FFHLOEExibybI6pjmWScxQHtNtKiXXUC4dISJK9P_-R-szRRxT0i_v2rIt5gFT0TqZBtJWT2U1Q6VdC3A5E0Bt9DA==",
+          "label": "AI Business Article"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "IBM and ETH Zurich Launch 10-Year Initiative on AI and Quantum Computing",
+      "date": "2026-03-31",
+      "description": "IBM and ETH Zurich initiated a 10-year collaboration to develop foundational algorithms at the intersection of AI and quantum computing. The focus will be on optimization and modeling complex systems.",
+      "category": "Research",
+      "significance": "This long-term research partnership between a major tech company and a leading academic institution in a nascent but high-potential field like quantum AI is foundational, promising breakthroughs that will shape computing and AI for decades.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFKSi-rgrWvdREva8xFNEjXiCDApcULVSP7UBjSaM3KdrFrhQFPOTrQ0scPQliMo5dFuTBo4asE3RKMDMsgUTPgNddKaRDRB2h_t2sc46eoNHRZZAWavwWZ6sGg0BLChFfj13wWk80jQvS2bD2aPwggVFVoTdn4aXras-IeuxN7D4TheCIQLWqgjHGeuIZ7yxLx3XZ5W_BxUs1xr6am8lA5z2Gux0GLJQcOkF8CNIL1PeA56PM8cSxINg==",
+          "label": "IBM Newsroom"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "ASUS Launches UGen300, World's First USB AI Accelerator for Local LLMs",
+      "date": "2026-04-01",
+      "description": "ASUS unveiled the UGen300, a USB edge AI accelerator, the first of its kind globally. Powered by the Hailo-10H processor, it delivers 40 TOPS of performance, enabling local Large Language Model (LLM) execution via a simple plug-and-play USB-C connection.",
+      "category": "Infrastructure",
+      "significance": "The introduction of a portable, powerful USB AI accelerator significantly democratizes access to high-performance AI at the edge, fostering new applications for local LLMs and potentially revolutionizing personal computing and privacy over the next five years.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfxymEJFqqoUV30ZcUt7P_GNiR79cIB3fWphzoOMRb4UJblGV6xBIIaxEABOCJ4nMLiIkUEc6MoA1I_tYzKMmqWfjx4fhZ8YbWFzWe6kduHs8k-X-6m4qvPb3NZapCs3ky97-sibnvQd5AjTzkcY-mmlu2fBPR0ciruDCTq9X5YymAO-RJZ9r2cjI1oRuC9qGgthqXAvGq3g==",
+          "label": "ASUS Product Page"
+        }
+      ],
+      "type": "timeline_event"
+    }
+  ],
   "questionUpdates": []
 }
