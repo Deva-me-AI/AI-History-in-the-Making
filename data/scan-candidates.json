@@ -2,76 +2,84 @@
   "scanDate": "2026-04-02",
   "candidates": [
     {
-      "title": "Anthropic's Claude Code Source Code Leaked, Revealing Advanced Architecture",
-      "date": "2026-04-01",
-      "description": "Anthropic's specialized developer tool, Claude Code, had its source code leaked, exposing a 'three-layer memory architecture' for efficient long-context management and a sophisticated software harness integrating Grep, Glob, and LSP for repository navigation. The leak also highlighted techniques for file-read deduplication and parallelized background analysis.",
-      "category": "Open Source",
-      "significance": "The leak provides unprecedented insight into advanced AI model architecture, potentially influencing future open-source AI development and research in long-context processing.",
+      "title": "AMI Labs Secures $1 Billion Seed Funding for 'World Models'",
+      "date": "2026-04-02",
+      "description": "Yann LeCun's new startup, AMI Labs, announced it has raised over $1 billion in seed funding. The company aims to develop \"world models\" that move beyond traditional Large Language Models (LLMs), signaling a significant investment in alternative AI research paradigms.",
+      "category": "Funding, Lab Formation, Research",
+      "significance": "This substantial seed funding for a new AI research venture led by a prominent figure like Yann LeCun indicates a major shift in investment towards next-generation AI architectures beyond current LLMs, influencing the long-term research landscape and potentially leading to foundational breakthroughs.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHs3RHouk7PQJLLfxzT-8qQlDXdl6wPCEdtSK4ad_Cz5hgtYWm-21nbGjqlUG192xc-riLu4gF3jQi4zBm31oUTCvslpdtClNg81bUU8eDhfmu5Zv3Lm2RdVQbClfZ133e0iDB6WNDMax4aXaGRTTVp74mCkher9HqcvNwdlsnV9aumdMtDBwWqiZSj2IndD-mesmuputv_w0CCKA==",
-          "label": "wordpress.com"
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvAsTl7wfirqWs88ooctkVpErkXUBEchU_ZCESKSADJty0IGfuNxeUW08WBvFgDOG5c80ldWqBeIvKYEX5k3bXq198tOikVp0u7vmQs_x4YCABOiHluSaoIuvBgw1aLTPq-J7VDzqB5HGuYeG6A8KDEixHjmy-bDXBb6Jj79M76nqmPbsJ4eU6jOpmsQ59C20hLfpdmmeVl4G7YCD_gkOTXSGk5keK_paJcAWaJ3dyp9QDWsu9Jm4=",
+          "label": "Brown Daily Herald"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxQjyjbe9fKYUgCKarlKk3WtShDaldaQeLe1-03W6BE7FXyK7dTXs0Bk0QIjb2Liv3Xbunas0vfwZi29sIXCKq9rXri87sO3UEVRe7HhzfdxUUoXgmrDpoUYAzi6NF-Ew=",
+          "label": "Brown University News"
         }
       ],
       "type": "timeline_event"
     },
     {
-      "title": "Significant AI Breakthroughs Revolutionize Healthcare Diagnostics and Operations",
+      "title": "Yann LeCun Urges Researchers to 'Abandon' Generative LLMs for AGI",
       "date": "2026-04-01",
-      "description": "Several medical AI advancements emerged: Noah Labs received FDA breakthrough device designation for 'Vox,' an AI system detecting heart failure from voice recordings. Butterfly Network gained FDA clearance for an AI-powered ultrasound estimating gestational age. Penguin AI launched a platform for 'digital workers' in health systems, and Ambience Healthcare released 'Chart Chat for Nursing' for EHR querying.",
+      "description": "During the Lemley Family Leadership Lecture at Brown University, Turing Award winner Yann LeCun criticized generative Large Language Models (LLMs), stating that researchers should \"abandon\" them to achieve human-level intelligence. He argued that LLMs are \"intrinsically unsafe\" and \"helpless\" in the physical world, asserting they will not reach human-level AI.",
       "category": "Research",
-      "significance": "These breakthroughs signify a major shift towards AI-driven diagnostics and administrative efficiency in healthcare, promising faster, more accessible, and potentially more accurate medical services.",
+      "significance": "A leading voice in AI research publicly challenging the dominant paradigm of LLMs could significantly influence future academic and industry research directions, pushing for alternative approaches and potentially reshaping the path to Artificial General Intelligence (AGI).",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyQAf75Xo-UuewIJM6ZzDY_YugZirqRDjq0gJygB49AMIJby1NznOxqryQhJMY8gPwVc_Ao-D0PNUkp73lrMs1iLM3GkEn2en7bHflS4jrEqBVljXiTvqN4SVAZUo3joCwsWPbVaDm9a2YR_EABVrMZaL5WQ==",
-          "label": "histalk2.com"
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvAsTl7wfirqWs88ooctkVpErkXUBEchU_ZCESKSADJty0IGfuNxeUW08WBvFgDOG5c80ldWqBeIvKYEX5k3bXq198tOikVp0u7vmQs_x4YCABOiHluSaoIuvBgw1aLTPq-J7VDzqB5HGuYeG6A8KDEixHjmy-bDXBb6Jj79M76nqmPbsJ4eU6jOpmsQ59C20hLfpdmmeVl4G7YCD_gkOTNTSGk5keK_paJcAWaJ3dyp9QDWsu9Jm4=",
+          "label": "Brown Daily Herald"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxQjyjbe9fKYUgCKarlKk3WtShDaldaQeLe1-03W6BE7FXyK7dTXs0Bk0QIjb2Liv3Xbunas0vfwZi29sIXCKq9rXri87sO3UEVRe7HhzfdxUUoXgmrDpoUYAzi6NF-Ew=",
+          "label": "Brown University News"
         }
       ],
       "type": "timeline_event"
     },
     {
-      "title": "NYC Health + Hospitals CEO Sparks Controversy Proposing AI to Replace Radiologists",
-      "date": "2026-04-01",
-      "description": "Mitchell Katz, CEO of NYC Health + Hospitals, initiated a widespread debate by suggesting AI could immediately replace many radiologists, proposing state regulations to allow unsupervised AI reading of imaging studies, with human review only for abnormalities. This move faced strong criticism from medical professionals concerned about patient safety.",
-      "category": "Policy",
-      "significance": "This event highlights the escalating tension between AI's potential to automate specialized medical fields and the critical ethical, safety, and regulatory challenges that need to be addressed before widespread adoption.",
-      "confidence": "high",
-      "sources": [
-        {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyQAf75Xo-UuewIJM6ZzDY_YugZirqRDjq0gJygB49AMIJby1NznOxqryQhJMY8gPwVc_Ao-D0PNUkp73lrMs1iLM3GkEn2en7bHflS4jrEqBVljXiTvqN4SVAZUo3joCwsWPbVaDm9a2YR_EABVrMZaL5WQ==",
-          "label": "histalk2.com"
-        }
-      ],
-      "type": "timeline_event"
-    },
-    {
-      "title": "Kentucky Farm Rejects $26M for AI Data Center, Highlighting Land-Use Conflict",
-      "date": "2026-03-31",
-      "description": "In Mason County, Kentucky, the Huddleston family declined a $26 million offer from a Fortune 100 company to convert their 1,200-acre ancestral farm into a large AI data center. This decision underscores the growing global conflict between the increasing demand for AI infrastructure and the need for agricultural preservation and traditional land use.",
-      "category": "Infrastructure",
-      "significance": "This event is a stark example of the societal and environmental trade-offs emerging from the rapid expansion of AI infrastructure, foreshadowing future land-use debates and policy challenges.",
-      "confidence": "high",
-      "sources": [
-        {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpMC0-Qx8sMvansx8GcLATAJGCwkZHSBZ0Gwt0QrHFYMM7DtvoaBccErgM_1CpHZyUMgExLfTY3YVs1HxneczpyPqbdBGbpsULMcBtqDkQ6vChQx8v-q3PEx0-GsgJQawIMEW-32_737YWvZKnq99_TocI4fPQPwXdFbIBM19Lp3j-_2Vw5bQMuv8=",
-          "label": "aiagentstore.ai"
-        }
-      ],
-      "type": "timeline_event"
-    },
-    {
-      "title": "Salesforce/Slack and MineHub Announce Major AI Integrations for Enterprise and Supply Chain",
-      "date": "2026-04-01",
-      "description": "Salesforce and Slack unveiled over 30 new AI features, transforming Slackbot into an active 'team member' for managing workflows across the 'Agentic Enterprise.' Concurrently, MineHub Technologies detailed its 2026 AI strategy for commodity markets, focusing on AI-driven coordination of complex supply chains and automated document processing.",
+      "title": "IFS Pivots Industrial AI Pricing to Asset-Based Model",
+      "date": "2026-04-02",
+      "description": "Software provider IFS announced a disruption in the enterprise market by moving away from traditional \"per-user\" AI licensing. Their new model prices AI based on physical assets (e.g., number of factory machines or vessels), aiming to encourage unlimited AI deployment across organizations.",
       "category": "Industry Structure",
-      "significance": "These developments indicate a deepening integration of AI into core enterprise functions and global supply chains, fundamentally reshaping how businesses operate, manage workflows, and interact across complex networks.",
+      "significance": "This shift in pricing strategy for industrial AI could profoundly impact the adoption and deployment models of AI within manufacturing and asset-heavy industries, potentially accelerating widespread integration and changing how AI value is perceived and monetized in enterprise solutions.",
+      "confidence": "medium",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDw0BBLYuNuQ7-bqhmA5btXxYoc2Kpe18iUsoV5CljmG4FtO4cr7QxtWMRwGERtAKII1yjsDfDhNq9ZEI3_4uSCq0tihPwY5u6s6iCLnusftXY2AYLUEkqIwKiCRwLhBKoSneTf1YRirEnkpVXw8vpMnVnGPHppuWrmaOnoeilMsJY4KqqaQ1S",
+          "label": "IFS"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Gallup Report: 57% of US College Students Use AI Weekly",
+      "date": "2026-04-02",
+      "description": "A Gallup report released on April 2, 2026, found that 57% of U.S. college students now use AI in their coursework at least weekly. This widespread adoption occurs despite nearly half of institutions still having policies that discourage or prohibit AI use.",
+      "category": "Research, Policy",
+      "significance": "This report highlights a significant, rapid, and widespread integration of AI into higher education, underscoring a societal shift that will force educational institutions to re-evaluate policies, curricula, and teaching methodologies, with long-term implications for future workforces.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpjr5cUF373-Q4BFjeKkcBtc4nPUHRixoSAoR-6Lpfs_iCb2NejVzzf1j6wUHqBIPKZZiyiZT3uC-N2Po9ZC263NkBn2iL9rt4PLxWzJAx-xvV9Ui3FEtiscz7BHyKEkGgQiFO22EctlzNdiN57gfyx4ATTD9a2N2k2F80KIZ6iCKQ4rWetI610Q89y4qiyThSGGJGlS7hePqQqz",
-          "label": "enterprisetimes.co.uk"
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXfDNq-1qHpjb1w1kG-o0-K8C0-hSBpx359ofBTWH1QAFrrUJs6GWh-HzxRaITwFZVlQM_Pxgssg9eku52GHLWaECnYZ3t95VgCpqOdrIiLarJschvdrVNMwMf82j55J0JoJ0NqsvupZGRD_8PeIdT2auo46r0okDT01138KYOxAFFBM9PetDLr4CMAxEDYm6pEg==",
+          "label": "Gallup"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "U.S. Dept. of Labor Launches AI Literacy Initiative for Apprenticeships",
+      "date": "2026-04-02",
+      "description": "The U.S. Department of Labor launched a national initiative to integrate AI literacy and technical skills into Registered Apprenticeship programs across all traditional trades, aiming to equip the workforce with necessary AI competencies.",
+      "category": "Policy",
+      "significance": "This federal initiative addresses the critical need to adapt the workforce to an AI-driven economy, indicating a proactive government approach to skills development. It sets a precedent for integrating AI education into vocational training, influencing future labor market dynamics and education policy.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFb9eur2ugnGfUbrimnOqOr4SdUwg6Awn9Wb8Jw-zCNF3VbRWQ1uvVkyjLG0lgvXuaPnR2a51XaE0EBdCxD8vsd4QrZStpR8Z5bZekdeEucAYgqHSRh9P9_RmlfO4LloQErd_yRy9P9_rO0kDT01138KYOxAFFBM9PetDLr4CMAxEDYm6pEg==",
+          "label": "U.S. Department of Labor"
         }
       ],
       "type": "timeline_event"
