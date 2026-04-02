@@ -1983,7 +1983,8 @@
         "url": "https://openai.com",
         "label": "OpenAI"
       }
-    ]
+    ],
+    "issueNumber": 225
   },
   {
     "title": "OpenAI Closes Record-Breaking $122 Billion Funding Round, GPT-5.4 Drives Agentic Workflows",
