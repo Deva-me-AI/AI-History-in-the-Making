@@ -1,5 +1,81 @@
 {
   "scanDate": "2026-04-02",
-  "candidates": [],
+  "candidates": [
+    {
+      "title": "Microsoft Expands Proprietary AI Portfolio with MAI-Transcribe-1 and Broad Commercial Access to MAI-Voice-1 and MAI-Image-2",
+      "date": "2026-04-02",
+      "description": "Microsoft released MAI-Transcribe-1, a new speech-to-text model, and opened broad commercial access to its MAI-Voice-1 and MAI-Image-2 models. This strategic move signals Microsoft's increasing independence from OpenAI and a deeper commitment to developing its own comprehensive AI capabilities across various modalities.",
+      "category": "Model Release",
+      "significance": "This expansion solidifies Microsoft's position as a standalone AI leader, fostering greater competition and innovation in the AI ecosystem. It will likely accelerate the development of alternative foundational models and platforms, reshaping the competitive landscape and driving specialized AI applications across industries.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEI1OuO9E5Bw_BKfubgH4lRbzIUJofuQzYX5keA6bR2oEjBFVHHYJONgTSzFgNjxocFLy_uXgp-CjkikyBwa8Q9165FOu6uC0gcy-iHaiUQK1hV_Tizya1937k7g6BKUfpg81i1NlRdM30KCVQAt_IFqKGugpaURAd3XQjLEoxw5rKNxg_jbtDsCEQyAoRdAM959PAuh8lCgTtl",
+          "label": "geekwire.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "IBM and Arm Forge Strategic Partnership for Next-Generation Enterprise AI Platforms",
+      "date": "2026-04-02",
+      "description": "IBM announced a strategic collaboration with Arm to develop future enterprise computing platforms, aiming to combine IBM's system reliability with Arm's power-efficient architecture. This partnership focuses on scaling AI operations efficiently within core business infrastructure, targeting high-performance and sustainable AI deployment.",
+      "category": "Industry Structure",
+      "significance": "This collaboration could lead to a fundamental shift in the architecture and efficiency of enterprise AI systems. By combining their strengths, IBM and Arm are poised to set new standards for AI integration in data centers and cloud environments, impacting long-term infrastructure choices and operational costs for businesses globally.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHBHTCkkEKvlr6cbZE_3A6ObPfH3yctaBtPbkK06dsPVmTXYWueV61knS-OMHbY4V8CBj-DcaPFPyql3mnONsWX-MAi0QRsgPgoLLjJhgJs_Bvi410sX1_k25y2zWTtPUoUcnpby-O35YZ_Ur36jRK4gU95LeXvlXvuekVuOg0IXlej8A-jhuOptuILZYbwb-8ZHfX69q5eHAUyWRGb20I-YE_eV6hvTfBYNL5KRqLTmeBougPtJm0Fw==",
+          "label": "ibm.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Cornell University Unveils EMSeek, an Autonomous AI Platform for Ultra-Fast Electron Microscopy Analysis",
+      "date": "2026-04-01",
+      "description": "Researchers at Cornell University introduced EMSeek, an AI platform capable of analyzing complex electron microscopy images and identifying crystal structures up to 50 times faster than human experts. This agentic AI system streamlines material property prediction, accelerating scientific discovery in fields like advanced materials and nanotechnology.",
+      "category": "Research",
+      "significance": "EMSeek represents a significant breakthrough in scientific AI, potentially revolutionizing material science and drug discovery. Its ability to drastically speed up analysis processes will enable faster innovation cycles, leading to the development of new materials and technologies that could have broad societal and industrial impacts in the coming decades.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFeFv7hd23NYpbGe9ySLUeqexf7fWbUZpI7r0xpaGQrYvU2spcUpkuw7hTwh8mHt-GOc7KfJLsx3uYMkOsfLilwYOzvXwdqSh2DSrPwNhoM_Lp8lTlGJ8ANXbuGgsnCvtfWfLLNAJhdcPFQA4qhEBANre1JSDjD6YmAs-RZymEJ6_VTHlxMMbKo4VUGZBFCufTs34L4NHxgU4Op",
+          "label": "cornell.edu"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "U.S. Department of Labor Launches National AI Apprenticeship Initiative",
+      "date": "2026-04-01",
+      "description": "The U.S. Department of Labor initiated a landmark program to integrate AI skills into Registered Apprenticeships across the nation. This initiative aims to equip workers in traditional and emerging trades with essential AI literacy and technical capabilities, preparing the workforce for an AI-driven economy.",
+      "category": "Policy",
+      "significance": "This policy initiative is crucial for addressing the growing AI skill gap and ensuring equitable access to future job opportunities. By embedding AI training into established apprenticeship frameworks, it will significantly influence workforce development, educational curricula, and the adaptability of the American labor force to technological advancements over the next five years and beyond.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYtq9sOgvHSKqOPQJQvlNIxs4zukAHMtbtPNWnJBV1yvMtY6s_KmzzRCQyThuotKhSVXxWKZyI6AgX50yCuKSR7OzZ_NQddxd0yOb5cVpCung2N95LWGjjmQjc-jNHdCpInQFvztR_aKqy2HrzF9Y=",
+          "label": "dol.gov"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Ping An Insurance Automates Nearly 60% of Accident and Health Claims with AI",
+      "date": "2026-03-31",
+      "description": "China's Ping An Insurance Group announced that artificial intelligence now automates close to 60% of its accident and health insurance claims, with many settled in under a minute. The company is actively leveraging AI agents to enhance operational efficiency and financial performance, aiming to double its price-to-book ratio.",
+      "category": "Industry Structure",
+      "significance": "This massive-scale AI adoption by a major insurance group highlights the transformative power of AI in traditional industries. It sets a new benchmark for automation and efficiency in financial services, demonstrating how AI can fundamentally reshape business models, reduce operational costs, and improve customer experience, influencing other sectors to follow suit.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfVDvy0KXi3PBKc32EOnZbF0zCMcizdP_EJE_lc0gDti0Gto6KoDLwUSF20xwv9ql_v2Z0sdtTQdSJtgTqiI9ExMFJfiE6pHx4-zlG5LWD4HjS4J57Z_7rDyzuQ2R2fzOcGXdqElNvenPKcsBtnPONSJkClA4xX5eMzkS-wVVMrca7FZQ=",
+          "label": "insurancejournal.com"
+        }
+      ],
+      "type": "timeline_event"
+    }
+  ],
   "questionUpdates": []
 }
