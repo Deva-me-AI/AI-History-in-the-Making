@@ -2049,5 +2049,70 @@
       }
     ],
     "issueNumber": 219
+  },
+  {
+    "title": "Anthropic's Claude Code Source Code Leaked, Revealing Advanced Architecture",
+    "date": "2026-04-01",
+    "description": "Anthropic's specialized developer tool, Claude Code, had its source code leaked, exposing a 'three-layer memory architecture' for efficient long-context management and a sophisticated software harness integrating Grep, Glob, and LSP for repository navigation. The leak also highlighted techniques for file-read deduplication and parallelized background analysis.",
+    "category": "Open Source",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHs3RHouk7PQJLLfxzT-8qQlDXdl6wPCEdtSK4ad_Cz5hgtYWm-21nbGjqlUG192xc-riLu4gF3jQi4zBm31oUTCvslpdtClNg81bUU8eDhfmu5Zv3Lm2RdVQbClfZ133e0iDB6WNDMax4aXaGRTTVp74mCkher9HqcvNwdlsnV9aumdMtDBwWqiZSj2IndD-mesmuputv_w0CCKA==",
+        "label": "wordpress.com"
+      }
+    ],
+    "issueNumber": 220
+  },
+  {
+    "title": "Significant AI Breakthroughs Revolutionize Healthcare Diagnostics and Operations",
+    "date": "2026-04-01",
+    "description": "Several medical AI advancements emerged: Noah Labs received FDA breakthrough device designation for 'Vox,' an AI system detecting heart failure from voice recordings. Butterfly Network gained FDA clearance for an AI-powered ultrasound estimating gestational age. Penguin AI launched a platform for 'digital workers' in health systems, and Ambience Healthcare released 'Chart Chat for Nursing' for EHR querying.",
+    "category": "Research",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyQAf75Xo-UuewIJM6ZzDY_YugZirqRDjq0gJygB49AMIJby1NznOxqryQhJMY8gPwVc_Ao-D0PNUkp73lrMs1iLM3GkEn2en7bHflS4jrEqBVljXiTvqN4SVAZUo3joCwsWPbVaDm9a2YR_EABVrMZaL5WQ==",
+        "label": "histalk2.com"
+      }
+    ],
+    "issueNumber": 221
+  },
+  {
+    "title": "NYC Health + Hospitals CEO Sparks Controversy Proposing AI to Replace Radiologists",
+    "date": "2026-04-01",
+    "description": "Mitchell Katz, CEO of NYC Health + Hospitals, initiated a widespread debate by suggesting AI could immediately replace many radiologists, proposing state regulations to allow unsupervised AI reading of imaging studies, with human review only for abnormalities. This move faced strong criticism from medical professionals concerned about patient safety.",
+    "category": "Policy",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyQAf75Xo-UuewIJM6ZzDY_YugZirqRDjq0gJygB49AMIJby1NznOxqryQhJMY8gPwVc_Ao-D0PNUkp73lrMs1iLM3GkEn2en7bHflS4jrEqBVljXiTvqN4SVAZUo3joCwsWPbVaDm9a2YR_EABVrMZaL5WQ==",
+        "label": "histalk2.com"
+      }
+    ],
+    "issueNumber": 222
+  },
+  {
+    "title": "Kentucky Farm Rejects $26M for AI Data Center, Highlighting Land-Use Conflict",
+    "date": "2026-03-31",
+    "description": "In Mason County, Kentucky, the Huddleston family declined a $26 million offer from a Fortune 100 company to convert their 1,200-acre ancestral farm into a large AI data center. This decision underscores the growing global conflict between the increasing demand for AI infrastructure and the need for agricultural preservation and traditional land use.",
+    "category": "Infrastructure",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpMC0-Qx8sMvansx8GcLATAJGCwkZHSBZ0Gwt0QrHFYMM7DtvoaBccErgM_1CpHZyUMgExLfTY3YVs1HxneczpyPqbdBGbpsULMcBtqDkQ6vChQx8v-q3PEx0-GsgJQawIMEW-32_737YWvZKnq99_TocI4fPQPwXdFbIBM19Lp3j-_2Vw5bQMuv8=",
+        "label": "aiagentstore.ai"
+      }
+    ],
+    "issueNumber": 223
+  },
+  {
+    "title": "Salesforce/Slack and MineHub Announce Major AI Integrations for Enterprise and Supply Chain",
+    "date": "2026-04-01",
+    "description": "Salesforce and Slack unveiled over 30 new AI features, transforming Slackbot into an active 'team member' for managing workflows across the 'Agentic Enterprise.' Concurrently, MineHub Technologies detailed its 2026 AI strategy for commodity markets, focusing on AI-driven coordination of complex supply chains and automated document processing.",
+    "category": "Industry Structure",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpjr5cUF373-Q4BFjeKkcBtc4nPUHRixoSAoR-6Lpfs_iCb2NejVzzf1j6wUHqBIPKZZiyiZT3uC-N2Po9ZC263NkBn2iL9rt4PLxWzJAx-xvV9Ui3FEtiscz7BHyKEkGgQiFO22EctlzNdiN57gfyx4ATTD9a2N2k2F80KIZ6iCKQ4rWetI610Q89y4qiyThSGGJGlS7hePqQqz",
+        "label": "enterprisetimes.co.uk"
+      }
+    ],
+    "issueNumber": 224
   }
 ]
