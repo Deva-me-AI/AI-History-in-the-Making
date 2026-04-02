@@ -2039,19 +2039,6 @@
     "issueNumber": 218
   },
   {
-    "title": "ASUS Launches UGen300, World's First USB AI Accelerator for Local LLMs",
-    "date": "2026-04-01",
-    "description": "ASUS unveiled the UGen300, a USB edge AI accelerator, the first of its kind globally. Powered by the Hailo-10H processor, it delivers 40 TOPS of performance, enabling local Large Language Model (LLM) execution via a simple plug-and-play USB-C connection.",
-    "category": "Infrastructure",
-    "sources": [
-      {
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfxymEJFqqoUV30ZcUt7P_GNiR79cIB3fWphzoOMRb4UJblGV6xBIIaxEABOCJ4nMLiIkUEc6MoA1I_tYzKMmqWfjx4fhZ8YbWFzWe6kduHs8k-X-6m4qvPb3NZapCs3ky97-sibnvQd5AjTzkcY-mmlu2fBPR0ciruDCTq9X5YymAO-RJZ9r2cjI1oRuC9qGgthqXAvGq3g==",
-        "label": "ASUS Product Page"
-      }
-    ],
-    "issueNumber": 219
-  },
-  {
     "title": "Anthropic's Claude Code Source Code Leaked, Revealing Advanced Architecture",
     "date": "2026-04-01",
     "description": "Anthropic's specialized developer tool, Claude Code, had its source code leaked, exposing a 'three-layer memory architecture' for efficient long-context management and a sophisticated software harness integrating Grep, Glob, and LSP for repository navigation. The leak also highlighted techniques for file-read deduplication and parallelized background analysis.",
