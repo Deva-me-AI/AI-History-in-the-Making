@@ -1927,19 +1927,6 @@
     "issueNumber": 210
   },
   {
-    "title": "TensorWave Rebrands Flagship Event to 'Beyond Summit,' Emphasizing Open AI Infrastructure",
-    "date": "2026-03-31",
-    "description": "TensorWave announced the rebranding of its flagship event from 'Beyond CUDA' to 'Beyond Summit.' Scheduled for April 8, the summit will focus on open AI infrastructure and the deployment of production AI workloads on non-NVIDIA hardware, specifically mentioning AMD Instinct GPUs.",
-    "category": "Infrastructure",
-    "sources": [
-      {
-        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7ChCjfR7ZUetZLmeh4jZuTR72dDomNt7Ez0Ow3DrTK3FuVcYIYhmatF-L6k-Q5vmM2HuT7jNMrCCJVmZrN_32M8F2-R4R_N0KP7VJ8y8nxdVyx_1HhbLaIe0Ashvq_jAFTxHsERXuLYbtSK9i9zOteJcntC_1bIesYhYeMHOXyb1HAZ7dVFpHNZxinrYCEDJ_tyTnXCvttdnv_qvOexOeD6jX5rvmh_Yo6kwKPIFWcMauqz5m0OsEh3NrALgNKlfc9SwBHXnUcDPIbdTNhSz5P9K4VkGL",
-        "label": "morningstar.com"
-      }
-    ],
-    "issueNumber": 211
-  },
-  {
     "title": "UN Security Council passes first resolution on autonomous weapon systems",
     "date": "2026-03-30",
     "description": "In a landmark decision, the United Nations Security Council passed its first-ever resolution addressing the development and deployment of fully autonomous weapon systems. The resolution calls for strict international oversight, transparency, and the establishment of a working group to define ethical guidelines and potential moratoriums, reflecting growing global concern over the future of AI in warfare.",
