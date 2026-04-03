@@ -2,62 +2,61 @@
   "scanDate": "2026-04-03",
   "candidates": [
     {
-      "title": "Whistleblower Alleges China's 'Skynet' AI Predicts Crimes with 97% Accuracy 48 Hours in Advance",
-      "date": "2026-04-02",
-      "description": "A whistleblower revealed details of a Chinese AI system code-named 'Skynet' that allegedly predicts crimes 48 hours in advance with 97% accuracy by analyzing social media, surveillance footage, and financial records. The system is reportedly integrated into police databases in select cities, sparking global debate over 'pre-crime' policing and civil liberties.",
-      "category": "Policy",
-      "significance": "This event is highly significant as it represents a major advancement in state-level predictive policing using AI, raising profound ethical, privacy, and human rights concerns that will shape international policy and societal norms for decades. The potential for 'pre-crime' intervention fundamentally alters the relationship between citizens and the state.",
-      "confidence": "high",
-      "sources": [
-        {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyH1sI_qT79hLm6UsrZf_q0QcfB1_2j9msv_pFUMEB45R83ysHj80UZvz-5mKYMAjUXWovKA_B2n0sea2oXk_tUh9WB71sLX_fqbaOQkNGrZ77GZoqSIzwwfLQCdIP89fmYEimNJJWKZXAA0DDWNO_HiWXKJ-EwKUTj8gM3UWOHIeWvP1IK-N2DcLoz0StMX3uYBv2lkZ3KG6sXyx1NA3KS74la2MOJFapgX30-y_JVg6YtQ4w4rCgYAxldDIXpuG1Z_KUgns=",
-          "label": "maitlandhigh.com.au (source 1)"
-        },
-        {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEm-xJO5dPPHfIC5cRvuAWjr5tj3d9-52CrcZElBM4mx34Hxij_xoXXXXh5LKw07YFZZ51fGEEm_CwderCusJt4JtaKhtpxr03rOaN7m3kHAhKXonDuBtpEhb8_pPBH167sDRWiOLLCKwDkXtg_zQnKSqzlLQPoXwL_KbRL7YcNcPLZlbySYroLmAFbuSso2kjcNG24343cTzlznBMWskdQ_dNH6KbT-3BKz7llVg3TOpgN4Zz-F84uccESvH2Alz9YkUM8U9I=",
-          "label": "maitlandhigh.com.au (source 2)"
-        },
-        {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDGOVeqtL7h1xfzTJPlswPqPnPsQv9rOZwMNUFDrjSXAkXVfiAYSpILYwGQiK1DpqdBmbubVGrEDNxRc1KonQ5AB-8Y1Qrpzf-KHsDQFAnhBBUK2n69zB8xQb6LVs6ZzqKd-DdPmBmJnstRJP3wvAT0z5yrO_-uzazElrm_A29TlAm_TSa8YGVJAHA2SZ-WnKPirgfl04WrtKOqoTN1-4v1ijB_zn04yC0AuVidzeeptjkvMZMwHP0Cgh558nMC9paSwOZu8Q=",
-          "label": "maitlandhigh.com.au (source 3)"
-        },
-        {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHx1ALolnI64PPhh-eWwIkSAY8mBn8cMDYyAv7qg2Hi_PuOS-YSmln_RJy1SZGfS4qjsHiZXg5OscKDNrITeOnjWk2s_wzyhbFHtpE-vYfpaGe-az8tHKIlIbavPexBYQ-Mfs7O8Oq2nbOrNp2Dq6ezyECN5M_-XqCnXgGBwphAfK18auSa4fVLnaHGYo90yQ49Ilqyd2yh-UCiM4GfEyI8GzQA_Mc9GYDWtNMGGHK6sbJnBpVx0dMWt-o9BYMXtWsW6CL1BQ=",
-          "label": "maitlandhigh.com.au (source 4)"
-        }
-      ],
-      "type": "timeline_event"
-    },
-    {
-      "title": "OpenAI Faces Backlash Over Pentagon Deal, Sam Altman Admits 'Miscalibration'",
-      "date": "2026-04-02",
-      "description": "OpenAI CEO Sam Altman addressed significant public backlash regarding the company's recent partnership with the U.S. Department of Defense (Pentagon), admitting he 'miscalibrated' the public's distrust of AI-government collaborations. OpenAI subsequently updated the agreement to explicitly prohibit the use of its technology for mass domestic surveillance or directing autonomous weapon systems, though critics remain skeptical.",
-      "category": "Policy",
-      "significance": "This event highlights the critical and ongoing tension between leading AI developers, ethical concerns, military applications, and public trust. OpenAI's move into defense contracts, coupled with the immediate public and internal reaction, sets a precedent for how major AI labs navigate geopolitical and ethical boundaries, profoundly influencing the future direction and public acceptance of advanced AI systems for years to come.",
-      "confidence": "high",
-      "sources": [
-        {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAJO9xcRvMnq42HY-fOZUjKOyfScQAF2q_1H2gJwzjeyva5UoMrjazQspjl3qeX9Xy1u66MdfUCVjp5H4ptBZ0ZAqfGYa-z3W8pUmj3nDgdga16Ic5MN_kjMk_uPB2XIy3_qojuR6USqqhyqqGz0SvE0U80FQoq6M-TRRpTy6p1EGIj63GPgdA-fENjLl8QyFYanHQCBasftLL4x3vSuJEo8dK",
-          "label": "businessinsider.com (source 6)"
-        },
-        {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHLH6EOafNw9_5bDLl8Ui-X5ALKpvmGDv6gxE4hD0f_9Fh80X6WJQ6rgQV1IanSHR-KkIysH4Rm_TMHX80qpfQRX8meYACf2d7wdKMUK0IlesNUzcNnIn4d6NozA8RjfQHbvGgpw=",
-          "label": "youtube.com (source 7)"
-        }
-      ],
-      "type": "timeline_event"
-    },
-    {
-      "title": "Anthropic's Claude Overtakes ChatGPT in App Store Amidst 'QuitGPT' Movement",
+      "title": "Anthropic's Claude Mythos Frontier Model Leaked",
       "date": "2026-04-01",
-      "description": "Anthropic's AI model, Claude, surged to the #1 spot on the U.S. App Store, surpassing ChatGPT for the first time. This shift is attributed to a 'QuitGPT' movement, where users are reportedly migrating to Claude due to Anthropic's public refusal to allow its models for mass surveillance or autonomous weapons, contrasting with OpenAI's controversial partnership with the Pentagon.",
-      "category": "Industry Structure",
-      "significance": "This event signifies a potential shift in user preference and market dynamics within the AI chatbot sector, driven by ethical considerations and trust in AI developers' policies regarding military and surveillance applications. If this trend continues, it could lead to increased competition and a greater emphasis on ethical AI development and transparency as a key differentiator for companies in the long term (5+ years).",
+      "description": "Reports emerged about Anthropic's new frontier model, Claude Mythos, reportedly surpassing existing Opus models in coding and cybersecurity capabilities, though its controlled rollout is due to high computational costs.",
+      "category": "Model Release",
+      "significance": "The leak of a new, highly capable frontier model from a leading AI lab signals a significant advancement in AI's reasoning and security application abilities, potentially influencing future model development and industry benchmarks.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESmi-vQrBRZrEDZeR8r7s4gmPoOHfjpdViu0jlpd5fIn3fqCjI9Or0uuJ3hljg5iGY9sSpmUcd5VcGtS4vcHgd8rM9K7wwMgXpUlNv1d4rV1YUxjghRkZuysqKKU7qzieudHyS6mE-6K-VhHG08g75pv3OlylCKfERSIhJguCwpCqG9A==",
-          "label": "mashable.com (source 5)"
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcUBHXaNzpMtnfs28DU7sdMFbMf-GtEjgBP0xLYcPF_CZvzeEIYzHc84zsGtZGhfBxFLAowdzqEiqnmLhn7yH_XRh1AZPJAFShCyGG34ks7AxBOty9tDhyxpcJQcqE-8uBiiXdwo5AZQeH5uUtKYhvD2YEsR7y1X48PLKtOQM8uXMk",
+          "label": "substack.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Google Launches New Gemini API Flex and Priority Tiers",
+      "date": "2026-04-03",
+      "description": "Google introduced new Flex and Priority tiers for its Gemini API, allowing enterprise developers to optimize costs by routing background jobs to lower-cost tiers while prioritizing real-time, interactive requests through a unified interface.",
+      "category": "Infrastructure",
+      "significance": "This development offers enterprises greater flexibility and cost control in managing their AI workloads on the Gemini platform, potentially driving wider adoption and more sophisticated application of Gemini models in business operations.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMWoiTGhdvArkhrxztUWX-0Tbn3iGoDgO1m9e6rHx_BjLdneT3JkFs7uBqCk8ynxRvyJUGuZrVt8O0DOC8zroXfTY0eW25-GHqXyd_EE5h0krCTgZXD8pwKpgjvKk2bTszi6Byp41p3bm2u98sVRNovObB8Z0ojuGlXJ_0CCmxKth8GLmw_ak0gT44Kmhjuyzkms64t3JMM46lBGmrdsjP6c9ykdPNMv114cbXMEq_pVSnSMth-Q6QF105esY",
+          "label": "infoworld.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Survey Reveals Widespread Public Distrust in AI",
+      "date": "2026-04-03",
+      "description": "A Quinnipiac University survey indicated that 76% of Americans trust AI 'rarely' or 'only sometimes,' coinciding with a fivefold increase in reported AI 'misbehavior' incidents.",
+      "category": "Policy",
+      "significance": "This widespread public distrust poses a significant challenge for AI adoption and regulatory efforts, potentially leading to stricter oversight, increased demand for ethical AI, and slower integration of AI into sensitive societal functions.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEF0QcZEL6dEwHXf3PMBRkkJTW-QZkF2-aun11ddApIjQcLbNHLd2WUFR1MjmmFT6BysZSZlZ1keEY4dgCuESSz_84zZuzydghVkpjcJyG8pWVvzWPUTeus5111ryud93OyJgHmhUQSnuZZ1N3uvQ9M86ojDR_DjUMqeoefCY0vs-4DXjUGmhUQSnuZZ1N3uvQ9M86ojDR_DjUMqeoefCY0vs-4DXjUMqeoefCY0vs-4DXjU",
+          "label": "poynter.org"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Georgia Legislature Passes Bill Prohibiting Sole AI-Based Healthcare Coverage Decisions",
+      "date": "2026-04-03",
+      "description": "Georgia's SB 444, a bill preventing healthcare insurance coverage decisions from being based solely on AI, advanced to the governor's desk, marking a key legislative development in AI regulation.",
+      "category": "Policy",
+      "significance": "This legislation sets a precedent for human oversight in critical AI applications within healthcare, reflecting a growing global trend to safeguard against algorithmic bias and ensure ethical use of AI in high-stakes decisions, likely influencing similar laws nationwide.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsNJ-C4T-hjO6HCGpo7eBkfUW4G5FJPZ6uuWSAgxOtbdscVaDEKXwrJ_tzsviYT8rBSBBQmC4IlUH8-FQ4C3dYOPWUWpn_2ioUiIhW_x-kSfdTK_9hGSukRVXG8Dn2JH2qKe7_xSj9UBrc18Iogo09Q0PFXaier-8tTebROhjRgxmJMeax-Q",
+          "label": "transparencycoalition.ai"
         }
       ],
       "type": "timeline_event"
