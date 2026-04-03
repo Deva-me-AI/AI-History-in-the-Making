@@ -1,1 +1,70 @@
-{"scanDate":"2026-04-02","candidates":[],"questionUpdates":[]}
+{
+  "scanDate": "2026-04-03",
+  "candidates": [
+    {
+      "title": "Oracle Announces Major AI Pivot and 30,000 Layoffs to Scale AI Cloud Infrastructure",
+      "date": "2026-04-02",
+      "description": "Oracle announced plans to lay off up to 30,000 employees globally as part of a strategic pivot to redirect billions of dollars towards scaling its AI cloud infrastructure. This move signals a significant internal restructuring and a concentrated effort by Oracle to become a dominant player in the rapidly expanding AI cloud market.",
+      "category": "Industry Structure",
+      "significance": "Oracle's decision reflects a broader industry trend of tech giants aggressively reallocating resources to prioritize AI. This shift will intensify competition in the AI cloud infrastructure space and could reshape the employment landscape within the tech sector, impacting how enterprises deploy and manage AI solutions in the long term.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFm91TSM2ykXgsXJP0mHyDrIewLxyDgEGgGx869cXCl-m22NJeoSiPd0YBSPnOX1XiCY_mRdNxCiTCd1CA1_HAFxGADOtGCzyWy4urKGwvnRX2F9QL8J5lPyi1wLJAtoPK3ReceX8=",
+          "label": "youtube.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "xAI Expands Colossus Supercluster to 1.5 Gigawatts, Prepares for Grok 5 Training",
+      "date": "2026-04-02",
+      "description": "Elon Musk’s xAI announced a significant expansion of its Colossus supercluster, increasing its power capacity by 50% to 1.5 gigawatts. This massive infrastructure upgrade is positioned as a crucial step towards training Grok 5, which is rumored to feature a 6-trillion parameter architecture.",
+      "category": "Infrastructure",
+      "significance": "This expansion represents a colossal investment in AI compute infrastructure, pushing the boundaries of what is possible in large language model training. It highlights the growing arms race in AI compute power, which is essential for developing next-generation AI systems and will have a profound impact on the capabilities and scale of future AI models.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEFm91TSM2ykXgsXJP0mHyDrIewLxyDgEGgGx869cXCl-m22NJeoSiPd0YBSPnOX1XiCY_mRdNxCiTCd1CA1_HAFxGADOtGCzyWy4urKGwvnRX2F9QL8J5lPyi1wLJAtoPK3ReceX8=",
+          "label": "youtube.com"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFg_9mJCrcpj7SXorGKJH-9b_yxgKf3N4wGC2RLsjggKiSdU7clp-Ja3AeZIChM2mmPXSwvNc1jY7SRpzL-JYgrdfgiEnNogbhb_pKBbl-izICd9FZJCGjP_oqfoiDp1DmWjvkjB8o_TEkZjcsgg0F1m5HoDCudRraxOv190YzwP5ZeQSIFTgvmpRYvW8jEsZwC470tEyM44chyI-PQSs3g0Q=",
+          "label": "magen-ai.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Agentic AI Foundation (AAIF) Launches Global Program for Open Standards",
+      "date": "2026-04-02",
+      "description": "The Agentic AI Foundation (AAIF) initiated its 2026 global program aimed at driving the adoption of open standards, including the Model Context Protocol (MCP) and AGENTS.md. This initiative seeks to standardize the development and interoperability of autonomous AI agents, marking a significant shift from traditional chatbot models.",
+      "category": "Policy",
+      "significance": "The push for open standards in agentic AI is a critical development for the future of AI. It will foster greater interoperability, accelerate innovation, and potentially lead to a more robust and secure ecosystem for autonomous agents. This standardization effort is essential for the widespread and responsible deployment of AI agents across various industries.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbOxUADlF-8JQfPZnWMHvELpI6ea7MmqdTdIm4_U6RnSl3KltpjKVNGjjN_wkRpFJBiv0L8ZJIYNgHiVEsIyWNEV7mM-WITz4_vJDq7lLbIzV5dhtSu26jfGIWFyN1lOOolB2XHwEYqWUfv6M8cBTBZ5olLabISe6JVNUaGIUgmu0va39Fl7ObTR1lbobjn86-udCqPIAGAJi1VoGJJN4nBSjRIVnfwoDCWkxdgE64afa9tcRoNFcySlM2tgxI3gqfj-0FerPI4mR9vDObUjpp",
+          "label": "linuxfoundation.org"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Apple's iOS 27 to Allow Third-Party AI Models to Power Siri",
+      "date": "2026-04-02",
+      "description": "Reports indicate that Apple is making a '180-degree reversal' in its AI strategy, with the upcoming iOS 27 expected to integrate third-party AI models like ChatGPT, Gemini, and Claude directly into Siri. This move signifies Apple's acknowledgment that its in-house AI models may not be sufficient to compete in the rapidly evolving AI landscape.",
+      "category": "Industry Structure",
+      "significance": "This strategic pivot by Apple is a game-changer for the AI assistant market and broader AI adoption. By opening up Siri to external, more advanced AI models, Apple will democratize access to cutting-edge AI for its vast user base, potentially leading to a richer and more competitive ecosystem of AI-powered services.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsOFYd1XR2uRxzVrF-FNF3MVtXyxOJ53Ky0EmEp01xEnEyiK5yuyxq1V638aAxVPPdN2LKFBX28macVodljjk3Zetobvxtft7rI9M7kZMCSKD0KdpNg3emwjGmheObI9IhIxyskcnJZXvaUp8PgXqTLEsxkfVS9aTO1oUA5ZSUZdsW1m9Dyoa3MIO459aqk",
+          "label": "fool.com"
+        }
+      ],
+      "type": "timeline_event"
+    }
+  ],
+  "questionUpdates": []
+}
