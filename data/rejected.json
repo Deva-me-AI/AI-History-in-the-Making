@@ -1093,5 +1093,25 @@
       "claude": "REJECT"
     },
     "reviewedAt": "2026-04-01T08:19:31Z"
+  },
+  {
+    "title": "Anthropic's Claude Overtakes ChatGPT in App Store Amidst 'QuitGPT' Movement",
+    "date": "2026-04-01",
+    "description": "Anthropic's AI model, Claude, surged to the #1 spot on the U.S. App Store, surpassing ChatGPT for the first time. This shift is attributed to a 'QuitGPT' movement, where users are reportedly migrating to Claude due to Anthropic's public refusal to allow its models for mass surveillance or autonomous weapons, contrasting with OpenAI's controversial partnership with the Pentagon.",
+    "category": "Industry Structure",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQESmi-vQrBRZrEDZeR8r7s4gmPoOHfjpdViu0jlpd5fIn3fqCjI9Or0uuJ3hljg5iGY9sSpmUcd5VcGtS4vcHgd8rM9K7wwMgXpUlNv1d4rV1YUxjghRkZuysqKKU7qzieudHyS6mE-6K-VhHG08g75pv3OlylCKfERSIhJguCwpCqG9A==",
+        "label": "mashable.com (source 5)"
+      }
+    ],
+    "votes": {
+      "accept": 2,
+      "reject": 2,
+      "gemini": "ACCEPT",
+      "gpt": "ACCEPT",
+      "claude": "REJECT"
+    },
+    "reviewedAt": "2026-04-03T16:07:36Z"
   }
 ]

@@ -2236,5 +2236,47 @@
       }
     ],
     "issueNumber": 237
+  },
+  {
+    "title": "Whistleblower Alleges China's 'Skynet' AI Predicts Crimes with 97% Accuracy 48 Hours in Advance",
+    "date": "2026-04-02",
+    "description": "A whistleblower revealed details of a Chinese AI system code-named 'Skynet' that allegedly predicts crimes 48 hours in advance with 97% accuracy by analyzing social media, surveillance footage, and financial records. The system is reportedly integrated into police databases in select cities, sparking global debate over 'pre-crime' policing and civil liberties.",
+    "category": "Policy",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyH1sI_qT79hLm6UsrZf_q0QcfB1_2j9msv_pFUMEB45R83ysHj80UZvz-5mKYMAjUXWovKA_B2n0sea2oXk_tUh9WB71sLX_fqbaOQkNGrZ77GZoqSIzwwfLQCdIP89fmYEimNJJWKZXAA0DDWNO_HiWXKJ-EwKUTj8gM3UWOHIeWvP1IK-N2DcLoz0StMX3uYBv2lkZ3KG6sXyx1NA3KS74la2MOJFapgX30-y_JVg6YtQ4w4rCgYAxldDIXpuG1Z_KUgns=",
+        "label": "maitlandhigh.com.au (source 1)"
+      },
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEm-xJO5dPPHfIC5cRvuAWjr5tj3d9-52CrcZElBM4mx34Hxij_xoXXXXh5LKw07YFZZ51fGEEm_CwderCusJt4JtaKhtpxr03rOaN7m3kHAhKXonDuBtpEhb8_pPBH167sDRWiOLLCKwDkXtg_zQnKSqzlLQPoXwL_KbRL7YcNcPLZlbySYroLmAFbuSso2kjcNG24343cTzlznBMWskdQ_dNH6KbT-3BKz7llVg3TOpgN4Zz-F84uccESvH2Alz9YkUM8U9I=",
+        "label": "maitlandhigh.com.au (source 2)"
+      },
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDGOVeqtL7h1xfzTJPlswPqPnPsQv9rOZwMNUFDrjSXAkXVfiAYSpILYwGQiK1DpqdBmbubVGrEDNxRc1KonQ5AB-8Y1Qrpzf-KHsDQFAnhBBUK2n69zB8xQb6LVs6ZzqKd-DdPmBmJnstRJP3wvAT0z5yrO_-uzazElrm_A29TlAm_TSa8YGVJAHA2SZ-WnKPirgfl04WrtKOqoTN1-4v1ijB_zn04yC0AuVidzeeptjkvMZMwHP0Cgh558nMC9paSwOZu8Q=",
+        "label": "maitlandhigh.com.au (source 3)"
+      },
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHx1ALolnI64PPhh-eWwIkSAY8mBn8cMDYyAv7qg2Hi_PuOS-YSmln_RJy1SZGfS4qjsHiZXg5OscKDNrITeOnjWk2s_wzyhbFHtpE-vYfpaGe-az8tHKIlIbavPexBYQ-Mfs7O8Oq2nbOrNp2Dq6ezyECN5M_-XqCnXgGBwphAfK18auSa4fVLnaHGYo90yQ49Ilqyd2yh-UCiM4GfEyI8GzQA_Mc9GYDWtNMGGHK6sbJnBpVx0dMWt-o9BYMXtWsW6CL1BQ=",
+        "label": "maitlandhigh.com.au (source 4)"
+      }
+    ],
+    "issueNumber": 238
+  },
+  {
+    "title": "OpenAI Faces Backlash Over Pentagon Deal, Sam Altman Admits 'Miscalibration'",
+    "date": "2026-04-02",
+    "description": "OpenAI CEO Sam Altman addressed significant public backlash regarding the company's recent partnership with the U.S. Department of Defense (Pentagon), admitting he 'miscalibrated' the public's distrust of AI-government collaborations. OpenAI subsequently updated the agreement to explicitly prohibit the use of its technology for mass domestic surveillance or directing autonomous weapon systems, though critics remain skeptical.",
+    "category": "Policy",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAJO9xcRvMnq42HY-fOZUjKOyfScQAF2q_1H2gJwzjeyva5UoMrjazQspjl3qeX9Xy1u66MdfUCVjp5H4ptBZ0ZAqfGYa-z3W8pUmj3nDgdga16Ic5MN_kjMk_uPB2XIy3_qojuR6USqqhyqqGz0SvE0U80FQoq6M-TRRpTy6p1EGIj63GPgdA-fENjLl8QyFYanHQCBasftLL4x3vSuJEo8dK",
+        "label": "businessinsider.com (source 6)"
+      },
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGHLH6EOafNw9_5bDLl8Ui-X5ALKpvmGDv6gxE4hD0f_9Fh80X6WJQ6rgQV1IanSHR-KkIysH4Rm_TMHX80qpfQRX8meYACf2d7wdKMUK0IlesNUzcNnIn4d6NozA8RjfQHbvGgpw=",
+        "label": "youtube.com (source 7)"
+      }
+    ],
+    "issueNumber": 239
   }
 ]
