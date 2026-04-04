@@ -1,1 +1,81 @@
-{"scanDate":"2026-04-04","candidates":[],"questionUpdates":[]}
+{
+  "scanDate": "2026-04-04",
+  "candidates": [
+    {
+      "title": "Anthropic Releases Claude Mythos 5, World's First 10-Trillion-Parameter AI Model",
+      "date": "2026-04-03",
+      "description": "Anthropic launched Claude Mythos 5, a groundbreaking 10-trillion-parameter model, specifically engineered for high-stakes environments like cybersecurity and complex long-range planning. This marks a new era in AI model scale and capability.",
+      "category": "Model Release",
+      "significance": "Represents a significant leap in AI model architecture and processing power, setting a new benchmark for advanced applications and future research directions.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://devflokers.com",
+          "label": "devflokers.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "SpaceX Acquires xAI for $250 Billion, Integrating AI with Aerospace Infrastructure",
+      "date": "2026-04-03",
+      "description": "In a landmark deal, SpaceX acquired xAI for $250 billion, signaling a deeper integration of frontier AI with aerospace and satellite infrastructure. This acquisition is expected to accelerate advancements in AI-driven space technology and industry consolidation.",
+      "category": "Industry Structure",
+      "significance": "This acquisition signifies a major consolidation in the AI and space industries, potentially leading to unprecedented integration of advanced AI with critical global infrastructure and reshaping the competitive landscape.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://devflokers.com",
+          "label": "devflokers.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Google DeepMind Unveils Gemini 3.1 Suite with TurboQuant Compression",
+      "date": "2026-04-03",
+      "description": "Google DeepMind unveiled the Gemini 3.1 suite, including Ultra and Flash-Lite models. The flagship Ultra model achieved a 94.3% score on the GPQA Diamond benchmark. Google also introduced TurboQuant, a novel compression algorithm reducing memory requirements by 6x while maintaining performance.",
+      "category": "Model Release",
+      "significance": "Advances in leading AI model capabilities combined with significant breakthroughs in model compression will drive more efficient and powerful AI deployments, impacting accessibility and scalability across various applications.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://devflokers.com",
+          "label": "devflokers.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Oracle Announces Massive Restructuring to Prioritize AI Data Center Infrastructure",
+      "date": "2026-04-02",
+      "description": "Oracle announced layoffs of 20,000 to 30,000 employees, redirecting billions in capital towards building AI data center infrastructure for clients like Meta and xAI. This strategic shift highlights the company's commitment to becoming a dominant player in AI infrastructure provision.",
+      "category": "Industry Structure",
+      "significance": "This large-scale restructuring by a major enterprise technology provider underscores the immense shift of resources and strategic focus towards AI infrastructure, indicating a long-term industry trend and investment priority.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vibecodingpeople.com",
+          "label": "vibecodingpeople.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Anthropic Source Code Leak Raises Critical Concerns Over AI Intellectual Property Security",
+      "date": "2026-04-02",
+      "description": "Over 512,000 lines of source code for Anthropic's Claude Code CLI were leaked, sparking industry-wide discussions on AI intellectual property security. The incident highlights the growing challenges and vulnerabilities in protecting proprietary AI technologies.",
+      "category": "Policy",
+      "significance": "This significant security breach will likely lead to heightened industry focus on AI intellectual property protection, driving new security protocols, regulations, and potentially impacting open-source vs. proprietary AI development strategies.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://coaio.com",
+          "label": "coaio.com"
+        }
+      ],
+      "type": "timeline_event"
+    }
+  ],
+  "questionUpdates": []
+}
