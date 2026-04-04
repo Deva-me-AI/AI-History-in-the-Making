@@ -1,1 +1,81 @@
-{"scanDate":"2026-04-04","candidates":[],"questionUpdates":[]}
+{
+  "scanDate": "2026-04-04",
+  "candidates": [
+    {
+      "title": "OpenAI Secures Record $122 Billion Funding Round",
+      "date": "2026-04-02",
+      "description": "OpenAI closed a historic $122 billion funding round, increasing its valuation to $852 billion with major investments from Amazon, Nvidia, and SoftBank.",
+      "category": "Funding",
+      "significance": "This massive funding infusion solidifies OpenAI's leading position in the AI industry, enabling unparalleled investment in research, infrastructure, and talent, which will significantly shape the future direction and pace of AI development over the next five years and beyond.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFw6qDpuRZYTN0tXAL30W-GWu7cJZTh3d8TVmd1a11iLeohSRKxLkAwJEGVQKJ0TxZq66hk1z9q-bMDwTf5t9mZPOht-59F1XQ8T01tAJwqzaisoYxdD079RcfLLDpAwpfqXEevoDTIwL07C60bkre90y-4Q==",
+          "label": "vibecodingpeople.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Anthropic's Claude Code Source Leaked, Revealing Internal Architecture",
+      "date": "2026-04-02",
+      "description": "Over 512,000 lines of source code for Anthropic's Claude Code (a CLI tool) were leaked, exposing details about its \"three-layer memory architecture\" and future plans for a persistent virtual assistant named \"Buddy.\"",
+      "category": "Military & Security",
+      "significance": "This significant security breach for a leading AI lab could have profound implications for AI security practices, competitive intelligence, and the future development strategies of large language models, potentially influencing how companies protect their intellectual property and design future AI systems.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIWUXbNV-kwQR2ZGbK5ACvw3_BYSWVjzsvX2F4i8kzgeIWQjfAJBzowyd8pQ_eq7kTds2qd_KQYgrHJ2rzlRFsETS7NqS1XWMlU-ASvoUqUkE7429mUTphKForLru3RjUI4WGhDHgqulFxfDI7-UPPlpJoX5X_EezKDt2YsERcb-2QyXU-cqw5BJ-67C6CIDP-KCxBhxJJR3E8MguZ9M==",
+          "label": "coaio.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Nvidia and Marvell Technology Form NVLink Fusion Partnership",
+      "date": "2026-04-03",
+      "description": "Nvidia invested $2 billion in Marvell Technology to launch NVLink Fusion, a platform designed to integrate custom AI accelerators directly into Nvidia’s high-speed interconnect fabric.",
+      "category": "Infrastructure",
+      "significance": "This strategic partnership signals a deepening specialization and integration within the AI hardware ecosystem, potentially leading to more efficient and powerful AI systems by optimizing the synergy between custom accelerators and interconnect technologies, impacting future AI infrastructure development.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFw6qDpuRZYTN0tXAL30W-GWu7cJZTh3d8TVmd1a11iLeohSRKxLkAwJEGVQKJ0TxZq66hk1z9q-bMDwTf5t9mZPOht-59F1XQ8T01tAJwqzaisoYxdD079RcfLLDpAwpfqXEevoDTIwL07C60bkre90y-4Q==",
+          "label": "vibecodingpeople.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "MLPerf Inference v6.0 Benchmarks Released, Setting New AI Performance Records",
+      "date": "2026-04-02",
+      "description": "The latest MLPerf Inference v6.0 industry benchmarks were released, demonstrating record-breaking performance across 24 organizations and featuring five new AI processors, highlighting advancements in AI hardware and software efficiency.",
+      "category": "Research",
+      "significance": "MLPerf benchmarks are crucial for driving innovation and standardization in AI hardware and software. These new records and the introduction of novel processors will significantly influence the competitive landscape and technological direction of AI infrastructure and optimization for the next several years.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDvNFrLP-2BGaw0AUs5kf2S33ocbWBpQpjX7aKPu1jrEHPIfphTLMPL_8gz3gCqlHRItpJB6unowt3cycaJT-AlWowINqQGLEhDrq4NzRyEsnGL3wHlesxA8gyKKMzYW9nnc70Fgnl3MlB3fBghngeVShStbz8Nd13vkn1npcdESE2Nge2dR6Qc6QEZRW4vrvb9QkeP_sRVA0RQ==",
+          "label": "wordpress.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Generalist AI GEN-1 Achieves 99% Success Rate in Embodied Robotics Tasks",
+      "date": "2026-04-04",
+      "description": "Generalist AI announced a significant breakthrough with its GEN-1 model, achieving a 99% success rate on diverse physical tasks, marking a critical step towards commercial viability for general-purpose robot intelligence.",
+      "category": "Research",
+      "significance": "This achievement represents a major leap in embodied AI, bridging the gap between theoretical AI capabilities and practical real-world robotic applications. It paves the way for widespread adoption of general-purpose robots and intelligent agents, profoundly impacting industries from manufacturing to service.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDRLPNY69xn3HcH6uHoezaxnSh3czuf7SViSvCUeArgtM1qU1IrN3OpY70sENYSwc_mkeONeUMrfu5HrTFJMRf3ZsVgPC6cUbJznqgjJF8wkyvPEPPHqQhKwxlMnQe-TAs-91-upeeLgY=",
+          "label": "generalistai.com"
+        }
+      ],
+      "type": "timeline_event"
+    }
+  ],
+  "questionUpdates": []
+}
