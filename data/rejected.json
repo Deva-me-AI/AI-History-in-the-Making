@@ -1113,5 +1113,25 @@
       "claude": "REJECT"
     },
     "reviewedAt": "2026-04-03T16:07:36Z"
+  },
+  {
+    "title": "Anthropic Source Code Leak Raises Critical Concerns Over AI Intellectual Property Security",
+    "date": "2026-04-02",
+    "description": "Over 512,000 lines of source code for Anthropic's Claude Code CLI were leaked, sparking industry-wide discussions on AI intellectual property security. The incident highlights the growing challenges and vulnerabilities in protecting proprietary AI technologies.",
+    "category": "Policy",
+    "sources": [
+      {
+        "url": "https://coaio.com",
+        "label": "coaio.com"
+      }
+    ],
+    "votes": {
+      "accept": 1,
+      "reject": 1,
+      "gemini": "ACCEPT",
+      "gpt": "ABSTAIN",
+      "claude": "REJECT"
+    },
+    "reviewedAt": "2026-04-04T11:07:39Z"
   }
 ]
