@@ -1,1 +1,97 @@
-{"scanDate":"2026-04-07","candidates":[],"questionUpdates":[]}
+{
+  "scanDate": "2026-04-07",
+  "candidates": [
+    {
+      "title": "OpenAI Transforms ChatGPT into \"Super App\" Following Massive Funding",
+      "date": "2026-04-07",
+      "description": "OpenAI announced a strategic shift, evolving ChatGPT into a \"super app\" that unifies chat, coding, search, and autonomous agent functionalities. This announcement followed a substantial funding round, valuing the company at $852 billion, marking a significant consolidation of AI services into a single platform.",
+      "category": "Industry Structure, Model Release",
+      "significance": "This move signals a major consolidation in the AI platform space, potentially reshaping how users interact with diverse AI capabilities through a single, dominant interface. The enormous valuation underscores the market's belief in this integrated approach.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEaVSJKuvYXBUsxSP4PrKEsgry5cZ9ZG8qFWOytwiTmAJn5WogZLS9lPe_HHgRkz8JLTC1UEPY176Cwe2_AfZzYYWNyn0uXYq-ibGUYy6uB07eY2w4XRwFCdAAbc1NVKGnHUC3TABPCwPVGe4rT0o_V41E-BeTlBO5U6Ggdzx8XEgidYLSrScKX",
+          "label": "jdsupra.com"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgc0sjeVGDv2iDYa1f2hLyLuSJHt0VVA7vzTtjgVBWkuAPQX_CZmsyz_7nmptxRzX4P4QFpq42_rI7P2nxlYw57oHd2vAqkHxSqhSg7hgUmqAKdjH2DlAROms-2vTa-ysZrbbXX6mb4TqHXaKB-HubCyae80s9hmrTW_vDKclTJwV_-50PHD9kvHqESjTluVdOTvGu-KUaP6JZv3tYu0AclfzX-pjSL-0=",
+          "label": "marketingprofs.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Anthropic Releases Claude Mythos 5, a 10-Trillion-Parameter Model",
+      "date": "2026-04-07",
+      "description": "Anthropic introduced Claude Mythos 5, its latest large language model, featuring an unprecedented 10 trillion parameters. This model is specifically engineered for critical applications such as cybersecurity and advanced academic research, focusing on improving long-range planning and eliminating \"chunk-skipping\" errors.",
+      "category": "Model Release, Research",
+      "significance": "The release of a 10-trillion-parameter model represents a significant leap in AI model scale and capability, pushing the boundaries of what is achievable in complex and high-stakes domains. It highlights the ongoing race for computational and algorithmic superiority.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEaVSJKuvYXBUsxSP4PrKEsgry5cZ9ZG8qFWOytwiTmAJn5WogZLS9lPe_HHgRkz8JLTC1UEPY176Cwe2_AfZzYYWNyn0uXYq-ibGUYy6uB07eY2w4XRwFCdAAbc1NVKGnHUC3TABPCwPVGe4rT0o_V41E-BeTlBO5U6Ggdzx8XEgidYLSrScKX",
+          "label": "jdsupra.com"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0YPvQwcBLzDKYv-J_rcC9WqRxVwDA7fGSs3ksb8aDSCPpzS2yYuaNqj6Uksg3xdEIfd1FJvoRcrmeYmr8J4LT-848FhtyDhZCL_ENqkLrfm7jMUXLL7FyUSdeuTvFrD9j8y_SFlunmgzSSJWZ4Vc4o9RhV0ZGsSx5rFKZI56PZSfKbUOPm6QGW_6lcH0DbQXntK3X0r80",
+          "label": "devflokers.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Google Unveils TurboQuant, a 6x AI Memory Efficiency Breakthrough",
+      "date": "2026-04-07",
+      "description": "Google announced TurboQuant, a groundbreaking efficiency breakthrough that reduces AI memory requirements by sixfold without compromising performance. This innovation promises to significantly lower the computational resources and energy needed to run advanced AI models.",
+      "category": "Research, Infrastructure",
+      "significance": "Improving AI efficiency by such a large margin could democratize access to powerful AI, reduce the environmental impact of large models, and enable new applications on resource-constrained devices, fostering long-term sustainability and innovation in the AI ecosystem.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEaVSJKuvYXBUsxSP4PrKEsgry5cZ9ZG8qFWOytwiTmAJn5WogZLS9lPe_HHgRkz8JLTC1UEPY176Cwe2_AfZzYYWNyn0uXYq-ibGUYy6uB07eY2w4XRwFCdAAbc1NVKGnHUC3TABPCwPVGe4rT0o_V41E-BeTlBO5U6Ggdzx8XEgidYLSrScKX",
+          "label": "jdsupra.com"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0YPvQwcBLzDKYv-J_rcC9WqRxVwDA7fGSs3ksb8aDSCPpzS2yYuaNqj6Uksg3xdEIfd1FJvoRcrmeYmr8J4LT-848FhtyDhZCL_ENqkLrfm7jMUXLL7FyUSdeuTvFrD9j8y_SFlunmgzSSJWZ4Vc4o9RhV0ZGsSx5rFKZI56PZSfKbUOPm6QGW_6lcH0DbQXntK3X0r80",
+          "label": "devflokers.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "SpaceX Acquires xAI in $250 Billion Deal",
+      "date": "2026-04-07",
+      "description": "SpaceX reportedly acquired Elon Musk’s xAI in a massive deal valued at $250 billion. This acquisition signifies a deeper integration of advanced AI capabilities into SpaceX's operations, particularly in space exploration and satellite infrastructure, and represents a major consolidation within the tech industry.",
+      "category": "Industry Structure, Funding",
+      "significance": "This landmark acquisition consolidates significant AI and aerospace capabilities under one umbrella, potentially accelerating the development of AI applications for space and critical infrastructure, and further blurring the lines between these industries.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEaVSJKuvYXBUsxSP4PrKEsgry5cZ9ZG8qFWOytwiTmAJn5WogZLS9lPe_HHgRkz8JLTC1UEPY176Cwe2_AfZzYYWNyn0uXYq-ibGUYy6uB07eY2w4XRwFCdAAbc1NVKGnHUC3TABPCwPVGe4rT0o_V41E-BeTlBO5U6Ggdzx8XEgidYLSrScKX",
+          "label": "jdsupra.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "\"The AI Scientist-v2\" Achieves Autonomous Research Publication",
+      "date": "2026-04-07",
+      "description": "\"The AI Scientist-v2,\" an advanced agentic AI system, demonstrated the capability to autonomously propose hypotheses, conduct research, and write scientific papers. Notably, a paper entirely generated by this AI was accepted by a major scientific conference in April 2026.",
+      "category": "Research",
+      "significance": "This event marks a critical milestone in autonomous AI, showing that AI systems can now contribute directly to the scientific discovery process, potentially accelerating research across various fields and raising new questions about authorship and intellectual property.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEaVSJKuvYXBUsxSP4PrKEsgry5cZ9ZG8qFWOytwiTmAJn5WogZLS9lPe_HHgRkz8JLTC1UEPY176Cwe2_AfZzYYWNyn0uXYq-ibGUYy6uB07eY2w4XRwFCdAAbc1NVKGnHUC3TABPCwPVGe4rT0o_V41E-BeTlBO5U6Ggdzx8XEgidYLSrScKX",
+          "label": "jdsupra.com"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG0YPvQwcBLzDKYv-J_rcC9WqRxVwDA7fGSs3ksb8aDSCPpzS2yYuaNqj6Uksg3xdEIfd1FJvoRcrmeYmr8J4LT-848FhtyDhZCL_ENqkLrfm7jMUXLL7FyUSdeuTvFrD9j8y_SFlunmgzSSJWZ4Vc4o9RhV0ZGsSx5rFKZI56PZSfKbUOPm6QGW_6lcH0DbQXntK3X0r80",
+          "label": "devflokers.com"
+        }
+      ],
+      "type": "timeline_event"
+    }
+  ],
+  "questionUpdates": []
+}
