@@ -2605,5 +2605,18 @@
       }
     ],
     "issueNumber": 264
+  },
+  {
+    "title": "Intel Joins Elon Musk's $25 Billion Terafab Project",
+    "date": "2026-04-07",
+    "description": "Intel announced its participation in Elon Musk’s $25 billion Terafab project, aiming to construct the world’s largest chip manufacturing facility. This facility is designed to produce 1 terawatt of compute power annually, supporting advanced AI robotics and space exploration initiatives.",
+    "category": "Infrastructure",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTMGA_a6Y03KfmwziOuN0IPmiKRsIaO9EOPa4etzctPxjqZyNBG82RmojHEzymGhgzhcEdPtP1Puw2TliwnaNFWbYtUL6093txGDXLshGo594wqzMKgTboI7wxGB4hKHREg0knNN-QiyxRGRhuzUawzT0dfMb4NrmIvZSeUQ-GRMZo_REk8Ta3PgR03ogXiNk7sDWUY4WJq-WaCnb1dc4b2C7hcAQhAQs=",
+        "label": "cio.com"
+      }
+    ],
+    "issueNumber": 265
   }
 ]

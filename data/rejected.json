@@ -1133,5 +1133,45 @@
       "claude": "REJECT"
     },
     "reviewedAt": "2026-04-04T11:07:39Z"
+  },
+  {
+    "title": "Accenture Acquires Keepler Data Tech to Enhance Agentic AI Capabilities",
+    "date": "2026-04-08",
+    "description": "Accenture acquired Keepler Data Tech, a Spanish cloud-native AI firm. This acquisition is intended to strengthen Accenture's offerings in 'agentic AI' and data foundation services for its European enterprise clients, signaling a growing focus on integrating autonomous AI into business operations.",
+    "category": "Industry Structure",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEef0cAS7Uwe97505nl5aqmRMdBk0lpE_llPyhutEeanySK6SQNKrwmaCiCysGohw7m0VdujCjiBW6J8W8TtINoGipuEJS8zlj9QERHSXGV2Wd4C_FYwr0-S3aU0vszIehvxouSC8tMTRytW7LjdA_FqQKAZ_J7d1lCQE2cNn80AVsfXQZUQjP5P0ll--D2Vkcolt33pPecx0jNuVnf261QkMUVtsFqkCDWISaOE7ChKm8AYNJ4",
+        "label": "edtechinnovationhub.com"
+      }
+    ],
+    "votes": {
+      "accept": 1,
+      "reject": 2,
+      "gemini": "ACCEPT",
+      "gpt": "REJECT",
+      "claude": "REJECT"
+    },
+    "reviewedAt": "2026-04-08T11:03:06Z"
+  },
+  {
+    "title": "LLMs Demonstrate High Accuracy in Identifying Drug Safety Signals in Clinical Notes",
+    "date": "2026-04-06",
+    "description": "A multi-center study published in eBioMedicine showed that large language models (LLMs), specifically GPT-4o, can effectively identify drug safety signals and adverse events from clinical notes with high accuracy using zero-shot learning.",
+    "category": "Research",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEL2Io-1-N5031C1QqVZcCBSBIhsi795pGTzr65nKo8uxtArO01OJ_4Z-UiHKTnDANyLlF6sHAiqgUgMIEO8exd5lr7OVg7T0ZLaw4OL8utkavjom-OCG78qeU20UR2teY_coQwBNJPuAMLsXyI0rOzKX1HWyd9DStnSTvbVDJVzm2VBQzXquiRCX-C",
+        "label": "vumc.org"
+      }
+    ],
+    "votes": {
+      "accept": 1,
+      "reject": 2,
+      "gemini": "ACCEPT",
+      "gpt": "ACCEPT",
+      "claude": "REJECT"
+    },
+    "reviewedAt": "2026-04-08T11:03:52Z"
   }
 ]
