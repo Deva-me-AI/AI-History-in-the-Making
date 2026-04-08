@@ -2618,5 +2618,44 @@
       }
     ],
     "issueNumber": 265
+  },
+  {
+    "title": "Nvidia Acquires SchedMD, Sparking Concerns Over Open-Source Slurm Workload Manager",
+    "date": "2026-04-07",
+    "description": "Nvidia's acquisition of SchedMD, the company behind the widely used Slurm workload manager, became a focal point of industry scrutiny. Critics expressed concerns that Nvidia might prioritize its own CUDA hardware over rivals like AMD and Intel within the open-source scheduling software.",
+    "category": "Industry Structure",
+    "sources": [
+      {
+        "url": "https://infoworld.com",
+        "label": "infoworld.com"
+      }
+    ],
+    "issueNumber": 268
+  },
+  {
+    "title": "PyTorch Foundation Welcomes Safetensors as Hosted Project to Enhance Model Security",
+    "date": "2026-04-08",
+    "description": "During the PyTorch Conference EU in Paris, the PyTorch Foundation announced that Safetensors, a secure and efficient serialization format developed by Hugging Face, has officially joined as a foundation-hosted project. This move aims to improve the security and trustworthiness of AI model distribution.",
+    "category": "Open Source",
+    "sources": [
+      {
+        "url": "https://morningstar.com",
+        "label": "morningstar.com"
+      }
+    ],
+    "issueNumber": 269
+  },
+  {
+    "title": "CSIRO Study Finds AI Adopters are Creating, Not Cutting, Jobs",
+    "date": "2026-04-08",
+    "description": "Australia’s national science agency, CSIRO, released a major report titled 'AI adopters aren't cutting jobs, they're creating them.' The study provides empirical evidence that AI-integrated firms are hiring 36% more than non-adopters, challenging widespread fears about AI's impact on employment.",
+    "category": "Research",
+    "sources": [
+      {
+        "url": "https://www.csiro.au/en/news/news-releases/2026/AI-adopters-creating-jobs",
+        "label": "csiro.au"
+      }
+    ],
+    "issueNumber": 270
   }
 ]
