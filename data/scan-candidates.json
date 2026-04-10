@@ -1,1 +1,81 @@
-{"scanDate":"2026-04-10","candidates":[],"questionUpdates":[]}
+{
+  "scanDate": "2026-04-10",
+  "candidates": [
+    {
+      "title": "Intel and Google Announce Multiyear AI and Cloud Infrastructure Collaboration",
+      "date": "2026-04-09",
+      "description": "Intel and Google formalized a multiyear collaboration aimed at advancing AI and cloud infrastructure. The partnership will focus on optimizing Intel Xeon 6 processors for Google Cloud and co-developing custom ASIC-based Infrastructure Processing Units (IPUs).",
+      "category": "Infrastructure, Industry Structure",
+      "significance": "This strategic alliance between two major technology players will accelerate the development and deployment of AI in cloud environments by enhancing hardware and custom silicon, crucial for scaling AI capabilities globally.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHDkplHuBOHuG0kRKrevGQWvpgK_8lT4SZTGxpH8r9pbTWyv7Wf5L774Aw_W-OycQrfJgEQw5icicEIkdKxVVLEDTpxzNhbwGKQRNrNkE3eLNNABcxhlx05igzmHxvYHWBnyIQxJbsJWpVevgQerIpIYL5V8BhW_yGzNPhKSDhg8jUroePTjesShK5cqL1GROceaicrzsctxi8KHAkhhxMs",
+          "label": "intel.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Q1 2026 Records $254 Billion in AI Investment, Marking a Historic High",
+      "date": "2026-04-10",
+      "description": "Reports confirmed that the first quarter of 2026 saw a record-breaking $254 billion invested in AI across corporate-backed rounds. This figure represents a 370% increase year-over-year, indicating an unprecedented surge in capital flow into the AI sector.",
+      "category": "Funding, Industry Structure",
+      "significance": "This massive influx of capital is a critical indicator of accelerated growth and development within the AI industry, fueling innovation, research, and the scaling of AI applications, which will have long-term effects on technological advancement.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8UDPkZBiZafq9a1lYVN-N5lLEdPgEd5IbmIabK22JnBi3uerOxo6qYEnvcGm7YVp7mS4U31iqQphquSm1W1pZY0vy3cGtoZ3fnlve32kJIu_hjLc-qVBYfUuW5wgey_Vdpj2YazLroihpg8jkACQehrTvaKa8ckEKzHNarzWEHrwubmHLPkBLiitM9kdnMtfzNW7h34VImI6zsbHZPFpN7Q==",
+          "label": "globalventuring.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "U.S. State Legislatures Advance Diverse AI Regulation Bills",
+      "date": "2026-04-10",
+      "description": "A significant number of AI-related bills advanced through various U.S. state legislatures. This included Maine and Missouri progressing bans on the clinical use of AI chatbots for mental health, Tennessee passing a bill to explicitly exclude AI from 'personhood' definitions, and Nebraska advancing an AI chatbot safety bill (LB 1185) linked to data privacy legislation.",
+      "category": "Policy",
+      "significance": "The proliferation of diverse state-level AI regulations marks a critical turning point in governing AI. These legislative efforts, while localized, are likely to influence national policy and set precedents for ethical deployment, safety standards, and legal frameworks around AI for years to come.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHUr6QkgS6g2zO7KC6h9JTRVnpSys5Nr62EiIBVthMe1L7WUQJdrOJdWipDdg4JiItxJ-G2RnFWCe1NfC-BvvDaWUz_KPtl-s_q8jBF7ts7v-T5zYiIBe_pICrvJViZQXwzIzmX_GGdbfYikkA_mktFuahv05-WPWQME4hifTFZ-ih12K4SXl8=",
+          "label": "transparencycoalition.ai"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Google Releases Offline AI Dictation App Powered by Gemma Models",
+      "date": "2026-04-08",
+      "description": "Google quietly launched a new offline AI dictation application leveraging its Gemma models. This application allows for high-quality speech-to-text transcription without requiring an internet connection, enhancing accessibility and privacy for users in various environments.",
+      "category": "Model Release, Research",
+      "significance": "The widespread availability of robust offline AI capabilities, particularly for a fundamental task like dictation, represents a significant step towards ubiquitous and privacy-preserving AI. It expands AI's utility to edge devices and environments lacking consistent connectivity, which will be crucial for broader adoption.",
+      "confidence": "medium",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGbGkHXVUNVuZGYfBi2YOJGqXM8aNNwstNrrWL0HiCIt9cvtoBE8AgCWzPOWtcBJjvDn6n0Rk8l105SMyDW_tSRRSHOSeaJEInhJq9EU5srqC3ID2yoQ3yXQNfh8BPJoN6_XJc7vl33KkOCcHzWx__OVI_mIyxJqAUOqLsJ_KkryT_MNojgazjd52_gxzvv-Nagi6DWd1RXZNZx58vBVvLT5chD3E=",
+          "label": "coaio.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "BMO Financial Group Establishes Institute for Applied AI & Quantum",
+      "date": "2026-04-09",
+      "description": "BMO Financial Group announced the establishment of the BMO Institute for Applied Artificial Intelligence & Quantum. This new center of excellence aims to foster responsible AI innovation and governance specifically within the banking and financial services sector.",
+      "category": "Lab Formation, Policy",
+      "significance": "The creation of dedicated institutes by major financial institutions for responsible AI and quantum computing indicates a growing commitment to ethical development and integration of advanced technologies in critical sectors. This will shape future industry standards and practices.",
+      "confidence": "medium",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSBp1jZlOg0VVQAtFDUelGDyLszMlLcAP-J3ojiUqt204N6wWNm7JbWCAGkYQ37xnc0NBJ9VDqPFYESRNJSRSHplrlUmUsDTeIz3QM__BuoV2c0o-ZUEEdOajcmbwIS8afBy6awkFbO9JV7hjzn8I5Ks4dkzJcsKVIZ70WjdTmUlAvnSIibFtZ5qQWLRFf7DUZUQ4gALAXejLHeEuTGZG_l-amU==",
+          "label": "bmo.com"
+        }
+      ],
+      "type": "timeline_event"
+    }
+  ],
+  "questionUpdates": []
+}
