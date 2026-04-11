@@ -2787,5 +2787,65 @@
       }
     ],
     "issueNumber": 280
+  },
+  {
+    "title": "Meta and CoreWeave Announce $21 Billion Expanded Infrastructure Deal, Including NVIDIA Vera Rubin Platform",
+    "date": "2026-04-09",
+    "description": "CoreWeave and Meta struck a massive $21 billion expanded infrastructure deal through 2032. This agreement includes early deployments of the NVIDIA Vera Rubin platform, aimed at supporting Meta’s long-term AI scaling needs and addressing the growing demand for specialized AI compute.",
+    "category": "Infrastructure",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQlDPisj3HZebnxXqPBIQ47XTlA2P6D-GbwX8Qp9JA7TG95mK_7SwWuXFSQQmH0B5CcIIwDgfZN9UjIPeLXxApupKCgnf9eaSyIEWbAiH76AoFSs10HXivHSmBPbp4k_rza4Wjtdo5Q2B3tePbsfjl4p20nnGCEYpIWL_Y7TGg8HbcjsQIuIvpJeIQp7EMobbB2d-rmHLSj3RW9PSS3MItUe-yWk8=",
+        "label": "coreweave.com"
+      }
+    ],
+    "issueNumber": 281
+  },
+  {
+    "title": "Meta Introduces Muse Spark, a Multimodal Reasoning Model for Personal Superintelligence",
+    "date": "2026-04-09",
+    "description": "Meta launched Muse Spark, a multimodal reasoning model designed for 'personal superintelligence,' featuring visual chain-of-thought and multi-agent orchestration. Optimized for speed and efficiency, it is intended for deep integration across Meta's platforms like WhatsApp, Instagram, Facebook, and smart glasses.",
+    "category": "Model Release",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFQbmZlsfXsIv4QNUdZsx-_Nl56SrK8Y37-1dBpTQGGFGCFTk9Za-wXBVyJ8jrhUuvH4e4tb-XuIjuaLn4tJqgavHvy_ahNj-dMI_bqRZeI2uphJY0Od6iDNFD-OINlDTuRzerIn51_sqMNiGa_pYZEHBDBxR6hv_aZljkOgX-6vbZFJY3CzDeydmYOV4v7aarSo4xlMua_a9YgiAM=",
+        "label": "wordpress.com"
+      },
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFdDPUFY0WTYBG7xr_S2lES9TDoCxhQb5qhHNN_BaijpdwHpXvUJuLK7Rr78aUdknlh3JhhoHOZqcryq8hn_7OJwTkuyNWCHQwXfswXnuXV4-P9kQRpl_VFS7AL7MGjuTcaimPwkfE=",
+        "label": "youtube.com"
+      },
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHioeb72MndQpDbA9-JiqcaFSoryG0t92YVR1Bi5upm-5FUa2AlCX5qDkHqARBWhmLaB16UEUDuUDTerpLw_IpNmyC3GJgMd0VHXyLURYxeSql4v5xWZTw9Q9SVFle5TGZXg9mxWq9UV11x2N-UFdYuQGZ2NDbqY-m8ksmaG7sobAWUshVuIgiBh5YVhbWgqoTcgQq7GE9KuQrZtYSW7gn0ZkTlKgxOKfVMjgelwg==",
+        "label": "infoworld.com"
+      }
+    ],
+    "issueNumber": 282
+  },
+  {
+    "title": "Tennessee Passes Bills Excluding AI from Legal Definitions of \"Human Being\" and \"Natural Person\"",
+    "date": "2026-04-10",
+    "description": "Tennessee has enacted bills (HB 849/SB 837) that explicitly exclude artificial intelligence and software from being legally defined as \"human beings\" or \"natural persons.\" This legislative action addresses fundamental legal and ethical questions surrounding AI's status and rights, establishing an important legal precedent.",
+    "category": "Policy",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6HTpCTN9baznDwdlTm3g10yd1LVJOL_FTHpg5fpo_jc1V_MNKjqDV8xR5EuOYCr5etZW49QTB2lVDAloOfBUL1ZCKm7fv5QyRD_AxPWPOGKjUwEb-QNtdT70sLN15fh7TgSmHQA15pE1bTByQkUmAxHWBYuN2ptBJMfHE2FYMCotKaApeOPk=",
+        "label": "transparencycoalition.ai"
+      }
+    ],
+    "issueNumber": 283
+  },
+  {
+    "title": "Tufts University Researchers Unveil Energy-Efficient Neuro-Symbolic AI System",
+    "date": "2026-04-10",
+    "description": "Researchers at Tufts University have introduced a novel hybrid AI system that integrates neural networks with symbolic reasoning. This breakthrough reportedly reduces energy consumption by a factor of 100 while significantly enhancing accuracy in complex logical tasks, showcasing a potential path toward more sustainable and capable AI.",
+    "category": "Research",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHuackVgcs2xrI5sdo4IZ_UwsR2T1JNXjcADT3Onv-JLOnPEHtdwhIyEsq_f6r5jIbunVxTisz__GhxXcXl2a4Y-wNhOs_O0VLiHjrQqTeeI0KXlNMekDMSP5vdqp_Uj4wky08NEKDZrR7ibax66tipk-Xm99JR8Fd",
+        "label": "sciencedaily.com"
+      }
+    ],
+    "issueNumber": 284
   }
 ]
