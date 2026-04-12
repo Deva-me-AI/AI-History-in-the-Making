@@ -1,1 +1,81 @@
-{"scanDate":"2026-04-12","candidates":[],"questionUpdates":[]}
+{
+  "scanDate": "2026-04-12",
+  "candidates": [
+    {
+      "title": "USAF Invites Proposals for 12 Massive AI Data Centers in Alaska",
+      "date": "2026-04-10",
+      "description": "The U.S. Department of the Air Force opened proposals for building up to 12 large-scale AI data centers across 4,700 acres on three military bases in Alaska, leveraging the state's natural cooling and vast space advantages for strategic AI infrastructure.",
+      "category": "Infrastructure",
+      "significance": "This massive government investment signals a long-term commitment to AI development for military applications, likely shaping future defense capabilities and geopolitical strategies over the next decade.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnyhPbfGslOZSSUA4bqhuAQeRAj6-t_3Yy-zHSLAlI2sIYHnzrEvSPZUVyEvD81nrSO_wviW8Ur49ENdoBGcNZkYHycJ8G2LJZd_MB48ERO103QnpwKugJZ68FOVVZYs-QC3JGvqVedoLsVDZoUM7NR4Pw-RpbmaFdFX2DMFsOKVu2suRzh2lRJDdI=",
+          "label": "airandspaceforces.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Japanese Consortium (SoftBank, Sony, Honda, NEC) Forms New AI Venture",
+      "date": "2026-04-12",
+      "description": "SoftBank, Sony, Honda, and NEC announced a joint venture aimed at developing high-performance, Japanese-made AI. The initiative, backed by Japan’s 1-trillion-yen AI support program, seeks to reduce the country’s reliance on U.S. and Chinese AI models.",
+      "category": "Lab Formation",
+      "significance": "This strategic national effort could significantly alter the global AI landscape by fostering domestic innovation and challenging the dominance of current AI powerhouses, impacting industry structure and policy for years to come.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZFC4k9ZrqljLJzvcX4DMO0_9R87-ezQVB60I46DSNTJY380F9gWA7yoTemRr4GA583AyZsd_uOnrlhDSGt8EEHqPltvhVTAifcl5Se1SctW80vFks85cSXbE7NVGW5OkYulEjCSZpM0S8kA==",
+          "label": "nippon.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Intel Joins Elon Musk’s 'Terafab' Project for AI and Robotics Chip Manufacturing",
+      "date": "2026-04-11",
+      "description": "Intel has joined Elon Musk’s Terafab project in Texas, collaborating with Tesla and SpaceX to establish a facility for fabricating ultra-high-performance chips tailored for AI and robotics at scale. This partnership aims to vertically integrate and accelerate specialized hardware production.",
+      "category": "Infrastructure",
+      "significance": "This collaboration among major tech players represents a significant vertical integration in AI hardware, potentially disrupting existing chip supply chains and accelerating the development of advanced AI and robotics systems by controlling manufacturing from design to fabrication.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzH1UoVcxcN37xzCVg7I3TKVPtmFKu4DlF8Q_J7MnZgvpb5OFGldaBApYmL5-D30oHwbiYX5vyezMgLJqsK1z809TyO1iRigoLK5aHoV3JKWqzN9LCTZ2KrlpBRyths6wc5LGRABtX_LecuvpI0wPHorNe58vAXejzOw==",
+          "label": "stepmark.ai"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Alibaba Cloud Heavily Invests in 'World Models' Research with Shengshu",
+      "date": "2026-04-11",
+      "description": "Alibaba Cloud made a substantial investment in Shengshu, a company focused on developing 'world models.' These advanced AI systems move beyond text-based understanding to simulate physical environments and predict their evolution using physics-like reasoning.",
+      "category": "Research",
+      "significance": "This significant funding push into 'world models' by a tech giant like Alibaba indicates a major shift towards foundational AI research that could lead to breakthroughs in general AI capabilities, impacting numerous applications beyond traditional language models.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVDuOBg3FGso0DHNXUZwQq51TcBcFdEYcw4XoX_qv0EBW64kaVz_jmWpLaY13_DJ6pJ38DOzbXC_tAx5kClqWwC_RD3VtJNBf02ScH-fDifNWZISL_lgAuP0dnAK3CTe_mAEmLTfY=",
+          "label": "youtube.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Industry Warns of '2026 Quality Collapse' in Software Engineering Due to AI Adoption",
+      "date": "2026-04-10",
+      "description": "Industry reports on April 10 highlighted a looming 'Quality Collapse' in software engineering. Experts noted that while AI tools have boosted coding speeds by 40%, they are simultaneously contributing to a significant decline in the structural integrity and security of codebases.",
+      "category": "Industry Structure",
+      "significance": "This warning represents a critical turning point for the software industry, necessitating significant re-evaluation of AI integration strategies, potentially leading to new policy, tooling, and development methodologies to address fundamental issues in code quality and security.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRgGo_S2FZf_4gp2DVdHjgPXinfApb68GCmXPAZkYVDplwRGap38ypV4snoH4-3oSuCM_zyNFxENY2VezCED8aIEvnwciEWrJrhdTHRJfJhhXURypqr3Ae1CGYMZ4fq1KAEXGdHyEkL0RorNx49KmpfyoxS8dS5GEqH8_XnFIIOmLRcwbe_6fqhU_m5v5E0QfpnA18c2bbpGtSEAUYg5Y3yrE1wW",
+          "label": "coaio.com"
+        }
+      ],
+      "type": "timeline_event"
+    }
+  ],
+  "questionUpdates": []
+}
