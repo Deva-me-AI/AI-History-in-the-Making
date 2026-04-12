@@ -1173,5 +1173,25 @@
       "claude": "REJECT"
     },
     "reviewedAt": "2026-04-08T11:03:52Z"
+  },
+  {
+    "title": "Z.ai Open-Sources GLM-5.1 for Autonomous Engineering",
+    "date": "2026-04-10",
+    "description": "Z.ai has released its GLM-5.1 model under an MIT License. This model is specifically optimized for 'long-horizon autonomous engineering,' designed to handle extended autonomous tasks rather than short-burst reasoning. Its open-source nature aims to foster broader innovation and development in the field of autonomous AI systems.",
+    "category": "Open Source",
+    "sources": [
+      {
+        "url": "https://marketingprofs.com",
+        "label": "MarketingProfs"
+      }
+    ],
+    "votes": {
+      "accept": 2,
+      "reject": 2,
+      "gemini": "ACCEPT",
+      "gpt": "ACCEPT",
+      "claude": "REJECT"
+    },
+    "reviewedAt": "2026-04-12T11:03:06Z"
   }
 ]

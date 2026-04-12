@@ -2847,5 +2847,44 @@
       }
     ],
     "issueNumber": 284
+  },
+  {
+    "title": "Anthropic Unveils 'Project Glasswing' and Claude Mythos for Cybersecurity",
+    "date": "2026-04-10",
+    "description": "Anthropic launched 'Project Glasswing,' a major collaboration with tech giants including Amazon, Microsoft, Apple, Google, and Nvidia, to test its unreleased Claude Mythos model. Claude Mythos is designed for defensive cybersecurity and has demonstrated the ability to identify and exploit vulnerabilities across operating systems and browsers. Due to its advanced capabilities, Anthropic has restricted its access to a small group of vetted organizations, citing 'unprecedented hacking capabilities.'",
+    "category": "Model Release",
+    "sources": [
+      {
+        "url": "https://marketingprofs.com",
+        "label": "MarketingProfs"
+      }
+    ],
+    "issueNumber": 285
+  },
+  {
+    "title": "OpenAI Prepares 'Trusted Access for Cyber' Program",
+    "date": "2026-04-10",
+    "description": "Following Anthropic's announcement, OpenAI revealed its plans to release a new model with advanced cybersecurity capabilities. The company is establishing a 'Trusted Access' program, providing select participants with enhanced API credits and tools specifically for defensive cybersecurity applications, mirroring the strategic shift towards AI in cyber defense.",
+    "category": "Military & Security",
+    "sources": [
+      {
+        "url": "https://marketingprofs.com",
+        "label": "MarketingProfs"
+      }
+    ],
+    "issueNumber": 286
+  },
+  {
+    "title": "Global Leaders React to Claude Mythos Cybersecurity Risks",
+    "date": "2026-04-12",
+    "description": "Anthropic's decision to restrict access to its powerful Claude Mythos model has triggered international debate and high-level government attention. US Treasury Secretary Scott Bessent reportedly convened bank leaders to discuss the model's implications for financial security. Simultaneously, UK lawmakers urged their government to investigate the 'catastrophic cybersecurity risks' posed by such frontier AI models, highlighting the emerging policy challenges with advanced AI capabilities.",
+    "category": "Policy",
+    "sources": [
+      {
+        "url": "https://theguardian.com",
+        "label": "The Guardian"
+      }
+    ],
+    "issueNumber": 288
   }
 ]
