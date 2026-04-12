@@ -1,1 +1,97 @@
-{"scanDate":"2026-04-11","candidates":[],"questionUpdates":[]}
+{
+  "scanDate": "2026-04-12",
+  "candidates": [
+    {
+      "title": "Anthropic's 'Claude Mythos' Model Reveals 'Unprecedented Hacking Capabilities,' Restricted from Public Release",
+      "date": "2026-04-12",
+      "description": "Anthropic announced its advanced 'Claude Mythos' model demonstrated 'unprecedented hacking capabilities,' including autonomously chaining exploits and identifying tens of thousands of vulnerabilities. Due to these security implications, Anthropic restricted the model's public release, instead channeling it through 'Project Glasswing' with partners like Amazon, Microsoft, Apple, Google, and Nvidia for defensive cybersecurity applications, triggering global security concerns.",
+      "category": "Model Release",
+      "significance": "The discovery of a highly capable AI model with 'unprecedented hacking capabilities' and the subsequent decision to restrict its public release by Anthropic, impacting cybersecurity, national security, and triggering urgent international discussions, marks a critical turning point in AI safety and governance.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9BTqCA_Q-5PbkGGLG37ygEor_0OVirS1xDCCDHu9mXPt8VYIcVZy1HNPPTBHL2ThrOuawZJO1DdkePmWxwoN113rJ1g2cx-nYBtXzgOTltzv_Id4CmnOYoh5FvgkM1W44Gm06URKZpnf_PVRSN0nFzXuttlZZItimJ4j6LnL-OeoBwBBlZxe6RTtTAxW3l3SqEdKCKJDO315wZqFTTU7mGV7P",
+          "label": "coaio.com"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqtYerfRXXxfWf73XS7xeXiL954Ki_XnSWzcHn8WlcBWJ2wFz-_J6fv6rHLjVAtb3We-R_Oyw5XsWV91q-1-B0f-twAx6KOswm1Rt5sydFIFYwg1rzXMR0I8-y4r_xDFTuCLmVfL8bUVjP5fpkHjVa4U6GuYYmzvQlyYFtoys_7SeISDrC9X_0CxhbRxvNn0rtFIVxDffFMC70GuZ2QnlBkQod5GLtS5QNw==",
+          "label": "marketingprofs.com"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEaNX1GFBONLkQa0YUS5sznp-bgNdZcvXvGvmdVyQeZ2BlXaymLOmViVjkFuT3G88fIZy-QxYk43Ky7spIn2-64Qi8QOyP0PPOcS3bF1s9qKj4oRaKMFdvz8UaF99lqC7Q44cICQxE5ZbNxRpG5iNLzGVjdBLaawKRRmtThpFr548m9Rrsxpdq4CWTkEFwMb9ulhp0ZebwoHatdeDb1gfljn9xY4iNat9mjDQ==",
+          "label": "marketingprofs.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Google Unveils Gemma 4, Optimized for Advanced Agentic Workflows, Sees Rapid Adoption",
+      "date": "2026-04-12",
+      "description": "Google officially released Gemma 4, its newest open model designed with significant optimizations for advanced reasoning and agentic workflows. The model quickly gained traction, with the 'Gemmaverse' ecosystem expanding to over 100,000 variants shortly after its launch, indicating strong community engagement and a rapid shift towards agent-based AI applications.",
+      "category": "Model Release",
+      "significance": "The release of Google's Gemma 4, optimized for advanced reasoning and agentic workflows, and its rapid adoption with over 100,000 variants, demonstrates the acceleration of open-source AI development and its immediate impact on developer ecosystems.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrG8fJB9Fvt9SAlxv_yzTTraHa6XZMybpEBF5jL36kzzlGtl4Yt7bWNhk9dItMhd_NMeCXa5WSG_yFEBIu83btrsXas_lkhrgqF3J3pvwMwrvD6f2jFDjj3kD39-OcW8IeSLFO6kAIFQDt1cIhs5-e8_jIILSGM5sZn8YxTU-oMmsTJXhGLRu2GJ4wbnjWOHvmHlPLaZ_b5PdAoJc=",
+          "label": "wordpress.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Japan Forms Major AI Coalition with ¥1 Trillion Government Backing for AI Sovereignty",
+      "date": "2026-04-12",
+      "description": "SoftBank, NEC, Sony, and Honda announced a joint venture to develop high-performance, Japanese-made AI systems. This initiative is supported by a significant ¥1 trillion government program (NEDO), aiming to achieve AI sovereignty for Japan and secure a competitive position in the global AI landscape amidst increasing geopolitical tech competition.",
+      "category": "Industry Structure",
+      "significance": "Japan's ¥1 trillion government-backed initiative, forming a powerful AI coalition of SoftBank, NEC, Sony, and Honda, signals a concerted national effort to achieve AI sovereignty and establish a leading position in high-performance AI development, reshaping global industry dynamics.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2VxRHDJ-NvFtw6PEMV4N195dJgPhsKUhawpDFJg9ck453DMEGjuQjR0FV-IDQdh3ea2BF7VROh06H0tXjJb7Fd9i-ys33ccAA2q_lealUY0ZbtgDEZ_mlx5PAL8S5ctIFJ9HEbfzbL8STVCcdnZ8ZouiSpzqmahfvTYSOxTSp_eWn_bpPLNTzZbW",
+          "label": "japantimes.co.jp"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG75DyLcyjk3vg60fdLCOy1jFxtZQ1xayjU1AJh1YlGpZKttWLHjBNzkgJIgQckE-N5F1KQjJfaruI65DEit7UqySYCNbK1fddfUdg9NCQC4QIgmxzp7jK1PpmOYqjzmUGqEXEKRL7mZL78Bg==",
+          "label": "nippon.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "U.S. AI Regulatory Divide Deepens as California Defies Federal Preemption Efforts",
+      "date": "2026-04-12",
+      "description": "The regulatory divide over AI policy in the U.S. intensified as California Governor Gavin Newsom continued to enforce the state's strict AI safety laws, which took effect January 1, 2026. This stance directly challenges the Trump administration's push for a 'minimally burdensome' federal framework designed to preempt state-level regulations, setting the stage for ongoing legal and policy conflicts.",
+      "category": "Policy",
+      "significance": "The escalating regulatory conflict between California's strict state-level AI safety laws and the U.S. federal government's move to preempt state regulations signifies a critical juncture in establishing a cohesive national AI policy, with far-reaching implications for AI development and deployment.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG9BTqCA_Q-5PbkGGLG37ygEor_0OVirS1xDCCDHu9mXPt8VYIcVZy1HNPPTBHL2ThrOuawZJO1DdkePmWxwoN113rJ1g2cx-nYBtXzgOTltzv_Id4CmnOYoh5FvgkM1W44Gm06URKZpnf_PVRSN0nFzXuttlZZItimJ4j6LnL-OeoBwBBlZxe6RTtTAxW3l3SqEdKCKJDO315wZqFTTU7mGV7P",
+          "label": "coaio.com"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.google.com/grounding-api-redirect/AUZIYQHU5GqUuVA1pogLJWJo4xZC3pN41lJPSgZ638o0xmhMNadeZ4CcWC7oU_DRd6R3srYxC89wCi6EFF8cXEMzpxil1jkQ73oRVRGlbc2okzBSS4RyjrU_7HE25oSt0Gt-iVEqrAGGVHSngwtoA3qwccxcnYm7V0Vd0frwU-8iaa2HWBcp70jGPsr2phz8Yv0apDM=",
+          "label": "news.cn"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "OpenAI Signs Pentagon Military Contract Amidst Growing Ethical Concerns Over AI in Warfare",
+      "date": "2026-04-12",
+      "description": "OpenAI finalized a significant military contract with the Pentagon, indicating a direct entry into defense applications. This move contrasts sharply with Anthropic's reported refusal of similar military engagements. The development comes as investigations increasingly link AI-based targeting to civilian casualties in recent conflicts, intensifying the global debate and calls for international regulation regarding AI's role in warfare.",
+      "category": "Military & Security",
+      "significance": "OpenAI's decision to sign a military contract with the Pentagon, contrasting with Anthropic's refusal of similar terms, coupled with new investigations linking AI-based targeting to civilian casualties, intensifies the global debate on the ethical implications and governance of AI in warfare.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZDZozmFS38EyQooZpXrUjwsx5zTXjqrBPTCXLXAIETv1eOY4FEDE5qHC2KjPjmobBNMvrsZ8_AQXkVNdLNp4UoMZistPwNADIuGtC7hHgUOXRom0kBfLr8LUAqg==",
+          "label": "dawn.com"
+        }
+      ],
+      "type": "timeline_event"
+    }
+  ],
+  "questionUpdates": []
+}
