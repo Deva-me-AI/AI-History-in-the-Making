@@ -2886,5 +2886,70 @@
       }
     ],
     "issueNumber": 288
+  },
+  {
+    "title": "USAF Invites Proposals for 12 Massive AI Data Centers in Alaska",
+    "date": "2026-04-10",
+    "description": "The U.S. Department of the Air Force opened proposals for building up to 12 large-scale AI data centers across 4,700 acres on three military bases in Alaska, leveraging the state's natural cooling and vast space advantages for strategic AI infrastructure.",
+    "category": "Infrastructure",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnyhPbfGslOZSSUA4bqhuAQeRAj6-t_3Yy-zHSLAlI2sIYHnzrEvSPZUVyEvD81nrSO_wviW8Ur49ENdoBGcNZkYHycJ8G2LJZd_MB48ERO103QnpwKugJZ68FOVVZYs-QC3JGvqVedoLsVDZoUM7NR4Pw-RpbmaFdFX2DMFsOKVu2suRzh2lRJDdI=",
+        "label": "airandspaceforces.com"
+      }
+    ],
+    "issueNumber": 289
+  },
+  {
+    "title": "Japanese Consortium (SoftBank, Sony, Honda, NEC) Forms New AI Venture",
+    "date": "2026-04-12",
+    "description": "SoftBank, Sony, Honda, and NEC announced a joint venture aimed at developing high-performance, Japanese-made AI. The initiative, backed by Japan’s 1-trillion-yen AI support program, seeks to reduce the country’s reliance on U.S. and Chinese AI models.",
+    "category": "Lab Formation",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZFC4k9ZrqljLJzvcX4DMO0_9R87-ezQVB60I46DSNTJY380F9gWA7yoTemRr4GA583AyZsd_uOnrlhDSGt8EEHqPltvhVTAifcl5Se1SctW80vFks85cSXbE7NVGW5OkYulEjCSZpM0S8kA==",
+        "label": "nippon.com"
+      }
+    ],
+    "issueNumber": 290
+  },
+  {
+    "title": "Intel Joins Elon Musk’s 'Terafab' Project for AI and Robotics Chip Manufacturing",
+    "date": "2026-04-11",
+    "description": "Intel has joined Elon Musk’s Terafab project in Texas, collaborating with Tesla and SpaceX to establish a facility for fabricating ultra-high-performance chips tailored for AI and robotics at scale. This partnership aims to vertically integrate and accelerate specialized hardware production.",
+    "category": "Infrastructure",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGzH1UoVcxcN37xzCVg7I3TKVPtmFKu4DlF8Q_J7MnZgvpb5OFGldaBApYmL5-D30oHwbiYX5vyezMgLJqsK1z809TyO1iRigoLK5aHoV3JKWqzN9LCTZ2KrlpBRyths6wc5LGRABtX_LecuvpI0wPHorNe58vAXejzOw==",
+        "label": "stepmark.ai"
+      }
+    ],
+    "issueNumber": 291
+  },
+  {
+    "title": "Alibaba Cloud Heavily Invests in 'World Models' Research with Shengshu",
+    "date": "2026-04-11",
+    "description": "Alibaba Cloud made a substantial investment in Shengshu, a company focused on developing 'world models.' These advanced AI systems move beyond text-based understanding to simulate physical environments and predict their evolution using physics-like reasoning.",
+    "category": "Research",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGVDuOBg3FGso0DHNXUZwQq51TcBcFdEYcw4XoX_qv0EBW64kaVz_jmWpLaY13_DJ6pJ38DOzbXC_tAx5kClqWwC_RD3VtJNBf02ScH-fDifNWZISL_lgAuP0dnAK3CTe_mAEmLTfY=",
+        "label": "youtube.com"
+      }
+    ],
+    "issueNumber": 292
+  },
+  {
+    "title": "Industry Warns of '2026 Quality Collapse' in Software Engineering Due to AI Adoption",
+    "date": "2026-04-10",
+    "description": "Industry reports on April 10 highlighted a looming 'Quality Collapse' in software engineering. Experts noted that while AI tools have boosted coding speeds by 40%, they are simultaneously contributing to a significant decline in the structural integrity and security of codebases.",
+    "category": "Industry Structure",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGRgGo_S2FZf_4gp2DVdHjgPXinfApb68GCmXPAZkYVDplwRGap38ypV4snoH4-3oSuCM_zyNFxENY2VezCED8aIEvnwciEWrJrhdTHRJfJhhXURypqr3Ae1CGYMZ4fq1KAEXGdHyEkL0RorNx49KmpfyoxS8dS5GEqH8_XnFIIOmLRcwbe_6fqhU_m5v5E0QfpnA18c2bbpGtSEAUYg5Y3yrE1wW",
+        "label": "coaio.com"
+      }
+    ],
+    "issueNumber": 293
   }
 ]
