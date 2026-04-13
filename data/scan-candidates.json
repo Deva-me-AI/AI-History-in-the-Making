@@ -1,1 +1,51 @@
-{"scanDate":"2026-04-12","candidates":[],"questionUpdates":[]}
+{
+  "scanDate": "2026-04-13",
+  "candidates": [
+    {
+      "title": "OpenAI Announces Discontinuation of Sora Web and App Experiences",
+      "date": "2026-04-12",
+      "description": "OpenAI announced the surprising decision to discontinue its Sora web and app experiences, effective April 26, 2026, with the API to follow in September. This move forces enterprises to reassess their dependencies on single-vendor solutions for video generation, signaling a shift in market stability and vendor reliance in the AI video synthesis space.",
+      "category": "Industry Structure",
+      "significance": "This event will significantly impact the AI video generation market by challenging single-vendor reliance and potentially fostering a more diversified ecosystem of tools and services. It highlights the rapid pace of change and potential instability in the AI product landscape, pushing businesses to adopt more flexible AI integration strategies.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlEX1T4MAPRg5ffdYSAyDyzLJ6e6oiz1Y0ND62EgOkpA1OVrkUitjNjAbVd23oVfdnwc57f7Y7lMa47O0kni4QcFdH4Z0_FBam2FVKBu_1_-gm04GW1khd1s7c57vEa-D2g6EPlEAx0w0LiL5QKX2KF3Za9Wgpm-0bQKoMrLluLGBDzLiJdMMGmMyPbN3v5ZH-mzlc7LcnOfx715i0zA3DpbYObNdl1Z1OlH-zY7smSw1Hphcc",
+          "label": "futurumgroup.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Japanese Tech Giants Form Alliance to Develop High-Performance AI",
+      "date": "2026-04-12",
+      "description": "SoftBank, Sony, NEC, and Honda announced the formation of a major alliance dedicated to developing high-performance, Japanese-made artificial intelligence. The consortium aims to secure 1 trillion yen (approximately $6.3 billion USD) in government funding to enhance Japan's competitiveness against leading U.S. and Chinese AI firms.",
+      "category": "Industry Structure",
+      "significance": "This strategic alliance represents a significant national effort by Japan to assert itself in the global AI landscape, potentially fostering a robust domestic AI ecosystem and reducing reliance on foreign technologies. It could lead to substantial breakthroughs in AI research and application, driving economic and technological sovereignty.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-7x5Easzc-5bzmQFCJAV8vvETKrGqOzqEE9LpibEZQBt7sw17HY0oZGLjkki5UtlNujtmu2MWiw16fS-iS5Tg-FSGlSKz5fuw34QtYUShsrvv9q7euaTlGrAZde54bryoiFSi21MFUmhvLQ==",
+          "label": "nippon.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Anthropic Launches Think Tank to Address Societal Impacts of Rapid AI Growth",
+      "date": "2026-04-13",
+      "description": "Anthropic, a leading AI research company, established its own think tank to comprehensively explore and address the profound societal disruptions anticipated from the accelerating development of artificial intelligence. This initiative mirrors a growing trend among major AI developers to engage more actively in policy discussions and public relations regarding AI ethics and governance.",
+      "category": "Research",
+      "significance": "The creation of a dedicated think tank by a major AI developer signals a maturing industry's recognition of its societal responsibilities and the need for proactive engagement in shaping AI governance. This could lead to influential research, policy recommendations, and public discourse that guide the responsible development and deployment of AI technologies in the long term.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvgbz-dUnVl2pXPvwG_twBx1hkDRlPIv4Ggagzpk9sL8ec9rDWgED8yMob0EJvl9XZh33fna9GE5wEmjjSEu6HXuqPQrIDOR4qI308l0lIzcf0stbjq-_hcfFDWgl6S9ycLcyFDEucKTDb7mWrqAk5tS7tltFXglfJneMucz5X8iv_rUgp5l1EflIb1kRIR0C_Oc8SyEf",
+          "label": "theguardian.com"
+        }
+      ],
+      "type": "timeline_event"
+    }
+  ],
+  "questionUpdates": []
+}
