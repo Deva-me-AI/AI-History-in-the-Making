@@ -2,76 +2,73 @@
   "scanDate": "2026-04-14",
   "candidates": [
     {
-      "title": "Stanford HAI 2026 AI Index Report Reveals 53% Generative AI Adoption and Major Environmental Cost",
-      "date": "2026-04-13",
-      "description": "The Stanford Institute for Human-Centered AI released its annual report, noting that Generative AI reached 53% population adoption within three years. The report also estimated that the training of Grok 4 produced over 72,000 tons of CO2 emissions, highlighting significant environmental concerns.",
-      "category": "Research",
-      "significance": "This report provides crucial benchmarks on AI's societal integration and environmental footprint, issues that will define AI's long-term development and regulation for decades.",
+      "title": "Anthropic's 'Mythos' AI Model Demonstrates Zero-Day Exploitation, Sparks Regulatory Tension",
+      "date": "2026-04-12",
+      "description": "Anthropic unveiled its next-generation AI model, 'Mythos,' capable of discovering zero-day vulnerabilities across major operating systems and browsers. The model's advanced capabilities have led to a dispute with the U.S. War Department, which is barred from using Anthropic technology due to supply-chain risk concerns. Furthermore, its restricted early access to US tech giants, while excluding European regulators, has raised concerns about an 'AI security gap' between the US and the EU.",
+      "category": "Model Release, Military & Security, Policy",
+      "significance": "Represents a significant leap in AI's cybersecurity capabilities, both defensive and offensive. Its restricted access and the subsequent international tensions highlight the geopolitical implications and the urgent need for policy frameworks around powerful AI.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGBN_06_y9mjEL7USv4nM2HEdirOOw3JntGDUE3kDy8iDRg0l70e7qXChh0RrM-a4_5zxChrdPhRWXQ6ti-HZ2rX_Q76Kks48lCUgWSWvUMcbwSKlRLIG-Vxb42rqDodULC97XMCPbaLpoB5lC3xdxcGvTrDVLFAgJYE0zIPDAE9XDOpTRefCAUcrs2UWT9",
-          "label": "stanford.edu"
-        }
-      ],
-      "type": "timeline_event"
-    },
-    {
-      "title": "Anthropic Unveils 'Mythos' AI Model, U.S. Officials Warn of 'New Era of Cyber Risk'",
-      "date": "2026-04-13",
-      "description": "Anthropic's new AI model, Mythos, was released, prompting U.S. officials to issue warnings to Wall Street. They cited concerns that Mythos's advanced capabilities could usher in a 'new era of cyber risk,' particularly through automated exploitation and sophisticated phishing attacks.",
-      "category": "Model Release",
-      "significance": "The release of a powerful new model from a leading AI lab, coupled with immediate government warnings about its security implications, marks a critical juncture for AI safety, regulation, and cybersecurity policy, which will profoundly impact future AI deployment.",
-      "confidence": "high",
-      "sources": [
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhVSfpJMUdIA3xFgg-mf9V2gy2V3B9qV9ecOhH12fuilhIAT0MobChk37so9kRdnBpfLrEdYk5XhnRlDeESPAmPQyyaRk3sBNqOvQCvLAai_O4-zyYgKJpHPdweSK2SuyeqvamPdSyNFlttVHwjpt5RSgwQBaJVJ9hWZs_8IQfd5A6mTwt_eWv78-5Xw==",
+          "label": "cbsnews.com"
+        },
         {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFVJrnGFh0UjHCd9hXGJdjv-gEtNSELoEexUThWTSIoq2S4E-Jt29nDEHEi0MZLxChr_xjwN0CZRkGuLuyNl5dFUysPQ1qTCfw70IIi71f4htoqGAbhl2Osdvtit7JLYY0n0GHYKCY=",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEELocohbfQiI3Rjdhi0Zo6Gj_bMvVz37mKeMS13nPRPrxLj2j3H44iYa4Lt19H1F84ycLvZ54oz_YUf7gV5zdLF_QD33Q911y1Uu31DRs3nBUoXn2rvRFwgZO1DEHoWfsAohdDOGWKVvyYloQXeyMGf5RqWxwytgJB40eDWxiT_g4J81Ozo7LWLSDjWeF3hx6w_jFlrA==",
+          "label": "washingtonpost.com"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOTUbZ-g4p2vESv3F1l4PeA2NLJ4_ZMsofJNojEpbPMQPas70oVdckvoIX3iZrx-gqbegr-FJ5YT67k5G7iXN0TYtyAoa4VtHoknd07C-gmHy6Gxqu_5U0jOdYMPoPCthCG_9x9qMKjb6fy978EgrmvJ_bKYDu_uepLboC5s2uIhtm6epb5gJ42fN6dtS_Ef_DIqq2tbTVb3kf48bl4ngc_yclkIkgtlEVjg==",
+          "label": "csoonline.com"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHeYwB2NVNw7zQh14-Ajj_k6qCSibzGVQSVMDs1VV1vVhfJJJgHho1pT2aXjXsakqwImmm4H7xNGsSz1x6_8rTP1nQIodRqZKXXkfAp9LN_lm5tYRavhuw5Z4S1XCpJRGDA5U4qVBk=",
           "label": "youtube.com"
         }
       ],
       "type": "timeline_event"
     },
     {
-      "title": "PwC Study Reveals Widening 'AI Divide,' With 20% of Companies Capturing 74% of Economic Value",
-      "date": "2026-04-13",
-      "description": "A new study by PwC revealed a significant 'AI divide,' where a mere 20% of companies are responsible for capturing 74% of the total economic value generated by AI. These leading companies are reportedly utilizing AI for profound business reinvention and growth, rather than just cost reduction.",
-      "category": "Industry Structure",
-      "significance": "This study points to a growing economic inequality fueled by AI adoption, suggesting a future where AI disproportionately benefits a few, potentially reshaping global economic and industry structures over the next five years and beyond.",
-      "confidence": "high",
-      "sources": [
-        {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcXNw_gfX22VAbrVcuO0jQ70M33T0I6l1DAdWm_zKOmABWrEKQWUCz7n5uQrmviwfSM5_Dfpqf70DPiDpbAOXqVg8IQCBqVURaQLVz5U-7VKR4FMjFODS5-2GJ13jhEJpIYVlUu41DQWOyqtiU0ZPB-k0FQdTE4XgUnh_jYTDn-6SAZmS8_C2upMt0O008q6kI5Jh1jg==",
-          "label": "pwc.com"
-        }
-      ],
-      "type": "timeline_event"
-    },
-    {
-      "title": "Interleaved Head Attention (IHA) Technical Breakthrough Enhances Transformer Models",
+      "title": "U.S. Congress Introduces AI Data Center Moratorium Act Amidst Public Backlash",
       "date": "2026-04-12",
-      "description": "A major technical breakthrough was reported with the introduction of Interleaved Head Attention (IHA), an upgrade to the Transformer attention mechanism. This innovation allows for significant performance gains, reportedly over 112% at 16k context, for long-context reasoning tasks by enabling information sharing between attention heads.",
-      "category": "Research",
-      "significance": "IHA represents a fundamental advancement in AI model architecture, particularly for large language models, which will directly lead to more capable and efficient AI systems across various applications in the coming years.",
+      "description": "Senator Bernie Sanders and Representative Alexandria Ocasio-Cortez introduced the Artificial Intelligence (AI) Data Center Moratorium Act, responding to growing community resistance over the rapid construction of AI data centers across the U.S. The legislation reflects increasing congressional concern regarding the nation's preparedness for the physical demands of the AI revolution.",
+      "category": "Policy, Infrastructure",
+      "significance": "This legislation signifies a critical turning point in AI policy, addressing the environmental and societal impact of AI infrastructure. It could reshape the landscape of AI development and deployment in the United States for years to come.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEv8j9MQ9Dt1nVFURoRCDVBtuXq-Si_weQsfIhT7IR_GwiBaYNQW1viHpYfUtHbrgtKr3QGDJZV04nGPY4fEWXxaGXHb7vDz5XhH1-KpfnjbbjF1be-K0D7ZFpLxVtvlvynUH7DALnh-YGKn6N1Z4uDOTZeStCTQZAzYaBgaTUkzTpkAanhHPaHD_8OGb20IlS5SUz36FA-7ZP6Zw==",
-          "label": "wordpress.com"
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhVSfpJMUdIA3xFgg-mf9V2gy2V3B9qV9ecOhH12fuilhIAT0MobChk37so9kRdnBpfLrEdYk5XhnRlDeESPAmPQyyaRk3sBNqOvQCvLAai_O4-zyYgKJpHPdweSK2SuyeqvamPdSyNFlttVHwjpt5RSgwQBaJVJ9hWZs_8IQfd5A6mTwt_eWv78-5Xw==",
+          "label": "cbsnews.com"
         }
       ],
       "type": "timeline_event"
     },
     {
-      "title": "U.S. States Progress on AI Legislation, Including AI in Toys and Chatbot Disclosures",
-      "date": "2026-04-13",
-      "description": "Legislative updates were released on several U.S. state bills focusing on AI regulation. Notable examples include California’s SB 867, aimed at regulating AI in toys, and Connecticut’s SB 5, which addresses chatbot disclosure requirements, as legislatures approach mid-April committee referral deadlines.",
-      "category": "Policy",
-      "significance": "The continued advancement of state-level AI regulations signals a growing and fragmented regulatory landscape in the U.S., which will significantly influence AI product development, deployment, and legal compliance across various sectors for years to come.",
-      "confidence": "medium",
+      "title": "Nissan Commits to 90% AI-Driven Fleet, Unveils Next-Gen Autonomous Systems by 2027",
+      "date": "2026-04-14",
+      "description": "Nissan Motor Co. announced a long-term strategy to equip 90% of its future vehicle models with AI-based autonomous driving technology. The plan includes launching next-generation autonomous systems by fiscal year 2027, beginning with the Elgrand luxury minivan, and involves streamlining global lineups to fund this aggressive AI integration.",
+      "category": "Industry Structure, Research",
+      "significance": "This commitment from a major automotive manufacturer signals a pivotal moment in the widespread adoption of AI for autonomous vehicles, influencing the future of transportation and potentially accelerating industry-wide shifts.",
+      "confidence": "high",
       "sources": [
         {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFowD-_jLAaR2FyItcobpwuq0LYO5Kdl2yYxwF8ZrDEjNwnhE9MqSM09_I1vRCKycs5ex2zHTVNWAic59SGZWdakUs12CYGHWho1sVMPCRJnuTbOdVlpIqwHHF3AiczS1wAFSCr_dP33UtfXdspdL84Eqz20KjNSF6V6LbfuZOG78qSC_8SMAnB4wBXeWJ-",
-          "label": "troutmanprivacy.com"
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEfEvGCzyvPY1xkjgxpHxBT_CyRafXajEnrZa5f_7X8uA3pHIyQ6dqUcn9bc8TXYM-fxNsFZqsxknrA_nlIGk_x6lZY9VDD0x5yt7u39hkoP7sEip_pp968WWOzJ8emubFzXDeDgZyY9BXYEw==",
+          "label": "nippon.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Versos AI and Tape Ark Partner to Digitize 'Dark Data' for Next-Generation World Models",
+      "date": "2026-04-14",
+      "description": "Versos AI and Tape Ark announced a strategic partnership to digitize and structure vast amounts of video data currently stored on physical tapes. This initiative aims to transform decades of offline archival footage from broadcasters and studios into searchable, licensable AI training data, addressing the critical need for massive video datasets required for the development of 'World Models.'",
+      "category": "Infrastructure, Research",
+      "significance": "This partnership addresses a fundamental data challenge for the advancement of 'World Models,' which are expected to be the next frontier in AI. Unlocking this 'dark data' could significantly accelerate the development and capabilities of future AI systems.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGw4dCMjODSim4YDtuC6Q-I3FUZpFp15jdgHpPaUl4Cd7MfufcRvLDugAt4j2JvrXl8mVrB3uqWo04hNtXvRfsboagObeDlIt8TjjsItQPS2xPhhV9rzE5OgjJK5K_J1Vhei2a2BlabAC0hdrK6OLqSPXmGcLMN3XTEBhCKEL2WJk6n0MCgah3qNVov7D-XjB_eHjBybRdDSGTZAI57vDW1FuU46yWRUkxLZYxCkQirhHXAoO4x_6EZuhUli-DN-vA==",
+          "label": "bnnbloomberg.ca"
         }
       ],
       "type": "timeline_event"
