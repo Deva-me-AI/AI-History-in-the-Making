@@ -3081,5 +3081,44 @@
       }
     ],
     "issueNumber": 303
+  },
+  {
+    "title": "Nissan Unveils AI-First Vision for Autonomous Driving",
+    "date": "2026-04-14",
+    "description": "Nissan Motor Co. unveiled a long-term roadmap to equip 90% of its future vehicle models with AI-based autonomous driving technology. The plan includes introducing next-generation autonomous systems in the Elgrand luxury minivan by fiscal 2027.",
+    "category": "Industry Structure",
+    "sources": [
+      {
+        "url": "https://www.nippon.com/",
+        "label": "nippon.com"
+      }
+    ],
+    "issueNumber": 305
+  },
+  {
+    "title": "Sectra Acquires Oxipit, Advancing Autonomous AI in Radiology",
+    "date": "2026-04-15",
+    "description": "International medical imaging company Sectra completed its acquisition of Oxipit, a leader in autonomous AI for radiology. The deal includes 'ChestLink,' an AI tool capable of independently identifying and clearing normal chest X-rays without human intervention, streamlining diagnostic workflows.",
+    "category": "Industry Structure",
+    "sources": [
+      {
+        "url": "https://www.sectra.com/",
+        "label": "sectra.com"
+      }
+    ],
+    "issueNumber": 306
+  },
+  {
+    "title": "U.S. Army Launches Centralized Data Operations Center for AI Integration",
+    "date": "2026-04-15",
+    "description": "The U.S. Army launched a new centralized Data Operations Center to unify datasets across its forces. This initiative aims to streamline AI integration for critical applications such as battlefield targeting and civilian protection mapping.",
+    "category": "Military & Security",
+    "sources": [
+      {
+        "url": "https://www.defensecommunities.org/",
+        "label": "defensecommunities.org"
+      }
+    ],
+    "issueNumber": 307
   }
 ]

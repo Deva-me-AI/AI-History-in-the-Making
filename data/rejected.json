@@ -1193,5 +1193,25 @@
       "claude": "REJECT"
     },
     "reviewedAt": "2026-04-12T11:03:06Z"
+  },
+  {
+    "title": "NVIDIA Launches \"Ising\" Quantum AI Models",
+    "date": "2026-04-14",
+    "description": "NVIDIA announced the world’s first family of open-source quantum AI models, named NVIDIA Ising. These models are designed to accelerate the development of useful quantum computers by improving processor calibration and error-correction decoding up to 2.5 times faster than traditional methods.",
+    "category": "Model Release",
+    "sources": [
+      {
+        "url": "https://www.nvidia.com/",
+        "label": "nvidia.com"
+      }
+    ],
+    "votes": {
+      "accept": 2,
+      "reject": 2,
+      "gemini": "ACCEPT",
+      "gpt": "ACCEPT",
+      "claude": "REJECT"
+    },
+    "reviewedAt": "2026-04-15T11:01:49Z"
   }
 ]
