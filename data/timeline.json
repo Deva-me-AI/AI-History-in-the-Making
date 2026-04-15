@@ -3120,5 +3120,35 @@
       }
     ],
     "issueNumber": 307
+  },
+  {
+    "title": "Gallup Report Reveals 25% of U.S. Adults Use AI for Health Advice, 14 Million Skip Doctor Visits",
+    "date": "2026-04-15",
+    "description": "A new Gallup report indicates that 25% of U.S. adults now use AI chatbots for health advice, with an estimated 14 million people skipping professional medical appointments entirely after consulting AI, despite low trust in AI-generated health information.",
+    "category": "Industry Structure",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1iNV9XvpceKLgMF2bgkF5OGLbAXwM_7q4RLtgrxbXoxszJMaM3lJNAqW37qNWWvxchLyYKBCl6Xyf6LnZq8pFc0xr3o4AMKMbvGYKrcpkeMsEKEFLrAIQ5OYgj6aG3lLbFpy6yQr_aZJhQXj7cZwRzHbbYrj_U-d_pIFX8Lo4emyxlfGN2VaNx31yp-E5MaGE1Q==",
+        "label": "gallup.com"
+      }
+    ],
+    "issueNumber": 14
+  },
+  {
+    "title": "NVIDIA Launches 'Ising' - First Open-Source Quantum AI Models",
+    "date": "2026-04-14",
+    "description": "NVIDIA announced 'NVIDIA Ising,' the world’s first family of open-source quantum AI models designed to solve processor calibration and error correction, reportedly up to 2.5x faster and 3x more accurate than traditional methods, accelerating the timeline for practical, large-scale quantum supercomputers.",
+    "category": "Model Release",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQEVHLiLcWBoAJUQBHnrnmx8j5XKqoQwNTNRAolKlrgPFldEpZWPmBoVgTqkSiEOTvJqNiKL7yc1rsYEHs1OnghboMCvsCB6_enU3Gw9-OpHKYN5uFanuheQRSoaulFPcHAEQakEhYpxj5GVEGIY04vb3uaZ55At6z9UkTRzzCuP_9Yun594nhUjAvRpsZvDcW2Rwo-CRqAkKxdsfEEbNYywPMMAU_EDT1pqPXjxfL7v8DUr0bsxiylphwEGqLvDOC1vjC_5kfPh3G8awo_51qkE5rxe1S7aOphI1su_b4qcVnrF9wrBbO7tCrBHY=",
+        "label": "nvidia.com"
+      },
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHht98f_nN1BqM2PrAkw0zlpPbqLbskvSKzHP1dyOEKCtcUiOgzAWUoh9u0bgkFfGTcIY_fpKR99XHgswMQptWD29CseSZcG4lB7sdesbeBsIQjZR_lfAVwSbY-y-rvOp-2rVWBlzE=",
+        "label": "youtube.com"
+      }
+    ],
+    "issueNumber": 310
   }
 ]

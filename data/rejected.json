@@ -1213,5 +1213,69 @@
       "claude": "REJECT"
     },
     "reviewedAt": "2026-04-15T11:01:49Z"
+  },
+  {
+    "title": "AI-Driven Chip Shortage Slows Global Internet Access for Billions",
+    "date": "2026-04-15",
+    "description": "The GSMA (telecoms industry association) warned that the massive demand for AI-specific memory chips is diverting resources away from standard networking hardware, hindering efforts to connect the 2.2 billion people worldwide who still lack internet access.",
+    "category": "Infrastructure",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWDI8YweqC3CrvE277FFh4t-sKq-nwu--tguuo08jTwYSrSxr4jIFmWQsQ0NAbpSmhlmhwRxgNuOzxDr1H4G3UwiLV_9kJ9lv-cvTE9yGRlWJA_F4jtoVNOEUFQvC8eXaLGzHtRArV076YxFR1TJ49-VD9XVr_ncuRkaA0TBmmc9lz4wUExY5jN4Q0-mPijboeg4WX",
+        "label": "japantimes.co.jp"
+      }
+    ],
+    "votes": {
+      "accept": 2,
+      "reject": 2,
+      "gemini": "ACCEPT",
+      "gpt": "ACCEPT",
+      "claude": "REJECT"
+    },
+    "reviewedAt": "2026-04-15T16:00:49Z"
+  },
+  {
+    "title": "Canadian NDP Calls for Federal Ban on AI 'Surveillance Pricing'",
+    "date": "2026-04-15",
+    "description": "Canada's New Democratic Party (NDP) has called for a federal ban on 'surveillance pricing,' where AI algorithms set different prices for the same item based on an individual's personal data and search history.",
+    "category": "Policy",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEA5uJ4kdQcswJ_Utp8dcFhF_tILOeK_9dauCbR4pMNYVay8NOj5WzafjL43pfy4eg-hvlnfEDc3wtCvS-4JWVE45JqVdHMO1CY-yKCVLef5ohhTbFKnuzY81uPKtYuw8a2p8dNDjE8Wc2HE417gzyPSqLFTl6XVe-yAmDQw7KrOtea7mTQvqHRjVFwrOunxsuUA9UsGoEH3bJU7ROTHo0U4G5isGntKAc=",
+        "label": "consultancy.eu"
+      }
+    ],
+    "votes": {
+      "accept": 2,
+      "reject": 2,
+      "gemini": "ACCEPT",
+      "gpt": "ACCEPT",
+      "claude": "REJECT"
+    },
+    "reviewedAt": "2026-04-15T16:02:45Z"
+  },
+  {
+    "title": "Google.org Expands Digital Futures Fund to $35 Million",
+    "date": "2026-04-14",
+    "description": "Google.org committed an additional $15 million, bringing its Digital Futures Fund to a total of $35 million. The fund supports independent global think tanks and academic institutions researching AI’s long-term impacts on the global economy, workforce opportunities, and cybersecurity.",
+    "category": "Funding",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-dH6G-7qnsYj2xtACdrtfsuHNIntnBAQXQp2rCVsREnmUbuC7_TlFt9tMkMrsmQ4WKr4jG1jxRryIrwjPrjRCyx2R3fnEJ3NYQ6m0r5x8H7xz9RNzOsBkyuYe7B0tBw9LB1ov0sMPRCz3tquNr7UULu0KKMAktaj3y9lZzAz7z7jyMfOLioL9mx5QctNep_XpJULhi64-7wyL",
+        "label": "blog.google"
+      },
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHht98f_nN1BqM2PrAkw0zlpPbqLbskvSKzHP1dyOEKCtcUiOgzAWUoh9u0bgkFfGTcIY_fpKR99XHgswMQptWD29CseSZcG4lB7sdesbeBsIQjZR_lfAVwSbY-y-rvOp-2rVWBlzE=",
+        "label": "youtube.com"
+      }
+    ],
+    "votes": {
+      "accept": 1,
+      "reject": 2,
+      "gemini": "REJECT",
+      "gpt": "ACCEPT",
+      "claude": "REJECT"
+    },
+    "reviewedAt": "2026-04-15T16:04:12Z"
   }
 ]
