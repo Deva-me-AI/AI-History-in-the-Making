@@ -1,1 +1,66 @@
-{"scanDate":"2026-04-14","candidates":[],"questionUpdates":[]}
+{
+  "scanDate": "2026-04-15",
+  "candidates": [
+    {
+      "title": "SUNY Establishes Center for AI Responsibility Amidst \"Global Race\" for Strategic Advantage",
+      "date": "2026-04-14",
+      "description": "Chancellor John B. King Jr. led discussions at the SUNY AI Symposium on AI as an engine for American strategic advantage. A significant outcome was the launch of the Center for AI Responsibility and Research at SUNY Binghamton, signaling a growing focus on ethical and strategic AI development within academic institutions and national policy.",
+      "category": "Policy, Lab Formation",
+      "significance": "This event signifies a national-level strategic focus on AI, recognizing its geopolitical importance and establishing dedicated academic infrastructure for responsible development. This will shape future research, funding, and policy for years to come.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEBjqn_BEp9ZTfegkt9tGReHBU1SP3xALuEnVBF-LiyFZyJbjL_H8koju2x4uJO_lOHtRooARelRpojkfS8mKykBvF7wp5sUI32vbebcAfrp7K0oJdLXxt43t-AnZnQ3aet5Dx7k34PWvOUhzn8GKJfrCEoOts7GkioiCmtXg==",
+          "label": "suny.edu"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Asilomar Report Details Priority Areas for Human Control Over AI-Driven Existential Risks",
+      "date": "2026-04-14",
+      "description": "The James Martin Center for Nonproliferation Studies released its findings from the \"Silicon, Swords, and Ploughshares\" conference, known as the Asilomar AI & WMD Report. The report identifies critical areas for maintaining human oversight and control over AI systems, particularly those with potential weaponization or destabilizing capabilities, addressing long-term existential risks.",
+      "category": "Research, Policy, Military & Security",
+      "significance": "This report from a prominent non-proliferation center highlights the increasing urgency and international focus on mitigating catastrophic risks from advanced AI, especially concerning autonomous weapons. Its recommendations are likely to influence international treaties, national defense strategies, and AI safety research for decades.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpMcoekEzNDtH0uvKgRyzXnqdo4bW7ful2QO2USYyLJ9cXdowa7GcpJXC1wI2-ME9PAkWjoMhFrsvkvEavYXiLWSxfOVgciF_F74423ehLgoNTcHxZW1NR_dghvCui0aKSPhx2_qq4mt-kaLXuIMZZRJqHF3UEOwWk6CsV8L_dL5avrWVa-0eDdSMalNB0qg==",
+          "label": "nonproliferation.org"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "University of Chicago, Microsoft, NVIDIA Launch \"Third Coast Foundry\" to Accelerate Midwest AI Startups",
+      "date": "2026-04-14",
+      "description": "The University of Chicago announced a major partnership with Microsoft and NVIDIA to foster AI innovation in the Midwest. This collaboration, centered around the new \"Third Coast Foundry\" hub, aims to accelerate the growth of AI startups in the region, providing significant resources and expertise.",
+      "category": "Industry Structure, Funding",
+      "significance": "This partnership represents a substantial investment by major tech players and academia into a regional AI ecosystem, potentially shifting the geographic landscape of AI innovation. It will significantly influence the pipeline of new AI companies and talent in the Midwest for years to come.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHOGuthnQUhfkrPrfxiSrx6yMJqztdUmXo5o1AkjGTjJqPLA12EuguSOytYf_kpDrL732NDOTHxjXtO9M01BpwgXvHXY-Vvlqen8IeFcOBgt7QuiYyJBAx3mXQ5Wo8vU6dT_Um1a2wjeKzOoca3FOlIBe3PgaSVhRKn9TAh92APldMWOQRezMd_2tSqHS0i-m7diaXusfndxMSAxwtsTPUZsRVnVacAEInpNe2-WFuwQbWce9t56uorVyt6fY7GmpiH9WRUZaQ_MzYPdLHBWFogdmm9MbULYI=",
+          "label": "uchicago.edu"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "OpenAI and Anthropic Discuss \"Vibe Coding\" and AI for Public Good at UNC Conference",
+      "date": "2026-04-13",
+      "description": "Representatives from leading AI labs OpenAI and Anthropic participated in the inaugural \"AI for Public Good Conference\" at UNC-Chapel Hill. Key discussions included \"vibe coding\" (natural language programming) and the application of AI in government services and drug discovery, highlighting emerging paradigms for human-AI interaction and societal benefit.",
+      "category": "Research",
+      "significance": "The concept of \"vibe coding\" could fundamentally change how humans interact with and program AI, making it more accessible and intuitive. The focus on public services and drug discovery by major players indicates a strong long-term commitment to applying advanced AI for societal impact, influencing future research and development directions.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhnF2fVeAANaoU7kaEkZVotalzQaPZMXV5rv7Qdz7xl6QaGirm8a-GgT0oqR3Pr1294MWcF9u1JzYX9xoinm4jBOUlHq-wov4dnNwv_XcD3-2aBj9RRFe4R0GpVc-_jmxsQLK43zL5TL9Nu8popHpO_OrIQ1OH8X1SqR4BCTAIqoLa0JNAB5WiouXRRtig",
+          "label": "unc.edu"
+        }
+      ],
+      "type": "timeline_event"
+    }
+  ],
+  "questionUpdates": []
+}
