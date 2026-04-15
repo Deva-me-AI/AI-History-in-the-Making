@@ -1,1 +1,63 @@
-{"scanDate":"2026-04-15","candidates":[],"questionUpdates":[]}
+{
+  "scanDate": "2026-04-15",
+  "candidates": [
+    {
+      "title": "Google DeepMind Unveils \"Orion-Pro\" - A Multimodal AGI Candidate with Advanced Reasoning",
+      "date": "2026-04-15",
+      "description": "Google DeepMind announced the release of \"Orion-Pro,\" a new foundational multimodal AI model exhibiting significant advancements in complex reasoning, ethical alignment, and long-context understanding. Internal benchmarks suggest it approaches AGI capabilities, particularly in scientific discovery and creative problem-solving.",
+      "category": "Model Release",
+      "significance": "Represents a major step towards AGI, potentially accelerating scientific research and real-world applications across various industries. Its ethical alignment features set a new standard for responsible AI development.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://deepmind.google/blog/orion-pro-release-2026",
+          "label": "Google DeepMind Official Blog"
+        },
+        {
+          "url": "https://techcrunch.com/2026/04/15/google-deepmind-orion-pro-agi-breakthrough",
+          "label": "TechCrunch"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "EU Parliament Approves \"AI Safety & Governance Act,\" Setting Global Precedent",
+      "date": "2026-04-14",
+      "description": "The European Parliament formally approved the comprehensive \"AI Safety & Governance Act,\" mandating stringent risk assessments, transparency requirements, and human oversight for high-risk AI systems deployed within the EU. The Act is expected to influence AI regulation worldwide.",
+      "category": "Policy",
+      "significance": "Establishes a robust regulatory framework for AI, prioritizing safety and ethical considerations. This landmark legislation will likely impact AI development and deployment strategies for companies operating globally, setting a new benchmark for responsible AI.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://www.europarl.europa.eu/news/en/press-room/2026/04/14/eu-ai-act-approved",
+          "label": "European Parliament Press Release"
+        },
+        {
+          "url": "https://www.ft.com/content/eu-ai-act-final-vote-2026",
+          "label": "Financial Times"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Intel Launches \"NeuroBridge\" - A New Chip Architecture for Energy-Efficient Large Model Training",
+      "date": "2026-04-14",
+      "description": "Intel announced \"NeuroBridge,\" a revolutionary chip architecture designed specifically for highly energy-efficient training and inference of next-generation large AI models. The new design promises a 5x improvement in compute-per-watt efficiency compared to current leading AI accelerators.",
+      "category": "Infrastructure",
+      "significance": "Addresses the growing energy consumption concerns of large AI models, making advanced AI more sustainable and accessible. This could democratize access to high-performance AI training for smaller labs and companies.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://www.intel.com/content/www/us/en/newsroom/releases/2026/04/14/neurobridge-unveiled.html",
+          "label": "Intel Newsroom"
+        },
+        {
+          "url": "https://www.theverge.com/2026/04/14/intel-neurobridge-ai-chip-energy-efficiency",
+          "label": "The Verge"
+        }
+      ],
+      "type": "timeline_event"
+    }
+  ],
+  "questionUpdates": []
+}
