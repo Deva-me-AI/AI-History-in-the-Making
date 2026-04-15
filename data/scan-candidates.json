@@ -1,1 +1,89 @@
-{"scanDate":"2026-04-15","candidates":[],"questionUpdates":[]}
+{
+  "scanDate": "2026-04-15",
+  "candidates": [
+    {
+      "title": "AI-Driven Chip Shortage Slows Global Internet Access for Billions",
+      "date": "2026-04-15",
+      "description": "The GSMA (telecoms industry association) warned that the massive demand for AI-specific memory chips is diverting resources away from standard networking hardware, hindering efforts to connect the 2.2 billion people worldwide who still lack internet access.",
+      "category": "Infrastructure",
+      "significance": "High: This global chip shortage driven by AI demand has significant long-term implications for global connectivity, economic equity, and infrastructure development.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWDI8YweqC3CrvE277FFh4t-sKq-nwu--tguuo08jTwYSrSxr4jIFmWQsQ0NAbpSmhlmhwRxgNuOzxDr1H4G3UwiLV_9kJ9lv-cvTE9yGRlWJA_F4jtoVNOEUFQvC8eXaLGzHtRArV076YxFR1TJ49-VD9XVr_ncuRkaA0TBmmc9lz4wUExY5jN4Q0-mPijboeg4WX",
+          "label": "japantimes.co.jp"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Gallup Report Reveals 25% of U.S. Adults Use AI for Health Advice, 14 Million Skip Doctor Visits",
+      "date": "2026-04-15",
+      "description": "A new Gallup report indicates that 25% of U.S. adults now use AI chatbots for health advice, with an estimated 14 million people skipping professional medical appointments entirely after consulting AI, despite low trust in AI-generated health information.",
+      "category": "Industry Structure",
+      "significance": "High: This marks a significant shift in public health behavior and highlights the growing impact of AI on the healthcare industry, raising concerns about misinformation and access to professional medical care.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1iNV9XvpceKLgMF2bgkF5OGLbAXwM_7q4RLtgrxbXoxszJMaM3lJNAqW37qNWWvxchLyYKBCl6Xyf6LnZq8pFc0xr3o4AMKMbvGYKrcpkeMsEKEFLrAIQ5OYgj6aG3lLbFpy6yQr_aZJhQXj7cZwRzHbbYrj_U-d_pIFX8Lo4emyxlfGN2VaNx31yp-E5MaGE1Q==",
+          "label": "gallup.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Canadian NDP Calls for Federal Ban on AI 'Surveillance Pricing'",
+      "date": "2026-04-15",
+      "description": "Canada's New Democratic Party (NDP) has called for a federal ban on 'surveillance pricing,' where AI algorithms set different prices for the same item based on an individual's personal data and search history.",
+      "category": "Policy",
+      "significance": "Medium: This move signals a growing political will to regulate AI's ethical implications in commerce, potentially setting a precedent for consumer protection laws in other jurisdictions.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEA5uJ4kdQcswJ_Utp8dcFhF_tILOeK_9dauCbR4pMNYVay8NOj5WzafjL43pfy4eg-hvlnfEDc3wtCvS-4JWVE45JqVdHMO1CY-yKCVLef5ohhTbFKnuzY81uPKtYuw8a2p8dNDjE8Wc2HE417gzyPSqLFTl6XVe-yAmDQw7KrOtea7mTQvqHRjVFwrOunxsuUA9UsGoEH3bJU7ROTHo0U4G5isGntKAc=",
+          "label": "consultancy.eu"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "NVIDIA Launches 'Ising' - First Open-Source Quantum AI Models",
+      "date": "2026-04-14",
+      "description": "NVIDIA announced 'NVIDIA Ising,' the world’s first family of open-source quantum AI models designed to solve processor calibration and error correction, reportedly up to 2.5x faster and 3x more accurate than traditional methods, accelerating the timeline for practical, large-scale quantum supercomputers.",
+      "category": "Model Release",
+      "significance": "High: This represents a critical advancement in quantum AI, potentially unlocking the full potential of quantum computing for AI and numerous other fields, with long-term impacts on research and development.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEQEVHLiLcWBoAJUQBHnrnmx8j5XKqoQwNTNRAolKlrgPFldEpZWPmBoVgTqkSiEOTvJqNiKL7yc1rsYEHs1OnghboMCvsCB6_enU3Gw9-OpHKYN5uFanuheQRSoaulFPcHAEQakEhYpxj5GVEGIY04vb3uaZ55At6z9UkTRzzCuP_9Yun594nhUjAvRpsZvDcW2Rwo-CRqAkKxdsfEEbNYywPMMAU_EDT1pqPXjxfL7v8DUr0bsxiylphwEGqLvDOC1vjC_5kfPh3G8awo_51qkE5rxe1S7aOphI1su_b4qcVnrF9wrBbO7tCrBHY=",
+          "label": "nvidia.com"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHht98f_nN1BqM2PrAkw0zlpPbqLbskvSKzHP1dyOEKCtcUiOgzAWUoh9u0bgkFfGTcIY_fpKR99XHgswMQptWD29CseSZcG4lB7sdesbeBsIQjZR_lfAVwSbY-y-rvOp-2rVWBlzE=",
+          "label": "youtube.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Google.org Expands Digital Futures Fund to $35 Million",
+      "date": "2026-04-14",
+      "description": "Google.org committed an additional $15 million, bringing its Digital Futures Fund to a total of $35 million. The fund supports independent global think tanks and academic institutions researching AI’s long-term impacts on the global economy, workforce opportunities, and cybersecurity.",
+      "category": "Funding",
+      "significance": "High: This substantial investment signifies a growing commitment from major tech companies to understand and mitigate the societal impacts of AI, influencing future research and policy directions.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-dH6G-7qnsYj2xtACdrtfsuHNIntnBAQXQp2rCVsREnmUbuC7_TlFt9tMkMrsmQ4WKr4jG1jxRryIrwjPrjRCyx2R3fnEJ3NYQ6m0r5x8H7xz9RNzOsBkyuYe7B0tBw9LB1ov0sMPRCz3tquNr7UULu0KKMAktaj3y9lZzAz7z7jyMfOLioL9mx5QctNep_XpJULhi64-7wyL",
+          "label": "blog.google"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHht98f_nN1BqM2PrAkw0zlpPbqLbskvSKzHP1dyOEKCtcUiOgzAWUoh9u0bgkFfGTcIY_fpKR99XHgswMQptWD29CseSZcG4lB7sdesbeBsIQjZR_lfAVwSbY-y-rvOp-2rVWBlzE=",
+          "label": "youtube.com"
+        }
+      ],
+      "type": "timeline_event"
+    }
+  ],
+  "questionUpdates": []
+}
