@@ -1,1 +1,70 @@
-{"scanDate":"2026-04-16","candidates":[],"questionUpdates":[]}
+{
+  "scanDate": "2026-04-16",
+  "candidates": [
+    {
+      "title": "TSMC Reports Record Profits and Announces New Advanced Fab Driven by AI Chip Demand",
+      "date": "2026-04-16",
+      "description": "Taiwan Semiconductor Manufacturing Company (TSMC) announced a 58% surge in quarterly net profit, largely fueled by the escalating global demand for AI chips. In response, TSMC confirmed plans to construct an additional advanced chip fabrication plant in Taiwan to significantly boost production capacity.",
+      "category": "Infrastructure",
+      "significance": "This massive investment in advanced semiconductor manufacturing is critical for the continued growth and scalability of the entire AI industry, directly impacting the availability and power of future AI systems. It underscores the foundational role of hardware in AI development.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGb2kB1Iv323DF7cM_Vt1f2tniw8Ze8DgPga4UW1s-7tRC1rQ0mTbSBVywD6Mp_wOtbO8FARq9qq_ULymKZH0iXoQ_VMllNbpJjNcW0cVx-WyLbU4lR_rrWN7GCpQnua_3IQ0FaJMdg7FrCoBmlXW6fE8MFTL1jpYszin7CA1Yr7peeF-bxi8DzpDbX4SZEiGlcY7XMY_1fdrARo0oWLGiHTg==",
+          "label": "fool.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Elon Musk Reportedly Pursues Tesla/SpaceX 'Terafab' Project for Humanoid Robot AI",
+      "date": "2026-04-16",
+      "description": "Reports indicate that Elon Musk is initiating a joint venture between Tesla and SpaceX to establish a 'Terafab,' a facility designed to supply 1 terawatt of annual computing capacity. This ambitious project aims to produce custom semiconductors specifically tailored for the development and deployment of humanoid robots.",
+      "category": "Infrastructure",
+      "significance": "The 'Terafab' project represents a monumental commitment to physical AI and robotics, potentially accelerating the development of highly capable humanoid robots. Such dedicated, large-scale computing infrastructure could redefine automation, manufacturing, and human-robot interaction in the coming years.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGb2kB1Iv323DF7cM_Vt1f2tniw8Ze8DgPga4UW1s-7tRC1rQ0mTbSBVywD6Mp_wOtbO8FARq9qq_ULymKZH0iXoQ_VMllNbpJjNcW0cVx-WyLbU4lR_rrWN7GCpQnua_3IQ0FaJMdg7FrCoBmlXW6fE8MFTL1jpYszin7CA1Yr7peeF-bxi8DzpDbX4SZEiGlcY7XMY_1fdrARo0oWLGiHTg==",
+          "label": "fool.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Tufts University Researchers Announce 100x Energy Efficiency Breakthrough in Neuro-Symbolic AI",
+      "date": "2026-04-15",
+      "description": "Researchers at Tufts University have confirmed a breakthrough in Neuro-Symbolic AI, a hybrid system combining neural networks with logical reasoning. This innovation is reported to cut AI energy consumption by up to 100 times while outperforming traditional models in complex robotic tasks, addressing a critical challenge in AI sustainability and scalability.",
+      "category": "Research",
+      "significance": "A 100-fold improvement in AI energy efficiency is a transformative leap for the entire field. It has profound implications for making advanced AI more sustainable, deployable in resource-constrained environments (like edge devices and robotics), and accessible, removing a major bottleneck for future AI development.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFmhkjAHxEqrbuVG2rMNws229rqXgdkk8yQ0xe0X-xDQZyrqWgZx3TU7_6Ft6S4XbJTV5JiXlwi6Z9LWPa-s8f1zAP8YZuOZLiV7BxxmOh7nh6MmCl4hvdtr9YMQzltdVXP6mDRuTEM9BMdbru5t1QzQ3q5uBtN9bMVY0om-4SqcAr_MGpxYhfXZF_SwJUCo2ejkJo32SOVP_lIiA6jvH40fFDEhIKvVvRlHdcSpn4DuFSst5xawzS-eoLDw==",
+          "label": "medium.com"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFpd8VNZpkJbYP1mq26h1RSDviHIU-I44NbANTskqBn9IcA5AtC4GflEerqhw64eMlLYToDBwNqLDRZng85t580iY4dGBDDwUtgQ8vxJkNEEXb1VgZjaY9ldBrmw-KzCnzl0AH0SXPHwWcpkQOpdSAjXElRxmxuAV8=",
+          "label": "sciencedaily.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Novartis CEO Joins Anthropic Board, Signaling Deeper Biopharma AI Integration",
+      "date": "2026-04-16",
+      "description": "Vas Narasimhan, CEO of pharmaceutical giant Novartis, has joined the board of directors at leading AI research company Anthropic. This move signals a strategic intent to foster deeper integration of advanced AI technologies into biopharma and drug discovery processes.",
+      "category": "Industry Structure",
+      "significance": "The appointment of a major biopharma CEO to a leading AI lab's board highlights the accelerating convergence of AI with critical industries. This integration is poised to revolutionize drug discovery, personalized medicine, and healthcare delivery over the next five years, making it a pivotal development in the industry structure.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhhSpWPNtd7foPvZiY4WkBxUkN7jVyRHo5L4nl1tNknqRczRBP_CRlEolhuX8PwIcC7GZmemO65EjVCTdXjpdwXQWskBXwOTH8WDTrMLKc4MgHLn9e9IAjKZI2JnrLbt1qc8KkX0I4cBb9WoCoCsAoqdBbHFxumQDm-qVKjF1X0UEN2hc9ohqV2SEtRrAOLVEHoXrNLcYLxJY0kGHS9EaiAQAoG90==",
+          "label": "biospace.com"
+        }
+      ],
+      "type": "timeline_event"
+    }
+  ],
+  "questionUpdates": []
+}
