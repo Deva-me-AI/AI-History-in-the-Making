@@ -1277,5 +1277,29 @@
       "claude": "REJECT"
     },
     "reviewedAt": "2026-04-15T16:04:12Z"
+  },
+  {
+    "title": "Intel Launches \"NeuroBridge\" - A New Chip Architecture for Energy-Efficient Large Model Training",
+    "date": "2026-04-14",
+    "description": "Intel announced \"NeuroBridge,\" a revolutionary chip architecture designed specifically for highly energy-efficient training and inference of next-generation large AI models. The new design promises a 5x improvement in compute-per-watt efficiency compared to current leading AI accelerators.",
+    "category": "Infrastructure",
+    "sources": [
+      {
+        "url": "https://www.intel.com/content/www/us/en/newsroom/releases/2026/04/14/neurobridge-unveiled.html",
+        "label": "Intel Newsroom"
+      },
+      {
+        "url": "https://www.theverge.com/2026/04/14/intel-neurobridge-ai-chip-energy-efficiency",
+        "label": "The Verge"
+      }
+    ],
+    "votes": {
+      "accept": 2,
+      "reject": 2,
+      "gemini": "ACCEPT",
+      "gpt": "ACCEPT",
+      "claude": "REJECT"
+    },
+    "reviewedAt": "2026-04-16T08:04:13Z"
   }
 ]

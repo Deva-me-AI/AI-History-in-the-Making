@@ -3150,5 +3150,39 @@
       }
     ],
     "issueNumber": 310
+  },
+  {
+    "title": "Google DeepMind Unveils \"Orion-Pro\" - A Multimodal AGI Candidate with Advanced Reasoning",
+    "date": "2026-04-15",
+    "description": "Google DeepMind announced the release of \"Orion-Pro,\" a new foundational multimodal AI model exhibiting significant advancements in complex reasoning, ethical alignment, and long-context understanding. Internal benchmarks suggest it approaches AGI capabilities, particularly in scientific discovery and creative problem-solving.",
+    "category": "Model Release",
+    "sources": [
+      {
+        "url": "https://deepmind.google/blog/orion-pro-release-2026",
+        "label": "Google DeepMind Official Blog"
+      },
+      {
+        "url": "https://techcrunch.com/2026/04/15/google-deepmind-orion-pro-agi-breakthrough",
+        "label": "TechCrunch"
+      }
+    ],
+    "issueNumber": 312
+  },
+  {
+    "title": "EU Parliament Approves \"AI Safety & Governance Act,\" Setting Global Precedent",
+    "date": "2026-04-14",
+    "description": "The European Parliament formally approved the comprehensive \"AI Safety & Governance Act,\" mandating stringent risk assessments, transparency requirements, and human oversight for high-risk AI systems deployed within the EU. The Act is expected to influence AI regulation worldwide.",
+    "category": "Policy",
+    "sources": [
+      {
+        "url": "https://www.europarl.europa.eu/news/en/press-room/2026/04/14/eu-ai-act-approved",
+        "label": "European Parliament Press Release"
+      },
+      {
+        "url": "https://www.ft.com/content/eu-ai-act-final-vote-2026",
+        "label": "Financial Times"
+      }
+    ],
+    "issueNumber": 313
   }
 ]
