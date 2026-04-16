@@ -3184,5 +3184,70 @@
       }
     ],
     "issueNumber": 313
+  },
+  {
+    "title": "Meta and Broadcom Partner on Next-Gen 2nm AI Accelerators",
+    "date": "2026-04-15",
+    "description": "Meta confirmed an expanded partnership with Broadcom to co-develop multiple generations of custom 2-nanometer AI accelerators (MTIA). The deal includes a commitment for over 1 gigawatt of compute capacity to power Meta’s 'personal superintelligence' goals.",
+    "category": "Infrastructure",
+    "sources": [
+      {
+        "url": "https://aibusiness.com",
+        "label": "AI Business"
+      }
+    ],
+    "issueNumber": 315
+  },
+  {
+    "title": "Anthropic's Valuation Soars to $800 Billion Amid Rapid Revenue Growth",
+    "date": "2026-04-15",
+    "description": "Anthropic is reportedly fielding investor offers that could value the company at $800 billion, more than doubling its $350 billion valuation from February 2026. This surge is driven by annual run-rate revenue climbing to $30 billion.",
+    "category": "Industry Structure",
+    "sources": [
+      {
+        "url": "https://heygotrade.com",
+        "label": "Heygotrade"
+      }
+    ],
+    "issueNumber": 316
+  },
+  {
+    "title": "Jane Street Commits $7 Billion to CoreWeave AI Cloud and NVIDIA 'Vera Rubin' Access",
+    "date": "2026-04-15",
+    "description": "Jane Street committed $6 billion to CoreWeave’s AI cloud platform and made a $1 billion equity investment, securing access to NVIDIA’s next-generation 'Vera Rubin' technology.",
+    "category": "Funding",
+    "sources": [
+      {
+        "url": "https://heygotrade.com",
+        "label": "Heygotrade"
+      }
+    ],
+    "issueNumber": 317
+  },
+  {
+    "title": "Canada Launches AI Sovereign Compute Infrastructure Program",
+    "date": "2026-04-15",
+    "description": "The Canadian government launched a national call for applications for the AI Sovereign Compute Infrastructure Program, aiming to build large-scale, domestic supercomputing capacity to safeguard national interests and support researchers.",
+    "category": "Policy",
+    "sources": [
+      {
+        "url": "https://canada.ca",
+        "label": "Canada.ca"
+      }
+    ],
+    "issueNumber": 318
+  },
+  {
+    "title": "Capgemini Report Highlights Rise of 'Physical AI' in Organizations",
+    "date": "2026-04-16",
+    "description": "Capgemini published a major report titled 'Physical AI: Taking human-robot collaboration to the next level,' revealing that 79% of organizations are now engaging with physical AI, with 60% of executives believing it will enable robotics in areas previously considered impossible.",
+    "category": "Research",
+    "sources": [
+      {
+        "url": "https://capgemini.com",
+        "label": "Capgemini"
+      }
+    ],
+    "issueNumber": 319
   }
 ]
