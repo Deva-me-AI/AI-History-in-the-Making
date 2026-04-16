@@ -1301,5 +1301,25 @@
       "claude": "REJECT"
     },
     "reviewedAt": "2026-04-16T08:04:13Z"
+  },
+  {
+    "title": "Elon Musk Reportedly Pursues Tesla/SpaceX 'Terafab' Project for Humanoid Robot AI",
+    "date": "2026-04-16",
+    "description": "Reports indicate that Elon Musk is initiating a joint venture between Tesla and SpaceX to establish a 'Terafab,' a facility designed to supply 1 terawatt of annual computing capacity. This ambitious project aims to produce custom semiconductors specifically tailored for the development and deployment of humanoid robots.",
+    "category": "Infrastructure",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGb2kB1Iv323DF7cM_Vt1f2tniw8Ze8DgPga4UW1s-7tRC1rQ0mTbSBVywD6Mp_wOtbO8FARq9qq_ULymKZH0iXoQ_VMllNbpJjNcW0cVx-WyLbU4lR_rrWN7GCpQnua_3IQ0FaJMdg7FrCoBmlXW6fE8MFTL1jpYszin7CA1Yr7peeF-bxi8DzpDbX4SZEiGlcY7XMY_1fdrARo0oWLGiHTg==",
+        "label": "fool.com"
+      }
+    ],
+    "votes": {
+      "accept": 2,
+      "reject": 2,
+      "gemini": "ACCEPT",
+      "gpt": "ACCEPT",
+      "claude": "REJECT"
+    },
+    "reviewedAt": "2026-04-16T20:01:32Z"
   }
 ]
