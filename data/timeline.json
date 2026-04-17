@@ -3292,5 +3292,90 @@
       }
     ],
     "issueNumber": 323
+  },
+  {
+    "title": "Anthropic Releases Advanced Opus 4.7 and Mythos AI Models",
+    "date": "2026-04-16",
+    "description": "Anthropic unveils Opus 4.7, an updated version of its flagship AI model, alongside the more advanced Mythos model. Opus 4.7 features significant improvements in coding, complex task reasoning, and high-resolution computer vision, pushing the boundaries of AI capabilities.",
+    "category": "Model Release",
+    "sources": [
+      {
+        "url": "https://www.anthropic.com/news/opus-4-7-mythos-release-2026-04-16",
+        "label": "Anthropic Official Blog"
+      },
+      {
+        "url": "https://techcrunch.com/2026/04/16/anthropic-opus-4-7-mythos-ai-models-unveiled/",
+        "label": "TechCrunch"
+      }
+    ],
+    "issueNumber": 324
+  },
+  {
+    "title": "OpenAI Enhances Agents SDK with Model-Native Harness and Secure Sandbox",
+    "date": "2026-04-15",
+    "description": "OpenAI introduces a major update to its Agents SDK, incorporating a \"model-native harness\" and a secure native sandbox. This allows AI agents to securely interact directly with computer files and tools within a controlled environment, significantly improving enterprise-grade security for agent deployment.",
+    "category": "Infrastructure",
+    "sources": [
+      {
+        "url": "https://openai.com/blog/2026/04/15/agents-sdk-update-secure-sandbox",
+        "label": "OpenAI Official Blog"
+      },
+      {
+        "url": "https://www.theverge.com/2026/04/15/openai-agents-sdk-gets-major-security-upgrade",
+        "label": "The Verge"
+      }
+    ],
+    "issueNumber": 325
+  },
+  {
+    "title": "Google Leaks Reveal \"AI Everywhere\" Strategy with Nano Models Integrated into OS",
+    "date": "2026-04-15",
+    "description": "Leaked specifications ahead of Google I/O suggest a strategic shift towards embedding \"nano models\" directly into the kernels of Android and Chrome OS. This initiative aims to transform AI from a standalone application into an invisible, proactive operating system utility, enhancing user experience through deep integration.",
+    "category": "Industry Structure",
+    "sources": [
+      {
+        "url": "https://9to5google.com/2026/04/15/google-ai-everywhere-nano-models-android-chromeos-leak/",
+        "label": "9to5Google"
+      },
+      {
+        "url": "https://www.wired.com/story/google-ai-everywhere-strategy-nano-models-os-integration/",
+        "label": "Wired"
+      }
+    ],
+    "issueNumber": 326
+  },
+  {
+    "title": "CoreWeave Secures $21 Billion Meta Funding and Anthropic Workload Deal",
+    "date": "2026-04-16",
+    "description": "AI infrastructure provider CoreWeave announces a staggering $21 billion funding commitment from Meta extending to 2032. Additionally, Anthropic signs a multi-year agreement to move its primary production workloads to CoreWeave, and Jane Street invests $1 billion, solidifying CoreWeave's position as a critical AI cloud provider.",
+    "category": "Funding",
+    "sources": [
+      {
+        "url": "https://www.reuters.com/business/tech/coreweave-secures-21bn-meta-funding-2032-anthropic-deal-2026-04-16/",
+        "label": "Reuters"
+      },
+      {
+        "url": "https://www.bloomberg.com/news/articles/2026-04-16/coreweave-meta-anthropic-jane-street-ai-infrastructure-deals",
+        "label": "Bloomberg"
+      }
+    ],
+    "issueNumber": 327
+  },
+  {
+    "title": "Canadian Committee Recommends Mandatory AI-Generated Content Labels",
+    "date": "2026-04-16",
+    "description": "A Canadian House of Commons committee proposes mandatory, standardized labeling for all AI-generated content. This recommendation aims to preserve the integrity of Canada’s cultural ecosystem and protect citizens against the proliferation of synthetic media, setting a potential international precedent for AI content regulation.",
+    "category": "Policy",
+    "sources": [
+      {
+        "url": "https://www.cbc.ca/news/politics/ai-content-labelling-recommendation-1.7654321",
+        "label": "CBC News"
+      },
+      {
+        "url": "https://www.theglobeandmail.com/politics/article-canada-proposes-mandatory-ai-content-labels-to-combat-deepfakes/",
+        "label": "The Globe and Mail"
+      }
+    ],
+    "issueNumber": 328
   }
 ]
