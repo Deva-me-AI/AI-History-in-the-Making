@@ -1321,5 +1321,25 @@
       "claude": "REJECT"
     },
     "reviewedAt": "2026-04-16T20:01:32Z"
+  },
+  {
+    "title": "Apply Digital Launches TORQ AI \"Agentic Accelerator\" on Google Cloud",
+    "date": "2026-04-16",
+    "description": "Apply Digital launched TORQ AI, an \"agentic accelerator\" on Google Cloud, designed to provide CPG, retail, and media enterprises with a production-grade path to functional AI within 30 days. This platform aims to significantly reduce the time and complexity of deploying AI solutions in businesses.",
+    "category": "Industry Structure",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNfxRBcBqIbGEEZ150n6zI0h5z2zGejrXUhq78EBZ06y7v4Ba-2CwiPzjxmVqJXBDdfEzr6FFJQOFMmKyYRxTAqSbbaJMeeB9gukv-41mLKXgdiGBRlL40vrG-FGadtLlLJ_s6mv1wRkhNbi-z5ldbFdni4GrlBuzXuS2SNIykxCIQ4URBFcTxsCsFXQ==",
+        "label": "agilebrandguide.com"
+      }
+    ],
+    "votes": {
+      "accept": 1,
+      "reject": 2,
+      "gemini": "REJECT",
+      "gpt": "ACCEPT",
+      "claude": "REJECT"
+    },
+    "reviewedAt": "2026-04-18T08:04:15Z"
   }
 ]
