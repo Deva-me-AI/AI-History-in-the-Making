@@ -1,62 +1,81 @@
 {
-  "scanDate": "2026-04-17",
+  "scanDate": "2026-04-18",
   "candidates": [
     {
-      "title": "Salesforce Announces Headless 360, Exposing Full Platform as APIs for AI Agents",
-      "date": "2026-04-17",
-      "description": "Salesforce announced a fundamental architectural shift by exposing its entire Customer 360 platform as APIs, MCP tools, and CLI commands. This enables AI agents to directly operate the CRM without a traditional browser interface, potentially redesigning the Salesforce admin role.",
-      "category": "Industry Structure",
-      "significance": "This marks a significant move towards enabling AI agents to programmatically interact with and control enterprise software, shifting how businesses manage customer relationships and utilize AI for automation and data orchestration.",
+      "title": "Anthropic Confirms Claude Mythos 5 Crosses 10-Trillion Parameter Threshold",
+      "date": "2026-04-18",
+      "description": "Anthropic officially confirmed that Claude Mythos 5, their latest frontier model, has become the first AI to surpass the 10-trillion parameter mark. The model has been withheld from public release under 'ASL-4' safety protocols due to its 'dangerous capabilities' in cybersecurity and autonomous reasoning, signaling a new era of AI power and associated risks.",
+      "category": "Model Release",
+      "significance": "This represents a monumental leap in AI model scale and capability, setting a new benchmark for frontier models. The decision to withhold it due to safety concerns underscores the growing ethical and security challenges associated with advanced AI, likely prompting significant discussions on regulation and responsible AI development for years to come.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNfxRBcBqIbGEEZ150n6zI0h5z2zGejrXUhq78EBZ06y7v4Ba-2CwiPzjxmVqJXBDdfEzr6FFJQOFMmKyYRxTAqSbbaJMeeB9gukv-41mLKXgdiGBRlL40vrG-FGadtLlLJ_s6mv1wRkhNbi-z5ldbFdni4GrlBuzXuS2SNIykxCIQ4URBFcTxsCsFXQ==",
-          "label": "agilebrandguide.com"
+          "url": "https://kersai.com/",
+          "label": "Kersai.com"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNhXaPmabKyj8DArWrtZVyEBjZi5i_rTPHa52qSD1CBqsD-umDsLC1D8_RW8LTAfNzcRk8COFB2QBW4a9LHPs_jqZZ1tKmTkjuNJLeoGVWPdEhPX7sD69_6dayi4EWgfNDo-PTQLc=",
+          "label": "youtube.com"
         }
       ],
       "type": "timeline_event"
     },
     {
-      "title": "Mistral AI Studio Integrates Model Context Protocols (MCPs) for Enterprise Data",
-      "date": "2026-04-15",
-      "description": "Mistral AI introduced support for built-in and custom Model Context Protocols (MCPs) within its Studio. This new feature enables developers to more easily connect enterprise data to AI applications using reusable connectors and human-in-the-loop controls, aiming to streamline the development of custom AI solutions.",
-      "category": "Infrastructure",
-      "significance": "This development simplifies the process of integrating proprietary enterprise data with AI models, crucial for custom AI application development and adoption. It addresses key challenges in data security, relevance, and control, fostering more practical and secure AI deployments.",
-      "confidence": "high",
-      "sources": [
-        {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYHvOiNHfXLzSxaXlUW6cQ1wvdR4oKk0Qqi7wHkaQG-L0NjDOlY6dVUJSLN4H6fXqP_bXPf4khGNWFbPwP2fMnmvETGdHJPOdoP79LEcYweYzNk=",
-          "label": "mistral.ai"
-        }
-      ],
-      "type": "timeline_event"
-    },
-    {
-      "title": "Apply Digital Launches TORQ AI \"Agentic Accelerator\" on Google Cloud",
-      "date": "2026-04-16",
-      "description": "Apply Digital launched TORQ AI, an \"agentic accelerator\" on Google Cloud, designed to provide CPG, retail, and media enterprises with a production-grade path to functional AI within 30 days. This platform aims to significantly reduce the time and complexity of deploying AI solutions in businesses.",
-      "category": "Industry Structure",
-      "significance": "This initiative addresses the pressing need for faster AI adoption in various industries. By providing a streamlined \"accelerator,\" it could lower the barrier to entry for enterprises seeking to implement AI, potentially reshaping market dynamics and competitive landscapes.",
-      "confidence": "high",
-      "sources": [
-        {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNfxRBcBqIbGEEZ150n6zI0h5z2zGejrXUhq78EBZ06y7v4Ba-2CwiPzjxmVqJXBDdfEzr6FFJQOFMmKyYRxTAqSbbaJMeeB9gukv-41mLKXgdiGBRlL40vrG-FGadtLlLJ_s6mv1wRkhNbi-z5ldbFdni4GrlBuzXuS2SNIykxCIQ4URBFcTxsCsFXQ==",
-          "label": "agilebrandguide.com"
-        }
-      ],
-      "type": "timeline_event"
-    },
-    {
-      "title": "Maine Legislature Advances Bills Regulating AI Chatbots and Clinical Use in Mental Health",
-      "date": "2026-04-15",
-      "description": "As the legislature adjourned, Maine advanced two significant bills: LD 2162, which regulates and prevents child access to AI chatbots with human-like companion interfaces, and LD 2082, which prohibits the clinical use of AI in mental health therapy while permitting its use for administrative tasks.",
+      "title": "Barclays CEO Issues Warning on Claude Mythos Threat to Global Banking",
+      "date": "2026-04-18",
+      "description": "At a G30 meeting, Barclays CEO C. S. Venkatakrishnan issued a severe warning regarding Anthropic’s Claude Mythos model, specifically highlighting its 'unprecedented high-level coding capabilities' as a major cybersecurity threat to global banking infrastructure. He emphasized the particular vulnerability of institutions relying on legacy systems.",
       "category": "Policy",
-      "significance": "These regulations represent early, concrete steps by a US state to address critical ethical and safety concerns surrounding AI, particularly regarding vulnerable populations like children and sensitive applications like mental health. They could influence future state and federal AI policy.",
+      "significance": "This high-profile warning from a banking leader about a specific advanced AI model signals a critical inflection point where AI capabilities are directly impacting systemic financial security. It will likely accelerate regulatory efforts, industry-wide cybersecurity upgrades, and discussions around the responsible deployment of powerful AI in sensitive sectors.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmVOSW5Js5P9zaeCEdzIkTiY1UxuwcCK3-LKMnUPHBoOiPUnkqWUQcpN6dkAeDJs1SC6A56I8Ux1VTjHZoiRe268vVwV1J6-OE1YHHl6UMpPYlTvCUnmv-4lJRA8YDBdTGcrXWz9_yIY7m2syLljz7GXROLNPmojfCErzbXfkCp3uwAiTFgA==",
-          "label": "transparencycoalition.ai"
+          "url": "https://sharecafe.com.au/",
+          "label": "ShareCafe.com.au"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "SpaceX Acquires xAI in $250 Billion Deal, Forms Vertically Integrated AI & Aerospace Entity",
+      "date": "2026-04-18",
+      "description": "SpaceX completed a monumental $250 billion acquisition of xAI, creating a new vertically integrated AI and aerospace entity valued at $1.25 trillion. This merger combines SpaceX's hardware and infrastructure capabilities with xAI's advanced AI research.",
+      "category": "Industry Structure",
+      "significance": "This acquisition marks one of the largest corporate consolidations in the AI sector, fundamentally reshaping the industry landscape. The integration of advanced AI with space technology and infrastructure could lead to unprecedented applications and competitive advantages, influencing global technological development for decades.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://kersai.com/",
+          "label": "Kersai.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "AMD and French Government Partner for European AI Supercomputing Infrastructure",
+      "date": "2026-04-17",
+      "description": "AMD and the French government announced a significant collaboration to establish advanced AI supercomputing infrastructure in Grenoble. This partnership aims to bolster European 'sovereign compute' capabilities, reducing reliance on external AI infrastructure.",
+      "category": "Infrastructure",
+      "significance": "This initiative is a critical step towards national and regional digital sovereignty in AI, addressing geopolitical concerns about data control and technological independence. It will foster local AI research and development, potentially shifting the global balance of power in AI infrastructure.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://solutionsreview.com/",
+          "label": "Solutions Review"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "OpenAI Releases GPT-5.4-Cyber, Specialized for Cybersecurity Defense",
+      "date": "2026-04-17",
+      "description": "OpenAI launched GPT-5.4-Cyber, a specialized version of its frontier model, explicitly designed to assist cybersecurity defenders. This model features lower refusal boundaries for security research and includes advanced capabilities such as binary reverse engineering.",
+      "category": "Model Release",
+      "significance": "The release of a highly specialized AI model for cybersecurity marks a significant advancement in defensive AI capabilities. It addresses the growing threat of AI-driven cyberattacks and is crucial for enhancing national security and protecting critical infrastructure, impacting both military and commercial cybersecurity strategies long-term.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://neuralbuddies.com/",
+          "label": "Neuralbuddies.com"
         }
       ],
       "type": "timeline_event"
