@@ -1,1 +1,89 @@
-{"scanDate":"2026-04-18","candidates":[],"questionUpdates":[]}
+{
+  "scanDate": "2026-04-18",
+  "candidates": [
+    {
+      "title": "Anthropic's \"Claude Mythos\" Model Sparks Global Security and Financial Stability Concerns",
+      "date": "2026-04-17",
+      "description": "Discussions centered on the potential risks of Anthropic's upcoming frontier model, \"Claude Mythos,\" capable of autonomous cyber-attack simulations and posing threats to national security and global financial systems.",
+      "category": "Military & Security",
+      "significance": "Highlights urgent concerns about advanced AI capabilities, leading to high-level government intervention and emphasizing the critical need for AI safety and regulation. This event will shape the regulatory landscape and public perception of frontier AI for years to come.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://bnnbloomberg.ca",
+          "label": "BNN Bloomberg"
+        },
+        {
+          "url": "https://marketingprofs.com",
+          "label": "MarketingProfs"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "OpenAI Pivots to Enterprise and Defense with Launch of 'Codex Security'",
+      "date": "2026-04-17",
+      "description": "OpenAI announced a significant strategic shift, focusing on enterprise solutions and launching \"Codex Security,\" a frontier-grade cyber AI that has already fixed thousands of vulnerabilities in open-source projects.",
+      "category": "Industry Structure",
+      "significance": "Marks a critical strategic direction for a leading AI lab, impacting the cybersecurity landscape, the future of open-source software, and the commercialization of advanced AI for critical infrastructure.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://neuralbuddies.com",
+          "label": "NeuralBuddies"
+        },
+        {
+          "url": "https://marketingprofs.com",
+          "label": "MarketingProfs"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Meta Unveils 'Muse Spark' Model and Deepens Broadcom Partnership for AI Chips",
+      "date": "2026-04-17",
+      "description": "Meta announced a major reorganization of its AI division, launching \"Muse Spark\" as a successor to the Llama series, and extended its partnership with Broadcom to develop third-generation in-house AI chips.",
+      "category": "Model Release",
+      "significance": "Signals Meta's long-term commitment to developing advanced foundational models and controlling its AI infrastructure, intensifying the competitive landscape among tech giants and shaping future AI hardware development.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://neuralbuddies.com",
+          "label": "NeuralBuddies"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Quantum-AI System Achieves Breakthrough in Predicting Chaotic Systems",
+      "date": "2026-04-18",
+      "description": "Researchers at University College London (UCL) published a study in Science Advances on a hybrid \"Quantum-AI\" system that significantly improved accuracy and reduced memory requirements for predicting chaotic systems like climate patterns.",
+      "category": "Research",
+      "significance": "Represents a fundamental advancement at the intersection of quantum computing and AI, potentially revolutionizing scientific modeling, climate prediction, and the understanding of complex systems, with long-term impacts across various scientific disciplines.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://sciencedaily.com",
+          "label": "ScienceDaily"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "European Training Foundation Report: AI Transforms Jobs More Than It Eliminates Them",
+      "date": "2026-04-16",
+      "description": "The European Training Foundation (ETF) released a report indicating that while only 5% of jobs are at high risk of full automation, 40-60% will experience significant task changes due to AI integration.",
+      "category": "Industry Structure",
+      "significance": "Provides a data-driven perspective on AI's profound and ongoing impact on the global labor market, influencing education, workforce development policies, and economic strategies for decades.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://developmentaid.org",
+          "label": "DevelopmentAid"
+        }
+      ],
+      "type": "timeline_event"
+    }
+  ],
+  "questionUpdates": []
+}
