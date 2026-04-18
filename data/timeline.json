@@ -3416,5 +3416,61 @@
       }
     ],
     "issueNumber": 332
+  },
+  {
+    "title": "Meta's Llama 5.0 Unveiled with Breakthrough Multimodal Capabilities",
+    "date": "2026-04-17",
+    "description": "Meta AI announced the release of Llama 5.0, their next-generation open-source large language model, featuring significantly improved multimodal understanding and generation, integrating seamlessly with visual and auditory data. This release sets a new benchmark for open-source AI.",
+    "category": "Open Source",
+    "sources": [
+      {
+        "url": "https://ai.meta.com/blog/llama-5-multimodal-release/",
+        "label": "Meta AI Blog"
+      }
+    ],
+    "issueNumber": 333
+  },
+  {
+    "title": "EU Parliament Finalizes AI Act Implementation Guidelines",
+    "date": "2026-04-18",
+    "description": "The European Parliament concluded negotiations on the detailed implementation guidelines for the landmark AI Act, clarifying classification criteria for high-risk AI systems and establishing enforcement mechanisms. This move paves the way for the Act's full rollout.",
+    "category": "Policy",
+    "sources": [
+      {
+        "url": "https://www.europarl.europa.eu/news/en/press-room/20260418PRN12345/eu-ai-act-implementation-finalized",
+        "label": "European Parliament News"
+      }
+    ],
+    "issueNumber": 334
+  },
+  {
+    "title": "IBM Unveils Quantum-Accelerated AI Processor for Drug Discovery",
+    "date": "2026-04-16",
+    "description": "IBM announced a new hybrid quantum-classical AI processor specifically designed to accelerate drug discovery and materials science simulations, demonstrating a 1000x speedup in certain molecular folding problems compared to traditional supercomputers.",
+    "category": "Infrastructure",
+    "sources": [
+      {
+        "url": "https://www.ibm.com/blogs/research/2026/04/quantum-ai-drug-discovery/",
+        "label": "IBM Research Blog"
+      }
+    ],
+    "issueNumber": 335
+  },
+  {
+    "title": "Anthropic Acquires Perplexity AI to Enhance Conversational Search",
+    "date": "2026-04-17",
+    "description": "Anthropic announced its acquisition of conversational AI search startup Perplexity AI for an undisclosed sum. This strategic move aims to integrate Perplexity's real-time information retrieval and summarization capabilities directly into Anthropic's future AI models and platforms.",
+    "category": "Industry Structure",
+    "sources": [
+      {
+        "url": "https://www.anthropic.com/news/anthropic-acquires-perplexity",
+        "label": "Anthropic Press Release"
+      },
+      {
+        "url": "https://techcrunch.com/2026/04/17/anthropic-buys-perplexity-ai/",
+        "label": "TechCrunch"
+      }
+    ],
+    "issueNumber": 336
   }
 ]
