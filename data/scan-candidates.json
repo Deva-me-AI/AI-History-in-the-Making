@@ -1,85 +1,77 @@
 {
-  "scanDate": "2026-04-18",
+  "scanDate": "2026-04-19",
   "candidates": [
     {
-      "title": "Anthropic's \"Claude Mythos\" Model Sparks Global Security and Financial Stability Concerns",
+      "title": "Anthropic Unveils Claude Mythos and Opus 4.7, Advancing Frontier AI for Security and Design",
       "date": "2026-04-17",
-      "description": "Discussions centered on the potential risks of Anthropic's upcoming frontier model, \"Claude Mythos,\" capable of autonomous cyber-attack simulations and posing threats to national security and global financial systems.",
-      "category": "Military & Security",
-      "significance": "Highlights urgent concerns about advanced AI capabilities, leading to high-level government intervention and emphasizing the critical need for AI safety and regulation. This event will shape the regulatory landscape and public perception of frontier AI for years to come.",
+      "description": "Anthropic released Claude Opus 4.7, featuring a new design tool for websites and presentations, and, more significantly, unveiled Claude Mythos, a frontier model for autonomous cyber-simulations restricted to select security partners.",
+      "category": "Model Release, Military & Security",
+      "significance": "Claude Mythos represents a significant leap in AI capabilities for security applications, potentially influencing cyber warfare and defense for years, while Opus 4.7's design tool could impact creative industries.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://bnnbloomberg.ca",
-          "label": "BNN Bloomberg"
-        },
-        {
-          "url": "https://marketingprofs.com",
-          "label": "MarketingProfs"
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHx3VHQqSOdVqQka20jk3qKtd1-J7Fb5DZiUOlbGjTSXFtapz8EGOgpbtAsWmH92iw6GF977QcLLjx5bkv-WMiSQgm_iKmciAx6jNR8hCw_MhKfzM-JNxuqb4e-XcRyPxub4TQfNs_MIeY0ro3MrPhWRCyIVb3AMvgUe3VBHl6-kZUbKZkHrePhEnzA4NsR86GsCqhNrcMUaYCzwl-k6_4QKcv_q6j3uKLScA==",
+          "label": "marketingprofs.com"
         }
       ],
       "type": "timeline_event"
     },
     {
-      "title": "OpenAI Pivots to Enterprise and Defense with Launch of 'Codex Security'",
+      "title": "Meta Reorganizes AI Strategy, Launches 'Muse Spark' Model",
       "date": "2026-04-17",
-      "description": "OpenAI announced a significant strategic shift, focusing on enterprise solutions and launching \"Codex Security,\" a frontier-grade cyber AI that has already fixed thousands of vulnerabilities in open-source projects.",
-      "category": "Industry Structure",
-      "significance": "Marks a critical strategic direction for a leading AI lab, impacting the cybersecurity landscape, the future of open-source software, and the commercialization of advanced AI for critical infrastructure.",
+      "description": "Meta announced a complete reorganization of its AI strategy, moving away from the Llama branding to launch a new model called Muse Spark.",
+      "category": "Industry Structure, Model Release",
+      "significance": "A major shift in strategy and branding from a tech giant like Meta signals a long-term direction that could impact the AI landscape significantly, potentially competing directly with other major foundation models.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://neuralbuddies.com",
-          "label": "NeuralBuddies"
-        },
-        {
-          "url": "https://marketingprofs.com",
-          "label": "MarketingProfs"
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFC6fx13AUbuaptASFLhQ1JPuST6RJQrl8tFAFNFqLFFUAGjUItdnqUih-rx5bOO7ZFbD9thMafxwaa3zt2IvC44OHjtsLhRiyfutpG0OoLM-izyb2jy5NjDMG4xVT3uhjeaKnNqyTdhnlwHGCk7l6HTTd6N-YS",
+          "label": "neuralbuddies.com"
         }
       ],
       "type": "timeline_event"
     },
     {
-      "title": "Meta Unveils 'Muse Spark' Model and Deepens Broadcom Partnership for AI Chips",
-      "date": "2026-04-17",
-      "description": "Meta announced a major reorganization of its AI division, launching \"Muse Spark\" as a successor to the Llama series, and extended its partnership with Broadcom to develop third-generation in-house AI chips.",
-      "category": "Model Release",
-      "significance": "Signals Meta's long-term commitment to developing advanced foundational models and controlling its AI infrastructure, intensifying the competitive landscape among tech giants and shaping future AI hardware development.",
-      "confidence": "high",
-      "sources": [
-        {
-          "url": "https://neuralbuddies.com",
-          "label": "NeuralBuddies"
-        }
-      ],
-      "type": "timeline_event"
-    },
-    {
-      "title": "Quantum-AI System Achieves Breakthrough in Predicting Chaotic Systems",
+      "title": "OpenAI Releases GPT-Rosalind, a Domain-Specific AI for Life Sciences",
       "date": "2026-04-18",
-      "description": "Researchers at University College London (UCL) published a study in Science Advances on a hybrid \"Quantum-AI\" system that significantly improved accuracy and reduced memory requirements for predicting chaotic systems like climate patterns.",
-      "category": "Research",
-      "significance": "Represents a fundamental advancement at the intersection of quantum computing and AI, potentially revolutionizing scientific modeling, climate prediction, and the understanding of complex systems, with long-term impacts across various scientific disciplines.",
+      "description": "OpenAI launched GPT-Rosalind, a domain-specific reasoning model tailored for biological research and drug discovery, optimized for accelerating hypothesis generation and analyzing complex genomic and proteomic data.",
+      "category": "Research, Model Release",
+      "significance": "This specialized AI could revolutionize drug discovery and medical research, significantly impacting healthcare and biotechnology over the next decade by streamlining the transition from laboratory research to clinical applications.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://sciencedaily.com",
-          "label": "ScienceDaily"
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3cKATyLJOHj378i1ibIt6mU-GeSYom-Zph028qlapwmT6nwGMGROnZUOZz9CmO17FIEfuEsl5MCN2n3qB_qYMHFeYh-e_HRJWwnBkKB9t4oQRn5-rodRFwOzJ7HQ6irTsbD7-1KFAp6Z3i2NqRfzc3c8XfbV2VFIQNzj5mAfvYYsCDRUcAVInl1DfcaOwwipDOzLxyQ==",
+          "label": "futurumgroup.com"
         }
       ],
       "type": "timeline_event"
     },
     {
-      "title": "European Training Foundation Report: AI Transforms Jobs More Than It Eliminates Them",
-      "date": "2026-04-16",
-      "description": "The European Training Foundation (ETF) released a report indicating that while only 5% of jobs are at high risk of full automation, 40-60% will experience significant task changes due to AI integration.",
-      "category": "Industry Structure",
-      "significance": "Provides a data-driven perspective on AI's profound and ongoing impact on the global labor market, influencing education, workforce development policies, and economic strategies for decades.",
+      "title": "AGIBOT Unveils Next-Gen Embodied AI, Humanoid Robot A3, and ViLLA Foundation Model",
+      "date": "2026-04-18",
+      "description": "At its 2026 Partner Conference, AGIBOT introduced new embodied AI products, including the humanoid robot AGIBOT A3 and GO-2, an embodied foundation model using 'Action Chain-of-Thought' to bridge high-level planning and physical execution.",
+      "category": "Research, Industry Structure",
+      "significance": "This pushes the boundaries of robotics and embodied AI, potentially leading to more sophisticated and integrated AI systems in physical environments, impacting various industries from retail to manufacturing.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://developmentaid.org",
-          "label": "DevelopmentAid"
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHtCq5CQMrdnLartDnf8v2GoTxWymkKDJyG9zM9fO2WzsUQmMXfKtQqwpwaPXEmDNHT6EzyQ86RjB6LXPjMNmCs6c9MYAKE8eENGaHxM8R7l1uRT_FqKl_1_ZAkx9F36Fk7nspVI2cyzdsD5_DLJDsPRyJiYqCjpmD8rdieikSH7BdlszQ8zo62-hwbKlc=",
+          "label": "vir.com.vn"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Canada and France Invest in Sovereign AI Infrastructure Initiatives",
+      "date": "2026-04-17",
+      "description": "Canada opened a massive funding round to build a sovereign, large-scale public AI supercomputer, while AMD partnered with the French government to build AI supercomputing infrastructure in Grenoble to strengthen European 'compute sovereignty.'",
+      "category": "Funding, Infrastructure, Policy",
+      "significance": "These initiatives reflect a growing global trend towards national AI self-sufficiency, which will have long-term geopolitical and economic impacts on the AI industry and global power dynamics, fostering independent AI development.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHwPYOEV7e4oJJHjs63M-PerG_wSUTrXvwCUL-ie9t_Hjd-XmpmJVH7vcqzi33LaKL3MiGgp8al0udjnCmQAPzMt1QPed5EUkPnjlo02XpRS_O6CJRJrCAo-1irOhivan-KDMXvg3OwBmxZb003INCUYcPhFEEeVPT1Z7isthjEKfpwxhPHq2TMRtlRVxoU5GlgjSZgE1nABbA==",
+          "label": "solutionsreview.com"
         }
       ],
       "type": "timeline_event"
