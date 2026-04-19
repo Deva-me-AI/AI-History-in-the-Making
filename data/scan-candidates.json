@@ -1,1 +1,81 @@
-{"scanDate":"2026-04-19","candidates":[],"questionUpdates":[]}
+{
+  "scanDate": "2026-04-19",
+  "candidates": [
+    {
+      "title": "SpaceX Completes Acquisition of xAI in $1.25 Trillion Deal",
+      "date": "2026-04-18",
+      "description": "Reports confirm the completion of SpaceX's acquisition of xAI, creating a vertically integrated entity valued at $1.25 trillion, significantly reshaping the AI and space industries.",
+      "category": "Industry Structure",
+      "significance": "High",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://kersai.com",
+          "label": "Kersai.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "UN World Food Programme Launches AI-Assisted HungerMap Live to Combat Global Famine",
+      "date": "2026-04-18",
+      "description": "The UN World Food Programme (WFP) launched HungerMap Live, an AI-assisted platform designed to monitor global famine risks in real-time and optimize humanitarian responses.",
+      "category": "Policy",
+      "significance": "High",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://jurist.org",
+          "label": "Jurist.org"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Middle East Nations Advance AI Initiatives with New Hubs and Training Programs",
+      "date": "2026-04-18",
+      "description": "Morocco signed a $1.2 billion memorandum of understanding to establish a major AI hub. Digital Dubai launched the AI+ initiative to train 50,000 government employees, and Egypt announced its first homegrown industrial robotics manufacturer.",
+      "category": "Infrastructure",
+      "significance": "High",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://middleeastainews.com",
+          "label": "Middle East AI News"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Mira Murati's Thinking Machine Labs Secures $2 Billion in Funding",
+      "date": "2026-04-18",
+      "description": "Mira Murati's new AI venture, Thinking Machine Labs, has raised $2 billion, signaling significant investment in cutting-edge AI research and development.",
+      "category": "Funding",
+      "significance": "High",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://youtube.com",
+          "label": "YouTube"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Fei-Fei Li's Spatial Intelligence Startup World Labs Valued Over $1 Billion",
+      "date": "2026-04-18",
+      "description": "Fei-Fei Li's spatial intelligence startup, World Labs, achieved a valuation of over $1 billion, indicating strong investor confidence in its innovative AI applications.",
+      "category": "Funding",
+      "significance": "High",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://youtube.com",
+          "label": "YouTube"
+        }
+      ],
+      "type": "timeline_event"
+    }
+  ],
+  "questionUpdates": []
+}
