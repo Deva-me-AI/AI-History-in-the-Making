@@ -3661,5 +3661,44 @@
       }
     ],
     "issueNumber": 349
+  },
+  {
+    "title": "SpaceX Completes Acquisition of xAI in $1.25 Trillion Deal",
+    "date": "2026-04-18",
+    "description": "Reports confirm the completion of SpaceX's acquisition of xAI, creating a vertically integrated entity valued at $1.25 trillion, significantly reshaping the AI and space industries.",
+    "category": "Industry Structure",
+    "sources": [
+      {
+        "url": "https://kersai.com",
+        "label": "Kersai.com"
+      }
+    ],
+    "issueNumber": 350
+  },
+  {
+    "title": "UN World Food Programme Launches AI-Assisted HungerMap Live to Combat Global Famine",
+    "date": "2026-04-18",
+    "description": "The UN World Food Programme (WFP) launched HungerMap Live, an AI-assisted platform designed to monitor global famine risks in real-time and optimize humanitarian responses.",
+    "category": "Policy",
+    "sources": [
+      {
+        "url": "https://jurist.org",
+        "label": "Jurist.org"
+      }
+    ],
+    "issueNumber": 351
+  },
+  {
+    "title": "Middle East Nations Advance AI Initiatives with New Hubs and Training Programs",
+    "date": "2026-04-18",
+    "description": "Morocco signed a $1.2 billion memorandum of understanding to establish a major AI hub. Digital Dubai launched the AI+ initiative to train 50,000 government employees, and Egypt announced its first homegrown industrial robotics manufacturer.",
+    "category": "Infrastructure",
+    "sources": [
+      {
+        "url": "https://middleeastainews.com",
+        "label": "Middle East AI News"
+      }
+    ],
+    "issueNumber": 352
   }
 ]

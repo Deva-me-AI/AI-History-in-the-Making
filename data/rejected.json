@@ -1341,5 +1341,45 @@
       "claude": "REJECT"
     },
     "reviewedAt": "2026-04-18T08:04:15Z"
+  },
+  {
+    "title": "Mira Murati's Thinking Machine Labs Secures $2 Billion in Funding",
+    "date": "2026-04-18",
+    "description": "Mira Murati's new AI venture, Thinking Machine Labs, has raised $2 billion, signaling significant investment in cutting-edge AI research and development.",
+    "category": "Funding",
+    "sources": [
+      {
+        "url": "https://youtube.com",
+        "label": "YouTube"
+      }
+    ],
+    "votes": {
+      "accept": 1,
+      "reject": 2,
+      "gemini": "ACCEPT",
+      "gpt": "REJECT",
+      "claude": "REJECT"
+    },
+    "reviewedAt": "2026-04-19T20:02:31Z"
+  },
+  {
+    "title": "Fei-Fei Li's Spatial Intelligence Startup World Labs Valued Over $1 Billion",
+    "date": "2026-04-18",
+    "description": "Fei-Fei Li's spatial intelligence startup, World Labs, achieved a valuation of over $1 billion, indicating strong investor confidence in its innovative AI applications.",
+    "category": "Funding",
+    "sources": [
+      {
+        "url": "https://youtube.com",
+        "label": "YouTube"
+      }
+    ],
+    "votes": {
+      "accept": 2,
+      "reject": 2,
+      "gemini": "ACCEPT",
+      "gpt": "ACCEPT",
+      "claude": "REJECT"
+    },
+    "reviewedAt": "2026-04-19T20:03:06Z"
   }
 ]
