@@ -2,76 +2,76 @@
   "scanDate": "2026-04-19",
   "candidates": [
     {
-      "title": "SpaceX Completes Acquisition of xAI in $1.25 Trillion Deal",
+      "title": "OpenAI GPT-Rosalind Launched for Life Sciences and Drug Discovery",
       "date": "2026-04-18",
-      "description": "Reports confirm the completion of SpaceX's acquisition of xAI, creating a vertically integrated entity valued at $1.25 trillion, significantly reshaping the AI and space industries.",
-      "category": "Industry Structure",
-      "significance": "High",
+      "description": "OpenAI released GPT-Rosalind, a new reasoning-focused model designed for life sciences, drug discovery, and biological research, aiming to generate scientific hypotheses and streamline translational medicine.",
+      "category": "Model Release",
+      "significance": "This could significantly accelerate scientific discovery and drug development, impacting healthcare and biotechnology for decades.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://kersai.com",
-          "label": "Kersai.com"
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE22JZzlcnEJ0UjJnU0AL8bUApNxYk9VNgApmsmc440ZrG0jW6_0fkBpFjkTl6GATayIUZDODub3_wDkyr9btG39rVVc93g4AQFJ2P8iDmCXPkX_9WsO6Nbfju4zavfrj5i2Jt8pYl__o0Xw7L-zrJ4SnqIk1WzsdMwVcZ5kwcefnIrgz6rGLPowf7jVzk0DyIzVehmnA==",
+          "label": "futurumgroup.com"
         }
       ],
       "type": "timeline_event"
     },
     {
-      "title": "UN World Food Programme Launches AI-Assisted HungerMap Live to Combat Global Famine",
+      "title": "UN World Food Programme Launches AI-Assisted HungerMap Live for Famine Prediction",
       "date": "2026-04-18",
-      "description": "The UN World Food Programme (WFP) launched HungerMap Live, an AI-assisted platform designed to monitor global famine risks in real-time and optimize humanitarian responses.",
+      "description": "The UN World Food Programme (WFP) released HungerMap Live, an AI-assisted platform using predictive modeling and real-time data from over 300 analysts to provide an early warning system for global famine and food insecurity.",
       "category": "Policy",
-      "significance": "High",
+      "significance": "This has the potential to save millions of lives by enabling proactive intervention against famine, a long-term global impact.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://jurist.org",
-          "label": "Jurist.org"
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6l2fot5bpb09Dwj0vHuQEGLrbLahjWc9FWBZiEVEwYLkTgfFYbhOyXprxqSEa3JvoWf4UwkVA5T98yCMvth-vOAbqdQL7BCoUGWh2Gw3d3gAEdHfsIGxbPDJriaKfG8W2635d8vM9VilYMq7TWnJV35bKlsgQe6p_dP7wQWTNRcIDTPBH18kJgwV45uw0t6bKjKjF_Q2K_syhRXIpGvUDHxVjZ6v4",
+          "label": "jurist.org"
         }
       ],
       "type": "timeline_event"
     },
     {
-      "title": "Middle East Nations Advance AI Initiatives with New Hubs and Training Programs",
-      "date": "2026-04-18",
-      "description": "Morocco signed a $1.2 billion memorandum of understanding to establish a major AI hub. Digital Dubai launched the AI+ initiative to train 50,000 government employees, and Egypt announced its first homegrown industrial robotics manufacturer.",
+      "title": "Canada and France Invest in Sovereign AI Supercomputing Infrastructure",
+      "date": "2026-04-17",
+      "description": "Canada initiated a major funding round to build a sovereign, large-scale public AI supercomputer. Concurrently, AMD partnered with the French government to expand AI supercomputing capacity in Grenoble, aiming to strengthen European 'compute sovereignty.'",
       "category": "Infrastructure",
-      "significance": "High",
+      "significance": "This signifies a global trend towards national self-reliance in AI development and compute power, with long-term geopolitical and technological implications.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://middleeastainews.com",
-          "label": "Middle East AI News"
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE7S2VS3dpKltvgzIPSVdceGhtFijOoyIzVChV3A08Plk1AxlYcyr2QQTbiLJgGQFbEVCpyyJ85LcvuhdEmmvRmzvFa1PC0QAvsukhOP2L_ovPjQqEjDfp8oPI-RgZttNkPS6y0ZKoq1LUBtmX8Vxb1klhAakE5HuoXdQfUd4POydCGxUVnN5GAXT_inF7ybT1JCSIUAqr71g==",
+          "label": "solutionsreview.com"
         }
       ],
       "type": "timeline_event"
     },
     {
-      "title": "Mira Murati's Thinking Machine Labs Secures $2 Billion in Funding",
-      "date": "2026-04-18",
-      "description": "Mira Murati's new AI venture, Thinking Machine Labs, has raised $2 billion, signaling significant investment in cutting-edge AI research and development.",
-      "category": "Funding",
-      "significance": "High",
+      "title": "US Administration Seeks to Block State-Level AI Regulations for National Standard",
+      "date": "2026-04-19",
+      "description": "Reports indicate the US administration is working to block state-level AI regulations (e.g., in Utah) to establish a single national standard, aiming to maintain a competitive edge against China in AI development.",
+      "category": "Policy",
+      "significance": "This reflects a critical juncture in AI governance, determining the future regulatory framework for AI in a major global power, with long-term implications for innovation, ethics, and international competitiveness.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://youtube.com",
-          "label": "YouTube"
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFHa1gvYex9FpatiKGMHOke6y0heBLOiEOPVJ4ffQ-YVn7vwcM3FWANM0BbPOL5RT5LOVyxCTCzv23yTqmSawid6dTMWCxn_9fDNFqeTReE-L1uJOL0iUfK0JHoA7BnigLQPNS0Rqkdn1oNiXi4YLyLZxjH-Nnvdx0yeNh8ZPuJK2ZU2JDd0G94LrZp1hgoW5yrPB9YhZsAEq7a3w37vgmgAv1PfJU5w5Vbtr0cG8H21ytmuBhbNMNM",
+          "label": "columbian.com"
         }
       ],
       "type": "timeline_event"
     },
     {
-      "title": "Fei-Fei Li's Spatial Intelligence Startup World Labs Valued Over $1 Billion",
-      "date": "2026-04-18",
-      "description": "Fei-Fei Li's spatial intelligence startup, World Labs, achieved a valuation of over $1 billion, indicating strong investor confidence in its innovative AI applications.",
-      "category": "Funding",
-      "significance": "High",
-      "confidence": "high",
+      "title": "Panthalassa Unveils 'Ocean-3' Wave-Powered Floating AI Data Center",
+      "date": "2026-04-19",
+      "description": "Panthalassa introduced its 'Ocean-3' model, a self-propelled, wave-powered floating data center designed to process AI tasks at sea, aiming to provide sustainable and grid-independent AI infrastructure.",
+      "category": "Infrastructure",
+      "significance": "This represents an innovative approach to sustainable AI infrastructure, addressing energy consumption and geographical limitations, potentially shaping future data center deployment and energy strategies.",
+      "confidence": "medium",
       "sources": [
         {
-          "url": "https://youtube.com",
-          "label": "YouTube"
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFogqJ_f74W4PrAckpZALvFLsZkc45LaevOKodtWzdnzGQF7IUeuRVmqxUSaT5jGVk2UPEzuuOG9CSJ0fZYjhqOeWaWP5CawTIdnspVMFrXdcUqVUXnwyRUnmsS96dDNU5f4ZwNjfvoppUkL4Wgw==",
+          "label": "almcorp.com"
         }
       ],
       "type": "timeline_event"
