@@ -3523,5 +3523,78 @@
       }
     ],
     "issueNumber": 339
+  },
+  {
+    "title": "Anthropic's \"Claude Mythos\" Model Sparks Global Security and Financial Stability Concerns",
+    "date": "2026-04-17",
+    "description": "Discussions centered on the potential risks of Anthropic's upcoming frontier model, \"Claude Mythos,\" capable of autonomous cyber-attack simulations and posing threats to national security and global financial systems.",
+    "category": "Military & Security",
+    "sources": [
+      {
+        "url": "https://bnnbloomberg.ca",
+        "label": "BNN Bloomberg"
+      },
+      {
+        "url": "https://marketingprofs.com",
+        "label": "MarketingProfs"
+      }
+    ],
+    "issueNumber": 340
+  },
+  {
+    "title": "OpenAI Pivots to Enterprise and Defense with Launch of 'Codex Security'",
+    "date": "2026-04-17",
+    "description": "OpenAI announced a significant strategic shift, focusing on enterprise solutions and launching \"Codex Security,\" a frontier-grade cyber AI that has already fixed thousands of vulnerabilities in open-source projects.",
+    "category": "Industry Structure",
+    "sources": [
+      {
+        "url": "https://neuralbuddies.com",
+        "label": "NeuralBuddies"
+      },
+      {
+        "url": "https://marketingprofs.com",
+        "label": "MarketingProfs"
+      }
+    ],
+    "issueNumber": 341
+  },
+  {
+    "title": "Meta Unveils 'Muse Spark' Model and Deepens Broadcom Partnership for AI Chips",
+    "date": "2026-04-17",
+    "description": "Meta announced a major reorganization of its AI division, launching \"Muse Spark\" as a successor to the Llama series, and extended its partnership with Broadcom to develop third-generation in-house AI chips.",
+    "category": "Model Release",
+    "sources": [
+      {
+        "url": "https://neuralbuddies.com",
+        "label": "NeuralBuddies"
+      }
+    ],
+    "issueNumber": 342
+  },
+  {
+    "title": "Quantum-AI System Achieves Breakthrough in Predicting Chaotic Systems",
+    "date": "2026-04-18",
+    "description": "Researchers at University College London (UCL) published a study in Science Advances on a hybrid \"Quantum-AI\" system that significantly improved accuracy and reduced memory requirements for predicting chaotic systems like climate patterns.",
+    "category": "Research",
+    "sources": [
+      {
+        "url": "https://sciencedaily.com",
+        "label": "ScienceDaily"
+      }
+    ],
+    "issueNumber": 343
+  },
+  {
+    "title": "European Training Foundation Report: AI Transforms Jobs More Than It Eliminates Them",
+    "date": "2026-04-16",
+    "description": "The European Training Foundation (ETF) released a report indicating that while only 5% of jobs are at high risk of full automation, 40-60% will experience significant task changes due to AI integration.",
+    "category": "Industry Structure",
+    "sources": [
+      {
+        "url": "https://developmentaid.org",
+        "label": "DevelopmentAid"
+      }
+    ],
+    "issueNumber": 344
   }
 ]
