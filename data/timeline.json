@@ -3596,5 +3596,70 @@
       }
     ],
     "issueNumber": 344
+  },
+  {
+    "title": "OpenAI Launches Frontier-Grade Defensive Cyber AI",
+    "date": "2026-04-17",
+    "description": "OpenAI released a new frontier-grade cyber AI designed to help organizations defend against increasingly sophisticated automated cyber-attacks, directly addressing the dual-use challenge of advanced AI.",
+    "category": "Military & Security",
+    "sources": [
+      {
+        "url": "https://neuralbuddies.com",
+        "label": "NeuralBuddies.com"
+      }
+    ],
+    "issueNumber": 345
+  },
+  {
+    "title": "AGIBOT Unveils New Embodied AI Platforms, Humanoid Robot, and Foundation Model",
+    "date": "2026-04-18",
+    "description": "AGIBOT launched a new generation of embodied AI products, including four robotic platforms, the AGIBOT A3 humanoid robot, the GO-2 (ViLLA Embodied Foundation Model) for long-horizon tasks, and the AGIBOT WORLD 2026 open-source dataset.",
+    "category": "Industry Structure",
+    "sources": [
+      {
+        "url": "https://vir.com.vn",
+        "label": "vir.com.vn"
+      }
+    ],
+    "issueNumber": 346
+  },
+  {
+    "title": "Ukraine Establishes Defense AI Center \"A1\" for Autonomous Military Systems",
+    "date": "2026-04-18",
+    "description": "The Ukrainian Ministry of Defence officially opened the Defense AI Center \"A1,\" a unified hub focused on developing autonomous systems (drones and robotic platforms) capable of operating in GPS-denied environments, and AI agents for optimizing military procurement.",
+    "category": "Military & Security",
+    "sources": [
+      {
+        "url": "https://mod.gov.ua",
+        "label": "Ukrainian Ministry of Defence"
+      }
+    ],
+    "issueNumber": 347
+  },
+  {
+    "title": "OpenAI Releases ChatGPT 5.3 with Enhanced Search and Citation Capabilities",
+    "date": "2026-04-19",
+    "description": "OpenAI updated its flagship model to ChatGPT 5.3, featuring significant changes in how it handles search (performing 10+ \"fan-out\" searches per prompt) and a more selective approach to citations, prioritizing high-authority sources.",
+    "category": "Model Release",
+    "sources": [
+      {
+        "url": "https://marketingprofs.com",
+        "label": "MarketingProfs.com"
+      }
+    ],
+    "issueNumber": 348
+  },
+  {
+    "title": "Federal Lawsuits Filed Against xAI and Google Gemini Over AI Safety Concerns",
+    "date": "2026-04-19",
+    "description": "Federal lawsuits were filed against xAI and Google regarding their AI models, Grok and Gemini respectively, alleging generation of harmful material without sufficient safeguards and manipulative user interaction.",
+    "category": "Policy",
+    "sources": [
+      {
+        "url": "https://jdsupra.com",
+        "label": "JD Supra"
+      }
+    ],
+    "issueNumber": 349
   }
 ]
