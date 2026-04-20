@@ -3739,5 +3739,70 @@
       }
     ],
     "issueNumber": 359
+  },
+  {
+    "title": "UK Launches $675 Million Sovereign AI Fund",
+    "date": "2026-04-18",
+    "description": "The United Kingdom launched a $675 million sovereign AI fund aimed at supporting domestic startups and fostering national AI capabilities.",
+    "category": "Policy",
+    "sources": [
+      {
+        "url": "https://obeytheclaw.com",
+        "label": "obeytheclaw.com"
+      }
+    ],
+    "issueNumber": 360
+  },
+  {
+    "title": "Growing Regulatory Rift Between Federal and State AI Policy in the US",
+    "date": "2026-04-19",
+    "description": "Reports emerged detailing increasing tension between federal efforts to establish a single national AI regulatory standard and individual US states like Utah and Florida advancing their own AI safety and parental control bills.",
+    "category": "Policy",
+    "sources": [
+      {
+        "url": "https://livenowfox.com",
+        "label": "livenowfox.com"
+      }
+    ],
+    "issueNumber": 361
+  },
+  {
+    "title": "Panthalassa Develops Floating AI Data Centers Powered by Wave Energy",
+    "date": "2026-04-19",
+    "description": "News broke about Panthalassa, a startup developing innovative floating AI data centers that utilize wave energy for power, addressing the massive energy demands of large language models (LLMs).",
+    "category": "Infrastructure",
+    "sources": [
+      {
+        "url": "https://cbsnews.com",
+        "label": "cbsnews.com"
+      }
+    ],
+    "issueNumber": 362
+  },
+  {
+    "title": "NVIDIA Debuts Industrial AI Cloud and Embodied AI at Hannover Messe",
+    "date": "2026-04-20",
+    "description": "At Hannover Messe 2026, NVIDIA and its partners showcased the new Industrial AI Cloud, along with humanoid robots and 'vision AI agents' designed for advanced manufacturing applications.",
+    "category": "Industry Structure",
+    "sources": [
+      {
+        "url": "https://nvidia.com",
+        "label": "nvidia.com"
+      }
+    ],
+    "issueNumber": 363
+  },
+  {
+    "title": "Microsoft Shifts AI Certification Focus to 'Agent Orchestration'",
+    "date": "2026-04-20",
+    "description": "Microsoft officially retired legacy AI certification exams (AI-900/102) in favor of a new certification, AI-103: Azure AI App and Agent Developer, indicating a market shift from 'Prompt Engineering' to 'Agent Orchestration.'",
+    "category": "Industry Structure",
+    "sources": [
+      {
+        "url": "https://magen-ai.com",
+        "label": "magen-ai.com"
+      }
+    ],
+    "issueNumber": 364
   }
 ]
