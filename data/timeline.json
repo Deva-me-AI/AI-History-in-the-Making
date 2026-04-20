@@ -3700,5 +3700,44 @@
       }
     ],
     "issueNumber": 352
+  },
+  {
+    "title": "OpenAI Launches GPT-Rosalind, Specialized AI for Biological Research",
+    "date": "2026-04-18",
+    "description": "OpenAI introduced GPT-Rosalind, a new, specialized reasoning model designed specifically for biological research and drug discovery, aiming to accelerate breakthroughs in these fields.",
+    "category": "Model Release",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEfiAD6KxQjPe6wPSPibpUcIs8h8kN1cyoz1g8TlPaAR8QiCh-IVV_F-BrXzfJRDKiTLJjPuQOmOn8ysArr71N1_3tZqGf6lXyP_19siEct95ZvKUZSIqvRxel_YB7Al2HViWxcxhglivlE285n9YOrrzBY3ZyS0BRqq_qkWo2afBwpADx6yxDzNI5kkoD_vkqcCbihA==",
+        "label": "futurumgroup.com"
+      }
+    ],
+    "issueNumber": 355
+  },
+  {
+    "title": "Gallup Poll Reveals 14% of Americans Rely on AI for Medical Advice",
+    "date": "2026-04-19",
+    "description": "A new Gallup poll indicated a significant behavioral shift, with approximately 14 million Americans (14% of the population) choosing AI-generated medical advice over traditional doctor visits within the past month.",
+    "category": "Industry Structure",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEM2x7VQIMGIESQrRCN3YLWU1hlWQTnl-4fxSQrox84thOFFzizLNw6aGdgjxLC29VMzJv5HmfBKPLg5qXbsgBK8NAJQcXFRzWlQyCErbm7pqgEu70rlksOq7CwxR9MljGMwGeWseBLazFJWGFAkNJkY-oJDTZXaYpa8xilPrUOa8Y6x-DIA26CjEBWnIeMy0UF4UoUtNbqCoY=",
+        "label": "livenowfox.com"
+      }
+    ],
+    "issueNumber": 357
+  },
+  {
+    "title": "UBC Researchers Warn of 'AI Swarms' Threat to Democratic Processes",
+    "date": "2026-04-20",
+    "description": "Researchers from the University of British Columbia published a warning about 'AI Swarms' – networks of hyper-realistic AI personas capable of infiltrating online communities to subtly manipulate public opinion and influence upcoming elections.",
+    "category": "Policy",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwkXIYJz_zzXwOgTk3OpitvWodjc2eR6Vo6Puibm6axXViLBdQmIAbz9W0QA-dm4OYMBM4UaR6wwtAQeEOqH22oeitYWxyxe2cgMgB7PMckRuEzfNctcKHu9eIAkASQApJj6LsyC_THtt1qksOQX3DX5MUGAMgpnfy",
+        "label": "sciencedaily.com"
+      }
+    ],
+    "issueNumber": 359
   }
 ]

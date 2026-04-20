@@ -1381,5 +1381,45 @@
       "claude": "REJECT"
     },
     "reviewedAt": "2026-04-19T20:03:06Z"
+  },
+  {
+    "title": "SK hynix Begins Mass Production of Next-Gen Memory for NVIDIA's Vera Rubin Platform",
+    "date": "2026-04-19",
+    "description": "SK hynix announced the mass production of 192GB SOCAMM2 memory modules, specifically engineered to eliminate memory bottlenecks in the training of large language models (LLMs) on NVIDIA’s forthcoming Vera Rubin platform.",
+    "category": "Infrastructure",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnxWEHUPToQ4fm-NztpHnHXFfTngaG3UDLzjZbmaAy_vdGfnL1hhig0bS3rqVia93dpsowP8jEl3AdOXVpoipI0bdAhJSPM_x39wip9LCnJ9vxJW4hvturFfFyaBmmbNFdq2SyjawjF7Qe4YqzdG0wFK5ebTw-ZRnS5AH9WlLmAeBN1S7wVNoKcY8Zx6xeKoFGGbCW8xThsfAkN7XB1NMS5PtId6OvSRat4_YVRrnwj3DY5rAwtvdEQlLFRyuezgDI97SqTgCkEAQctFsjPqcLefZBbHEuk-cZy8eYu326x4U=",
+        "label": "morningstar.com"
+      }
+    ],
+    "votes": {
+      "accept": 2,
+      "reject": 2,
+      "gemini": "ACCEPT",
+      "gpt": "ACCEPT",
+      "claude": "REJECT"
+    },
+    "reviewedAt": "2026-04-20T11:02:20Z"
+  },
+  {
+    "title": "Critical 'By Design' Flaw Discovered in Anthropic’s Model Context Protocol (MCP)",
+    "date": "2026-04-20",
+    "description": "Cybersecurity researchers identified a critical 'by design' vulnerability in Anthropic’s Model Context Protocol (MCP), potentially enabling remote code execution (RCE) across thousands of AI-integrated software packages.",
+    "category": "Military & Security",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJgY821tzU5DCZzkJEl_k3u5EEPTtdhDcyGszX-RMDctvgxlSveQtfnpOxz906vRp2CTvPohFmyajUgMGGvKN6Qqg56L2m-IaM5AeIO3rnqORqbiWPnxjIe_qfWRQXxaUtGeKvUlC4uCsFrYS4z5Gc0WvKCOkdo9DdaOjv_Tmzg3W4Npg=",
+        "label": "thehackernews.com"
+      }
+    ],
+    "votes": {
+      "accept": 2,
+      "reject": 2,
+      "gemini": "ACCEPT",
+      "gpt": "ACCEPT",
+      "claude": "REJECT"
+    },
+    "reviewedAt": "2026-04-20T11:03:32Z"
   }
 ]
