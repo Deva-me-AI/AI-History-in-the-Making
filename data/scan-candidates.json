@@ -1,1 +1,89 @@
-{"scanDate":"2026-04-19","candidates":[],"questionUpdates":[]}
+{
+  "scanDate": "2026-04-20",
+  "candidates": [
+    {
+      "title": "Google DeepMind's Alpha (powered by Gemini 3) Solves Research-Level Math Problems Autonomously",
+      "date": "2026-04-19",
+      "description": "Google DeepMind announced its agentic system, Alpha, powered by Gemini 3, successfully solved 6 out of 10 unpublished, research-level mathematical problems in the \"First Proof\" challenge with zero human intervention. This marks a significant milestone in autonomous AI reasoning and problem-solving.",
+      "category": "Research, Model Release",
+      "significance": "Demonstrates a major leap in AI's ability to tackle complex, novel intellectual challenges without human guidance, pointing towards a future of more autonomous scientific discovery and advanced AI capabilities. This breakthrough validates the progress of large language models like Gemini 3 in fundamental reasoning.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFTcqGA3fDcV7Cn3fScsQ0pxvcbIiC-QkPIFFzJZWuHgAji_mPSumjcAgrjjO4B4NiV0f0RxQfgMiOgZ0ecDca4TytBGzgzu6qLMcLTUO30q4K6kzsPWlv9PXcypT-4rpbrfNW3jaJCh9PUFBrtsmmCvbuyUZe1yv6OFOFlLDqgt4i76yg0PVRoL3o3L958",
+          "label": "rtinsights.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Hannover Messe 2026 Spotlights Agentic AI in Manufacturing with Key Product Launches",
+      "date": "2026-04-20",
+      "description": "The Hannover Messe 2026 industrial trade fair opened with a strong emphasis on \"Agentic AI\" for manufacturing. Accenture, Avanade, and Microsoft unveiled a co-developed \"agentic factory\" system for real-time diagnostics. Treon launched an AI-native Maintenance Orchestration Layer, and QAD | Redzone showcased its \"ChampionAI\" platform for frontline workers.",
+      "category": "Industry Structure, Research, Model Release",
+      "significance": "Indicates a major acceleration and adoption of advanced AI, specifically agentic systems, within critical industrial sectors. This shift towards autonomous operational intelligence is set to redefine manufacturing processes, efficiency, and human-machine collaboration in the long term.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH5ZFT8orrnc0tDd5VIIPt4sMA-WtnBeeUfYHWQRadClor2DHgtNmj9rpBmQv3E_d8v8k4fS5NcyPkFU5K2IgUdASWbVVbvLEJdu1txcl-pEXKewP22rJuc5WCbm2WHD4BVt1IP1o_M8ghf3L8D5dWcGPB6IesDmd1altyLcXVJNcsj_OhiwFNZKxz3GHCqg9f_v7R9lxRXZrJQ3odi7tF1lLOLTsAe8DNQjIWx-CJF0qReV1UqEHItOxstttONz6PnOVWyeOE96Fj3U52nHXUizCI4PBCY",
+          "label": "accenture.com"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGllMbU1M-ZhSVVY_h2tVg3XM6gZJAesWNelowzW9c0Vy4-Rk7xKJpA5b2ZjiBBnMlu9cxSiAHK4RT7HqJL5wWiaPWnIGG1uz4KOMzxr3dXsf-As-CWg1roNoleTB6WajITjiRYPTimUXOVMhlGyCM4UoqhGlYMzft3Wm8cQA4Y2VbnEFvBnxxFwSfAsXE5NDKi1uLVRr1xUCuHN5EoTkBkplgBKTAg65tHDaKgUZorotSY0xdI0IWjllF_Cp8MXRqg0aDRD7Yt54Yo_g==",
+          "label": "businesswire.com"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmreAox-9zRV5EjCOdSkYjip3JL_cX6CT07u7v1Yx1x4OQERZ0Hw4eFQ12rtXOrC67OuER5atz3UUl-2CJAxWmvwp_qwFDw4Wjy_EbLchzL5NxEnRN5qbYYc5an-P0kfqBsA-9Bem47aT0K9MjyuTFZEv8fmaCWQpOn7vbTwZv2xg4WPzc8oBWnNE2_xYcpHC_4D7IRstCbPau_Ecf7WNt9wP0G5ONjtt7PT5enBfuKQnASFw48BpSwrky0sqPiw==",
+          "label": "prnewswire.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "OpenAI Unveils GPT-Rosalind, Specialized AI Model for Biological Research and Drug Discovery",
+      "date": "2026-04-18",
+      "description": "OpenAI launched GPT-Rosalind, a new specialized reasoning model specifically designed to accelerate biological research and drug discovery processes. This model is tailored to handle complex data and intricate problems within life sciences.",
+      "category": "Model Release, Research",
+      "significance": "Represents a strategic move by a leading AI developer into a high-impact, specialized scientific domain. GPT-Rosalind has the potential to dramatically accelerate breakthroughs in medicine, biotechnology, and fundamental biological understanding over the next decade.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfEOSvXf5K1Ehn76nEWEA6rSdBjEAmmnTrU7Vp9TZwo_FCCVBFJzTO605Cxu79NbPl5_GeSk1JOsxKEP1d9W1_Rd-lkRtcsfrjDwDYO0Np1Y7IcEuVkquOQC3rtod37L3nLU6VqMf1lR_w4IoFisM9_BYnVvCuBa9FhvyZeea7zHpFmkMCwRvGAhp-rmao0QW49n55Hw==",
+          "label": "futurumgroup.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "US Federal and State Governments Clash Over AI Regulation",
+      "date": "2026-04-19",
+      "description": "Reports indicate a growing clash between the Trump administration, pushing to preempt state-level AI regulations, and states like California, New York, and Florida, which are advancing over 1,000 proposed bills addressing AI safety and likeness rights.",
+      "category": "Policy",
+      "significance": "This escalating regulatory conflict will significantly influence the future landscape of AI development, deployment, and ethical guidelines in the United States. The outcome could determine the pace of innovation, consumer protection, and the competitive environment for AI companies for years to come.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHAbWfKdNHSxLZdsSmGwzuRAhvqwHMmFqQvjZSzymBOVoxj9oUf13hOFBkRME_SCMzMncHAZ5a0gTK2XbTGnFmD1-BBTIo8ortx7arOCX58AkJFm2bKkcc_TkCbUEwFnvzarKmjrjwhYJ4Ya6VzPZIjHW7SnUUmZxLgvLcjvAEk-_-29d94ctbli7iZn2mqxJ7gfsSzoK9yaYtUKKe_beWfTCo1blLgiuNPin21_AuWe0GcWkFkLlVPR",
+          "label": "columbian.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "United Kingdom Launches $675 Million Sovereign AI Fund to Boost Domestic Innovation",
+      "date": "2026-04-18",
+      "description": "The United Kingdom government launched a $675 million sovereign AI fund. This initiative aims to support domestic AI startups and reduce the nation's reliance on foreign AI models and technologies.",
+      "category": "Funding, Policy",
+      "significance": "Represents a substantial national investment in AI infrastructure and talent, crucial for establishing the UK as a competitive player in the global AI landscape. This fund is expected to foster local innovation, create jobs, and ensure strategic independence in AI development over the long term.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEl6lAPDeZpj4HxDiAJwR3fKA8uCPZcJIrC9uvS2ujYOxIRUG6hcpHS2os-_ildtsdOky4WdOC-rNs92isJncsf1adH3naQfbP4KiAbflE4Iau-tGzAEzi8pybq1LMz4-JSgNewZc4=",
+          "label": "youtube.com"
+        }
+      ],
+      "type": "timeline_event"
+    }
+  ],
+  "questionUpdates": []
+}
