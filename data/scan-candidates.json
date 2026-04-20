@@ -1,1 +1,93 @@
-{"scanDate":"2026-04-20","candidates":[],"questionUpdates":[]}
+{
+  "scanDate": "2026-04-20",
+  "candidates": [
+    {
+      "title": "Major AI Labs Release Next-Generation Frontier Models",
+      "date": "2026-04-19",
+      "description": "OpenAI, Anthropic, and Google DeepMind released GPT-5.4, Claude Mythos 5, and Gemini 3.1 Pro respectively, marking significant advancements in AI capabilities. These models are expected to drive new applications across various sectors and intensify debates around AI safety and governance, as exemplified by the US Congress's immediate concerns over Mythos AI's potential for cybersecurity circumvention.",
+      "category": "Model Release",
+      "significance": "These releases represent a leap in general-purpose AI capabilities, directly influencing technological progress, economic shifts, and governmental policy decisions globally. The rapid deployment and subsequent regulatory concerns highlight the accelerating pace of AI development and its immediate societal impact.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://kersai.com",
+          "label": "KERSAI Market Report"
+        },
+        {
+          "url": "https://insurancejournal.com",
+          "label": "US House Oversight Subcommittee Debate on Mythos AI"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Hannover Messe 2026 Centers on Industrial AI, Humanoid Robotics, and Computing Capacity",
+      "date": "2026-04-19",
+      "description": "The world's largest industrial trade fair, Hannover Messe, opened with industrial AI and humanoid robots as central themes. German Chancellor Friedrich Merz stressed AI's role in boosting productivity and competitiveness, announcing plans to double Germany's computing capacity by 2030. NVIDIA also demonstrated \"agentic design\" and Industrial AI Cloud applications at the event.",
+      "category": "Industry Structure",
+      "significance": "Marks a global pivot towards AI-driven industrial transformation and embodied AI in manufacturing. National commitments to computing infrastructure underscore the strategic importance of AI for economic competitiveness.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://news.cn",
+          "label": "Xinhua News Agency - Hannover Messe Opening"
+        },
+        {
+          "url": "https://nvidia.com",
+          "label": "NVIDIA at Hannover Messe"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Major Platforms Roll Out Dedicated Infrastructure for Autonomous AI Agents",
+      "date": "2026-04-19",
+      "description": "Cloudflare expanded its Agent Cloud for sandboxed agent development, SnapLogic launched its AI Gateway for enterprise agent integration, and Adobe introduced \"Creative Agents\" for automated content generation. These developments signify a concerted effort to provide robust infrastructure and tools for building, deploying, and managing autonomous AI agents across various sectors.",
+      "category": "Infrastructure",
+      "significance": "This infrastructure development enables the next wave of AI applications, moving from static models to dynamic, goal-oriented agents, fundamentally changing how businesses and creative professionals interact with AI.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://rtinsights.com",
+          "label": "RTInsights on Agent Cloud Infrastructure"
+        },
+        {
+          "url": "https://nvidia.com",
+          "label": "Adobe & NVIDIA Creative Agents"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Ukraine Launches \"A1\" Center for Advanced Battlefield AI",
+      "date": "2026-04-18",
+      "description": "The Ukrainian Ministry of Defence established the \"A1\" Center dedicated to developing autonomous battlefield systems, AI-driven drones, and advanced data analysis tools to predict enemy actions. This initiative aims to enhance national security and operational effectiveness through cutting-edge AI technologies.",
+      "category": "Military & Security",
+      "significance": "Represents a direct governmental investment in AI for defense in a conflict context, potentially influencing future military doctrines and the global development of autonomous weapons systems.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://mod.gov.ua",
+          "label": "Ukrainian Ministry of Defence Announcement"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Artificial Neurons Successfully Communicate with Living Brain Cells",
+      "date": "2026-04-18",
+      "description": "Engineers at Northwestern University demonstrated the successful communication between printed artificial neurons and living mouse brain cells. This breakthrough paves the way for advanced brain-machine interfaces, highly efficient neuromorphic computing architectures, and novel therapeutic approaches.",
+      "category": "Research",
+      "significance": "A foundational step towards next-generation computing paradigms and direct neural integration, promising transformative impacts in healthcare, prosthetics, and the very architecture of AI systems.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://sciencedaily.com",
+          "label": "ScienceDaily Report - Northwestern University"
+        }
+      ],
+      "type": "timeline_event"
+    }
+  ],
+  "questionUpdates": []
+}
