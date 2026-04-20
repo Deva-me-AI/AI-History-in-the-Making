@@ -4,74 +4,59 @@
     {
       "title": "UK Launches $675 Million Sovereign AI Fund",
       "date": "2026-04-18",
-      "description": "The United Kingdom launched a $675 million sovereign AI fund aimed at supporting domestic startups and fostering national AI capabilities.",
-      "category": "Policy",
-      "significance": "This significant government investment signals a long-term strategic commitment by the UK to establish itself as a leader in AI innovation and development, influencing global AI competitiveness for years to come.",
+      "description": "The UK government established a $675 million Sovereign AI Fund aimed at supporting domestic AI startups and reducing the nation's reliance on foreign AI technologies. This initiative seeks to foster a self-sufficient and competitive AI ecosystem within the UK.",
+      "category": "Funding, Policy, Industry Structure",
+      "significance": "This fund represents a significant national strategic investment in AI, designed to secure the UK's position in the global AI landscape and promote innovation independently. It will shape the industry structure and policy for years to come.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://obeytheclaw.com",
-          "label": "obeytheclaw.com"
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0lKOi9vbaTEuo4btd7Em7PCz9WkwiCSUYedop7UvFyh5Q9xCBygjqPH0P3mtEKezDgGtXXrY4q_HgTq2VFr_9cEu0cmJgKc0bZgt8roXrhgLt0kEFFDfXFFsD2YNsAEPRCQ4H_9I=",
+          "label": "youtube.com"
         }
       ],
       "type": "timeline_event"
     },
     {
-      "title": "Growing Regulatory Rift Between Federal and State AI Policy in the US",
+      "title": "US Senate Passes Amendment Targeting AI Chip Exports to China",
       "date": "2026-04-19",
-      "description": "Reports emerged detailing increasing tension between federal efforts to establish a single national AI regulatory standard and individual US states like Utah and Florida advancing their own AI safety and parental control bills.",
-      "category": "Policy",
-      "significance": "This divergence in regulatory approaches highlights a critical, evolving challenge in AI governance that will shape the legal and ethical landscape for AI development and deployment for the foreseeable future.",
+      "description": "The US Senate approved an amendment intended to restrict tens of billions of dollars in AI chip exports to China. The measure aims to close existing loopholes, including those related to cloud access and shell-company structures, in an effort to curb China's advanced AI development.",
+      "category": "Policy, Industry Structure, Geopolitics",
+      "significance": "This move represents a major escalation in technological competition between the US and China, with profound long-term implications for global AI supply chains, national security, and the pace of AI innovation in both countries.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://livenowfox.com",
-          "label": "livenowfox.com"
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZ7n-bTYsvdnY2-LN2dgZW3x8douZO3Cw2lyuyP-4sxFKkxxTVSZLo75l1GKJrb-xpdqWsciuqIUiTB2_rfs15-L2XkJzQ6o21ypEfNhsA2MpoS61_ZPDE1aIaSaZpoWMjoqZy97PKXVxEHCwYmj3f8WTKY_73bQ2B-Xay-8Qy2Dzux-5q00b8w5A8bdo5Wplyy4XTwARASeL9eyOOBzD2UCPqSg_r2A==",
+          "label": "etcjournal.com"
         }
       ],
       "type": "timeline_event"
     },
     {
-      "title": "Panthalassa Develops Floating AI Data Centers Powered by Wave Energy",
+      "title": "UN Global Dialogue on AI Governance Enters Critical Phase",
       "date": "2026-04-19",
-      "description": "News broke about Panthalassa, a startup developing innovative floating AI data centers that utilize wave energy for power, addressing the massive energy demands of large language models (LLMs).",
-      "category": "Infrastructure",
-      "significance": "This represents a potentially revolutionary advancement in sustainable infrastructure for AI, offering a solution to the environmental and energy footprint of rapidly growing AI computation, with long-term implications for global data center location and power sourcing.",
+      "description": "The United Nations’ Global Dialogue on Artificial Intelligence Governance reached a critical stage, with member states submitting frameworks to help shape the agenda for the upcoming high-level meeting. This initiative aims to establish international norms and guidelines for AI development and deployment.",
+      "category": "Policy",
+      "significance": "This ongoing global effort is crucial for establishing international cooperation and regulatory frameworks for AI, impacting future policy decisions, ethical guidelines, and responsible development worldwide.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://cbsnews.com",
-          "label": "cbsnews.com"
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFZ7n-bTYsvdnY2-LN2dgZW3x8douZO3Cw2lyuyP-4sxFKkxxTVSZLo75l1GKJrb-xpdqWsciuqIUiTB2_rfs15-L2XkJzQ6o21ypEfNhsA2MpoS61_ZPDE1aIaSaZpoWMjoqZy97PKXVxEHCwYmj3f8WTKY_73bQ2B-Xay-5q00b8w5A8bdo5Wplyy4XTwARASeL9eyOOBzD2UCPqSg_r2A==",
+          "label": "etcjournal.com"
         }
       ],
       "type": "timeline_event"
     },
     {
-      "title": "NVIDIA Debuts Industrial AI Cloud and Embodied AI at Hannover Messe",
+      "title": "Anthropic's \"Mythos\" Model Leaked, Citing \"Offensive Cyberweapon\" Capabilities",
       "date": "2026-04-20",
-      "description": "At Hannover Messe 2026, NVIDIA and its partners showcased the new Industrial AI Cloud, along with humanoid robots and 'vision AI agents' designed for advanced manufacturing applications.",
-      "category": "Industry Structure",
-      "significance": "This marks a pivotal moment in the industrial adoption of AI, demonstrating a significant leap in automation, robotics, and the integration of AI directly into manufacturing processes, setting a trajectory for the future of industrial production and supply chains.",
+      "description": "Reports emerged regarding the leak of Anthropic's \"Claude Mythos Preview\" model, described as a \"step change\" in AI performance. The model is reportedly capable of autonomously discovering and chaining software vulnerabilities, leading Anthropic to restrict its release to the NSA and select security bodies due to concerns it could be used as an \"offensive cyberweapon.\"",
+      "category": "Model Release, Military & Security, Policy",
+      "significance": "The existence and capabilities of such a powerful, potentially dangerous AI model raise critical questions about AI safety, ethics, and the proliferation of advanced AI for military or offensive cyber purposes, fundamentally altering the landscape of AI governance and security.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://nvidia.com",
-          "label": "nvidia.com"
-        }
-      ],
-      "type": "timeline_event"
-    },
-    {
-      "title": "Microsoft Shifts AI Certification Focus to 'Agent Orchestration'",
-      "date": "2026-04-20",
-      "description": "Microsoft officially retired legacy AI certification exams (AI-900/102) in favor of a new certification, AI-103: Azure AI App and Agent Developer, indicating a market shift from 'Prompt Engineering' to 'Agent Orchestration.'",
-      "category": "Industry Structure",
-      "significance": "This change in industry-standard certification reflects a fundamental evolution in the skills and architectural patterns required for AI development, moving towards more autonomous and complex agent-based systems, which will profoundly impact the AI workforce and development paradigms over the next five years.",
-      "confidence": "high",
-      "sources": [
-        {
-          "url": "https://magen-ai.com",
-          "label": "magen-ai.com"
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSqP2UJd27LN76IHBrtvuYbIQKXjPExR73vLyFmWtws01J2J7Eg6FYYThioU6r0Snrpju1ZfEx6zFkJd6KCZ7_ifUuK2ky0oDOFXX52PuuKYjPp1iqhSeeahcRH6VqSkH5_aohJVJnGvpIW67VZ3jbyOCiug_VJ7FW9XZaVhXvdCYSmHsbJsLreksnYQ8Mq09aqjPoKOgPBdZZ5g==",
+          "label": "malwarebytes.com"
         }
       ],
       "type": "timeline_event"
