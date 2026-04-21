@@ -1,1 +1,36 @@
-{"scanDate":"2026-04-21","candidates":[],"questionUpdates":[]}
+{
+  "scanDate": "2026-04-21",
+  "candidates": [
+    {
+      "title": "US Senate Passes Major AI Export Controls Targeting China",
+      "date": "2026-04-19",
+      "description": "The US Senate passed a significant amendment imposing strict export controls on tens of billions of dollars in annual AI chip sales to China. This legislative action, part of a broader push including the AI Overwatch Act and Remote Access Security Act, aims to close loopholes used to circumvent chip restrictions.",
+      "category": "Policy",
+      "significance": "High - This policy severely restricts China's access to advanced AI hardware, fundamentally altering global AI development and fostering regional self-sufficiency in AI ecosystems. Its long-term impact on geopolitical power dynamics in AI is substantial.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFp_oQNj3AuKZcmVLtVLtgN2iBYas-LxSpRxVo7VZYwrCaEoGufqienSN0vm3yAe211PGsOlQZcWYarXV-3TbeKNXzRHjoSeVi-sGn6yq7YxmPjJ-e441FDg7zDmIna-k80GOz6F7fORmUKAxCfW7-7TD-u06-uT1_Bz2AhRhPBkanHLAIXzBQNxURWVMWdtFPB07IPgrwGv_XDkhG2YZHi_2E39TCb",
+          "label": "etcjournal.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Google Prepares to Announce Dedicated AI Inference Chips",
+      "date": "2026-04-20",
+      "description": "Reports indicate Google is developing a specialized inference-only chip for its Tensor Processing Unit (TPU) program. This move signifies a strategic shift from its previous unified chip approach for both AI training and inference, aimed at meeting the escalating demand for low-latency AI applications.",
+      "category": "Infrastructure",
+      "significance": "High - A dedicated inference chip from a major player like Google will significantly optimize the cost and performance of deploying AI models at scale, accelerating the widespread adoption and integration of AI across various applications and industries.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEDZnJO9sZXiuwVGs24K_tSw7ic9d-FCycB8Ou_osYsZTLtwLk2OILiRMyzBM6gUTi9k1WEAIjFYibd3xkbR85wROnSgIfR0YYw7-5bTkRPcDKwbzuHDvm4uEeCiumbKP_nZQW1rsQ=",
+          "label": "youtube.com"
+        }
+      ],
+      "type": "timeline_event"
+    }
+  ],
+  "questionUpdates": []
+}
