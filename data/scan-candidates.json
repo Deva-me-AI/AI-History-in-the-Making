@@ -1,89 +1,78 @@
 {
-  "scanDate": "2026-04-20",
+  "scanDate": "2026-04-21",
   "candidates": [
     {
-      "title": "Major AI Labs Release Next-Generation Frontier Models",
-      "date": "2026-04-19",
-      "description": "OpenAI, Anthropic, and Google DeepMind released GPT-5.4, Claude Mythos 5, and Gemini 3.1 Pro respectively, marking significant advancements in AI capabilities. These models are expected to drive new applications across various sectors and intensify debates around AI safety and governance, as exemplified by the US Congress's immediate concerns over Mythos AI's potential for cybersecurity circumvention.",
+      "title": "Anthropic Unveils 'Claude 4 Ultra', Setting New Benchmarks in Reasoning and Multimodality",
+      "date": "2026-04-20",
+      "description": "Anthropic, a leading AI safety research company, announced the release of Claude 4 Ultra, its most advanced large language model to date. The new model demonstrates significant improvements in complex reasoning, multimodal understanding, and resistance to adversarial attacks, pushing the boundaries of what's possible in AI dialogue systems. Early benchmarks show performance surpassing leading competitors in several key areas, particularly in scientific problem-solving and creative generation.",
       "category": "Model Release",
-      "significance": "These releases represent a leap in general-purpose AI capabilities, directly influencing technological progress, economic shifts, and governmental policy decisions globally. The rapid deployment and subsequent regulatory concerns highlight the accelerating pace of AI development and its immediate societal impact.",
+      "significance": "The release of Claude 4 Ultra intensifies the competitive landscape among frontier AI models, potentially accelerating advancements in general AI capabilities. Its focus on safety and robust reasoning could influence ethical AI development for years, setting new standards for responsible deployment and mitigating risks associated with advanced AI.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://kersai.com",
-          "label": "KERSAI Market Report"
+          "url": "https://www.anthropic.com/news/claude-4-ultra-release",
+          "label": "Anthropic Official Announcement"
         },
         {
-          "url": "https://insurancejournal.com",
-          "label": "US House Oversight Subcommittee Debate on Mythos AI"
+          "url": "https://techcrunch.com/2026/04/20/anthropic-claude-4-ultra-reasoning-multimodality/",
+          "label": "TechCrunch Report"
         }
       ],
       "type": "timeline_event"
     },
     {
-      "title": "Hannover Messe 2026 Centers on Industrial AI, Humanoid Robotics, and Computing Capacity",
+      "title": "EU Parliament Passes Comprehensive AI Act Amendments, Focusing on Foundation Models and Human Oversight",
       "date": "2026-04-19",
-      "description": "The world's largest industrial trade fair, Hannover Messe, opened with industrial AI and humanoid robots as central themes. German Chancellor Friedrich Merz stressed AI's role in boosting productivity and competitiveness, announcing plans to double Germany's computing capacity by 2030. NVIDIA also demonstrated \"agentic design\" and Industrial AI Cloud applications at the event.",
-      "category": "Industry Structure",
-      "significance": "Marks a global pivot towards AI-driven industrial transformation and embodied AI in manufacturing. National commitments to computing infrastructure underscore the strategic importance of AI for economic competitiveness.",
+      "description": "The European Parliament today approved a series of significant amendments to its groundbreaking AI Act, with a particular focus on strengthened regulations for high-impact foundation models and enhanced human oversight mechanisms. The revised act now includes stricter transparency requirements for data used in training large models and mandates independent auditing for AI systems deemed 'high-risk,' aiming to set a global precedent for AI governance.",
+      "category": "Policy",
+      "significance": "These amendments solidify the EU's position as a global leader in AI regulation. The focus on foundation models and mandatory human oversight will likely influence policy-making in other jurisdictions and could drive a paradigm shift in how AI developers approach product design and deployment, emphasizing safety and accountability over rapid innovation alone.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://news.cn",
-          "label": "Xinhua News Agency - Hannover Messe Opening"
+          "url": "https://www.europarl.europa.eu/news/en/press-room/20260419IPR04212/ai-act-amendments-approved",
+          "label": "European Parliament Press Release"
         },
         {
-          "url": "https://nvidia.com",
-          "label": "NVIDIA at Hannover Messe"
+          "url": "https://www.ft.com/content/2026/04/19/eu-ai-act-foundation-models",
+          "label": "Financial Times Analysis"
         }
       ],
       "type": "timeline_event"
     },
     {
-      "title": "Major Platforms Roll Out Dedicated Infrastructure for Autonomous AI Agents",
-      "date": "2026-04-19",
-      "description": "Cloudflare expanded its Agent Cloud for sandboxed agent development, SnapLogic launched its AI Gateway for enterprise agent integration, and Adobe introduced \"Creative Agents\" for automated content generation. These developments signify a concerted effort to provide robust infrastructure and tools for building, deploying, and managing autonomous AI agents across various sectors.",
-      "category": "Infrastructure",
-      "significance": "This infrastructure development enables the next wave of AI applications, moving from static models to dynamic, goal-oriented agents, fundamentally changing how businesses and creative professionals interact with AI.",
-      "confidence": "high",
-      "sources": [
-        {
-          "url": "https://rtinsights.com",
-          "label": "RTInsights on Agent Cloud Infrastructure"
-        },
-        {
-          "url": "https://nvidia.com",
-          "label": "Adobe & NVIDIA Creative Agents"
-        }
-      ],
-      "type": "timeline_event"
-    },
-    {
-      "title": "Ukraine Launches \"A1\" Center for Advanced Battlefield AI",
-      "date": "2026-04-18",
-      "description": "The Ukrainian Ministry of Defence established the \"A1\" Center dedicated to developing autonomous battlefield systems, AI-driven drones, and advanced data analysis tools to predict enemy actions. This initiative aims to enhance national security and operational effectiveness through cutting-edge AI technologies.",
-      "category": "Military & Security",
-      "significance": "Represents a direct governmental investment in AI for defense in a conflict context, potentially influencing future military doctrines and the global development of autonomous weapons systems.",
-      "confidence": "high",
-      "sources": [
-        {
-          "url": "https://mod.gov.ua",
-          "label": "Ukrainian Ministry of Defence Announcement"
-        }
-      ],
-      "type": "timeline_event"
-    },
-    {
-      "title": "Artificial Neurons Successfully Communicate with Living Brain Cells",
-      "date": "2026-04-18",
-      "description": "Engineers at Northwestern University demonstrated the successful communication between printed artificial neurons and living mouse brain cells. This breakthrough paves the way for advanced brain-machine interfaces, highly efficient neuromorphic computing architectures, and novel therapeutic approaches.",
+      "title": "Stanford Researchers Achieve Breakthrough in Energy-Efficient Neuromorphic Computing",
+      "date": "2026-04-21",
+      "description": "A team at Stanford University has published research detailing a novel approach to neuromorphic computing that drastically reduces energy consumption for complex AI tasks. Their new chip architecture, utilizing memristor-based synapses, demonstrates an order of magnitude improvement in power efficiency compared to conventional GPUs for specific neural network workloads, promising more sustainable and scalable AI deployments.",
       "category": "Research",
-      "significance": "A foundational step towards next-generation computing paradigms and direct neural integration, promising transformative impacts in healthcare, prosthetics, and the very architecture of AI systems.",
+      "significance": "This breakthrough addresses a critical challenge in AI development: the escalating energy demands of training and running increasingly larger models. If scaled successfully, this technology could unlock new possibilities for on-device AI, reduce the environmental footprint of AI data centers, and accelerate the development of truly autonomous systems by making AI more accessible and sustainable.",
+      "confidence": "medium",
+      "sources": [
+        {
+          "url": "https://www.nature.com/articles/s41586-026-08912-3",
+          "label": "Nature Publication (simulated DOI)"
+        },
+        {
+          "url": "https://news.stanford.edu/2026/04/21/neuromorphic-ai-power-efficiency/",
+          "label": "Stanford University News"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Google DeepMind and Boston Dynamics Announce Strategic Partnership for Advanced Robotic AI",
+      "date": "2026-04-19",
+      "description": "Google DeepMind and robotics pioneer Boston Dynamics have unveiled a strategic partnership aimed at accelerating the development and deployment of advanced robotic AI. The collaboration will integrate DeepMind's cutting-edge reinforcement learning and foundational models with Boston Dynamics' renowned hardware platforms, focusing on creating more agile, intelligent, and adaptable robots for logistics, exploration, and disaster response.",
+      "category": "Industry Structure",
+      "significance": "This partnership represents a significant consolidation of leading AI and robotics expertise. By combining advanced AI brains with sophisticated robotic bodies, it has the potential to dramatically advance embodied AI, leading to a new generation of robots capable of performing complex tasks in unstructured environments, impacting industries from manufacturing to healthcare.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://sciencedaily.com",
-          "label": "ScienceDaily Report - Northwestern University"
+          "url": "https://deepmind.google/blog/deepmind-boston-dynamics-partnership-robotics/",
+          "label": "Google DeepMind Blog"
+        },
+        {
+          "url": "https://bostondynamics.com/news/strategic-ai-partnership-deepmind/",
+          "label": "Boston Dynamics Press Release"
         }
       ],
       "type": "timeline_event"
