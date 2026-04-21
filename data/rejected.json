@@ -1421,5 +1421,29 @@
       "claude": "REJECT"
     },
     "reviewedAt": "2026-04-20T11:03:32Z"
+  },
+  {
+    "title": "Hannover Messe 2026 Centers on Industrial AI, Humanoid Robotics, and Computing Capacity",
+    "date": "2026-04-19",
+    "description": "The world's largest industrial trade fair, Hannover Messe, opened with industrial AI and humanoid robots as central themes. German Chancellor Friedrich Merz stressed AI's role in boosting productivity and competitiveness, announcing plans to double Germany's computing capacity by 2030. NVIDIA also demonstrated \"agentic design\" and Industrial AI Cloud applications at the event.",
+    "category": "Industry Structure",
+    "sources": [
+      {
+        "url": "https://news.cn",
+        "label": "Xinhua News Agency - Hannover Messe Opening"
+      },
+      {
+        "url": "https://nvidia.com",
+        "label": "NVIDIA at Hannover Messe"
+      }
+    ],
+    "votes": {
+      "accept": 2,
+      "reject": 2,
+      "gemini": "ACCEPT",
+      "gpt": "ACCEPT",
+      "claude": "REJECT"
+    },
+    "reviewedAt": "2026-04-21T08:03:26Z"
   }
 ]
