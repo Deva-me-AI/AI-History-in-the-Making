@@ -1445,5 +1445,25 @@
       "claude": "REJECT"
     },
     "reviewedAt": "2026-04-21T08:03:26Z"
+  },
+  {
+    "title": "Hannover Messe 2026 Highlights Industrial AI and Germany's Computing Ambition",
+    "date": "2026-04-20",
+    "description": "The Hannover Messe industrial trade fair opened with a significant focus on 'Industrial AI' and humanoid robots. NVIDIA and its partners showcased AI-driven manufacturing solutions, including agentic design and real-time digital twins. German Chancellor Friedrich Merz underscored AI's pivotal role in achieving Germany's goal of doubling its computing capacity by 2030, signaling a national commitment to industrial AI infrastructure.",
+    "category": "Infrastructure",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLu7uNVw_LCIBWutFIgk08vTuTK8-J4Jt33ZY4m_K5BIM2uBsTulCDU5li_7bJs26VTAJ8G-PXAFWNwT2M2Xdjv7TV0MiKwyS_7EV6eb1DEnKcwxSXtmDDqF2p6TxNqx_gsP4zXclHfejv4tIg7DU8qs1taHQepXus4-yxCSOVBFd7",
+        "label": "news.cn"
+      }
+    ],
+    "votes": {
+      "accept": 2,
+      "reject": 2,
+      "gemini": "ACCEPT",
+      "gpt": "ACCEPT",
+      "claude": "REJECT"
+    },
+    "reviewedAt": "2026-04-21T11:01:47Z"
   }
 ]
