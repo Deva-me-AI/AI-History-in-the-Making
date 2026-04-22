@@ -2,80 +2,80 @@
   "scanDate": "2026-04-22",
   "candidates": [
     {
-      "title": "SpaceX Acquires AI Coding Startup Cursor for $60 Billion",
+      "title": "Google Cloud Unveils Eighth-Generation TPU AI Chips",
       "date": "2026-04-22",
-      "description": "SpaceX reportedly secured an option to acquire the AI coding startup Cursor for $60 billion, signaling Elon Musk’s intent to integrate advanced AI coding tools into the SpaceX/xAI ecosystem.",
-      "category": "Industry Structure",
-      "significance": "This massive acquisition by a major tech and space exploration company indicates a significant consolidation of AI development capabilities and highlights the strategic importance of AI coding tools.",
+      "description": "Google introduced its eighth-generation Tensor Processing Units (TPU 8t and TPU 8i), co-designed with Google DeepMind. These chips are optimized for 'swarming' AI agents and large-scale inference, marking a significant advancement in dedicated AI hardware.",
+      "category": "Infrastructure",
+      "significance": "High (Accelerates AI model training and inference, foundational for future AI development)",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEjs_xhbxdGPcDMr5IQGWQIwby3u3NcNxgZ-gm09_L0D3Rmd8ntkelIILKr1jMKE4wEPTzw2tFLrftS7tYUUxorPDi1JnTNeGNXraD8CRzN52jAhlxZ_NMnef9IR-LNzypNVDSUIFeObs50rX4dnQanli33kRPOl41-j63NDDMclcq8Q7e8Rj3o7yrHMAVZ9AXFZqVS",
-          "label": "heygotrade.com"
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGS6B6OBdTDgzF9I2HpFVUs6MjdHX8Lh1msd2KzR9YQLXcN1basI9fmB9OUoSPWRswb3bQtglXz0oK_N1e1Ho6lmTDnTvOS6F__9Qlp_KEZc63Gv4y516vecZKg5l1Kd_zPgv1XeKNXBdbSIJfJTVUfzuF02scjJDRL1t_WRaV9pV_w5-rGsl1pBfXJSp5iZXiwMZ-EfqbyCDlc7aBjzMmbnlwBV7cAnhHrRvuAPAQ-GGtiWONWhCHvznpGWV0pTA2PA==",
+          "label": "morningstar.com"
         },
         {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNl09_CWW133VI-iBCvl8g93M6yWRA1QV2DBIK6jxU9WSFaFUT0T-YHhcNhfdfv7-3fvu9d8lpkybxs9y7fXsm1Rn8Cuzs-O5s9ctGDg5bS9_otADcyEGrEzMFeCQ-ZEe2V3QcTdxsmxaWq9odEKjC9OsjwEJBpR9xn291cD1rz5FZVg==",
-          "label": "news.cn"
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYMDD3onzSPbD2qmZM_N07uJJqQSbag2kQUqsww0MIDOJrz6B8x0fwrBfGr0hcXqXkssrb-RtzIlci9tYA5X537GyegBmFICv937O_sUWcYb7u_R1C02Y41TQ22CQmK709dXI2xlY2h5Ja5ra283dJTGLXfOZIf7A_RRLfIlrQ_cyQI1mN8vm_GytClMh0hrv_YNEsblIshcQPoNK3Ux3ADibwwXHzJR3Dvi8==",
+          "label": "googlecloudpresscorner.com"
         }
       ],
       "type": "timeline_event"
     },
     {
-      "title": "Google Collaborates with Marvell for Custom AI Chips",
-      "date": "2026-04-20",
-      "description": "Google confirmed it is collaborating with Marvell to develop new custom AI chips, aiming to reduce its long-term reliance on NVIDIA hardware for its massive inference workloads.",
-      "category": "Infrastructure",
-      "significance": "This move by Google, a leading AI developer, to develop proprietary AI hardware signals a major shift in the AI infrastructure landscape, potentially leading to increased competition and innovation in custom chip design.",
-      "confidence": "high",
-      "sources": [
-        {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-smVSYQy0hdD9CCVWht2ZsupIETzzgwFhWIJHhRX8avO3j2Wf5Cm4589NL4BGN7V1N0nHIVh-PAExkpv1gin_arnRSz88FJt2-Uz8_4YD7uT57OiWAUe89MyQgIBcpQ0BpEKbtA==",
-          "label": "youtube.com"
-        }
-      ],
-      "type": "timeline_event"
-    },
-    {
-      "title": "Hannover Messe 2026 Showcases Rise of Physical AI",
+      "title": "EQT Initiates Multi-Trillion-Dollar Strategy for AI Infrastructure",
       "date": "2026-04-21",
-      "description": "The world’s largest industrial trade fair, Hannover Messe, showcased the rise of 'Physical AI,' with humanoid robots and AI-managed production lines demonstrating perception and adaptation in unstructured environments.",
-      "category": "Research",
-      "significance": "The prominent display of advanced physical AI and robotics at a major industrial event indicates a significant acceleration in the integration of AI into real-world, physical tasks, promising transformative changes in manufacturing, logistics, and labor.",
+      "description": "Global investment firm EQT launched a multi-trillion-dollar strategy aimed at constructing the physical foundation necessary for the burgeoning AI economy. This initiative, seeded by EdgeConneX, will focus on scaling data centers and energy infrastructure to meet the immense computational demands of next-generation AI.",
+      "category": "Funding, Infrastructure, Industry Structure",
+      "significance": "High (Represents a critical, large-scale investment in the fundamental resources required to sustain and grow the AI industry over the long term.)",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNl09_CWW133VI-iBCvl8g93M6yWRA1QV2DBIK6jxU9WSFaFUT0T-YHhcNhfdfv7-3fvu9d8lpkybxs9y7fXsm1Rn8Cuzs-O5s9ctGDg5bS9_otADcyEGrEzMFeCQ-ZEe2V3QcTdxsmxaWq9odEKjC9OsjwEJBpR9xn291cD1rz5FZVg==",
-          "label": "news.cn"
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBwGRMOKHOUbnWBWFKxLCHPJX3otC5GU-XJ7cIr5TrnEKP6E4UZshR9wi6C5Oag7Y5X9ageUTAD8uZ72ehNC__EGdRAHnANXhGm6r-l2t80RR25oZXpomstjjHjB72WWfE448roXXMI3dS4PAtpwFiehk0KaibnCBmgzG1tfEG7eI3d8xtib4iNCvhUHbL2K9Mf02scjJDRL1t_WRaV9pV_w5-rGsl1pBfXJSp5iZXiwMZ-EfqbyCDlc7aBjzMmbnlwBV7cAnhHrRvuAPAQ-GGtiWONWhCHvznpGWV0pTA2PA==",
+          "label": "eqtgroup.com"
         }
       ],
       "type": "timeline_event"
     },
     {
-      "title": "Anthropic's Mythos Model Raises Security Concerns",
-      "date": "2026-04-21",
-      "description": "Reports surfaced regarding Anthropic’s Mythos model, with cybersecurity experts warning that its advanced reasoning capabilities could identify and exploit software vulnerabilities faster than human teams can patch them.",
-      "category": "Military & Security",
-      "significance": "The emergence of AI models capable of exploiting software vulnerabilities at an unprecedented pace poses a critical challenge to cybersecurity and highlights the urgent need for advanced AI safety and ethical guidelines.",
-      "confidence": "high",
-      "sources": [
-        {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNl09_CWW133VI-iBCvl8g93M6yWRA1QV2DBIK6jxU9WSFaFUT0T-YHhcNhfdfv7-3fvu9d8lpkybxs9y7fXsm1Rn8Cuzs-O5s9ctGDg5bS9_otADcyEGrEzMFeCQ-ZEe2V3QcTdxsmxaWq9odEKjC9OsjwEJBpR9xn291cD1rz5FZVg==",
-          "label": "news.cn"
-        }
-      ],
-      "type": "timeline_event"
-    },
-    {
-      "title": "Meta's 'Model Capability Initiative' to Track Employee Activity for AI Training",
+      "title": "Anthropic Secures Access to 1 Million Google TPUs for AI Model Training",
       "date": "2026-04-22",
-      "description": "Meta announced it will begin tracking employee keystrokes, mouse movements, and screen activity to train workplace AI agents, aiming to automate administrative tasks but sparking significant privacy debates.",
-      "category": "Policy",
-      "significance": "This initiative by Meta sets a precedent for intrusive data collection for AI training within the workplace, raising profound ethical, legal, and privacy concerns that will likely shape future corporate AI policies and employee rights.",
+      "description": "Anthropic expanded its partnership with Google Cloud, gaining access to up to 1 million Tensor Processing Units (TPUs). This substantial compute allocation is designated for training its next-generation Claude AI models, signaling a significant acceleration in the development of advanced foundational AI.",
+      "category": "Funding, Industry Structure, Model Release",
+      "significance": "High (Massive compute resource commitment for a leading AI lab, crucial for accelerating the development and scaling of next-generation AI models.)",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJPL2SId9BqIJq6WD_YeO78IJrgih0IRhhrfsp2_-XqTbCHF6fUBf-bYBKvZ6xbTSXIFkGA0JaI34KKaU8BI_ty7BoXnLKxd2M8_CRJVu5ovgXW44mR5JVMKW2EJkTrXiUPgS_koM38m_lRzBg0iQltYZVZ4EmvI8PppL3HCjwzloTpeGJkwqUhIy9LSWNQZk6ktjtl7AAM2VIUKXailAt57uC2VEdGMqgv9Flu4Dd_S_K",
-          "label": "computerworld.com"
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGS6B6OBdTDgzF9I2HpFVUs6MjdHX8Lh1msd2KzR9YQLXcN1basI9fmB9OUoSPWRswb3bQtglXz0oK_N1e1Ho6lmTDnTvOS6F__9Qlp_KEZc63Gv4y516vecZKg5l1Kd_zPgv1XeKNXBdbSIJfJTVUfzuF02scjJDRL1t_WRaV9pV_w5-rGsl1pBfXJSp5iZXiwMZ-EfqbyCDlc7aBjzMmbnlwBV7cAnhHrRvuAPAQ-GGtiWONWhCHvznpGWV0pTA2PA==",
+          "label": "morningstar.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "UK Metropolitan Police Explores AI-Driven Intelligence Automation with Palantir",
+      "date": "2026-04-22",
+      "description": "The Metropolitan Police in the UK is reportedly in discussions with Palantir to automate intelligence analysis for criminal investigations. This potential multimillion-pound deal has generated internal and public concerns regarding data privacy, civil liberties, and the use of 'spy-tech' in policing.",
+      "category": "Policy, Military & Security",
+      "significance": "High (Raises critical ethical, privacy, and policy debates around AI's role in law enforcement, with long-term implications for civil liberties and societal trust.)",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsSPTDvW0mdxf_fvYxAIHMhEGZYmZ8RJnbeaxP-F6vqcEWySfVEMQ8e2L2vWyKFXRu_GiIFErvf50QeTFVRkMa8v8NOmNBjYCd6gnqP7xzTYWEU-xtUQH7fvbWCgPBNx6BuSsBYgjdqArqoj0BN-K16EB9_6KTwGjvzicrinP0vvcPuBe8Ci3rkm4lqQDcqsXuG0wJ18d_yCOANIjKpIx_kyYPVy8V6oXoNtPeMhYNgnyNlG8zMmbnlwBV7cAnhHrRvuAPAQ-GGtiWONWhCHvznpGWV0pTA2PA==",
+          "label": "theguardian.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Canada Launches Initiative for Sovereign AI Stack with Levio and Mantle",
+      "date": "2026-04-22",
+      "description": "Levio and Mantle Technologies announced a partnership in Canada to build a 'Sovereign AI stack.' This initiative aims to keep sensitive government and enterprise data within national boundaries by leveraging distributed fragmentation architecture, addressing growing concerns about data sovereignty and national security in AI development.",
+      "category": "Policy, Infrastructure",
+      "significance": "High (Indicates a significant geopolitical trend toward national AI self-sufficiency and data sovereignty, likely influencing future international AI policy and infrastructure development.)",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhjGz_JSibGk5zuSUd_LAT5hTifK32qs-lCRLoZjZFn-RtPPCV1YNwUtpo0GO1ObC6E6znqdd9WILD43gjKN_VwekeRJp-KINYXeqR0cd4rGJftruj77ljhdN6Wsn5AhJrdZd2vUKAhFjTUPSTiKm29d7rk7SMWczfAwmzMmbnlwBV7cAnhHrRvuAPAQ-GGtiWONWhCHvznpGWV0pTA2PA==",
+          "label": "newswire.ca"
         }
       ],
       "type": "timeline_event"
