@@ -1,1 +1,81 @@
-{"scanDate":"2026-04-22","candidates":[],"questionUpdates":[]}
+{
+  "scanDate": "2026-04-22",
+  "candidates": [
+    {
+      "title": "Google Announces Industrial Rollout of Gemini 3 Pro and Gemini Agent Platform",
+      "date": "2026-04-22",
+      "description": "At Google Cloud Next '26, Google announced the industrial rollout of its advanced AI model, Gemini 3 Pro, and introduced the Gemini Agent Platform, designed to address challenges in deploying autonomous agents for enterprise use.",
+      "category": "Model Release, Infrastructure",
+      "significance": "This marks a critical step in making advanced AI models and autonomous agents accessible and deployable at scale for businesses, potentially transforming enterprise operations and accelerating the adoption of agentic AI.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://magen-ai.com",
+          "label": "magen-ai.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "OpenAI Upgrades ChatGPT Images to Version 2.0 with \"Thinking Capabilities\"",
+      "date": "2026-04-21",
+      "description": "OpenAI released a significant upgrade to its image generation model, ChatGPT Images 2.0, which now features \"thinking capabilities\" allowing it to search the internet for real-time information before generating up to eight images simultaneously. It also supports multiple languages.",
+      "category": "Model Release",
+      "significance": "The introduction of \"thinking capabilities\" and real-time information access significantly advances multimodal AI, blurring the lines between language and vision models and enabling more contextually aware and diverse image generation.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoslhW3JTQP61sCKyR1IhF2nga8djlqb1l_dzfwF8YMRQvkBymYglbMUyoZIyNuK4SwIEaWr-iA3gmcYNd5bs2hzNhRNmC3MD-7jtUxIrZPS_5FLgz9lTxullnoIlQ_UoySIzjf-PKcDbXyWnQsn5NZoHZVcy3jKNyJCv4QNS1Xtj_hoSkCQqADTAKPXRtVrSPhzQsfA==",
+          "label": "aibusiness.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Eridu Emerges from Stealth with $200M+ Funding, Claims AI Networking Breakthrough",
+      "date": "2026-04-20",
+      "description": "Startup Eridu announced its official launch with over $200 million in funding, revealing a breakthrough in AI-specific networking technology designed to overcome the \"network wall\" bottleneck currently hindering data center performance for large-scale AI operations.",
+      "category": "Infrastructure, Funding",
+      "significance": "Addressing fundamental networking limitations is crucial for the continued scaling and efficiency of AI data centers, potentially unlocking new frontiers in AI model size and complexity and accelerating development across the industry.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGkFXXxxduCUO3z0n1Jncbopsn-cFXF7truGtSHXbldHSGhSG1dG61uOQBTk7zdV-wXVPRtr94d9wBVJrC_YihAl8GKB1pGE8ASBgt-oiWk5Yf9jl-gkyYYn2ihD-0_nd7cbONif-SSFiuIKZcqAAj04_09bfREyUKmHhqQQmK3_IZfLDS74edL-LZ-p_LmstZ6DMS79Ucxth58GV5Bjo37XnwnxKF",
+          "label": "futurumgroup.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Michael and Susan Dell Donate $750M to UT Austin for AI-Native Medical Center",
+      "date": "2026-04-22",
+      "description": "Michael and Susan Dell announced a donation of $750 million to the University of Texas at Austin to establish a new AI-native medical center and research campus.",
+      "category": "Funding, Research",
+      "significance": "This substantial investment will drive interdisciplinary research and development in AI for healthcare, potentially leading to significant advancements in medical diagnostics, treatment, and patient care, and fostering a new generation of AI talent in the medical field.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSz7voRu_0fDkiTR9goBK0Zr6xQx9AXuUKx8jjEmY3dlXBhdj4FfXzoW-DJd-8_wJEpyL5acX-erJjiMSlRV31_4YtkUeLNFOfn0LuWyX5w6TNBale8p10xc5eAU0s6EjX4X9Qqpn7pOFT_QMzz-mG9CnPn_xRuUs1z6KCxpfz8XKQDOqaqksrVRX95HuL2FqvA2FPN2lIiYwGrMJQAZnHnNg4l",
+          "label": "histalk2.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Adobe Unveils \"CX Enterprise\" Agentic AI System for Marketing Orchestration",
+      "date": "2026-04-20",
+      "description": "At the Adobe Summit, Adobe introduced \"CX Enterprise,\" an end-to-end agentic AI system designed for marketing orchestration, developed in collaboration with NVIDIA, Microsoft, and OpenAI.",
+      "category": "Industry Structure, Model Release",
+      "significance": "This product launch signifies a major push towards autonomous AI agents in enterprise marketing, offering new capabilities for personalized customer experiences and potentially reshaping the marketing technology landscape through deeper AI integration.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF45-21p_-XGQGsHv5mJ7JfwFhQRWMv0B8UFBycG9lwbI7GL_hyJQLbT2uRohfSLJ8K4gFnpDQWQmrqu4YwPykyrYzCHFoHKJ3U61F2jo--sGjNyooMOChoh3fXa94jrT0zaKtXonjisfj9xfHbxoDQBqjVnnghd9Bhc2epLmc7tIA=",
+          "label": "adobe.com"
+        }
+      ],
+      "type": "timeline_event"
+    }
+  ],
+  "questionUpdates": []
+}
