@@ -3929,5 +3929,44 @@
       }
     ],
     "issueNumber": 375
+  },
+  {
+    "title": "Utah Launches \"AI Doctor\" Pilot for Prescription Refills",
+    "date": "2026-04-21",
+    "description": "Utah, in partnership with Doctronic, has launched a pilot program allowing an AI system to handle prescription refills for 190 common medications. This initiative aims to improve access to healthcare but has ignited significant debate regarding medical liability and the ethical implications of AI replacing human clinicians.",
+    "category": "Policy, Industry Structure",
+    "sources": [
+      {
+        "url": "https://washingtonpost.com",
+        "label": "washingtonpost.com"
+      }
+    ],
+    "issueNumber": 378
+  },
+  {
+    "title": "Nexus AI Suffers Massive Data Breach Exposing Sensitive Datasets",
+    "date": "2026-04-19",
+    "description": "A major security failure at Nexus AI resulted in the exposure of millions of customer records, including sensitive proprietary fine-tuning datasets. This incident delivers a substantial blow to the AI security landscape, highlighting vulnerabilities in AI data handling.",
+    "category": "Military & Security, Policy",
+    "sources": [
+      {
+        "url": "https://aibreakingwire.com",
+        "label": "aibreakingwire.com"
+      }
+    ],
+    "issueNumber": 379
+  },
+  {
+    "title": "Market Analysts Report AI Investment Pivot to Physical Infrastructure",
+    "date": "2026-04-21",
+    "description": "Market analysts are reporting a significant shift in AI investment, moving towards physical infrastructure such as data centers and fiber optics. This pivot is driven by the recognition that computing capacity has become a primary bottleneck for AI development and deployment.",
+    "category": "Infrastructure, Industry Structure, Funding",
+    "sources": [
+      {
+        "url": "https://bnnbloomberg.ca",
+        "label": "bnnbloomberg.ca"
+      }
+    ],
+    "issueNumber": 380
   }
 ]

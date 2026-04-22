@@ -1465,5 +1465,45 @@
       "claude": "REJECT"
     },
     "reviewedAt": "2026-04-21T11:01:47Z"
+  },
+  {
+    "title": "OpenAI Codex Gains Direct Operating System Control",
+    "date": "2026-04-19",
+    "description": "A significant update to the OpenAI Codex app now enables the AI to directly control macOS and Windows operating systems, allowing it to perform complex tasks across multiple applications autonomously. This marks a major leap in AI autonomy and its integration into daily computing.",
+    "category": "Model Release, Research, Infrastructure",
+    "sources": [
+      {
+        "url": "https://aibreakingwire.com",
+        "label": "aibreakingwire.com"
+      }
+    ],
+    "votes": {
+      "accept": 2,
+      "reject": 2,
+      "gemini": "ACCEPT",
+      "gpt": "ACCEPT",
+      "claude": "REJECT"
+    },
+    "reviewedAt": "2026-04-22T08:02:48Z"
+  },
+  {
+    "title": "Google Begins Global Rollout of Chrome \"AI Mode\"",
+    "date": "2026-04-19",
+    "description": "Google has initiated the global rollout of a native AI Mode within its Chrome browser, integrating Gemini capabilities directly for real-time article summarization and contextual Q&A. This move brings advanced AI features to millions of users, fundamentally altering web browsing and information consumption.",
+    "category": "Industry Structure, Model Release",
+    "sources": [
+      {
+        "url": "https://aibreakingwire.com",
+        "label": "aibreakingwire.com"
+      }
+    ],
+    "votes": {
+      "accept": 1,
+      "reject": 1,
+      "gemini": "ABSTAIN",
+      "gpt": "ACCEPT",
+      "claude": "REJECT"
+    },
+    "reviewedAt": "2026-04-22T08:04:44Z"
   }
 ]
