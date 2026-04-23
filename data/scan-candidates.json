@@ -1,1 +1,85 @@
-{"scanDate":"2026-04-23","candidates":[],"questionUpdates":[]}
+{
+  "scanDate": "2026-04-23",
+  "candidates": [
+    {
+      "title": "Anthropic's \"Claude Mythos\" Security Breach",
+      "date": "2026-04-22",
+      "description": "Anthropic confirms investigation into unauthorized access of 'Claude Mythos', its unreleased and most powerful AI model, capable of autonomously exploiting zero-day vulnerabilities. The model was previously withheld due to its potential for global systemic risk.",
+      "category": "Policy",
+      "significance": "Highlights critical vulnerabilities in frontier AI models and the urgent need for robust AI security measures and governance frameworks. The breach of such a powerful and dangerous model could accelerate regulatory efforts and reshape public trust in AI safety protocols.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6Y04fqEZFTSVcA66sT9ctiSvX0KyvU548AXNWO-rJGzVIt4EL6HXzRDTO5VV-D7vQl2s9mr-pkTsMJWVhVnE50aP-CyQoWNesYe2jq3S2OPrhyQogkIuUeuib_bvp1aWoZB0pZeIe-YGZnVw-VUnuIYKjpYOS-6Xa9tWPSazS9bSoYkjsx6qeI56B3rwJrNYy59LtWDb2uQdVWmOPs3vEwBEvHA==",
+          "label": "theguardian.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "SpaceX Bids $60 Billion for AI Coding Startup Cursor",
+      "date": "2026-04-22",
+      "description": "SpaceX is reportedly moving to acquire AI coding startup Cursor for approximately $60 billion. This acquisition is seen as Elon Musk's aggressive push to dominate the AI developer tools market, integrating Cursor with xAI’s 'Colossus' supercomputer infrastructure.",
+      "category": "Funding",
+      "significance": "A monumental acquisition that could dramatically reshape the competitive landscape for AI developer tools. It signifies a major investment in the future of AI-assisted software development and further consolidates AI power within a few key tech giants.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEKDCsDdi_EXrYinN1gc0_1VWH1IUVXzqH0mVIGCeI3_44Czx5BgfUsES7s6x6UiMKudz5TW03lekiyn8JGJErkctqjtP29hCHaxCAb5Y3XKpzlI23ozaLeniRH42yAHHZNtEx-wbGFkGCM2cVFnDcB7xQIXE918MdH_mnQturQt3sQt6J2vYmdsrou69DzXGH59B0=",
+          "label": "heygotrade.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Google Cloud Next '26 Unveils 'Agentic Era' and New AI Infrastructure",
+      "date": "2026-04-22",
+      "description": "Google Cloud announced a massive infrastructure expansion focused on 'Agentic AI', introducing TPU 8t and TPU 8i, A5X instances (NVIDIA Vera Rubin architecture), a $1 billion deal with Merck for drug discovery, and a $750 million fund for AI agent development partners.",
+      "category": "Infrastructure",
+      "significance": "Marks a significant shift towards autonomous AI systems and demonstrates Google's commitment to providing cutting-edge hardware and platforms for developing and deploying 'Agentic AI'. These investments are crucial for the next generation of AI applications and enterprise adoption.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHp8dYZJRElI4Pn-l0iwSsK8qoygA-cEeORhQS0Owuh_3nI-9kXCqCw6ziTYxA-9n34zjs88RsgOe_UhrxjuL2rkQjPhJyxOmXszV6NLKrSl50hhDtz4rHwT-SoYAWfn58nOW6w4DoAJhtwIWvsdnKqz_71EF1eXaJy3CQGQtSZcjLowrU=",
+          "label": "google.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "AI Discovers New Laws of Physics in Dusty Plasma",
+      "date": "2026-04-23",
+      "description": "Physicists at Emory University, using a custom neural network, successfully identified 'non-reciprocal forces' within dusty plasma, uncovering new laws of nature with 99% accuracy. This breakthrough challenges existing physical assumptions.",
+      "category": "Research",
+      "significance": "Represents a profound advancement in AI's role in fundamental scientific discovery, moving beyond data analysis to actively uncover new principles of the universe. This could revolutionize research methodologies across scientific disciplines in the coming decades.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEy8b0kFhaLQ2daHGaG1m_FVlcRjuex7SmuXyPxYBIO2iKY4o2GcR7kUPkwpniPryTdIEKFPwtt79w_rog6yIZcHQgZ3vOU54udP-_bjJMkm8-5rLfJ0WsFHPzfw4xg47bC5Gbr2syt-8WVNWVZdpvZPQ-03ibFnG6HP",
+          "label": "sciencedaily.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Global Push for Sovereign AI Infrastructure Intensifies",
+      "date": "2026-04-23",
+      "description": "The UK announces plans for 14 megawatts of sovereign AI data centers with BT and Nscale using NVIDIA infrastructure. Concurrently, Applied Digital secures a $7.5 billion lease for a 430 MW 'AI Factory' campus in the U.S. with a major hyperscaler.",
+      "category": "Infrastructure",
+      "significance": "Highlights the accelerating global race for AI compute capacity and national sovereignty in AI. These massive investments in dedicated AI infrastructure indicate a long-term strategic shift to ensure data residency, security, and control over critical AI capabilities at a national level.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHNpkrOuuNLzOwUXbfQqOyic81UxcelKzMhR2qgQ2fmgFKJIPr4G-CZ7LA4zQvAwZ3_jCn7xrSYkd0286iWRJIeOCLwo3JGwTVR2sWKiC9eqHotzsmyarwrLm7bh_AnclkhtYlMZd5qEvLvVKUcqg==",
+          "label": "nscale.com"
+        },
+        {
+          "url": "https://www.prnewswire.com/news-releases/applied-digital-secures-7-5b-lease-with-major-hyperscaler-for-430mw-ai-factory-campus-302123512.html",
+          "label": "prnewswire.com"
+        }
+      ],
+      "type": "timeline_event"
+    }
+  ],
+  "questionUpdates": []
+}
