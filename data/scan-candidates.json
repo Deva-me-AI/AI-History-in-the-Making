@@ -1,77 +1,62 @@
 {
-  "scanDate": "2026-04-22",
+  "scanDate": "2026-04-23",
   "candidates": [
     {
-      "title": "Google Announces Industrial Rollout of Gemini 3 Pro and Gemini Agent Platform",
+      "title": "Merck and Google Cloud Announce $1 Billion Partnership for Agentic AI in Drug Discovery",
       "date": "2026-04-22",
-      "description": "At Google Cloud Next '26, Google announced the industrial rollout of its advanced AI model, Gemini 3 Pro, and introduced the Gemini Agent Platform, designed to address challenges in deploying autonomous agents for enterprise use.",
-      "category": "Model Release, Infrastructure",
-      "significance": "This marks a critical step in making advanced AI models and autonomous agents accessible and deployable at scale for businesses, potentially transforming enterprise operations and accelerating the adoption of agentic AI.",
+      "description": "Merck and Google Cloud forged a $1 billion strategic partnership to integrate an 'agentic ecosystem' powered by Gemini Enterprise across Merck’s R&D and manufacturing functions. This collaboration aims to significantly accelerate the drug discovery process by leveraging advanced AI agents.",
+      "category": "Industry Structure",
+      "significance": "This massive investment in applying cutting-edge AI agents to pharmaceutical research and development could set a new industry standard, leading to faster drug discovery and development cycles that will impact healthcare globally.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://magen-ai.com",
-          "label": "magen-ai.com"
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHmxLjdvPT9UI_Yqxjptn74BlhYfphfPfNFHkaLJ-1GN70Fd5Y3EvA0YQkuEBvwcn2tsN__UWmEGnacMdlbsrXia7G9MmGIL7Xa9vX6Pir0uc5Q_YC5gKojzXAPE_k8vlfSsgCAb6ebAzVnhamGxyLrKIM5CKwn4ULstKMkOm74-pF8DRnEC3q9IS_QFz2PVGn5NbiXafojsCynpa46vHNtkXFv7stOA4o=",
+          "label": "merck.com"
         }
       ],
       "type": "timeline_event"
     },
     {
-      "title": "OpenAI Upgrades ChatGPT Images to Version 2.0 with \"Thinking Capabilities\"",
-      "date": "2026-04-21",
-      "description": "OpenAI released a significant upgrade to its image generation model, ChatGPT Images 2.0, which now features \"thinking capabilities\" allowing it to search the internet for real-time information before generating up to eight images simultaneously. It also supports multiple languages.",
+      "title": "Google Unveils 'Workspace Intelligence' for Autonomous AI Agent Integration",
+      "date": "2026-04-23",
+      "description": "Google launched 'Workspace Intelligence,' a new system designed to seamlessly connect and analyze data across its popular productivity applications, including Docs, Slides, and Gmail. This system empowers AI agents to perform complex, multi-step tasks autonomously, reducing the need for direct user intervention.",
       "category": "Model Release",
-      "significance": "The introduction of \"thinking capabilities\" and real-time information access significantly advances multimodal AI, blurring the lines between language and vision models and enabling more contextually aware and diverse image generation.",
+      "significance": "This release represents a significant leap towards fully autonomous AI agents embedded in everyday productivity tools. It is expected to redefine how knowledge workers interact with software, leading to profound changes in office workflows and overall productivity over the next decade.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHoslhW3JTQP61sCKyR1IhF2nga8djlqb1l_dzfwF8YMRQvkBymYglbMUyoZIyNuK4SwIEaWr-iA3gmcYNd5bs2hzNhRNmC3MD-7jtUxIrZPS_5FLgz9lTxullnoIlQ_UoySIzjf-PKcDbXyWnQsn5NZoHZVcy3jKNyJCv4QNS1Xtj_hoSkCQqADTAKPXRtVrSPhzQsfA==",
-          "label": "aibusiness.com"
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEUvEsPe239jUQkUcZHo489fX0UeTvVwLNdT4E1LeCPusHt9PythrYgsMcVKJVuwmnEH7elOyFdFTc41MtEwW4EeKdiKWOmGI218d8egIDXTrO21V-jsLQmDpeosLoNbjb9zjYnRxQ6TvvP2r7SgadKTkcvHp3ZTQP383Lzlhf4XKWkWXXHvmcdFgyD6IYdNDQN-JFc7IFgX7q-E9GlQ4ysUyJRQipM_FHBEYiU",
+          "label": "qna.org.qa"
         }
       ],
       "type": "timeline_event"
     },
     {
-      "title": "Eridu Emerges from Stealth with $200M+ Funding, Claims AI Networking Breakthrough",
-      "date": "2026-04-20",
-      "description": "Startup Eridu announced its official launch with over $200 million in funding, revealing a breakthrough in AI-specific networking technology designed to overcome the \"network wall\" bottleneck currently hindering data center performance for large-scale AI operations.",
-      "category": "Infrastructure, Funding",
-      "significance": "Addressing fundamental networking limitations is crucial for the continued scaling and efficiency of AI data centers, potentially unlocking new frontiers in AI model size and complexity and accelerating development across the industry.",
+      "title": "Fujitsu and CMU Establish Joint Research Center for 'Physical AI'",
+      "date": "2026-04-23",
+      "description": "Fujitsu and Carnegie Mellon University announced the establishment of a joint research center dedicated to 'Physical AI.' The center will focus on developing AI systems capable of interacting directly and intelligently with the real world, with initial research areas targeting advancements in manufacturing and healthcare.",
+      "category": "Lab Formation",
+      "significance": "The creation of a dedicated research hub for 'Physical AI' underscores a growing recognition of the need for embodied intelligence. This initiative will drive fundamental breakthroughs essential for next-generation robotics, autonomous systems, and pervasive automation, impacting industries well beyond its initial focus.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHGkFXXxxduCUO3z0n1Jncbopsn-cFXF7truGtSHXbldHSGhSG1dG61uOQBTk7zdV-wXVPRtr94d9wBVJrC_YihAl8GKB1pGE8ASBgt-oiWk5Yf9jl-gkyYYn2ihD-0_nd7cbONif-SSFiuIKZcqAAj04_09bfREyUKmHhqQQmK3_IZfLDS74edL-LZ-p_LmstZ6DMS79Ucxth58GV5Bjo37XnwnxKF",
-          "label": "futurumgroup.com"
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYQ0NRHliOOk_Sk1JAF2oGSl1GpAltIyhAuC_Xmcpm_d4KBF85taO7QVoIzQ6IVthkSPd_GvhyJhzfP6mp2PLSse4B2eYq3K3bTWlasvMH0jhih9ar0EVQFfiMdZdrmVspl0D2ey6YG1mMuh14s96grg==",
+          "label": "global.fujitsu"
         }
       ],
       "type": "timeline_event"
     },
     {
-      "title": "Michael and Susan Dell Donate $750M to UT Austin for AI-Native Medical Center",
-      "date": "2026-04-22",
-      "description": "Michael and Susan Dell announced a donation of $750 million to the University of Texas at Austin to establish a new AI-native medical center and research campus.",
-      "category": "Funding, Research",
-      "significance": "This substantial investment will drive interdisciplinary research and development in AI for healthcare, potentially leading to significant advancements in medical diagnostics, treatment, and patient care, and fostering a new generation of AI talent in the medical field.",
+      "title": "University of Cambridge Researchers Unveil Energy-Efficient Brain-Like Computing Device",
+      "date": "2026-04-23",
+      "description": "Researchers at the University of Cambridge published a groundbreaking study detailing a novel nanoelectronic device fabricated from hafnium oxide. This device effectively mimics the function of human neurons, demonstrating the potential to reduce the energy consumption of AI systems by an unprecedented 70%.",
+      "category": "Research",
+      "significance": "This breakthrough in AI hardware development has profound long-term implications for the sustainability and scalability of artificial intelligence. By drastically lowering energy requirements, it enables the development of larger, more complex, and more ubiquitous AI models, mitigating environmental concerns and expanding accessibility.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSz7voRu_0fDkiTR9goBK0Zr6xQx9AXuUKx8jjEmY3dlXBhdj4FfXzoW-DJd-8_wJEpyL5acX-erJjiMSlRV31_4YtkUeLNFOfn0LuWyX5w6TNBale8p10xc5eAU0s6EjX4X9Qqpn7pOFT_QMzz-mG9CnPn_xRuUs1z6KCxpfz8XKQDOqaqksrVRX95HuL2FqvA2FPN2lIiYwGrMJQAZnHnNg4l",
-          "label": "histalk2.com"
-        }
-      ],
-      "type": "timeline_event"
-    },
-    {
-      "title": "Adobe Unveils \"CX Enterprise\" Agentic AI System for Marketing Orchestration",
-      "date": "2026-04-20",
-      "description": "At the Adobe Summit, Adobe introduced \"CX Enterprise,\" an end-to-end agentic AI system designed for marketing orchestration, developed in collaboration with NVIDIA, Microsoft, and OpenAI.",
-      "category": "Industry Structure, Model Release",
-      "significance": "This product launch signifies a major push towards autonomous AI agents in enterprise marketing, offering new capabilities for personalized customer experiences and potentially reshaping the marketing technology landscape through deeper AI integration.",
-      "confidence": "high",
-      "sources": [
-        {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF45-21p_-XGQGsHv5mJ7JfwFhQRWMv0B8UFBycG9lwbI7GL_hyJQLbT2uRohfSLJ8K4gFnpDQWQmrqu4YwPykyrYzCHFoHKJ3U61F2jo--sGjNyooMOChoh3fXa94jrT0zaKtXonjisfj9xfHbxoDQBqjVnnghd9Bhc2epLmc7tIA=",
-          "label": "adobe.com"
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIGwfB3mYms0RXPMVEALkpHEBNnEmUi_ONSm_ztCVuOUzi560yo7Sdk8BkqUGmHeJi47g1OIDRncW3uHZ3xxMAdqhHJzyXg4siyFbdFP7ssx5Gmeuh_6kU2_6Mji04Ad6E0tyQvXQ840AB9SGk85Vwg1glKQUqwDjO",
+          "label": "sciencedaily.com"
         }
       ],
       "type": "timeline_event"
