@@ -1505,5 +1505,45 @@
       "claude": "REJECT"
     },
     "reviewedAt": "2026-04-22T08:04:44Z"
+  },
+  {
+    "title": "Anthropic's \"Claude Mythos\" Security Breach",
+    "date": "2026-04-22",
+    "description": "Anthropic confirms investigation into unauthorized access of 'Claude Mythos', its unreleased and most powerful AI model, capable of autonomously exploiting zero-day vulnerabilities. The model was previously withheld due to its potential for global systemic risk.",
+    "category": "Policy",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6Y04fqEZFTSVcA66sT9ctiSvX0KyvU548AXNWO-rJGzVIt4EL6HXzRDTO5VV-D7vQl2s9mr-pkTsMJWVhVnE50aP-CyQoWNesYe2jq3S2OPrhyQogkIuUeuib_bvp1aWoZB0pZeIe-YGZnVw-VUnuIYKjpYOS-6Xa9tWPSazS9bSoYkjsx6qeI56B3rwJrNYy59LtWDb2uQdVWmOPs3vEwBEvHA==",
+        "label": "theguardian.com"
+      }
+    ],
+    "votes": {
+      "accept": 2,
+      "reject": 2,
+      "gemini": "ACCEPT",
+      "gpt": "ACCEPT",
+      "claude": "REJECT"
+    },
+    "reviewedAt": "2026-04-23T20:00:49Z"
+  },
+  {
+    "title": "Google Cloud Next '26 Unveils 'Agentic Era' and New AI Infrastructure",
+    "date": "2026-04-22",
+    "description": "Google Cloud announced a massive infrastructure expansion focused on 'Agentic AI', introducing TPU 8t and TPU 8i, A5X instances (NVIDIA Vera Rubin architecture), a $1 billion deal with Merck for drug discovery, and a $750 million fund for AI agent development partners.",
+    "category": "Infrastructure",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHp8dYZJRElI4Pn-l0iwSsK8qoygA-cEeORhQS0Owuh_3nI-9kXCqCw6ziTYxA-9n34zjs88RsgOe_UhrxjuL2rkQjPhJyxOmXszV6NLKrSl50hhDtz4rHwT-SoYAWfn58nOW6w4DoAJhtwIWvsdnKqz_71EF1eXaJy3CQGQtSZcjLowrU=",
+        "label": "google.com"
+      }
+    ],
+    "votes": {
+      "accept": 2,
+      "reject": 2,
+      "gemini": "ACCEPT",
+      "gpt": "ACCEPT",
+      "claude": "REJECT"
+    },
+    "reviewedAt": "2026-04-23T20:02:10Z"
   }
 ]
