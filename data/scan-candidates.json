@@ -1,1 +1,85 @@
-{"scanDate":"2026-04-23","candidates":[],"questionUpdates":[]}
+{
+  "scanDate": "2026-04-24",
+  "candidates": [
+    {
+      "title": "AI-Driven Layoffs at Meta & Microsoft",
+      "date": "2026-04-23",
+      "description": "Meta announced a 10% workforce reduction (approx. 8,000 employees), and Microsoft offered voluntary retirement to 7% of its U.S. staff, both citing the need to offset massive AI investments and the increasing productivity provided by AI.",
+      "category": "Industry Structure",
+      "significance": "Signifies a major economic and societal impact of AI on the labor market, accelerating trends of automation and workforce restructuring due to advanced AI capabilities.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFk0GCq5xLnPrxcqm-GxGkUh1QYHAx7q6PZI8FtLRbcgdvk2rhfzQZqcwnZVJzXF_KLWWUvJTeMS_41mfRewVQnNckmBLWwViwT54y8ATPtZM4x0mhMfd3BrTV1N32RV8WqcAIkO16i-qLrAVFZHShw-4W91OmtxIkQkFD9alBptuK6RjVDXd4LgX1T3rlLXmLoQgL6Po8vLjND2nY7rXG4omta8wh5aWzcJjCK",
+          "label": "infoworld.com"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFvWaP9Q--iDssFjcNFondzbgCTwG-oTY3vpVy_ULgDqzt6Q1zVCphCGhmuFv8c-CXpuz_xB4LMtQ1ApsC6ABbJYDrXqPOeQUnqoqtDfoZ7QtL3zVZLEMoFRRRXgdfCN9TAok3DelX5VBHToaWSte4LUXQhDQM5ZVOYfTvrZVqqam_CmVCKy3XCAC_sbQ==",
+          "label": "theguardian.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Anthropic 'Mythos' Security Breach",
+      "date": "2026-04-22",
+      "description": "Unauthorized users reportedly gained access to Anthropic's unreleased Mythos model, which the company warned has 'unprecedented' capabilities for identifying and exploiting software vulnerabilities.",
+      "category": "Military & Security",
+      "significance": "Highlights critical emerging risks in AI safety and security, demonstrating the potential for powerful AI models to be misused for vulnerability exploitation, with long-term implications for cybersecurity and AI governance.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiBiu39GyxIf_GYjBkzSs5a0EOngX4fcF1DRZOzdtkipSX4J5R5hlRhbC9tSwBlCjYZi_H2CTDzTXKfA_jZGKJEGhAA5Bj7Xec95bPRLdoZ6HjcmYcTYVaZSxlv0IERhWmhR6SIc57oiYnGJLdSdn5bB05P3OG8kNUMVnUrNAGbCMuuIxdjmU6oJMLEU9RKo9VmJZyda3WoGWqaFxzErbKEMRNTU67-pkS6mPZmuV6mmkaDf66eZpd_NKq7NtBed5wU_RiZ225EeEVR_oRYpllATGM7rAmcUd0azY=",
+          "label": "snowflake.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "U.S.-China AI Crackdown on Model 'Distillation'",
+      "date": "2026-04-24",
+      "description": "The Trump administration vowed to crack down on Chinese firms 'distilling' or extracting capabilities from U.S. AI models, with Chief Science Adviser Michael Kratsios issuing a memo targeting 'industrial-scale campaigns' by foreign entities to exploit American AI innovation.",
+      "category": "Policy",
+      "significance": "Represents a major escalation in geopolitical tensions surrounding AI, with long-term implications for global AI development, intellectual property, and international collaboration.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhpO43YrO_zcqL63Bj3Ma4jjdIldF8vDg550Eb9fVxD1gWywDSGPoOrXQH9yDSMCjnQVMmBTZO9Y-CAKCQRIUowWPFnUShlWSfWIP0VQ2eiQnBfKkaeLYYZWZ0nIdgtlDqExPicfO-yLCg01mr_P_lJLojd5GVYJP0R-9rOf5UFJ66gqyHiRC5tclv_-DEEIrhfAX7duAVL7s9aAZ0Ob8gnMbsb0Q7CmA==",
+          "label": "tpr.org"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Delivery Hero Unveils 'Herogen' Autonomous Software Agent",
+      "date": "2026-04-24",
+      "description": "Delivery Hero launched 'Herogen,' an autonomous software delivery agent capable of performing the coding output of 130 senior engineers, already handling 9% of all code change requests across the company.",
+      "category": "Industry Structure",
+      "significance": "Demonstrates the accelerating trend of agentic AI replacing human roles in complex fields like software engineering, indicating a significant shift in future workforce dynamics and productivity models.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFIVxPRJeCCx6I8wzvm5zvS2uDoE5SrOvi5O17Z1cMrrXgYjHUqtvm_kCl5OwemFWd7Glf7tajclPM-1JTv4GqhGVrlKkO_A_d9Y4hrWc6zEqbLDVQS1BT5U80kFo5lEC7g1ptD_Mp70iaM_CIgOSXVJizdsgjracDOXN_BDDSzsuIggiXCqY_9OQxDPQfnsWsoWQmu9p6Umf8t6uou9-uoQXdvilGwjzgpRqeL4q8-s7iCloa_GoReUw==",
+          "label": "deliveryhero.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Merck and Google Cloud Partner for $1 Billion AI Transformation",
+      "date": "2026-04-22",
+      "description": "Merck (MSD) and Google Cloud announced a $1 billion partnership to deploy an 'agentic platform' across Merck’s R&D and manufacturing, utilizing Google’s Gemini Enterprise models.",
+      "category": "Industry Structure",
+      "significance": "Represents a massive investment and large-scale real-world adoption of advanced AI (agentic platforms) in a traditional industry, showcasing AI's transformative potential for pharmaceutical R&D and manufacturing.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGi3_gn_qNdEqf1O4EzNRNuvK8aKk9_VoUWLz9CCETqMxja5olFiOdJCPPssorIwUFQRtmBD4IO-PSA3P--lqkOu0ByEjFeJH0aicXAjzZPnM9WYmhrvMlpnEbbbYaZPEhZZE_cGFtra4KYwne9mQZfEg3KW4TQ3LAIYr5PprLL5jDwXI1ptZy7YH0p1LhXMiSKM3JShM2sQjmPGfiZ4xLg1PzdkTv-6HE=",
+          "label": "merck.com"
+        }
+      ],
+      "type": "timeline_event"
+    }
+  ],
+  "questionUpdates": []
+}
