@@ -4279,5 +4279,70 @@
       }
     ],
     "issueNumber": 405
+  },
+  {
+    "title": "Apple to Integrate Google Gemini into iOS 27 and Siri",
+    "date": "2026-04-24",
+    "description": "Google Cloud CEO Thomas Kurian confirmed at Google Cloud Next '26 that Google's Gemini models will power upcoming Siri upgrades and \"Apple Intelligence\" features in iOS 27, marking a significant strategic partnership for both companies.",
+    "category": "Model Release, Industry Structure",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_WrKObCHY4d0il2pK08q1DRYpk3obGQFIYmsLN9FR3gz5RFYkWwTGZMEQwFR4bVVqi-St7edWg8Uod0_Wx389dfzuK57-m-cL0sO7ynDCw9cpHVvcn4DTZny7DwsHdADr-Xz_k6b9eRqugEGMuACmBcGpL0M-SuG-4N9vUSUqyi2seUhA8o7bgzipqLPc8p-XYSzrneQ4xKCNzwMUOUraw_yuRVplYEg--54t1Bqr6nlNHehI6cGSA7LjzGn0",
+        "label": "googlecloudpresscorner.com"
+      }
+    ],
+    "issueNumber": 406
+  },
+  {
+    "title": "Google Unveils 8th-Generation TPUs for Enhanced AI Training and Inference",
+    "date": "2026-04-24",
+    "description": "At Google Cloud Next '26, Google introduced its 8th-generation TPUs (TPU v8T for training and TPU v8i for inference), designed to offer industry-leading cost-efficiency for AI token processing.",
+    "category": "Infrastructure",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_WrKObCHY4d0il2pK08q1DRYpk3obGQFIYmsLN9FR3gz5RFYkWwTGZMEQwFR4bVVqi-St7edWg8Uod0_Wx389dfzuK57-m-cL0sO7ynDCw9cpHVvcn4DTZny7DwsHdADr-Xz_k6b9eRqugEGMuACmBcGpL0M-SuG-4N9vUSUqyi2seUhA8o7bgzipqLPc8p-XYSzrneQ4xKCNzwMUOUraw_yuRVplYEg--54t1Bqr6nlNHehI6cGSA7LjzGn0",
+        "label": "googlecloudpresscorner.com"
+      }
+    ],
+    "issueNumber": 407
+  },
+  {
+    "title": "Google Launches Gemini Enterprise Agent Platform, Ushering in New Era of Autonomous AI",
+    "date": "2026-04-24",
+    "description": "Google announced the Gemini Enterprise Agent Platform at Google Cloud Next '26, shifting focus from generative AI to autonomous agents capable of managing sophisticated business workflows.",
+    "category": "Industry Structure, Research",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_WrKObCHY4d0il2pK08q1DRYpk3obGQFIYmsLN9FR3gz5RFYkWwTGZMEQwFR4bVVqi-St7edWg8Uod0_Wx389dfzuK57-m-cL0sO7ynDCw9cpHVvcn4DTZny7DwsHdADr-Xz_k6b9eRqugEGMuACmBcGpL0M-SuG-4N9vUSUqyi2seUhA8o7bgzipqLPc8p-XYSzrneQ4xKCNzwMUOUraw_yuRVplYEg--54t1Bqr6nlNHehI6cGSA7LjzGn0",
+        "label": "googlecloudpresscorner.com"
+      }
+    ],
+    "issueNumber": 408
+  },
+  {
+    "title": "Tesla Boosts 2026 Capex to $25 Billion for Accelerated Optimus and Cybercab Development",
+    "date": "2026-04-24",
+    "description": "Tesla announced a significant increase in its 2026 capital expenditure to $25 billion, primarily to accelerate the development and deployment of its Optimus humanoid robots and Cybercab autonomous ride-hailing service.",
+    "category": "Funding, Research",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOLGVAijA7P93vrEPX3PP-NwExgtWG3wRIRkvCElNAF10mLquNRfNddO69mmrct2PrhSEQxGUQmHjsNmqCmLMkR9FLFBoTA5HtxNyDuf6ZDHeh21vE_5Ozo9W_PS0haikTJpXKf1mLg7gd71OudZsQMDbS4cWIIfcW5f7is6GxsL3HDvRN",
+        "label": "heygotrade.com"
+      }
+    ],
+    "issueNumber": 409
+  },
+  {
+    "title": "Meta Announces 10% Workforce Reduction to Redirect Savings into AI Infrastructure",
+    "date": "2026-04-24",
+    "description": "Meta announced a 10% reduction in its workforce, affecting 8,000 jobs, as part of a strategic initiative to redirect cost savings towards investments in AI infrastructure and advanced AI development.",
+    "category": "Industry Structure",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHOLGVAijA7P93vrEPX3PP-NwExgtWG3wRIRkvCElNAF10mLquNRfNddO69mmrct2PrhSEQxGUQmHjsNmqCmLMkR9FLCBOeWv0Duf6ZDHeh21vE_5Ozo9W_PS0haikTJpXKf1mLg7gd71OudZsQMDbS4cWIIfcW5f7is6GxsL3HDvRN",
+        "label": "heygotrade.com"
+      }
+    ],
+    "issueNumber": 410
   }
 ]
