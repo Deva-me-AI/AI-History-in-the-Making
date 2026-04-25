@@ -1,1 +1,74 @@
-{"scanDate":"2026-04-25","candidates":[],"questionUpdates":[]}
+{
+  "scanDate": "2026-04-25",
+  "candidates": [
+    {
+      "title": "OpenAI Releases GPT-5.5 with 'Super App' Capabilities and Workspace Agents",
+      "date": "2026-04-24",
+      "description": "OpenAI unveiled GPT-5.5, designed as a step towards an AI 'super app,' integrating coding, browsing, and reasoning. It introduces 'workspace agents' capable of autonomously performing business tasks.",
+      "category": "Model Release",
+      "significance": "High. Represents a significant leap in AI model integration and autonomous agent capabilities, potentially redefining business process automation and user interaction with AI.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETrl20anVGMzw9YoJ3Q9IUWQK62ynXPM-_-OZZbwbCoRIrUpgL-jpgPpwNGH9k94UvFMegPJDLpNAj3N1fmt9EPuyU3mnH49WuoE1_uzMk-gPWfYNJ2xiaqkr6CiRE7RliAiFioU_Q9BYW3LzLDKvJFKAhAFDw-Mp2GjGwVbKAPN4S4qDSrlYAc9KFx3Ja80Y4zlG4gk_gexRCqccrj4AhABliVWDUnBQssg==",
+          "label": "marketingprofs.com"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEISwkUeGlCJySgdK8RZWp5vLvAgQnumpmUAEF6oWWt6vYWvjX7_9rnO4Sdm7GkjW6am1-eEn4WAWXvcaWqF9-u0SVMj4qJqdwQC6nO1QaFZyyScfi3b1C9gQpcKzJpOVKvb-rUXWO4IFwUVbJYsC3Ul0YZF8Bm1PeYnleN15cXIylaCepob6zREhR1BT9cBZuqSAgRxEuhYOSICtxEh27rIXVKEZ75vm4qVkBf",
+          "label": "infoworld.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "DeepSeek Launches V4 Model, Featuring Advanced Reasoning and Huawei Ascend Chip Support",
+      "date": "2026-04-24",
+      "description": "Chinese startup DeepSeek released preview versions of its V4 model, showcasing improved reasoning and 'agentic' capabilities. Significantly, V4 is supported by Huawei’s Ascend chips, indicating a move towards reduced dependency on Nvidia.",
+      "category": "Model Release",
+      "significance": "High. This release highlights advancements in non-Western AI models and a strategic shift in hardware reliance, impacting global AI competitiveness and supply chains.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxHTbMaDP4jYq1r9-pvCScRrSN9ZMUUm9kzJlG27oVddjhoEMBeCHh3ThVlrmLDZuUqqr6pu9gXwXKj3Rxjgq5zsJzQlC780n4xlEPy1qQx6Z_SBmSg5fJ1UzoS7k0KdSb0x9yDzy4KY4RrdOxas5_4yZDsUubvtV12L1Nhh3GyzRPQ0q6H63R99Q9arV_8hCoFE2a8g2bdp62BBUgbA==",
+          "label": "courthousenews.com"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTZG-ZurhIrV0UyaNlTNKqtiyy_tTj1qklaWcxTLmdhynDYWed72SoHrgjct_QGsGF38hjvwGoQX7kOuoF-nUIo5HodHDIx02QB55EJjavMy7DcIIMr-vaHh4IS47xnUo5NwhNWJdfJwws1ID0CxN_6Jpl2vU3C3ua_r4SiK0uR97-0yOB8TsP8JY==",
+          "label": "japantimes.co.jp"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "U.S. States Advance AI-Related Legislation on Safety and Disclosure",
+      "date": "2026-04-24",
+      "description": "Several U.S. states, including Tennessee and Maryland, passed new legislation addressing AI safety and deepfake regulations. Hawaii also advanced bills requiring disclosures for AI companion systems and protocols for suicidal ideation.",
+      "category": "Policy",
+      "significance": "High. These legislative actions mark an increasing trend in AI regulation at the state level, setting precedents for future national and international policy frameworks governing AI ethics, safety, and transparency.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGlBszxohKkAbCJS6_nGTreXY1Kvq56wziOyZKhbJbJsRiexJCQoEWEfJV7jM3Njo8hL4vqn0VPBd4cGpRznkgAAET88hW_hIfItE3rNhn3NVXHDkALZbH-KEkQQ-Cj2H9qP0tu_6P-gOuIvO8mREb_JCYdehRJUxWf2YX4Z2szcozv8TLX8do==",
+          "label": "transparencycoalition.ai"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Adobe Rebrands Experience Cloud to CX Enterprise, Pivoting to Agent-First AI Platform",
+      "date": "2026-04-24",
+      "description": "Adobe rebranded its Experience Cloud as CX Enterprise, signifying a strategic shift towards an agent-first platform. The new platform features persistent AI 'Coworkers' designed to orchestrate marketing tasks across various systems, indicating a deeper integration of AI into enterprise software solutions.",
+      "category": "Industry Structure",
+      "significance": "Medium. This rebrand and architectural shift by a major enterprise software vendor demonstrates a broader industry move towards AI-driven automation and agentic systems in marketing and customer experience, setting a trend for future enterprise software development.",
+      "confidence": "medium",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETrl20anVGMzw9YoJ3Q9IUWQK62ynXPM-_-OZZbwbCoRIrUpgL-jpgPpwNGH9k94UvFMegPJDLpNAj3N1fmt9EPuyU3mnH49WuoE1_uzMk-gPWfYNJ2xiaqkr6CiRE7RliAiFioU_Q9BYW3LzLDKvJFKAhAFDw-Mp2GjGwVbKAPN4S4qDSrlYAc9KFx3Ja80Y4zlG4gk_gexRCqccrj4AhABliVWDUnBQssg==",
+          "label": "marketingprofs.com"
+        }
+      ],
+      "type": "timeline_event"
+    }
+  ],
+  "questionUpdates": []
+}
