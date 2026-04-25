@@ -1585,5 +1585,25 @@
       "claude": "REJECT"
     },
     "reviewedAt": "2026-04-25T08:07:41Z"
+  },
+  {
+    "title": "Google Cloud's Gemini to Power Siri Upgrade in iOS 27 and Future Apple Intelligence Features",
+    "date": "2026-04-23",
+    "description": "At Google Cloud Next '26, Google CEO Thomas Kurian confirmed that Gemini will power the Siri upgrade in iOS 27, aiming for a more personal Siri and underpinning 'Apple Intelligence' features later in the year.",
+    "category": "Industry Structure",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4Enb6kbs5fmZ7xLSDHUtzv4hyoafQ6rWO_T73_xcxprO77OZODtXgOXpvH0Y0P94QyBC_LO4d75TQ5AgNSP1UBIKz7MFYxMdkwDeC7OVynEXIMsnjMjTMCPUir336bw-5XDLHKw8I0nKohLlZty6e-tld1HBxotrpCd_pVfPtZQRGIQkn",
+        "label": "heygotrade.com"
+      }
+    ],
+    "votes": {
+      "accept": 2,
+      "reject": 2,
+      "gemini": "ACCEPT",
+      "gpt": "ACCEPT",
+      "claude": "REJECT"
+    },
+    "reviewedAt": "2026-04-25T16:03:53Z"
   }
 ]
