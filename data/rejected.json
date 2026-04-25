@@ -1545,5 +1545,45 @@
       "claude": "REJECT"
     },
     "reviewedAt": "2026-04-23T20:02:10Z"
+  },
+  {
+    "title": "Sony AI Unveils Robot Capable of Beating Elite Human Table Tennis Players",
+    "date": "2026-04-23",
+    "description": "Sony AI published research in Nature detailing a robot capable of outplaying elite human table tennis players. This represents a significant milestone in Physical AI, demonstrating advanced real-time adaptation to complex, high-speed physical environments.",
+    "category": "Research",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEB1M-e3CDv48NfctIG2ZIW15iRYbRuj_PdpGwsxAr9KJp5pVC_nsj504osZi-fXlM-9LuW7BSActXPl0gjQEUigpV5jzpoIRwyP1ISPzZGaIoxl9-rb6uZkC4jkMrbUzP5T5THe-c4ubhYxpZElZQO2IAktiY0rUrc58l6jVuuuyfRtFlqaB3K52QdOvstEcOcAMYcUjRafUz18MwgP2LfivW_g==",
+        "label": "ai.sony"
+      }
+    ],
+    "votes": {
+      "accept": 2,
+      "reject": 2,
+      "gemini": "ACCEPT",
+      "gpt": "ACCEPT",
+      "claude": "REJECT"
+    },
+    "reviewedAt": "2026-04-25T08:06:30Z"
+  },
+  {
+    "title": "Pudu Robotics Raises $150 Million to Scale Commercial Robotics",
+    "date": "2026-04-22",
+    "description": "Pudu Robotics, a leader in service robotics, successfully raised $150 million at a $1.5 billion valuation. This funding is intended to scale its 'single brain, multiple embodiments' strategy for applications in commercial cleaning and industrial delivery, expanding the reach of physical AI.",
+    "category": "Funding, Industry Structure",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzOM64o0ef0ptmBZe_kZUNC_DQmmbYS7GkeoWMoYfICgz_Rk-QDgJ7gmwkhrHx62Egfo_raLAUi2nk7KZQVuYXu0mT-GgBGYGvPEOivZYPWYCSFIpKv0Mk-WymM3stYW7vKD4jzkzPKWKU1Y2wMFqkD4_49_AE7Q4jIO-BKNBHY4xx9R816QzoDsFkoBGvFvnjZ_2TLk7OuUL7iGJpnovXDv2eIlRTzscVlA7uiQ==",
+        "label": "siliconangle.com"
+      }
+    ],
+    "votes": {
+      "accept": 0,
+      "reject": 3,
+      "gemini": "REJECT",
+      "gpt": "REJECT",
+      "claude": "REJECT"
+    },
+    "reviewedAt": "2026-04-25T08:07:41Z"
   }
 ]
