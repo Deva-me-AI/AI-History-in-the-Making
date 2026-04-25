@@ -1,85 +1,62 @@
 {
-  "scanDate": "2026-04-24",
+  "scanDate": "2026-04-25",
   "candidates": [
     {
-      "title": "Amazon Commits $5 Billion Investment to Anthropic, Totaling Up to $20 Billion",
-      "date": "2026-04-22",
-      "description": "Amazon announced an initial $5 billion investment in AI startup Anthropic, with a potential to reach $20 billion, in exchange for Anthropic committing to spend $100 billion over the next decade on AWS infrastructure. This solidifies a major strategic alliance in the AI industry.",
-      "category": "Funding, Industry Structure",
-      "significance": "This massive investment and infrastructure commitment has profound implications for the competitive dynamics between major cloud providers and leading AI model developers, shaping the future of AI development and deployment.",
+      "title": "OpenAI Releases GPT-5.5, a \"Super App\" Step",
+      "date": "2026-04-24",
+      "description": "OpenAI launched GPT-5.5, integrating ChatGPT, advanced coding tools, and autonomous browsing into a unified interface with significantly improved reasoning and speed, described as a step toward an AI \"super app.\"",
+      "category": "Model Release",
+      "significance": "This release marks a significant advancement in AI model capabilities and integration, potentially setting a new standard for AI applications and user interaction for years to come.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFlnzzB7KvuiVDZTbz3onn0MX6qrXX-LgFbykhYb6wh7mOmRVc-yoFO9GCOXItyrsSZo6hAZa4gD79xDeQUabQ-GhLki9TCyLlsW2VvsLks_LE1yOW944FKnuyqZQr6YXt4uGTklzdtwqg_3G2FgXCUj6xct01qVt76u4FO16FjRxB0Sq72cgazrdEIqJDOxV7qMBuf",
-          "label": "crunchbase.com"
-        },
-        {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFjRIiEXtuNWM2WEw3G6yFZKopP-Lidy1O2grRMXdj0AkUlzMV-_C2BY9r-yXtMHaLwGh4C6a8LEmp0Ximz4gS2xhsd0WhQSQYM5RgPgIGUaPuOoM3DlVlqUwNN3bfpD3l4ckb2RfG-n82qEgc6dCBo8MCMHutr1PJMIyvEDML8LAIQTX-7Xr7AiuQRzw==",
-          "label": "medium.com"
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFivRck-ubXJ2CMaOzr-my9SGuWaCSG0zNxvF-p0gIy-RcPPbHEc_HbohXO-9Mrz16rS1P8p-TfogsrdegEf9wL6bOfHQiIkhrmJu_X84xxOmKKReoUpD1h7FbX7XZBhRbHi_EwyKqV9IAi8A2eIxRT9LTSmevhQMhtnOxzhagYZDlv0tui5SeX3QCwCaeLN-kuTCUV5XbmAMqb_h5X2eib2asV1M04V_MpDg==",
+          "label": "marketingprofs.com"
         }
       ],
       "type": "timeline_event"
     },
     {
-      "title": "Google Partners with Marvell Technology for New AI Chips and Expands Nvidia AI Factory",
-      "date": "2026-04-22",
-      "description": "Google confirmed a co-development deal with Marvell Technology for new AI chips and expanded its 'AI Factory' partnership with Nvidia, aiming to connect over 1 million TPUs/GPUs into massive training clusters. This signifies a major push in AI hardware and infrastructure.",
-      "category": "Industry Structure, Infrastructure",
-      "significance": "These partnerships indicate significant investments and strategic alliances in the foundational hardware for AI development, impacting the competitive landscape and technological capabilities for years to come.",
+      "title": "UAE Announces Landmark \"Agentic AI\" Governance Shift",
+      "date": "2026-04-25",
+      "description": "The UAE government announced a landmark initiative to transition 50% of all government operations to Agentic AI within two years, aiming to use autonomous AI systems as \"executive partners\" for decision-making and service delivery.",
+      "category": "Policy",
+      "significance": "This represents a pioneering and ambitious national policy towards autonomous AI integration in governance, potentially influencing other nations and setting a precedent for future public sector AI adoption.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_qUteGtNnbU-uS0pW9_MS3SWAHZqhVLKB9dojcab_lhVHMZipGBYnNoUTsX2gVgpT0kPpKn_TN32EvuHvJdGYoudl-Z6O8PyGaw8gcOqEVi13mgW3YgLM-iih4ZWWOLiFVGKi2Q==",
-          "label": "oplexa.com"
-        },
-        {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbbZRd60Y7VP0e0t5DJ7CT8nOAXYQxp-B4ioduPPWGN3qFF21L-7ZRzUF31kAGeOeBEMxy_2yR0U6YAMEtUTn3PKYb4RFJ_3hDbTTkZ6QCO_jpehNwuNViECuRcaBJkin78VZSqeZUH14YUQTzCUcptqms7rXaghLC6McE_W_f54nG3VqjOkcfFXQpFuvnxnKI-qI6DYnWTTTYZmSJcAYhxxDU51vDGgBvAXr8ZA==",
-          "label": "siliconangle.com"
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFxlscrXW2rXkrQBzP-bXc_HCrLF1yx9fo9QMbXW0zx04sTVXuCFvbcgoE-PJ9CyvxxLBDPu8aBcCu4nutJOB5zRk4anKVsDY2koCU11iW80qiiOC6FPylmbW32bsxezGI0VGNLrJJ3Hj6LREq4JqJ4Jhyp2pbvMrARXHYhuQ0jeTjqxX_KQ-kGqsFa1ss4FibNQnk_ZgEUbrQMQId1WqqZjk=",
+          "label": "eletsonline.com"
         }
       ],
       "type": "timeline_event"
     },
     {
-      "title": "Sony AI Unveils Robot Capable of Beating Elite Human Table Tennis Players",
-      "date": "2026-04-23",
-      "description": "Sony AI published research in Nature detailing a robot capable of outplaying elite human table tennis players. This represents a significant milestone in Physical AI, demonstrating advanced real-time adaptation to complex, high-speed physical environments.",
+      "title": "Alibaba Cloud Previews Qwen 3.6 Max LLM",
+      "date": "2026-04-24",
+      "description": "Alibaba Cloud released a preview of Qwen 3.6-Max-Preview, claiming top-tier performance in coding and agentic tasks, further intensifying the global competition among large language model providers.",
+      "category": "Model Release",
+      "significance": "This launch by a major player like Alibaba signifies continued rapid advancement and fierce competition in the global LLM market, influencing future model development and industry leadership.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFivRck-ubXJ2CMaOzr-my9SGuWaCSG0zNxvF-p0gIy-RcPPbHEc_HbohXO-9Mrz16rS1P8p-TfogsrdegEf9wL6bOfHQiIkhrmJu_X84xxOmKKReoUpD1h7FbX7XZBhRbHi_EwyKqV9IAi8A2eIxRT9LTSmevhQMhtnOxzhagYZDlv0tui5SeX3QCwCaeLN-kuTCUV5XbmAMqb_h5X2eib2asV1M04V_MpDg==",
+          "label": "marketingprofs.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "ICLR 2026 Announces \"Outstanding Paper\" and \"Test of Time\" Awards",
+      "date": "2026-04-25",
+      "description": "The International Conference on Learning Representations (ICLR) 2026 concluded with the announcement of its prestigious \"Outstanding Paper\" and \"Test of Time\" awards, recognizing foundational shifts in deep learning research.",
       "category": "Research",
-      "significance": "This breakthrough showcases the accelerating capabilities of physical AI and robotics, suggesting future applications in intricate manual tasks and human-robot interaction, which will be transformative over the next five years.",
+      "significance": "These awards highlight critical research breakthroughs and enduring contributions to the field of deep learning, influencing future research directions and potentially leading to long-term impacts on AI development.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEB1M-e3CDv48NfctIG2ZIW15iRYbRuj_PdpGwsxAr9KJp5pVC_nsj504osZi-fXlM-9LuW7BSActXPl0gjQEUigpV5jzpoIRwyP1ISPzZGaIoxl9-rb6uZkC4jkMrbUzP5T5THe-c4ubhYxpZElZQO2IAktiY0rUrc58l6jVuuuyfRtFlqaB3K52QdOvstEcOcAMYcUjRafUz18MwgP2LfivW_g==",
-          "label": "ai.sony"
-        }
-      ],
-      "type": "timeline_event"
-    },
-    {
-      "title": "Cambridge Researchers Develop Brain-Like Hafnium Chips for Energy-Efficient AI",
-      "date": "2026-04-23",
-      "description": "Researchers at the University of Cambridge published findings in Science Advances on a new memristor chip utilizing modified hafnium oxide. This brain-like device mimics human neurons, potentially reducing AI energy consumption by 70% by integrating processing and data storage.",
-      "category": "Research, Infrastructure",
-      "significance": "This advancement in AI hardware and neuromorphic computing could revolutionize energy efficiency for AI, enabling more powerful and sustainable models, critical for long-term AI scaling.",
-      "confidence": "high",
-      "sources": [
-        {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyvHChP300ZJgyKo2Guunh24ahTy-t9gi8g3zTVMrIfFohJQ3YpFLO7Kd8yuvuMFC2iHZm7AN9_iYnpqFkW2pf6SkgGRpr22WT9j7VLJPCZeepEMuen91GxEfGrDXuDqFYvutt8gsmPZtQr-e3hA-KEahEzsxNsgzq",
-          "label": "sciencedaily.com"
-        }
-      ],
-      "type": "timeline_event"
-    },
-    {
-      "title": "Pudu Robotics Raises $150 Million to Scale Commercial Robotics",
-      "date": "2026-04-22",
-      "description": "Pudu Robotics, a leader in service robotics, successfully raised $150 million at a $1.5 billion valuation. This funding is intended to scale its 'single brain, multiple embodiments' strategy for applications in commercial cleaning and industrial delivery, expanding the reach of physical AI.",
-      "category": "Funding, Industry Structure",
-      "significance": "This substantial funding highlights continued growth and investment in physical AI and robotics, pointing towards increased automation in commercial sectors, which will be a significant trend in the coming years.",
-      "confidence": "high",
-      "sources": [
-        {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzOM64o0ef0ptmBZe_kZUNC_DQmmbYS7GkeoWMoYfICgz_Rk-QDgJ7gmwkhrHx62Egfo_raLAUi2nk7KZQVuYXu0mT-GgBGYGvPEOivZYPWYCSFIpKv0Mk-WymM3stYW7vKD4jzkzPKWKU1Y2wMFqkD4_49_AE7Q4jIO-BKNBHY4xx9R816QzoDsFkoBGvFvnjZ_2TLk7OuUL7iGJpnovXDv2eIlRTzscVlA7uiQ==",
-          "label": "siliconangle.com"
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtT_-lOZRoL98gIes3HzNfa6wW7e0qeauCK088EkMuAXTL5HjzyrEIJvuQyDzSQSCnPUCyBIGL2kpzLkJ0GoS3hfPhFQF583m6wcJOENAJtUQFeQtnwIZy48hIA4LSTr40_X3dmHYoNfS-0tkaTCP8ngbQAfkD0f3OFlKbgC4=",
+          "label": "research.google"
         }
       ],
       "type": "timeline_event"
