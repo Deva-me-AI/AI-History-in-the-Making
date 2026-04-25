@@ -2,91 +2,46 @@
   "scanDate": "2026-04-25",
   "candidates": [
     {
-      "title": "SpaceX Acquires Cursor AI for $60 Billion to Enhance Engineering and Classified Projects",
-      "date": "2026-04-23",
-      "description": "SpaceX acquired Cursor AI for $60 billion, including an immediate $10 billion collaboration payment, to leverage Cursor’s advanced code-context capabilities for complex engineering and classified projects.",
-      "category": "Industry Structure",
-      "significance": "This massive acquisition signals the strategic importance of advanced AI for critical engineering and defense applications, integrating AI deeply into hardware development and national security, which will shape future technological and geopolitical landscapes.",
-      "confidence": "high",
-      "sources": [
-        {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyV72oIn6XHwNdHjaz0W2jpJfhPgHoNLWNuolAzRrAEFrg_RzIhPNlMqYOhjAGG6-ZRH1t4ioKMTm7zTOsWdGJz6bU6i5Y_NMBYLmhzzomP0FoHisrG23C-wxM9R7x0RbEGIyhfKpZwh_UhaaWTvVszaLGQpA3hWc9tFenhn_Ctw1-2TkyhK0RTWcUSULlP4SUmMHdVPw2zVKqE8zpO0mong4B6Jse0mrtjsq36Mwv8kzf-hI4FRTY1cVh_F8V6lOLd8KHb9V6aK_pHaGXUsZvcLTqJcLRaPqMRmB9_Jf2B1rvV9cybA==",
-          "label": "heygotrade.com"
-        }
-      ],
-      "type": "timeline_event"
-    },
-    {
-      "title": "Google Cloud's Gemini to Power Siri Upgrade in iOS 27 and Future Apple Intelligence Features",
-      "date": "2026-04-23",
-      "description": "At Google Cloud Next '26, Google CEO Thomas Kurian confirmed that Gemini will power the Siri upgrade in iOS 27, aiming for a more personal Siri and underpinning 'Apple Intelligence' features later in the year.",
-      "category": "Industry Structure",
-      "significance": "This major partnership integrates advanced AI into a widely used consumer product, potentially setting a new standard for mobile AI and personal assistants, profoundly impacting daily life and the competitive landscape for years to come.",
-      "confidence": "high",
-      "sources": [
-        {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4Enb6kbs5fmZ7xLSDHUtzv4hyoafQ6rWO_T73_xcxprO77OZODtXgOXpvH0Y0P94QyBC_LO4d75TQ5AgNSP1UBIKz7MFYxMdkwDeC7OVynEXIMsnjMjTMCPUir336bw-5XDLHKw8I0nKohLlZty6e-tld1HBxotrpCd_pVfPtZQRGIQkn",
-          "label": "heygotrade.com"
-        }
-      ],
-      "type": "timeline_event"
-    },
-    {
-      "title": "SpaceX Acquires Cursor AI for $60 Billion to Enhance Engineering and Classified Projects",
-      "date": "2026-04-23",
-      "description": "SpaceX announced a $60 billion acquisition of Cursor AI, including an immediate $10 billion collaboration payment. This acquisition aims to integrate Cursor’s advanced code-context capabilities into SpaceX’s complex engineering and classified projects.",
-      "category": "Industry Structure",
-      "significance": "This landmark acquisition highlights the critical role of advanced AI in engineering and national security, demonstrating a strategic move by a leading space and defense company to integrate AI deeply into its core operations, promising long-term impacts on technological development and defense capabilities.",
-      "confidence": "high",
-      "sources": [
-        {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyV72oIn6XHwNdHjaz0W2jpJfhPgHoNLWNuolAzRrAEFrg_RzIhPNlMqYOhjAGG6-ZRH1t4ioKMTm7zTOsWdGJz6bU6i5Y_NMBYLmhzzomP0FoHisrG23C-wxM9R7x0RbEGIyhfKpZwh_UhaaWTvVszaLGQpA3hWc9tFenhn_Ctw1-2TkyhK0RTWcUSULlP4SUmMHdVPw2zVKqE8zpO0mong4B6Jse0mrtjsq36Mwv8kzf-hI4FRTY1cVh_F8V6lOLd8KHb9V6aK_pHaGXUsZvcLTqJcLRaPqMRmB9_Jf2B1rvV9cybA==",
-          "label": "heygotrade.com"
-        }
-      ],
-      "type": "timeline_event"
-    },
-    {
-      "title": "Google Cloud's Gemini to Power Siri Upgrade in iOS 27 and Future Apple Intelligence Features",
-      "date": "2026-04-23",
-      "description": "At Google Cloud Next '26, Google CEO Thomas Kurian confirmed a partnership wherein Gemini will power the Siri upgrade in iOS 27, with plans to underpin 'Apple Intelligence' features later in the year.",
-      "category": "Industry Structure",
-      "significance": "This major collaboration between two tech giants signifies a profound integration of advanced AI into a global consumer ecosystem. It is expected to redefine user interaction with personal assistants and AI-driven features across Apple devices, influencing the direction of mobile AI for years.",
-      "confidence": "high",
-      "sources": [
-        {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH4Enb6kbs5fmZ7xLSDHUtzv4hyoafQ6rWO_T73_xcxprO77OZODtXgOXpvH0Y0P94QyBC_LO4d75TQ5AgNSP1UBIKz7MFYxMdkwDeC7OVynEXIMsnjMjTMCPUir336bw-5XDLHKw8I0nKohLlZty6e-tld1HBxotrpCd_pVfPtZQRGIQkn",
-          "label": "heygotrade.com"
-        }
-      ],
-      "type": "timeline_event"
-    },
-    {
-      "title": "Anthropic's Claude Mythos Reportedly Discovers Zero-Day Vulnerabilities Autonomously",
-      "date": "2026-04-23",
-      "description": "Reports surfaced concerning Anthropic’s unreleased 'Claude Mythos' model demonstrating the ability to autonomously find and exploit 'zero-day' vulnerabilities in major operating systems. Anthropic is reportedly keeping it private and partnering with 40 organizations under 'Project Glasswing' to patch these flaws.",
-      "category": "Research",
-      "significance": "This event highlights the dual-use nature of advanced AI, showcasing its potential for both unprecedented discovery and severe security risks. Its implications for cybersecurity, ethical AI development, and the future of autonomous systems capable of self-improvement in potentially harmful ways are profound and will shape regulatory and defensive strategies for decades.",
-      "confidence": "high",
-      "sources": [
-        {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8dNgSEoWM_slLB-uAhBRiYu-crbOJWd76XVWWG0p1Q1QkkvSSIF1a03Bhu1q04aO5i03_nKMwbHlcth-Le-1Wwq5_umLq0Oz55iFHWwn31dOQav3dH_0-r_MTEt04nGp-qoUpYbdYtllfItQ1NjkU7V4UQCodyr1oHsG7Ve62BWJTphcS0XzgJVzMssuwsQWre06tHI6vXo65SRDzHc38qKVx44h68fNEVyuUdNsian8KUIKDMs9bme4Alpjjz2uk5OQfEi0M54OUbspaFhKayZE=",
-          "label": "theguardian.com"
-        }
-      ],
-      "type": "timeline_event"
-    },
-    {
-      "title": "Aleph Alpha and Cohere Announce Merger to Form Transatlantic AI Powerhouse",
+      "title": "Google-Apple Integrate Gemini for Siri Overhaul",
       "date": "2026-04-24",
-      "description": "Germany’s Aleph Alpha and Canada’s Cohere announced a merger, aiming to create a 'transatlantic AI powerhouse' focused on highly regulated sectors such as finance and defense.",
+      "description": "Google Cloud confirmed that its Gemini models will underpin the upcoming Siri overhaul in iOS 27, marking a significant strategic partnership between the two technology giants.",
       "category": "Industry Structure",
-      "significance": "This merger signals a significant consolidation in the global AI market, aiming to challenge US dominance by creating a strong European-Canadian entity. It could lead to increased competition and innovation in specialized, regulated AI applications, influencing market dynamics and geopolitical tech landscapes for years.",
+      "significance": "This integration embeds advanced AI capabilities into a global mobile operating system, fundamentally changing user interaction with AI on a massive scale and impacting the competitive landscape of AI assistants for years to come.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHrLe286j6EFbRBaLDzU1TWb731spy8I0XNMP32_CCpTAuPAkFXHGGBqpHa0V05KOpiDPUZz8YNj6ov4PVj8H0wjweySBSLSjOQW4OFGDrnbyp3uF767HVg_mFYgvdHoP9_TfK0rSiscaurL729sIZ5HQkwOvzw_jrDm3vdZMLeGIl6B6TKgvtcRuXI",
-          "label": "cio.com"
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtsi8nKYj6tNvNQvddjkO21ToBFS8L06KZ6l-sBV2setPipYo4utpY5geU4GiQu77gVcTOKXEABp1dgbFVHkV0KE0hmVKGMspcZf0gz0MITArgr3vmTvTZfiBkl0a6EFKAZurIGjUVDCX6boYk0YmG0q3dTxtj5Icw9z8ScVez_SA1Z9ni",
+          "label": "heygotrade.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Project Prometheus Raises $10 Billion for Physical AI",
+      "date": "2026-04-25",
+      "description": "Jeff Bezos's secretive 'Physical AI' lab, Project Prometheus, is reportedly raising $10 billion at a $38 billion valuation to focus on AI applications for the industrial economy.",
+      "category": "Funding",
+      "significance": "This substantial new investment from a prominent figure in technology signals a major push into physical AI and industrial applications, which could lead to transformative innovations and reshape various industries in the long term.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGtsi8nKYj6tNvNQvddjkO21ToBFS8L06KZ6l-sBV2setPipYo4utpY5geU4GiQu77gVcTOKXEABp1dgbFVHkV0KE0hmVKGMspcZf0gz0MITArgr3vmTvTZfiBkl0a6EFKAZurIGjUVDCX6boYk0YmG0q3dTxtj5Icw9z8ScVez_SA1Z9ni",
+          "label": "heygotrade.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Musk vs. OpenAI Lawsuit Nears Jury Selection",
+      "date": "2026-04-25",
+      "description": "Final preparations were completed for jury selection in Elon Musk’s high-profile lawsuit against OpenAI, centered on whether the AI research organization abandoned its founding non-profit mission.",
+      "category": "Policy",
+      "significance": "This legal battle carries significant implications for the governance, ethical direction, and operational models of leading AI research entities, potentially setting precedents for the future of AI development and industry structure.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGShAgW_AFTpCyYFCCVZxVl6-CG0HZmnOLzHRiuGMxr596SB2KH5FKLh_55aKOzhoHALsfRCpfO01556VaP07CugeVUyuH4t2rZ1qXI9kRErdV7ozDpyhH-6rmvCxb28Fp2cJBPkXHTONZqmYktTC6YIlg1QIgtBYfDJniESwncWTNcOqRKlUIRcVgB_upixCsqwfS0mHhIE9A-iMa09HyTtdMkmfEtzhbOp3S_CKZA37v5kGzGVfnK5hnm1Nq1nJs=",
+          "label": "bnnbloomberg.ca"
         }
       ],
       "type": "timeline_event"
