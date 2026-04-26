@@ -1,1 +1,97 @@
-{"scanDate":"2026-04-26","candidates":[],"questionUpdates":[]}
+{
+  "scanDate": "2026-04-26",
+  "candidates": [
+    {
+      "title": "OpenAI Releases GPT-5.5 'Spud' with Advanced Agentic Reasoning Capabilities",
+      "date": "2026-04-25",
+      "description": "OpenAI officially released GPT-5.5, codenamed 'Spud,' a next-generation model designed for advanced 'agentic reasoning' and end-to-end automation. The model demonstrates significantly improved performance on coding benchmarks and the capacity to autonomously execute multi-step tasks across diverse software tools.",
+      "category": "Model Release",
+      "significance": "High. This release pushes the boundaries of autonomous AI agents, enabling more complex automation and software development, which will profoundly impact various industries over the next five years.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://kursol.io/grounding-api-redirect/AUZIYQGF5Q3REQcxOetg9dLn3HHYhL-6misFVFgW4SWmRBfVta4YafNhzyV5jmtwb1u8YPf9QEqwLlpxSWDD8L1EKtFV7heROCarEGzGo17_tJp5FcSKIwYUwVEPOdwB9FhTmb1TxLGFnckFxViaPg2CLML6gTrS4W0-bfY_Ps_W2nkUM_lBYoLLLVKCMhw==",
+          "label": "kursol.io"
+        },
+        {
+          "url": "https://aiagentstore.ai/grounding-api-redirect/AUZIYQEWgDuuKjfi0tkfYW7wfaPBxQv_nICOk1q7reKNrbKQDHYCKUHLlMDhIdFkyDUALrpFg9rrlHqKdwWmDB9oEirMe3CakkFN-aMVU69tPrYYPJhp_etoav89zavp01boasg9ssvVSGXjtc9Js2aUfCbzVw==",
+          "label": "aiagentstore.ai"
+        },
+        {
+          "url": "https://distillintelligence.com/grounding-api-redirect/AUZIYQHhlbEAs2MA8ZQa6rX4FUcN-ZEQNw6VqtHiopORGw8RkgmDu3zbWifFj2cIKChmhfudfy-AAId0IMqGVx0WcarYS4nnEdu64JktK0hnXhfXtf_rM1sULs0Dh2K2EmqdoNZDIUXaFhJ3n8gx64KgfBzyRyY6ojaNWfNw09BS-O0=",
+          "label": "distillintelligence.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Amazon Deepens Anthropic Partnership with $5 Billion Investment, $100 Billion AWS Commitment",
+      "date": "2026-04-25",
+      "description": "Amazon further solidified its partnership with AI safety startup Anthropic, investing an additional $5 billion with an expanded framework that could see investments rise to $20 billion. In return, Anthropic has committed to spending over $100 billion on Amazon Web Services (AWS) infrastructure over the next decade, significantly impacting the cloud AI landscape.",
+      "category": "Funding",
+      "significance": "High. This massive investment and infrastructure commitment by two industry giants will reshape the cloud AI market, accelerate Anthropic's research, and solidify AWS's position as a leading AI infrastructure provider for the foreseeable future.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://substack.com/grounding-api-redirect/AUZIYQFf_OELiSm8J4kkQLRVy4ZS-iBrZDrfq2yIIE-OQ7sgwFBm2UsyBuBmCMKflI3IOLxINxSIcCqZe5UmI5gYmB6p3UNYFnK9VUO3V_KpmsYaW5XoBhusixg9Zvsfx4W6I-IvLr9MPrNh90fNCTRUWzCmQ1B5lx9EMKKRM=",
+          "label": "substack.com"
+        },
+        {
+          "url": "https://distillintelligence.com/grounding-api-redirect/AUZIYQHhlbEAs2MA8ZQa6rX4FUcN-ZEQNw6VqtHiopORGw8RkgmDu3zbWifFj2cIKChmhfudfy-AAId0IMqGVx0WcarYS4nnEdu64JktK0hnXhfXtf_rM1sULs0Dh2K2EmqdoNZDIUXaFhJ3n8gx64KgfBzyRyY6ojaNWfNw09BS-O0=",
+          "label": "distillintelligence.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "VAST Data Achieves $30 Billion Valuation in Series F Funding",
+      "date": "2026-04-25",
+      "description": "VAST Data, a leading AI infrastructure company, closed its Series F funding round, reaching a staggering $30 billion valuation. This tripling of its valuation from late 2023 underscores the escalating demand for high-performance data storage and processing solutions essential for advanced AI development and deployment.",
+      "category": "Funding",
+      "significance": "High. The substantial increase in valuation for an AI infrastructure company highlights the critical role of underlying hardware and software in the AI boom, indicating continued massive investment and growth in this foundational sector.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://ai-techpark.com/grounding-api-redirect/AUZIYQEWqoX34VOhTPyblsh1-Ly9ZL67Q9qTNMrcw7ZrF-k0ColEgBP3pbsYXhpO_7wxVDNC_t9iY7Li2Thui5oPxwiYQg4dDQ_62P3wY9A4c3OjBEOXPmqaH0_7AK0vUNnOZ82BfaYwbgSnvL5XYiQ7-d2H-LvTq6k1GMlnnM4Wx7BNibQKMYXML4j_PVDEWftlN14ooBrv06da_-5T",
+          "label": "ai-techpark.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Google Rebrands Vertex AI to Gemini Enterprise Agent Platform, Consolidating AI Offerings",
+      "date": "2026-04-25",
+      "description": "Google announced the rebranding of its Vertex AI platform to the 'Gemini Enterprise Agent Platform.' This move consolidates Google's AI offerings into a unified suite focused on agent orchestration, security, and deployment for enterprise clients, signaling a strategic shift towards comprehensive agentic AI solutions.",
+      "category": "Industry Structure",
+      "significance": "High. This strategic rebranding and consolidation by Google indicate a major push into the enterprise agentic AI market, potentially setting new standards for how businesses develop, deploy, and manage AI agents, impacting cloud and enterprise software for years.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://substack.com/grounding-api-redirect/AUZIYQFf_OELiSm8J4kkQLRVy4ZS-iBrZDrfq2yIIE-OQ7sgwFBm2UsyBuBmCMKflI3IOLxINxSIcCqZe5UmI5gYmB6p3UNYFnK9VUO3V_KpmsYaW5XoBhusixg9Zvsfx4W6I-IvLr9MPrNh90fNCTRUWzCmQ1B5lx9EMKKRM=",
+          "label": "substack.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "U.S. Government Implements New Export Controls on Advanced AI Models",
+      "date": "2026-04-25",
+      "description": "The U.S. government unveiled new measures designed to prevent foreign developers from accessing and utilizing leading U.S. AI models to construct competing systems. These export controls aim to protect national security interests and maintain the U.S.'s technological leadership in artificial intelligence.",
+      "category": "Policy",
+      "significance": "High. These new export controls represent a significant geopolitical development in the AI space, impacting international collaboration, competition, and the global spread of advanced AI technology. This will shape the AI industry's structure and development paths globally for the next decade.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://govtech.com/grounding-api-redirect/AUZIYQF4dlNrzDqrBpD_LcWTzwTNDuQRs6sQWIutGBww61iwmcbs-uf26Dhpfsb2NlW-9-_kvNN79v7Pjsos0RPntGRsxaNBh8O3g3oN3ICCDxb6KobMlWHSpQMIF8g8yDEf_blv17-yTF1xmMO0",
+          "label": "govtech.com"
+        },
+        {
+          "url": "https://transparencycoalition.ai/grounding-api-redirect/AUZIYQHUt7ZklcOYITAPph8KNwxy7xGkmz2eTUlbHMhdvhciSdMkF1_sJ39fWpK_aJjeVE3mHvPnJgunm7KtnKS8B_bxO_2XlBkCKE-VbJ2MKSHi1cgsuA83I9H_BwwUd7XeWapCucQAUhrZ8WrVqhzpVTQ5xgyC0hCS25sxnA-0atuUYNahe_e6B-g=",
+          "label": "transparencycoalition.ai"
+        }
+      ],
+      "type": "timeline_event"
+    }
+  ],
+  "questionUpdates": []
+}
