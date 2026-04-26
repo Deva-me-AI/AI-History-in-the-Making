@@ -4503,5 +4503,65 @@
       }
     ],
     "issueNumber": 424
+  },
+  {
+    "title": "Sony AI's 'Project Ace' Achieves Human-Expert Level in Physical Sport Robotics",
+    "date": "2026-04-23",
+    "description": "Sony AI published research in Nature on 'Ace,' an autonomous robot demonstrating elite, human-expert performance in table tennis. This marks a significant milestone in 'Physical AI,' showcasing systems capable of advanced perception, planning, and real-time action in dynamic physical environments.",
+    "category": "Research",
+    "sources": [
+      {
+        "url": "https://ai.sony",
+        "label": "Sony AI Official Publication"
+      }
+    ],
+    "issueNumber": 425
+  },
+  {
+    "title": "AI Discovers New Physical Laws in Dusty Plasma at Emory University",
+    "date": "2026-04-23",
+    "description": "Physicists at Emory University announced the use of a custom neural network to discover previously unknown physical laws within dusty plasma, the 'fourth state of matter.' The AI accurately identified complex, non-reciprocal forces, proving AI's capability to uncover fundamental laws of nature, not just analyze existing data.",
+    "category": "Research",
+    "sources": [
+      {
+        "url": "https://www.sciencedaily.com",
+        "label": "ScienceDaily Report"
+      }
+    ],
+    "issueNumber": 426
+  },
+  {
+    "title": "Cambridge Unveils Brain-Like Memristor Chip for 70% AI Energy Reduction",
+    "date": "2026-04-23",
+    "description": "Researchers at the University of Cambridge revealed a new nanoelectronic 'memristor' chip made from modified hafnium oxide. This chip mimics human neurons by processing and storing data simultaneously, potentially reducing AI energy consumption by up to 70%, addressing a critical bottleneck in AI scalability.",
+    "category": "Infrastructure",
+    "sources": [
+      {
+        "url": "https://www.sciencedaily.com",
+        "label": "ScienceDaily Report"
+      }
+    ],
+    "issueNumber": 427
+  },
+  {
+    "title": "Google Cloud Forms Key Partnerships for Enterprise Agentic AI Adoption",
+    "date": "2026-04-23",
+    "description": "During Cloud Next '26, Google Cloud announced strategic partnerships with IBM, Capgemini, and CVC. These collaborations aim to integrate Gemini models into IBM’s hybrid cloud, establish an 'AI Enterprise Hub' with Capgemini for production-ready AI agents, and accelerate agentic AI adoption across CVC’s portfolio, signaling a major shift towards autonomous enterprise solutions.",
+    "category": "Industry Structure",
+    "sources": [
+      {
+        "url": "https://www.ibm.com",
+        "label": "IBM Official Statement"
+      },
+      {
+        "url": "https://www.capgemini.com",
+        "label": "Capgemini Press Release"
+      },
+      {
+        "url": "https://cloud.google.com/press",
+        "label": "Google Cloud Press Corner"
+      }
+    ],
+    "issueNumber": 428
   }
 ]
