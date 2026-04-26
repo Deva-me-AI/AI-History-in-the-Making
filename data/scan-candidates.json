@@ -1,1 +1,85 @@
-{"scanDate":"2026-04-26","candidates":[],"questionUpdates":[]}
+{
+  "scanDate": "2026-04-26",
+  "candidates": [
+    {
+      "title": "Google Announces $40 Billion Investment in Anthropic",
+      "date": "2026-04-25",
+      "description": "Google announced plans to invest up to $40 billion in AI firm Anthropic, including an initial $10 billion commitment, deepening their existing partnership focused on Google’s custom chips and cloud infrastructure.",
+      "category": "Funding",
+      "significance": "This massive funding and deepened partnership between a major tech giant and a frontier AI lab significantly shapes the competitive landscape and resource allocation within the AI industry, influencing future research and development directions.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://medium.com",
+          "label": "medium.com"
+        },
+        {
+          "url": "https://coaio.com",
+          "label": "coaio.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Meta Partners with Amazon to Diversify AI Infrastructure",
+      "date": "2026-04-24",
+      "description": "Meta signed a major deal to secure millions of Amazon’s homegrown CPUs (Graviton and Trainium) to power its AI infrastructure, signaling a strategic move to diversify its hardware away from a pure reliance on NVIDIA GPUs.",
+      "category": "Infrastructure",
+      "significance": "This significant partnership between two tech giants represents a major shift in AI hardware sourcing and infrastructure strategy, potentially altering the AI supply chain and reducing dependence on a single vendor for AI computing power.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://coaio.com",
+          "label": "coaio.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Adobe Pivots CX Enterprise to Agent-First Architecture with 'Coworkers'",
+      "date": "2026-04-24",
+      "description": "Adobe rebranded its Experience Cloud as 'CX Enterprise' and introduced 'Coworkers,' persistent AI agents designed to autonomously orchestrate marketing and customer experience workflows.",
+      "category": "Industry Structure",
+      "significance": "A major enterprise software vendor pivoting its entire customer experience platform to an agent-first architecture signifies a profound industry trend, indicating how AI agents will redefine business operations, marketing, and customer interactions in the long term.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://marketingprofs.com",
+          "label": "marketingprofs.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Delivery Hero Unveils 'Herogen,' an Autonomous Software Delivery Agent",
+      "date": "2026-04-24",
+      "description": "Delivery Hero unveiled Herogen, an in-house autonomous software delivery agent. The company reported that Herogen provides the coding output equivalent to 130 senior engineers and handles 9% of all code change requests across the firm.",
+      "category": "Industry Structure",
+      "significance": "This demonstrates a concrete, large-scale internal adoption of highly effective autonomous software agents by a major non-AI-native company, showcasing significant advancements in enterprise productivity and the profound impact of AI on internal software development.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://deliveryhero.com",
+          "label": "deliveryhero.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Anthropic Launches Claude Managed Agents with Memory Feature",
+      "date": "2026-04-25",
+      "description": "Anthropic launched a public beta for a new 'memory' feature for its Claude Managed Agents, allowing AI agents to retain context and information across multiple separate interactions, significantly improving their utility for complex, long-term business tasks.",
+      "category": "Model Release",
+      "significance": "The introduction of persistent memory is a crucial capability enhancement for AI agents, directly impacting their ability to handle complex, multi-step, and personalized tasks, thereby greatly expanding their practical applications and effectiveness across various industries.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://coaio.com",
+          "label": "coaio.com"
+        }
+      ],
+      "type": "timeline_event"
+    }
+  ],
+  "questionUpdates": []
+}
