@@ -4695,5 +4695,70 @@
       }
     ],
     "issueNumber": 437
+  },
+  {
+    "title": "Google Commits $40 Billion to Anthropic",
+    "date": "2026-04-25",
+    "description": "Google committed up to $40 billion in investment for Anthropic, deepening their partnership to bolster AI capabilities in cybersecurity and cloud infrastructure. This massive investment underscores Google's commitment to competitive AI development and strengthens Anthropic's position in the market.",
+    "category": "Funding",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFfUR89EfBTgL9LCVY8hbPb_-_AhNhS9p4Va1bQxXNWQuWsIh2s9S5oOhAU1XC4KfO2kLAQsqUdxnPn5LRen2ikj5RT6ZJ2s3ouhO0n4Aidjz-zdtUZc2F3EmsDNiBB_JGNCmSQdNasg-ycWf2YprfeNlXpvDiTC5v86hz-zx9fWGXfC6gQ5so2b3EBcyUk-hxppzqI1LQ_xIYwFV8-lEmu6IQ=",
+        "label": "coaio.com"
+      }
+    ],
+    "issueNumber": 439
+  },
+  {
+    "title": "Anthropic Launches Memory Feature for Claude Managed Agents",
+    "date": "2026-04-25",
+    "description": "Anthropic launched a new memory feature for its Claude Managed Agents (public beta), enabling agents to retain context across interactions. This enhancement is a crucial step towards more autonomous and capable AI systems, allowing for sustained, complex workflows without constant re-initialization.",
+    "category": "Research",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdFo04coVEG-QTO17rWTlaHbS95gBymYgOdm6vBAfIF2Gby-nFmC37SnOErJRyyDBYAgbFuzQ48kALaP5qYLfrv29-Z5Q6roDu_9WxJyxNa2mD-IBiRInIEqH4HJHn69WC4Y1NRMnzW32lpnFBV1-AIryfzrC3O9wHZgv0AAaB-z1fH-kJNAgIaBBdg96JPZrv9_dPPfiZU__zZl0a3NA=",
+        "label": "coaio.com"
+      }
+    ],
+    "issueNumber": 440
+  },
+  {
+    "title": "Cohere Merges with Aleph Alpha to Form Transatlantic AI Powerhouse",
+    "date": "2026-04-25",
+    "description": "Cohere merged with Germany’s Aleph Alpha to create a 'transatlantic AI powerhouse.' This consolidation aims to target regulated industries and enterprise solutions, strengthening their competitive edge against other major AI players.",
+    "category": "Industry Structure",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdFo04coVEG-QTO17rWTlaHbS95gBymYgOdm6vBAfIF2Gby-nFmC37SnOErJRyyDBYAgbFuzQ48kALaP5qYLfrv29-Z5Q6roDu_9WxJyxNa2mD-IBiRInIEqH4HJHn69WC4Y1NRMnzW32lpnFBV1-AIryfzrC3O9wHZgv0AAaB-z1fH-kJNAgIaBBdg96JPZrv9_dPPfiZU__zZl0a3NA=",
+        "label": "coaio.com"
+      }
+    ],
+    "issueNumber": 441
+  },
+  {
+    "title": "Tutor Intelligence Opens 'Robot Data Factory' for Human Task Learning",
+    "date": "2026-04-26",
+    "description": "MIT-born startup Tutor Intelligence opened a massive facility in Massachusetts dedicated to generating data for robots. This factory is designed to teach robots simple human tasks like folding laundry and packing boxes, addressing a critical need for high-quality, real-world training data for embodied AI.",
+    "category": "Infrastructure",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGud4a3tatG4vAlY5GU9hcIuCu5TAsV5ls2aKoY47OkKOtbdUDSsIVqKxpeCaIYenDdcr6lH7h9nLqX-fE9DUqKDTa9crwv-_BOlvs_C_qsFYbfqGxXL2dV200VaeRK6cqvIOTT5kzlC_YCZDz21BTTzJ5lmB_9WrS-iYXlQNPTeSajpMVOyQWHUVCJETbAExLU9M8C3uMUh1ldFcwLiZCmZHY0onKkaalNs0nb3j-yvKX5CY=",
+        "label": "cp24.com"
+      }
+    ],
+    "issueNumber": 442
+  },
+  {
+    "title": "China Blocks Meta's Acquisition of AI Agent Startup Manus",
+    "date": "2026-04-27",
+    "description": "Beijing regulators blocked Meta’s $2 billion acquisition of the AI agent startup Manus. The stated reasons were concerns over illegal foreign investment and tech exports, reflecting a growing trend of geopolitical intervention in global tech mergers.",
+    "category": "Policy",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFCu3_EcNbV76hXoyeGN9Rqb0pvpB6IhhrioCgp1ZIrXB2RbgWVdPhb2ihpJ-vZPTKEjCLZAL-7Uyt11w8T8n7KQk5yIRTdvroOk5-4rpcAHAjEpUSAVq54FF_SBrF7NzzmvtHayA2GOxSLzBulL3OXFFNF2crCWk1diF0WrFbXrqmUkEIg8S3mlCjOp765CFwwLpgSl4agbZJU8uOF3QbwENqC8Cv4IEYyENaWe6RI=",
+        "label": "lenovo.com"
+      }
+    ],
+    "issueNumber": 443
   }
 ]
