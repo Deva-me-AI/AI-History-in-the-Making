@@ -1,1 +1,81 @@
-{"scanDate":"2026-04-27","candidates":[],"questionUpdates":[]}
+{
+  "scanDate": "2026-04-27",
+  "candidates": [
+    {
+      "title": "MIT Unveils \"EnergAIzer\" for Rapid AI Power Consumption Prediction",
+      "date": "2026-04-27",
+      "description": "Researchers from MIT and MIT-IBM Watson AI Lab introduced \"EnergAIzer,\" a rapid prediction tool to estimate AI workload power consumption in seconds with an 8% error margin, matching traditional methods taking hours. This addresses rising electricity demands in data centers.",
+      "category": "Research",
+      "significance": "This tool could significantly impact the sustainability and cost-effectiveness of AI development and deployment, which is a long-term concern.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGSI04_SkH0EZjh4y3ej5ZFSUFjmPAuzUgD9tIRwHyr3T-k7hlbMOpIujSVi8zt8ahCa9fWOLfDwyTQ8d68XlGjbxvRiy-Tt8iSfNXazvqHAM4glJMZ2W4DQ5-sWfvmmaWSOemE4Lx8IiD9sU7ZjeuUznLaBieoshSvnBRgiXuVHkUBdtY1",
+          "label": "mit.edu"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Intel Warns of Severe Server CPU Shortage for Chinese Cloud Providers",
+      "date": "2026-04-27",
+      "description": "Intel issued a formal warning to major cloud providers in China about a severe server CPU shortage expected through Q3 2026, driven by unprecedented AI infrastructure demand and yield delays in Intel’s 18A process. This is causing some firms to pivot toward AMD.",
+      "category": "Industry Structure",
+      "significance": "A CPU shortage for AI infrastructure can have long-term impacts on the global AI industry, affecting development and deployment timelines, and shifting market dynamics.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhqwMjOp53vKKM7__RpO_n24zz4wIVgPAfrqrwnmnbdt2TpAkjs6rD6hbciw5WwAI5UawOeuFFZn1C-QWyrgrMfoeX5g5L2QUrDo3sLzwOKtAor_ek-_pYgnDcxO0DmljP2V1Sn7QkfFFZ4gAZINiZBhJpMXcfTV3W3epjH8LpbUKss6l0udRydMjRBKk4TX3iD_aNc1Het1DyfB-aUNE=",
+          "label": "technode.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "MIT Graduates Launch \"Robot Kindergarten\" to Generate AI Training Data for Physical Tasks",
+      "date": "2026-04-26",
+      "description": "MIT graduates co-founded Tutor Intelligence and showcased a \"data factory\" in Massachusetts where AI robots learn human tasks like folding laundry and packing boxes. The project aims to generate physical interaction data, currently missing from LLM training sets.",
+      "category": "Research",
+      "significance": "This addresses a critical gap in AI training for real-world physical interaction, paving the way for more capable and embodied AI.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZBhI3qhPosf1bMjUeINb6B4ITymycYlF-lhGlhG_YmdEJwgcGdWHkf1RVqQjgYAGXdmwj1bvSpPgve7_xUzi76vOW16dCNhWhor_zPkfShCmVvyDEbV9OqQAQAlKuCw0rXIhjf2aupMaRDLe9L18v0E3F0R1PwB0wzn6HNerU19R566cZv6waftjm1X9XINoOxuMW5BhRLKfrkv3lQR-eZcjZ_PtAhOI59Wg9gNZT1inug14=",
+          "label": "cp24.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Intel Shares Surge on Strong AI-Driven Xeon Processor Demand Forecast",
+      "date": "2026-04-26",
+      "description": "Intel shares hit an all-time high, surging up to 28%, after the company delivered a June quarter sales forecast of $13.8B–$14.8B, far exceeding Wall Street expectations due to massive demand for Xeon server processors used in AI expansion.",
+      "category": "Industry Structure",
+      "significance": "While a market surge for one company, it reflects the enormous and growing financial investment and demand in AI infrastructure, indicating a broader trend that will certainly impact the industry for years.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH3HvjkbwoREysLsZjR9Hop_Ip-v_oKkfqBT6oolwfWjkLuWH-iGZBV0kRY753zFwFECzikb_GSwE_ySE34K2V6S5pH4ktL4rvCvTb0FF4PCBqqNfcHtVbeI0mJtxfXzqXh11GhGi5lYk1V2lVEDhMdHucCaetNS2H1UouG_Q8GI_EcAVL0Eyq0gdYm5IgLEO4T",
+          "label": "sharecafe.com.au"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "PNNL Confirms Plans for AI Data Center for Scientific and National Security LLMs",
+      "date": "2026-04-26",
+      "description": "The Pacific Northwest National Laboratory (PNNL) confirmed plans for a specialized AI data center in Richland, Washington, designed to run multi-data large language models for scientific and national security missions.",
+      "category": "Infrastructure",
+      "significance": "Government-level investment in dedicated AI infrastructure for scientific and national security applications signifies a major strategic shift in how AI is utilized and developed at a national scale.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFMFBUzB1gEOpH9bskuCOHN9352XP1jqnAspxDn2KI6Jl8X10EfER6fhbYZvnXx0J2bTdvsEz7PN3o8x8_50d1Ev9teREqHapCZBxhLqsvpiU6TBG5x04sjxMKeK-En1kAVY7RxfQxb4Y29C-uNPirH9Dxrawq1hlk6171ijbzbCUYuVZtWpp9VfLMklt_oK2uB7r8SASERqUwScjA=",
+          "label": "spokesman.com"
+        }
+      ],
+      "type": "timeline_event"
+    }
+  ],
+  "questionUpdates": []
+}
