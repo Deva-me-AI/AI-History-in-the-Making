@@ -4760,5 +4760,57 @@
       }
     ],
     "issueNumber": 443
+  },
+  {
+    "title": "Meta Restructures with Major Layoffs to Fund Massive AI Investment",
+    "date": "2026-04-27",
+    "description": "Meta announced plans to lay off 10% of its global workforce to fund a massive $135 billion investment in AI infrastructure, signaling a significant strategic pivot towards AI dominance.",
+    "category": "Industry Structure",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGN964PW0_fnl4pkv18IdTbMrKg6j6K8JPMgoBAj1d8ehEOlGSNXvbzt10DXWpBJzYnnnFzTQ626uv2oQ4jaJK7fgkSaVtKvkd0I-SG98NF1FpH4ZcmJhKpPe1IDhwwE9cdIqzkhglOW83HrJGII10YG1kBqD-9Ma7e_dtgNm1IQZnqs8Yn7qdyzP8DV5VFLBA==",
+        "label": "enterprisetimes.co.uk"
+      }
+    ],
+    "issueNumber": 444
+  },
+  {
+    "title": "AI Market Polarizes: Emergence of 'Disappearing AI Middle Class'",
+    "date": "2026-04-26",
+    "description": "Analysts observe a significant market polarization in the AI industry, with OpenAI positioning frontier AI as premium and closed, while DeepSeek promotes it as open infrastructure. This shift is squeezing out mid-tier AI providers.",
+    "category": "Industry Structure",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEJreMRaoAOc_whCfPwLmfqEew1XpMVZi0h9sc1jY-9JcGVrC6GKUG5gP1-bPMt8nSZh0fDt1XnijYwDMKl54hXf3nTy1wdcxbxx7zVy1A9Oz4YEUM25ikzfl7wVkAmRsCk2e6KcQ9TePXFw3V2_kU=",
+        "label": "thenewstack.io"
+      }
+    ],
+    "issueNumber": 445
+  },
+  {
+    "title": "Google Cloud Introduces Enhanced Guardrails for Agentic AI in Gemini Enterprise",
+    "date": "2026-04-27",
+    "description": "Google Cloud released new security and governance tools for Gemini Enterprise, including an \"agent inbox\" for monitoring long-running AI agents and a Knowledge Catalog to ensure agents are grounded in trusted business data.",
+    "category": "Policy",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHlU8w4-ZZ1RboTBr8ii1YJp_qIfQw7HbocpDW1BV_QG-PR5kH9aD7-axSTUGTY7z_GE7Xci6Kbu4kJBwL7ByRx3iw-jWuxrGuLsZjUekZoPkYtuZkbp8JejldEBlLaKy85_JDvPE9y9xeuHH34o3_FGAy66VJ7Bdo1JeNIPLKqit_vH5PctTghjl5NZlWxF2zcBNSXJdXsm3V9N7W8XItpqhNn0Uz5V3CQ=",
+        "label": "infoworld.com"
+      }
+    ],
+    "issueNumber": 446
+  },
+  {
+    "title": "Sam Altman Publishes OpenAI's New Guiding Principles on Democratization and Empowerment",
+    "date": "2026-04-26",
+    "description": "Sam Altman unveiled new core principles for OpenAI, emphasizing the democratization of AI to resist power consolidation and the empowerment of individuals to ensure AI remains a tool for human agency.",
+    "category": "Policy",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDQXFwLn-MFFAuluHE2cByxvPwwjuTY72S_mTtDL0Ag7a-bXEusNqtJxwcj94cgfCgTgnbYCDm9XxdFcrS95VnX9BcFFnFWI4Udu2Kv0ipz0llMydazg-s0hAfElNeQc1QgAU=",
+        "label": "openai.com"
+      }
+    ],
+    "issueNumber": 447
   }
 ]
