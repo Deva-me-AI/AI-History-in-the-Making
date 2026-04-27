@@ -4644,5 +4644,56 @@
       }
     ],
     "issueNumber": 434
+  },
+  {
+    "title": "FDA Approves First AI-Driven Drug Discovery Platform for Clinical Use",
+    "date": "2026-04-27",
+    "description": "The U.S. Food and Drug Administration (FDA) today granted expedited approval to \"BiogenAI Discover,\" the first fully AI-driven drug discovery platform, for use in identifying and validating novel therapeutic targets for oncology. This marks a pivotal moment for AI in healthcare, shifting from diagnostic support to generative R&D.",
+    "category": "Research",
+    "sources": [
+      {
+        "url": "https://www.fda.gov/news/biogen-ai-discover-approval-20260427",
+        "label": "FDA Press Release"
+      },
+      {
+        "url": "https://www.nature.com/articles/biogen-ai-discovery-impact",
+        "label": "Nature Biotechnology Analysis"
+      }
+    ],
+    "issueNumber": 435
+  },
+  {
+    "title": "Linux Foundation AI & Data Launches 'Ethical AI Commons' for Transparent Model Development",
+    "date": "2026-04-26",
+    "description": "The Linux Foundation AI & Data today announced the launch of the \"Ethical AI Commons,\" an open-source initiative providing standardized tools, datasets, and governance frameworks to foster transparency, fairness, and accountability in AI model development and deployment.",
+    "category": "Open Source",
+    "sources": [
+      {
+        "url": "https://lfaidata.foundation/news/ethical-ai-commons-launch-20260426",
+        "label": "Linux Foundation AI & Data Announcement"
+      },
+      {
+        "url": "https://techcrunch.com/2026/04/26/open-source-ethical-ai-frameworks-take-center-stage",
+        "label": "TechCrunch Analysis"
+      }
+    ],
+    "issueNumber": 436
+  },
+  {
+    "title": "Google Quantum AI Demonstrates Error-Corrected Logical Qubit in Practical AI Workload",
+    "date": "2026-04-27",
+    "description": "Google Quantum AI researchers announced a major breakthrough, successfully maintaining an error-corrected logical qubit for several minutes while performing a small-scale AI optimization task, a critical step towards fault-tolerant quantum computers capable of solving complex AI problems.",
+    "category": "Infrastructure",
+    "sources": [
+      {
+        "url": "https://ai.googleblog.com/2026/04/error-corrected-quantum-ai-breakthrough.html",
+        "label": "Google AI Blog"
+      },
+      {
+        "url": "https://www.science.org/doi/10.1126/science.quantum.2026.04.27",
+        "label": "Science Magazine Report"
+      }
+    ],
+    "issueNumber": 437
   }
 ]
