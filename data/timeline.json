@@ -4812,5 +4812,57 @@
       }
     ],
     "issueNumber": 447
+  },
+  {
+    "title": "OpenAI Launches GPT-5.5 Optimized for Enterprise",
+    "date": "2026-04-25",
+    "description": "OpenAI released GPT-5.5, a new iteration of its flagship model specifically engineered for enhanced enterprise reliability, advanced coding capabilities, and complex data analysis, solidifying its competitive edge in the business AI sector.",
+    "category": "Model Release",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYwNhRON2a_e4xpPqwSCm-C6Kf-4XdU4Ouf0a3u79_1pSZLHBZraXxD6swZKL3yXz_sL-nCnixhobVzTC0zP-OR5cvIYGFbb-3atPvMU4pamOfAwFX6IZ4amUVZ6lfSB0p7r_h4kZWa-Tl29tXbuwtcb7L6cfiBCaC__t99s4M7a0aWS46LIfEJuxN-cwe_I0brENHETnj6UpJ59T0UvnT9xVAUi-vqP3kCms=",
+        "label": "futurumgroup.com"
+      }
+    ],
+    "issueNumber": 448
+  },
+  {
+    "title": "UK Government Backs David Silver's 'Self-Learning' AI Startup, Ineffable Intelligence",
+    "date": "2026-04-27",
+    "description": "The UK government announced its support for Ineffable Intelligence, a new startup founded by AI pioneer David Silver, focused on developing novel 'self-learning' algorithms capable of discovering new knowledge rather than solely predicting patterns from existing human data.",
+    "category": "Research",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYYI1q0Kwrvx_gmxSvnitsqRnfVRGK-JSNbGn2WPb33QgGJtqfAw7q6Ji5ql_5LW6z_A1IS8zW4XmySInjSEvbUTtgQ6NDVrstw69fUvsjd9P5QfPxrvk4msQeeknwpbGNtStoPH0tXJmDGW1FcjCSe9wYMUPX33Z_diAFb3s2nwNVyatV6-QlDdo1imGEQavw7wapUhffx6EnxiDEYlilcArrcdmer",
+        "label": "www.gov.uk"
+      }
+    ],
+    "issueNumber": 449
+  },
+  {
+    "title": "Samsung Executives Express Alarm Over AI-Driven Memory Shortages",
+    "date": "2026-04-27",
+    "description": "Samsung executives voiced significant concerns regarding potential losses in their smartphone division due to the escalating demand for high-bandwidth memory (HBM) driven by AI, indicating that supply struggles to keep pace.",
+    "category": "Infrastructure",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGibPqHSWj8-GW_Q1BlukWyUkWku7NkaQx0fWuCHd7nmvFhpaYDS58BGjTleb_NuQNOu0YTGDR_Byq2oM8i5B-LYpAtNKmXV__imUI_I3oTz-TMV11tQIbBJXqX6xmiOJeAjTlDEV3LSJ7ekvxXdo6dX9pwez4N7JgwqZibvc5CYMoPNjN-OEGXPdKm0b2MhLbYg9fcZms-YrzUTSGZBQ==",
+        "label": "coaio.com"
+      }
+    ],
+    "issueNumber": 450
+  },
+  {
+    "title": "FBI Reports $893 Million in Losses from AI-Driven Fraud in Past Year",
+    "date": "2026-04-27",
+    "description": "An FBI report revealed that over the past year, the agency received more than 22,000 complaints related to AI-driven fraud, including deepfakes and voice cloning, resulting in total losses exceeding $893 million.",
+    "category": "Policy",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmYqkkTt3bmOnl85zU0saFRfoCA5514WSsh2XHfYFGBq-eGePOUNe4hwbAhwPTKyVN_QVi1EBJYUaQjbUr6EDL92499C9V28W4kB3SaMxbL_4rHDg9qvGowSE2N3co9kTC_F1zE9w1xMyJ3P_7JmPSflP4WiuBWSM2WxMnukxVKtge0VpHtj4dteru",
+        "label": "jdsupra.com"
+      }
+    ],
+    "issueNumber": 452
   }
 ]

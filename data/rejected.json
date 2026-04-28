@@ -1629,5 +1629,25 @@
       "claude": "REJECT"
     },
     "reviewedAt": "2026-04-26T08:05:10Z"
+  },
+  {
+    "title": "Elon Musk's Lawsuit Against Sam Altman and OpenAI Begins",
+    "date": "2026-04-27",
+    "description": "The highly anticipated trial between Elon Musk and Sam Altman commenced in Oakland, California, centering on Musk's allegations that OpenAI deviated from its original non-profit mission to become a 'moneymaking mode' supported by Microsoft.",
+    "category": "Industry Structure",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGW0C2oajbEIbCMH6GH16zi3VQH96SE3uiuWvAIxlHpHaPNWU8m-cQ2MxlX7wT3ZOnxU0-bABPUsFfcDkwpBApwRKyTZ8oEigBy7wex8UT0dw1kVNA7GcNNKOOXbOInwWnvQmCoh5-w5vRkJzmh9pomswlLrbSgpe7k_iXk42lY_ZZkbXtBwcZFN5V1Crus-cZH99InfRW5gfGChSFH2wQpDv0kFR8Rst7J-Aaq2FgloI2agg4==",
+        "label": "citynews.ca"
+      }
+    ],
+    "votes": {
+      "accept": 1,
+      "reject": 1,
+      "gemini": "ACCEPT",
+      "gpt": "ABSTAIN",
+      "claude": "REJECT"
+    },
+    "reviewedAt": "2026-04-28T08:04:58Z"
   }
 ]
