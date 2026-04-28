@@ -1,1 +1,51 @@
-{"scanDate":"2026-04-28","candidates":[],"questionUpdates":[]}
+{
+  "scanDate": "2026-04-28",
+  "candidates": [
+    {
+      "title": "Microsoft and OpenAI Amend Partnership, Ending Exclusivity",
+      "date": "2026-04-27",
+      "description": "Microsoft and OpenAI announced an amended agreement, ending OpenAI's exclusivity with Azure and converting Microsoft's IP license to non-exclusive. This strategic shift reflects regulatory pressures and diversification goals, reshaping the cloud and AI market landscape.",
+      "category": "Industry Structure",
+      "significance": "High. This major shift in the relationship between two leading AI entities will redefine competition in cloud infrastructure and AI model deployment for years to come, influencing market dynamics and strategic partnerships.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFnVTB9xIA8bLX8xwp_ixhZzgIO3FA5wvvgfqeXnh8JyCa1bpGtNn2mwBvHw9aeD_xi7Onou3Fhgiin3X2l68CbAtRpwduPcuLjQXamkr9Oktk37uZgFAI4P7576XGFCllizrs0c2sRJhipV-1rP67DSUAJYvzrEg==",
+          "label": "OpenAI Statement (via Google Search)"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "IBM Globally Launches \"IBM Bob\" for AI-First Software Development",
+      "date": "2026-04-28",
+      "description": "IBM announced the global availability of \"IBM Bob,\" an AI-first development partner designed to orchestrate agentic AI across the full software development lifecycle. Internal reports show significant productivity gains.",
+      "category": "Model Release",
+      "significance": "High. The introduction of an enterprise-focused, agentic AI system for the entire software development process could fundamentally alter how software is built, tested, and deployed, driving significant efficiency shifts in the industry.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGmpYMl1jujBhnFJHOFZVowuGMrozJJLbVAZkcT2nDLKMzt2qhS0zrB0oCV0JyQ_6sEyGW7tr-3uxt_VeyUdbLg6FBPLyyX6KB0h8mGF6gQJCEYaj3NzYJSt4i1z48yOZC7qHIR37Rt_O8xO4BKNjbuyetoVmemP8ag5pgYkJD1G-IIeZUsGCS2agIjhgDmE2kDQ8UVum7BC6crBjbU2fWiMeTAQee3Ltq3JvtddKY50YY2lragnhqKHFdISdmVTJlaiSyIx_UWZBzBpjjhQ5QdBDZ17Hs=",
+          "label": "IBM Official Announcement (via Google Search)"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Florida Senate Passes \"AI Bill of Rights\"",
+      "date": "2026-04-28",
+      "description": "The Florida Senate passed an \"AI Bill of Rights,\" a landmark legislation focusing on individual rights concerning chatbots and automated decision-making. This sets a precedent for state-level AI governance.",
+      "category": "Policy",
+      "significance": "High. This bill marks a significant step in establishing formal legal frameworks for AI use and user protection at a state level, likely influencing future national and international AI regulations and debates on algorithmic accountability.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPkA5wPn2wipOkfp2ynP2xYCLffJjtLu5fpOzaZizQY9RsLP2Si5hLr6wxXX8z6S_hWdYsj-_08fx8hC8D4OyQgdAXk_fSNQKIb2MaSzE6Cc1IVE9hFyMtN3fFSMnfYsLliov2DQIe5QxxWHz4k17kfNGabSwvnH8tv2oK6nbY_3y6fSVieAL4Kwo=",
+          "label": "JD Supra (via Google Search)"
+        }
+      ],
+      "type": "timeline_event"
+    }
+  ],
+  "questionUpdates": []
+}
