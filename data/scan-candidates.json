@@ -1,76 +1,76 @@
 {
-  "scanDate": "2026-04-27",
+  "scanDate": "2026-04-28",
   "candidates": [
     {
-      "title": "OpenAI Launches GPT-5.5 Optimized for Enterprise",
-      "date": "2026-04-25",
-      "description": "OpenAI released GPT-5.5, a new iteration of its flagship model specifically engineered for enhanced enterprise reliability, advanced coding capabilities, and complex data analysis, solidifying its competitive edge in the business AI sector.",
-      "category": "Model Release",
-      "significance": "High. This release targets a critical segment of AI adoption—enterprise solutions—and represents a significant step in making advanced AI reliable and powerful for business applications, influencing future AI development trends and market leadership.",
-      "confidence": "high",
-      "sources": [
-        {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGYwNhRON2a_e4xpPqwSCm-C6Kf-4XdU4Ouf0a3u79_1pSZLHBZraXxD6swZKL3yXz_sL-nCnixhobVzTC0zP-OR5cvIYGFbb-3atPvMU4pamOfAwFX6IZ4amUVZ6lfSB0p7r_h4kZWa-Tl29tXbuwtcb7L6cfiBCaC__t99s4M7a0aWS46LIfEJuxN-cwe_I0brENHETnj6UpJ59T0UvnT9xVAUi-vqP3kCms=",
-          "label": "futurumgroup.com"
-        }
-      ],
-      "type": "timeline_event"
-    },
-    {
-      "title": "UK Government Backs David Silver's 'Self-Learning' AI Startup, Ineffable Intelligence",
-      "date": "2026-04-27",
-      "description": "The UK government announced its support for Ineffable Intelligence, a new startup founded by AI pioneer David Silver, focused on developing novel 'self-learning' algorithms capable of discovering new knowledge rather than solely predicting patterns from existing human data.",
-      "category": "Research",
-      "significance": "High. This initiative, backed by public funds and a prominent AI researcher, could lead to fundamental breakthroughs in AI's ability to generate new knowledge autonomously, potentially accelerating scientific discovery and changing the paradigm of AI development beyond current predictive models.",
-      "confidence": "high",
-      "sources": [
-        {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHYYI1q0Kwrvx_gmxSvnitsqRnfVRGK-JSNbGn2WPb33QgGJtqfAw7q6Ji5ql_5LW6z_A1IS8zW4XmySInjSEvbUTtgQ6NDVrstw69fUvsjd9P5QfPxrvk4msQeeknwpbGNtStoPH0tXJmDGW1FcjCSe9wYMUPX33Z_diAFb3s2nwNVyatV6-QlDdo1imGEQavw7wapUhffx6EnxiDEYlilcArrcdmer",
-          "label": "www.gov.uk"
-        }
-      ],
-      "type": "timeline_event"
-    },
-    {
-      "title": "Samsung Executives Express Alarm Over AI-Driven Memory Shortages",
-      "date": "2026-04-27",
-      "description": "Samsung executives voiced significant concerns regarding potential losses in their smartphone division due to the escalating demand for high-bandwidth memory (HBM) driven by AI, indicating that supply struggles to keep pace.",
-      "category": "Infrastructure",
-      "significance": "High. This highlights a critical bottleneck in the growth of the AI industry—the availability of specialized hardware. Memory shortages could limit AI development, increase costs, and reshape the competitive landscape among hardware manufacturers and AI developers for years to come.",
-      "confidence": "high",
-      "sources": [
-        {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGibPqHSWj8-GW_Q1BlukWyUkWku7NkaQx0fWuCHd7nmvFhpaYDS58BGjTleb_NuQNOu0YTGDR_Byq2oM8i5B-LYpAtNKmXV__imUI_I3oTz-TMV11tQIbBJXqX6xmiOJeAjTlDEV3LSJ7ekvxXdo6dX9pwez4N7JgwqZibvc5CYMoPNjN-OEGXPdKm0b2MhLbYg9fcZms-YrzUTSGZBQ==",
-          "label": "coaio.com"
-        }
-      ],
-      "type": "timeline_event"
-    },
-    {
-      "title": "Elon Musk's Lawsuit Against Sam Altman and OpenAI Begins",
-      "date": "2026-04-27",
-      "description": "The highly anticipated trial between Elon Musk and Sam Altman commenced in Oakland, California, centering on Musk's allegations that OpenAI deviated from its original non-profit mission to become a 'moneymaking mode' supported by Microsoft.",
-      "category": "Industry Structure",
-      "significance": "High. This legal battle involves key figures and a foundational AI organization, potentially setting precedents for how AI research and development are governed, whether non-profit missions can be sustained in a commercialized AI landscape, and ultimately shaping the future structure and ethics of the AI industry.",
-      "confidence": "high",
-      "sources": [
-        {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGW0C2oajbEIbCMH6GH16zi3VQH96SE3uiuWvAIxlHpHaPNWU8m-cQ2MxlX7wT3ZOnxU0-bABPUsFfcDkwpBApwRKyTZ8oEigBy7wex8UT0dw1kVNA7GcNNKOOXbOInwWnvQmCoh5-w5vRkJzmh9pomswlLrbSgpe7k_iXk42lY_ZZkbXtBwcZFN5V1Crus-cZH99InfRW5gfGChSFH2wQpDv0kFR8Rst7J-Aaq2FgloI2agg4==",
-          "label": "citynews.ca"
-        }
-      ],
-      "type": "timeline_event"
-    },
-    {
-      "title": "FBI Reports $893 Million in Losses from AI-Driven Fraud in Past Year",
-      "date": "2026-04-27",
-      "description": "An FBI report revealed that over the past year, the agency received more than 22,000 complaints related to AI-driven fraud, including deepfakes and voice cloning, resulting in total losses exceeding $893 million.",
+      "title": "South Africa Pulls AI Policy Over 'Hallucinations'",
+      "date": "2026-04-26",
+      "description": "The South African government withdrew its draft National AI Policy after it was discovered that the document cited at least six fictitious academic studies, reportedly generated by the very AI tools the policy intended to regulate.",
       "category": "Policy",
-      "significance": "High. The substantial financial losses and volume of complaints highlight the urgent need for robust regulatory frameworks, enhanced cybersecurity measures, and public awareness campaigns to combat the growing threat of AI-powered deception, fundamentally impacting trust in digital interactions and potentially leading to new legislation.",
+      "significance": "This event highlights the critical challenge of ensuring the veracity of AI-generated content, especially in sensitive areas like government policy. It will likely spur stricter verification protocols for AI-assisted document creation globally and could erode trust in AI tools used for critical tasks if such incidents are not addressed effectively.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmYqkkTt3bmOnl85zU0saFRfoCA5514WSsh2XHfYFGBq-eGePOUNe4hwbAhwPTKyVN_QVi1EBJYUaQjbUr6EDL92499C9V28W4kB3SaMxbL_4rHDg9qvGowSE2N3co9kTC_F1zE9w1xMyJ3P_7JmPSflP4WiuBWSM2WxMnukxVKtge0VpHtj4dteru",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXsDGFJiYqX3qdVYaPFMg-7LnPll5xqds3dpws9nfitm-EUiIarg05w15BgObq5lqO8AHtFdVqNDnShDMmMxpK9MTn195pEDV6d8e8E2z6pkIfxaYLungi7QMeY74tAICXJ0nmCOiCQKsRsIRaHHEwDCCVBp9M0PSADGSug2ugls2mCghoI8N_pLBqiAftwSSLy5WmjlBnFpo=",
+          "label": "moneyweb.co.za"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "OpenAI Loosens Azure Exclusivity for Model Distribution",
+      "date": "2026-04-26",
+      "description": "OpenAI updated its partnership with Microsoft, allowing its models to be available across other cloud platforms, with commitments extending to 2032, while Azure remains the primary cloud provider.",
+      "category": "Industry Structure",
+      "significance": "This strategic shift by OpenAI is poised to significantly increase competition in the AI model market, fostering broader adoption across diverse cloud infrastructures. It could dilute Microsoft's exclusive advantage and accelerate the decentralization of advanced AI capabilities, impacting vendor lock-in and innovation for the next decade.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPWIEDg7yieG3LLJ8U6FJy8mqi9Y1fktHDpIETR_Yuuom4m3Ef9exFVW7MCkUvQg7WToaijDkE61YOixYDmxXWnDqk9BN5KAW3dkxT0eMGWeGEUNqKZdixI4y00SVf6nEAB-3OGpP5qByeh4qqGvsnvwmQWr1WSQ==",
+          "label": "latent.space"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "GPT-Image-2 Released with Low-Hallucination Visual Reasoning",
+      "date": "2026-04-26",
+      "description": "Industry analysts highlighted the release of GPT-Image-2, noting its significantly improved 'low-hallucination' reasoning capabilities for high-fidelity visual generation. Experts now consider high-fidelity visual generation a core component in the race toward Artificial General Intelligence (AGI).",
+      "category": "Model Release",
+      "significance": "The advancement of 'low-hallucination' visual reasoning in GPT-Image-2 is a critical step towards building more reliable and trustworthy multimodal AI systems. This development pushes the boundaries of AI's ability to understand and generate visual content accurately, which is essential for numerous real-world applications and accelerates the path to AGI over the next five years.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGPWIEDg7yieG3LLJ8U6FJy8mqi9Y1fktHDpIETR_Yuuom4m3Ef9exFVW7MCkUvQg7WToaijDkE61YOixYDmxXWnDqk9BN5KAW3dkxT0eMGWeGEUNqKZdixI4y00SVf6nEAB-3OGpP5qByeh4qqGvsnvwmQWr1WSQ==",
+          "label": "latent.space"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Broadcom's Market Cap Exceeds $2 Trillion Driven by AI Chips",
+      "date": "2026-04-27",
+      "description": "Broadcom's market capitalization surpassed $2 trillion, attributed to its dominant position in custom AI chips (TPUs) for Google and its critical AI networking infrastructure.",
+      "category": "Infrastructure",
+      "significance": "This financial milestone underscores the profound and growing economic impact of specialized hardware and infrastructure in the AI era. It signals a sustained, massive investment in the foundational components that power AI, confirming that the race for superior AI performance is intrinsically linked to advancements and control over underlying hardware and networking technologies for the foreseeable future.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGJz2K87UxHivjXDbv2bUzUlbr8Ojxoop5IDg2cYN4UQVais9POF4jVC83SNqVBS0RUR3UbiAEeSfFj2rJOWiLviPbsXeERfU5QSBVTqjU4MCVIm3eGyzXOi2nJr7Hr-co-IrkxdwyHval9Mo-NxSvDvUlLOqdCX8P6BTBv-yOrFcht4cWk2juch89ZrXAGYOAd3jOrAycBGA==",
+          "label": "fool.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "US States Advance Diverse AI Regulations",
+      "date": "2026-04-27",
+      "description": "Florida's Senate prepared to pass an 'AI Bill of Rights' (SB 2D), Connecticut's Senate passed a comprehensive 71-page AI bill targeting chatbots, employment decisions, and frontier models, and Tennessee signed SB 837 into law, legally clarifying that 'person' does not include AI, algorithms, or software.",
+      "category": "Policy",
+      "significance": "The rapid and varied legislative activity across US states signifies an accelerating and potentially fragmented regulatory landscape for AI. This patchwork of laws will pose significant challenges for AI developers and deployers operating nationwide, influencing ethical guidelines, deployment strategies, and legal precedents for AI for years to come. The Tennessee law sets a foundational legal interpretation of AI personhood.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHuQQ-_1ohxX4Pkv44mDWcC8-ACKL3LBkR7THTtwoJiFlqxsa4bo3-aI39Wl0SJYjQDpoe53863OiJm4rg_YIlBh-A1XQXrJkCmURIkVEy-mZmwmA2Lw51Z9TgQiuGQwLJgACSM_M5AmNT54b7QJliIvnJ5hqZRhgzGniiTmr58Q6pPBhjeUtq_na_7",
           "label": "jdsupra.com"
         }
       ],
