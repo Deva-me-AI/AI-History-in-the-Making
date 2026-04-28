@@ -1,1 +1,85 @@
-{"scanDate":"2026-04-28","candidates":[],"questionUpdates":[]}
+{
+  "scanDate": "2026-04-28",
+  "candidates": [
+    {
+      "title": "China Blocks Meta's Acquisition of AI Startup Manus",
+      "date": "2026-04-27",
+      "description": "The Chinese government blocked Meta’s $2 billion acquisition of the AI startup Manus, citing efforts to prevent advanced AI technology from flowing to the U.S. ahead of high-level diplomatic meetings.",
+      "category": "Policy",
+      "significance": "This event signals intensifying geopolitical competition over advanced AI technology and intellectual property, impacting international mergers and acquisitions in the AI sector.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDVwKG5G2_mlVSiLXXhrFTUG095jZu2DrJctk7ZROpGkmaXiauvyk1cpk-eXv2pG72Zp181NkcEZ3p7o5Xii0OOxXKEFyFPHtghByDqfzaMkIt9dxZBa_xcJZFm6hdN48dGutAek0=",
+          "label": "youtube.com"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLINqdNRZSKz8EYlL_7z_DeuVDTdmV04zUGQiGOjCNjdT8bKroYjlY4JbTaXTRkkWio6d8cVhRlDkIFx0NsP6DNUEFJ0yy1284HnX6EhSsvr2Ynn0t49JR0Zqdi3szVp-tw2WQZGFgcbF6UCDozi5BmMV3DrKAoIbZZjJ_23wgxtM6V6pKSf1lBUIwVQTxO1af2v6um5JsNMdQecmy3NH8UT1N6uzRaOn6ER5PcAcnHm576wVN71JsCON6kndsrk383UtzgX6tgQY=",
+          "label": "latimes.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Meta Announces Orbital Solar Power Deal for AI Data Centers",
+      "date": "2026-04-27",
+      "description": "Meta announced a deal to reserve up to 1 gigawatt of power from Overview Energy, a startup planning to beam solar energy from orbit. This is part of Meta's strategy to secure uninterrupted, sustainable energy for its AI data centers by 2030.",
+      "category": "Infrastructure",
+      "significance": "This initiative represents a significant long-term investment in sustainable and scalable energy infrastructure, crucial for the increasing power demands of advanced AI development and operation.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDVwKG5G2_mlVSiLXXhrFTUG095jZu2DrJctk7ZROpGkmaXiauvyk1cpk-eXv2pG72Zp181NkcEZ3p7o5Xii0OOxXKEFyFPHtghByDqfzaMkIt9dxZBa_xcJZFm6hdN48dGutAek0=",
+          "label": "youtube.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Shanghai Cooperation Organization Approves AI Development Concept",
+      "date": "2026-04-27",
+      "description": "At the 5th Meeting of Heads of ICT Agencies in Bishkek, SCO member states approved a concept for creating regional data processing centers and developing the AI industry to ensure 'technological sovereignty'.",
+      "category": "Policy",
+      "significance": "This international agreement highlights a collective effort among SCO nations to establish regional control and development in the AI sector, potentially influencing global AI standards and data governance.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLunCZzSDAeco9JlpG_oaRK3_xkmhLMlf-oEeUc7u1NdlBwPkGxgcJ4eAp24oBEDsW_AbBkhEB8lxUp1alKpQbtNBCR3cDomtvu_TWDkLICpm4SV4ja2FUSqVSiE0ca2ZfhUCvsDWZAw=",
+          "label": "sectsco.org"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Gen and xAI Partner to Integrate Grok into Consumer Products",
+      "date": "2026-04-28",
+      "description": "Gen (parent company of Norton and Avast) and Elon Musk’s xAI announced a strategic partnership to integrate Grok frontier models into consumer products, starting with the 'Norton Neo' AI browser and assistant.",
+      "category": "Industry Structure",
+      "significance": "This partnership signifies a major push to embed advanced AI models directly into widely used consumer software, potentially accelerating AI adoption and competition in the consumer tech market.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG97k34qeM8oARxuNF7fwDdFKlxBZmq0DJEpPib55pTkBQaqkA3ZWdgY05jcuGZ28R6RFR6xDzdChJEXw8pW7XNchzbzfCM-lSJSqx6vmllAqximnuLdyUW8ai8kb62LnUGhsqHe0SXU7MwS77xRatCrBvzucRykoFyXuplufwEt-KvKX5KqXDhavoGT9iXxQ94XRJ_KZKjCxQyes7jifXmo2DbfyVDvoDys-QOxTWDPNfy",
+          "label": "gendigital.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Google Signs Agreement with US Pentagon for AI Military Work",
+      "date": "2026-04-28",
+      "description": "Google has reportedly signed a deal with the US Pentagon to provide AI models for classified military work. The agreement includes provisions for mission planning but prohibits use for autonomous weapons without human oversight.",
+      "category": "Military & Security",
+      "significance": "This agreement marks a significant expansion of AI into defense applications, raising ethical considerations around AI in warfare and establishing a critical partnership between a major tech company and the military.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9x6MvvYyqOtLlU6gGsE7gx7wa49k6thiW51ngL-a9a5g3bFVFnbHZqss0G8fI-j5GLyYzwUQPSf9wjTaNnwWR39-2UI5SmNuyRH9jQQEgnTbaeXqAVV-TIWdG3qJwCdNGlGRDG3hIqb0PI59KGxX1YsJLTP_Ve2hkWK8CAvW7rQCIPgk3KY9-p7cmYhkvo=",
+          "label": "theguardian.com"
+        }
+      ],
+      "type": "timeline_event"
+    }
+  ],
+  "questionUpdates": []
+}
