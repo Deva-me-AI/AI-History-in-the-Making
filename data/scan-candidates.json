@@ -2,76 +2,61 @@
   "scanDate": "2026-04-28",
   "candidates": [
     {
-      "title": "Cerebras Secures $20 Billion OpenAI Deal for AI Inference Capacity",
-      "date": "2026-04-27",
-      "description": "Cerebras, a leading AI chipmaker, secured a landmark $20 billion deal with OpenAI to provide 750 megawatts of AI inference capacity, positioning its wafer-scale chips as a high-speed alternative to Nvidia GPUs. This news emerged alongside reports of Cerebras' imminent IPO, underscoring significant shifts in the AI hardware landscape.",
-      "category": "Infrastructure",
-      "significance": "This massive deal signifies a major investment in alternative AI hardware and infrastructure, challenging Nvidia's dominance and enabling large-scale AI reasoning. It will significantly influence the future architecture and capabilities of AI data centers for years to come.",
-      "confidence": "high",
-      "sources": [
-        {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFt3tSIiyWVh6XJDJotncnrNywABWcv3019dV_NUq0SYfRrcHXINfwxtvMq6wSyTEuTuJJNSG795Fw31-flL7MPtPkvIcPQgZfCrR7-qo1XfDwy_uupj2Q2o-ncRDJLOgrCnuIGCVMFUuxwCwJN7QMRhKtweLmOL-SqdzjRcoHkR1oTN1aEDaf4GznCQ0IPUMqknAE1CZ4=",
-          "label": "fool.com"
-        }
-      ],
-      "type": "timeline_event"
-    },
-    {
-      "title": "New Frontier Models GPT-5.4, Claude Mythos 5, and Gemini 3.1 Pro Released",
-      "date": "2026-04-27",
-      "description": "April 2026 saw the release of several frontier AI models, including OpenAI's GPT-5.4, Anthropic's Claude Mythos 5, and Google's Gemini 3.1 Pro. These models have reportedly set new benchmarks in reasoning capabilities and native multimodality, intensifying the 'Model Wars' among leading AI labs.",
-      "category": "Model Release",
-      "significance": "The continuous release of more powerful frontier models drives advancements across all AI applications, from enterprise solutions to research. These models will define the state of the art for the foreseeable future, enabling new capabilities that will reshape industries and research directions.",
-      "confidence": "high",
-      "sources": [
-        {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHZxyfD9VFNehroGcJB7oQY4dgWvYvwBOHrzIn_-n9KN-MiZPirtP3wBoF0_P6ia1C6PqdE0GWNHOoa7WGHe4XbD5GQ-60HE4xlCumi9l65PI2Vb6cOOcC0qRmvSBsYiNTnciFQmMRTWh4QlmNWMEem4NKXASDB2GDBBHXh0Yxs",
-          "label": "kersai.com"
-        }
-      ],
-      "type": "timeline_event"
-    },
-    {
-      "title": "Sony AI's 'Project Ace' Robot Outplays Elite Human Table Tennis Players",
+      "title": "OpenAI Proposes Global 4-Day Work Week Policy",
       "date": "2026-04-28",
-      "description": "Sony AI published groundbreaking research in 'Nature' on 'Project Ace,' revealing the first autonomous robot capable of consistently outplaying elite human table tennis players in real-time. This achievement marks a significant milestone for physical AI agents, demonstrating unprecedented real-time decision-making and reaction speeds in a complex physical sport.",
-      "category": "Research",
-      "significance": "This breakthrough advances the field of physical AI and robotics, opening doors for more capable autonomous systems in complex real-world environments beyond controlled settings. Its implications for robotics, manufacturing, and even human-robot interaction will be felt for decades.",
+      "description": "OpenAI published a 13-page policy document proposing a 32-hour work week at full pay, framing AI productivity gains as an 'efficiency dividend' for workers. The document also explores concepts like a public wealth fund and a 'robot tax' for companies replacing human roles with AI.",
+      "category": "Policy",
+      "significance": "This proposal from a leading AI company could significantly influence future labor policies and economic models globally as AI integration transforms the workforce.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuYlzWzvmKNY_nQE2tW0Rs98FnUOQaWy8yTJ8LBMJGL93_FZ5rGcUOPuE1uJYeWSXAigy4WQLVLnWpEBeknL8h15cwaRzlnXIvXsA3vFg1-Os-Y_w1z3EqbV9UCDQ-qbyMFuU6EoxUDrbbs2ggcL7BkgVwQQYNxD9lnyjPzNmCw56qvBsF1cRrVBEtkhDTY4y1JLyBtJBUG3EeeIQYqVCKFnzx6rKVFNTQ",
-          "label": "ai.sony"
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcTN8bo3GOHjM1_w4FrLRGUeOHfA-7gYvaFBGSpYF_Yc9p9VvONCTMosfXSCoWiMgYRA7Qc7COzGrMoWdfijqACDMr8mNukWWRV3bJzF-72UeRP1EfYMDsDzDh8nmFhMnMbkfqSP6EFUzOaSsMsepPuDGaIxyIvXkAHe9PIWpnwmMjmVpE7yOyDcQLxYYQD8VvNv4Q5ymqJ0kRSyowmKwuONeKZ1F1-wzuQFbylEmilA73Fr_CEg==",
+          "label": "forbes.com"
         }
       ],
       "type": "timeline_event"
     },
     {
-      "title": "Google Breaks Ground on $15 Billion AI Hub in India",
-      "date": "2026-04-28",
-      "description": "Google officially commenced construction on a landmark gigawatt-scale AI hub in Visakhapatnam, India. This initiative is part of a broader $15 billion investment through 2030, aimed at establishing a national AI ecosystem in partnership with AdaniConneX and Nxtra by Airtel.",
-      "category": "Infrastructure",
-      "significance": "This massive investment in AI infrastructure in India will significantly boost regional AI capabilities, drive economic growth, and contribute to the global distribution of AI compute power. It represents a long-term strategic move by Google to expand its global AI footprint.",
+      "title": "China Blocks Meta's $2 Billion Acquisition of AI Startup Manus",
+      "date": "2026-04-27",
+      "description": "Beijing blocked Meta’s attempt to acquire the agentic AI startup Manus, citing national security concerns and a desire to prevent advanced AI technology from flowing to the U.S. This decision came ahead of high-level diplomatic meetings.",
+      "category": "Policy",
+      "significance": "This event highlights the escalating geopolitical competition over AI technology, indicating a long-term trend of national interests dictating cross-border AI mergers and acquisitions, reshaping the global AI industry landscape.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEcpibkBWvKQFw9PqwGg1C9STkmWV4BzNLM2daZrsh_V4KkadXHlx7VaDfmk5CvURVU1IvS8z7zPEX-rHimBwAqjqNnk9TsTjuRp8d6E4sXznMUipNsXNXOJ1Kj8rGV8SXnVKmHiNcAciyEn7Q6vjUwEPVbmwjPBdkHToRbHJe75C4OpgFgLwLtF3kQCNAziynH8kw5_1kfLuwy5DVWg74J75on-vd9ntzIHVKmg9HQAlqRvTJMxjPyWVskyL2f5ERW6YKhLU8R91xSrs2w3y_JwnmXwEQAT7mmd60zq85HiCFp-4szTvuafsPyH8Qcg==",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGU9jZ8GS6DoEPheoFDwJKItylmwD6wIn065uvNXbeZ3BKidJMHiSZOLCaDSb4plIxDTf2GQ1wkHfPcxB_6BG25jnw9G_hsdBE1bEUNi64OxvjAo7acg-d8214EbSZZVd4SsEv9qeE=",
+          "label": "youtube.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Google Breaks Ground on Gigawatt-Scale AI Hub in India with $15 Billion Investment",
+      "date": "2026-04-28",
+      "description": "Google officially commenced construction on a landmark gigawatt-scale AI hub in Visakhapatnam, India. This is part of a broader $15 billion investment planned from 2026–2030, aimed at establishing a comprehensive AI ecosystem in the region.",
+      "category": "Infrastructure",
+      "significance": "This massive investment and infrastructure development will significantly boost India's role in the global AI landscape, fostering local talent, research, and potentially shifting geographical centers of AI innovation over the next five years and beyond.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHqvO3N6nYNZY14YEWZrHem-Iv-vPpznMa98Iza_EjVjjr7ier1X5SQolY8dKZtLtd1cfrS4NtsFNq9z2KDJdRQYqhqd1MfvWI76TY3WGxabiTUytUgMAWo-Dn-kCzZP6XHc_4tiIYCvS72MJUH119GN--ZCpHJbgZcW6SgtRkPLq9FNEeA2TPbCJrNZFWsiwCSUOOtdqz5UZvVZ9r5W1O21KAiqGYDV_iZJ-4xLqSeHFaWgRFt1x6ueiOotzruOS1vQwnDinKToI2BB66TeUi_49CybbGbQ3eMMP9_RY7pwQW6wJ6YvWmvZhczM0HYsw==",
           "label": "googlecloudpresscorner.com"
         }
       ],
       "type": "timeline_event"
     },
     {
-      "title": "Cambridge Researchers Develop Brain-Like Hafnium Chips for 70% Energy Reduction",
+      "title": "Russia Establishes 'Closed' National AI Hub at Moscow State University",
       "date": "2026-04-28",
-      "description": "Researchers at the University of Cambridge announced a breakthrough in energy-efficient AI hardware, developing nanoelectronic devices using modified hafnium oxide. These 'memristor' chips mimic human neurons, combining memory and processing on a single chip, and are projected to slash AI energy consumption by 70%.",
-      "category": "Research",
-      "significance": "This innovation addresses one of the most critical challenges in scaling AI: energy consumption. A 70% reduction in power usage would have profound implications for the environmental sustainability and economic viability of future AI systems, enabling new forms of computing.",
+      "description": "Reports confirmed the completion of a 'closed' AI hub at Moscow State University, centered around Katerina Tikhonova. The hub consolidates AI research, a new faculty, and the MGU-270 supercomputer, signifying a strategic national effort in AI development.",
+      "category": "Lab Formation",
+      "significance": "This centralized, state-backed AI hub signals Russia's long-term commitment to developing advanced AI capabilities independently, potentially leading to distinct technological advancements and influencing the global geopolitical balance of AI power.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEn0qPx5mWNOUeW0tqvBHkrABZ7S6y_RGBvK2bSc9I94HiLmqWrBq8J6ISDt8RHEzrqqe6idDP1LajnbFivLYZBNeAJJPOpdpd-0I0vfoQNfM_rocAD6-BZeHP2EcrA0tK2rmMfl0PL-PbPJjZ8aFI6_m90yBo7G1S",
-          "label": "sciencedaily.com"
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFGG_9491tWk5QNYTByIJ8EX-Y_OZNXIVgpK2SzJDWBnQSZMqiggdMdmL5cpy_XwChqFVtCmfG2A7RuLFHJlLYZsAFCZ9G-iR7JssUlsmE_h1CebRBK5SIj6TVAufuyiaZsFRc_3potaQ2WRDA5YKsX7SHAlqVy2wtruCzzlLgSIlFP0xy_PyhwHBXbnRmo5KOAsdpUpx-IKq9YyL4GBohSBxXw7uUhUqeSxT_jsGn1-QLILJmAH4GPLR0sK3F1",
+          "label": "themoscowtimes.com"
         }
       ],
       "type": "timeline_event"
