@@ -5024,5 +5024,56 @@
       }
     ],
     "issueNumber": 465
+  },
+  {
+    "title": "Elon Musk's $150 Billion Lawsuit Against OpenAI Begins in California Court",
+    "date": "2026-04-27",
+    "description": "The high-stakes lawsuit between Elon Musk and OpenAI, Sam Altman, and Greg Brockman commenced in a California courtroom. Musk is seeking $150 billion in damages, alleging the company abandoned its non-profit mission. Elon Musk testified on April 28th that OpenAI's leaders 'stole a charity'.",
+    "category": "Industry Structure",
+    "sources": [
+      {
+        "url": "https://youtube.com/live/P857H4ej-MQ",
+        "label": "CNBC-TV18 Live Coverage"
+      },
+      {
+        "url": "https://www.indianexpress.com/article/technology/artificial-intelligence/elon-musk-vs-openai-trial-day-one-9293427/",
+        "label": "Indian Express - Elon Musk vs OpenAI Trial: Day One"
+      }
+    ],
+    "issueNumber": 466
+  },
+  {
+    "title": "Google Commits $40 Billion to Anthropic Amid Escalating AI Arms Race",
+    "date": "2026-04-27",
+    "description": "Google committed up to $40 billion to Anthropic, valuing the AI startup at $350 billion. This massive investment signals a significant escalation in the AI arms race and a strengthening of Google's position in the competitive AI landscape.",
+    "category": "Funding",
+    "sources": [
+      {
+        "url": "https://www.upsun.com/blog/ai-news-recap-april-27-2026/",
+        "label": "upsun.com - AI News Recap April 27, 2026"
+      },
+      {
+        "url": "https://buildfastwithai.com/blog/ai-breakthroughs-april-2026-recap/",
+        "label": "buildfastwithai.com - AI Breakthroughs April 2026 Recap"
+      }
+    ],
+    "issueNumber": 467
+  },
+  {
+    "title": "Microsoft and OpenAI Restructure Partnership, Ending Exclusive Access to Models",
+    "date": "2026-04-27",
+    "description": "Microsoft and OpenAI reportedly restructured their partnership, ending the previous exclusive access arrangement. This change allows OpenAI to sell its advanced models through other cloud providers like AWS and Google Cloud, potentially broadening their market reach and intensifying competition among cloud AI offerings.",
+    "category": "Industry Structure",
+    "sources": [
+      {
+        "url": "https://www.upsun.com/blog/ai-news-recap-april-27-2026/",
+        "label": "upsun.com - AI News Recap April 27, 2026"
+      },
+      {
+        "url": "https://buildfastwithai.com/blog/ai-breakthroughs-april-2026-recap/",
+        "label": "buildfastwithai.com - AI Breakthroughs April 2026 Recap"
+      }
+    ],
+    "issueNumber": 468
   }
 ]
