@@ -4968,5 +4968,61 @@
       }
     ],
     "issueNumber": 460
+  },
+  {
+    "title": "China Blocks Meta's Acquisition of AI Startup Manus",
+    "date": "2026-04-27",
+    "description": "The Chinese government blocked Meta’s $2 billion acquisition of the AI startup Manus, citing efforts to prevent advanced AI technology from flowing to the U.S. ahead of high-level diplomatic meetings.",
+    "category": "Policy",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDVwKG5G2_mlVSiLXXhrFTUG095jZu2DrJctk7ZROpGkmaXiauvyk1cpk-eXv2pG72Zp181NkcEZ3p7o5Xii0OOxXKEFyFPHtghByDqfzaMkIt9dxZBa_xcJZFm6hdN48dGutAek0=",
+        "label": "youtube.com"
+      },
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLINqdNRZSKz8EYlL_7z_DeuVDTdmV04zUGQiGOjCNjdT8bKroYjlY4JbTaXTRkkWio6d8cVhRlDkIFx0NsP6DNUEFJ0yy1284HnX6EhSsvr2Ynn0t49JR0Zqdi3szVp-tw2WQZGFgcbF6UCDozi5BmMV3DrKAoIbZZjJ_23wgxtM6V6pKSf1lBUIwVQTxO1af2v6um5JsNMdQecmy3NH8UT1N6uzRaOn6ER5PcAcnHm576wVN71JsCON6kndsrk383UtzgX6tgQY=",
+        "label": "latimes.com"
+      }
+    ],
+    "issueNumber": 461
+  },
+  {
+    "title": "Shanghai Cooperation Organization Approves AI Development Concept",
+    "date": "2026-04-27",
+    "description": "At the 5th Meeting of Heads of ICT Agencies in Bishkek, SCO member states approved a concept for creating regional data processing centers and developing the AI industry to ensure 'technological sovereignty'.",
+    "category": "Policy",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLunCZzSDAeco9JlpG_oaRK3_xkmhLMlf-oEeUc7u1NdlBwPkGxgcJ4eAp24oBEDsW_AbBkhEB8lxUp1alKpQbtNBCR3cDomtvu_TWDkLICpm4SV4ja2FUSqVSiE0ca2ZfhUCvsDWZAw=",
+        "label": "sectsco.org"
+      }
+    ],
+    "issueNumber": 463
+  },
+  {
+    "title": "Gen and xAI Partner to Integrate Grok into Consumer Products",
+    "date": "2026-04-28",
+    "description": "Gen (parent company of Norton and Avast) and Elon Musk’s xAI announced a strategic partnership to integrate Grok frontier models into consumer products, starting with the 'Norton Neo' AI browser and assistant.",
+    "category": "Industry Structure",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG97k34qeM8oARxuNF7fwDdFKlxBZmq0DJEpPib55pTkBQaqkA3ZWdgY05jcuGZ28R6RFR6xDzdChJEXw8pW7XNchzbzfCM-lSJSqx6vmllAqximnuLdyUW8ai8kb62LnUGhsqHe0SXU7MwS77xRatCrBvzucRykoFyXuplufwEt-KvKX5KqXDhavoGT9iXxQ94XRJ_KZKjCxQyes7jifXmo2DbfyVDvoDys-QOxTWDPNfy",
+        "label": "gendigital.com"
+      }
+    ],
+    "issueNumber": 464
+  },
+  {
+    "title": "Google Signs Agreement with US Pentagon for AI Military Work",
+    "date": "2026-04-28",
+    "description": "Google has reportedly signed a deal with the US Pentagon to provide AI models for classified military work. The agreement includes provisions for mission planning but prohibits use for autonomous weapons without human oversight.",
+    "category": "Military & Security",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9x6MvvYyqOtLlU6gGsE7gx7wa49k6thiW51ngL-a9a5g3bFVFnbHZqss0G8fI-j5GLyYzwUQPSf9wjTaNnwWR39-2UI5SmNuyRH9jQQEgnTbaeXqAVV-TIWdG3qJwCdNGlGRDG3hIqb0PI59KGxX1YsJLTP_Ve2hkWK8CAvW7rQCIPgk3KY9-p7cmYhkvo=",
+        "label": "theguardian.com"
+      }
+    ],
+    "issueNumber": 465
   }
 ]

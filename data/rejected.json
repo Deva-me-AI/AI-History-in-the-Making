@@ -1649,5 +1649,25 @@
       "claude": "REJECT"
     },
     "reviewedAt": "2026-04-28T08:04:58Z"
+  },
+  {
+    "title": "Meta Announces Orbital Solar Power Deal for AI Data Centers",
+    "date": "2026-04-27",
+    "description": "Meta announced a deal to reserve up to 1 gigawatt of power from Overview Energy, a startup planning to beam solar energy from orbit. This is part of Meta's strategy to secure uninterrupted, sustainable energy for its AI data centers by 2030.",
+    "category": "Infrastructure",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDVwKG5G2_mlVSiLXXhrFTUG095jZu2DrJctk7ZROpGkmaXiauvyk1cpk-eXv2pG72Zp181NkcEZ3p7o5Xii0OOxXKEFyFPHtghByDqfzaMkIt9dxZBa_xcJZFm6hdN48dGutAek0=",
+        "label": "youtube.com"
+      }
+    ],
+    "votes": {
+      "accept": 1,
+      "reject": 1,
+      "gemini": "ABSTAIN",
+      "gpt": "ACCEPT",
+      "claude": "REJECT"
+    },
+    "reviewedAt": "2026-04-29T08:04:39Z"
   }
 ]
