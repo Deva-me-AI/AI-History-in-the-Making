@@ -1,81 +1,77 @@
 {
-  "scanDate": "2026-04-28",
+  "scanDate": "2026-04-29",
   "candidates": [
     {
-      "title": "China Blocks Meta's Acquisition of AI Startup Manus",
-      "date": "2026-04-27",
-      "description": "The Chinese government blocked Meta’s $2 billion acquisition of the AI startup Manus, citing efforts to prevent advanced AI technology from flowing to the U.S. ahead of high-level diplomatic meetings.",
-      "category": "Policy",
-      "significance": "This event signals intensifying geopolitical competition over advanced AI technology and intellectual property, impacting international mergers and acquisitions in the AI sector.",
-      "confidence": "high",
-      "sources": [
-        {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDVwKG5G2_mlVSiLXXhrFTUG095jZu2DrJctk7ZROpGkmaXiauvyk1cpk-eXv2pG72Zp181NkcEZ3p7o5Xii0OOxXKEFyFPHtghByDqfzaMkIt9dxZBa_xcJZFm6hdN48dGutAek0=",
-          "label": "youtube.com"
-        },
-        {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHLINqdNRZSKz8EYlL_7z_DeuVDTdmV04zUGQiGOjCNjdT8bKroYjlY4JbTaXTRkkWio6d8cVhRlDkIFx0NsP6DNUEFJ0yy1284HnX6EhSsvr2Ynn0t49JR0Zqdi3szVp-tw2WQZGFgcbF6UCDozi5BmMV3DrKAoIbZZjJ_23wgxtM6V6pKSf1lBUIwVQTxO1af2v6um5JsNMdQecmy3NH8UT1N6uzRaOn6ER5PcAcnHm576wVN71JsCON6kndsrk383UtzgX6tgQY=",
-          "label": "latimes.com"
-        }
-      ],
-      "type": "timeline_event"
-    },
-    {
-      "title": "Meta Announces Orbital Solar Power Deal for AI Data Centers",
-      "date": "2026-04-27",
-      "description": "Meta announced a deal to reserve up to 1 gigawatt of power from Overview Energy, a startup planning to beam solar energy from orbit. This is part of Meta's strategy to secure uninterrupted, sustainable energy for its AI data centers by 2030.",
-      "category": "Infrastructure",
-      "significance": "This initiative represents a significant long-term investment in sustainable and scalable energy infrastructure, crucial for the increasing power demands of advanced AI development and operation.",
-      "confidence": "high",
-      "sources": [
-        {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFDVwKG5G2_mlVSiLXXhrFTUG095jZu2DrJctk7ZROpGkmaXiauvyk1cpk-eXv2pG72Zp181NkcEZ3p7o5Xii0OOxXKEFyFPHtghByDqfzaMkIt9dxZBa_xcJZFm6hdN48dGutAek0=",
-          "label": "youtube.com"
-        }
-      ],
-      "type": "timeline_event"
-    },
-    {
-      "title": "Shanghai Cooperation Organization Approves AI Development Concept",
-      "date": "2026-04-27",
-      "description": "At the 5th Meeting of Heads of ICT Agencies in Bishkek, SCO member states approved a concept for creating regional data processing centers and developing the AI industry to ensure 'technological sovereignty'.",
-      "category": "Policy",
-      "significance": "This international agreement highlights a collective effort among SCO nations to establish regional control and development in the AI sector, potentially influencing global AI standards and data governance.",
-      "confidence": "high",
-      "sources": [
-        {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFLunCZzSDAeco9JlpG_oaRK3_xkmhLMlf-oEeUc7u1NdlBwPkGxgcJ4eAp24oBEDsW_AbBkhEB8lxUp1alKpQbtNBCR3cDomtvu_TWDkLICpm4SV4ja2FUSqVSiE0ca2ZfhUCvsDWZAw=",
-          "label": "sectsco.org"
-        }
-      ],
-      "type": "timeline_event"
-    },
-    {
-      "title": "Gen and xAI Partner to Integrate Grok into Consumer Products",
-      "date": "2026-04-28",
-      "description": "Gen (parent company of Norton and Avast) and Elon Musk’s xAI announced a strategic partnership to integrate Grok frontier models into consumer products, starting with the 'Norton Neo' AI browser and assistant.",
+      "title": "Elon Musk to Testify in Lawsuit Against OpenAI",
+      "date": "2026-04-29",
+      "description": "Elon Musk is scheduled to testify this week in his high-profile lawsuit against OpenAI and CEO Sam Altman, alleging the company abandoned its original non-profit mission. The trial's outcome could significantly impact OpenAI's corporate structure and set precedents for the broader AI industry regarding governance and ethical development.",
       "category": "Industry Structure",
-      "significance": "This partnership signifies a major push to embed advanced AI models directly into widely used consumer software, potentially accelerating AI adoption and competition in the consumer tech market.",
+      "significance": "This trial could fundamentally alter the operational model of one of the leading AI companies and influence legal frameworks for AI development and corporate responsibility, impacting the industry for years to come.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG97k34qeM8oARxuNF7fwDdFKlxBZmq0DJEpPib55pTkBQaqkA3ZWdgY05jcuGZ28R6RFR6xDzdChJEXw8pW7XNchzbzfCM-lSJSqx6vmllAqximnuLdyUW8ai8kb62LnUGhsqHe0SXU7MwS77xRatCrBvzucRykoFyXuplufwEt-KvKX5KqXDhavoGT9iXxQ94XRJ_KZKjCxQyes7jifXmo2DbfyVDvoDys-QOxTWDPNfy",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFmXkUe_I3ZrZ7942IgTrmMzCPLUiFBAhaUkp630LOVzjwfz8xnPugv1YPJQEdsOjqAVSJzUbpMNE4MkzDP1lUHL2T7B4CMDochyy4nCQTHStVeKvmFa3SgroCwiS8GUSkd5JLHpXQ=",
+          "label": "youtube.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "OpenAI Faces Financial Pressure Amid Missed Internal Targets",
+      "date": "2026-04-29",
+      "description": "Reports indicate OpenAI missed internal targets for sales and new users, leading to a sell-off in the stocks of major partners like SoftBank and Oracle. This highlights the immense capital expenditure and monetization challenges in the rapidly expanding AI sector.",
+      "category": "Funding",
+      "significance": "Sustained financial pressure on a leading AI developer like OpenAI could impact investor confidence in the broader AI industry, influencing future funding models and strategic directions for AI companies, which will have ripple effects in the next 5+ years.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG1AgLfdNC764TcCGaS4lM-I9hcXck1Yr8TdMN30_e5p4CSsEUW8WhZJXJSyZN8VnlzIj3V1nB2r0wDOBPCllcxz8w_j7Lf_lACUmXKA0rRMXS1CoU5rYdbi85EX-HoBl25D0oiK8o=",
+          "label": "youtube.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Gen and xAI Announce Strategic Partnership for Consumer AI Integration",
+      "date": "2026-04-29",
+      "description": "Gen (parent company of Norton and Avast) announced a strategic partnership with Elon Musk’s xAI, planning to integrate Grok frontier models into consumer platforms, starting with the 'Norton Neo AI Browser and Assistant.'",
+      "category": "Industry Structure",
+      "significance": "This partnership signifies a growing trend of embedding advanced AI models directly into consumer security and browsing tools. Its success could set a new standard for how AI enhances everyday software, influencing consumer adoption and the competitive landscape for AI-powered services.",
+      "confidence": "medium",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4G4vxJ0LwiQGC-Mo6UyhUdLigzO_rqQS5LStiOhWZD3j5UsLoC2Ka4RbeKBFtFe1Vg9z6hcIwZ4P0_TdMgwxiOq1J-0TAsvk9iPdAgKlSv48uXNSpczV9u7gxxAIm7Z6_DH9xup9NMt2tShzR0OPbtKe5vLl3sGpkP30Ted2ZFgf-T44XB6H1UwrxjUNLTZDztVmIIpX4X_pECOw1peagRejh1LUiylnxbKbao-4aKH6r",
           "label": "gendigital.com"
         }
       ],
       "type": "timeline_event"
     },
     {
-      "title": "Google Signs Agreement with US Pentagon for AI Military Work",
+      "title": "Chinese Academy of Sciences Unveils 'ScienceOne 100' for Scientific Research",
       "date": "2026-04-28",
-      "description": "Google has reportedly signed a deal with the US Pentagon to provide AI models for classified military work. The agreement includes provisions for mission planning but prohibits use for autonomous weapons without human oversight.",
-      "category": "Military & Security",
-      "significance": "This agreement marks a significant expansion of AI into defense applications, raising ethical considerations around AI in warfare and establishing a critical partnership between a major tech company and the military.",
+      "description": "The Chinese Academy of Sciences (CAS) released 'ScienceOne 100,' an AI model system comprising eight domain-specific models for scientific research in fields like mathematics, physics, biology, and aerospace. It aims to assist in literature review and autonomous research toolchains.",
+      "category": "Research",
+      "significance": "The introduction of a specialized national AI system for scientific research could profoundly accelerate discovery and innovation across critical scientific domains globally. This development is poised to transform research methodologies and outcomes in the next five years and beyond.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH9x6MvvYyqOtLlU6gGsE7gx7wa49k6thiW51ngL-a9a5g3bFVFnbHZqss0G8fI-j5GLyYzwUQPSf9wjTaNnwWR39-2UI5SmNuyRH9jQQEgnTbaeXqAVV-TIWdG3qJwCdNGlGRDG3hIqb0PI59KGxX1YsJLTP_Ve2hkWK8CAvW7rQCIPgk3KY9-p7cmYhkvo=",
-          "label": "theguardian.com"
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHzPgTg9bv2sImY3V3LYNEuhcsAB_l64SSTuvMse_lZyGL2QNcGmid0VraLYD050MfsXBA5Eb4XzPaB-M4Q6NTAuzDKAgioqkzZxLMovT4V-eFiE78jnmCHLp4uVVkACHmtHxhJP0d1ylZDhg8puEXRwwIQq_uIO_uMPjDxcvdxrurrunC5Pg==",
+          "label": "cas.cn"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Profluent and Eli Lilly Enter $2.25 Billion AI-Designed Genetic Medicine Partnership",
+      "date": "2026-04-29",
+      "description": "Profluent and Eli Lilly announced a $2.25 billion partnership to utilize AI-designed recombinases for genetic medicine. The collaboration focuses on precise DNA editing to address diseases with high unmet medical needs.",
+      "category": "Research",
+      "significance": "This multi-billion dollar investment into AI for genetic medicine marks a significant leap in applying artificial intelligence to drug discovery and therapeutic development. It has the potential to revolutionize treatment for various diseases, offering breakthroughs that will be profoundly impactful over the next five years and beyond.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE48Rjr_hqx1APw-LByysvq1_CXOqvDo61mnGsRttcHK_abkYhxpbamLmma5RxkEyp0h8610_sC5dbAdAm-Xg_EJX54J6tyQ-4gaoYK2zHGPem558NjcjqA_8S--bAZxjHnhvj8mqDCl98awUUIBkiEhjDhTCcU2Fb6FrPBeIDL35eKX_nf0CK8d_2emyHPuTo9LNGZ2bxy59JaOOSzYTWFco0sWOOAlwZ4bZ_Ud58MPGqIgoAjy_ZSddRFtU2I53Dc09sX1KAbKkPDTQO7EcGgsIAXgdUYBQ==",
+          "label": "ropesgray.com"
         }
       ],
       "type": "timeline_event"
