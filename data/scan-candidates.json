@@ -2,61 +2,76 @@
   "scanDate": "2026-04-30",
   "candidates": [
     {
-      "title": "IBM Launches 'IBM Bob' AI-First Development Partner Globally",
-      "date": "2026-04-28",
-      "description": "IBM announced the global launch of 'IBM Bob,' an AI-first development partner designed to support the entire software development lifecycle (SDLC), with over 80,000 IBM employees already using it.",
-      "category": "Infrastructure",
-      "significance": "This marks a significant move by IBM to embed AI across enterprise software development, potentially streamlining workflows and accelerating AI-driven innovation in large organizations.",
-      "confidence": "high",
-      "sources": [
-        {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDgJ_p3Yy_688Flc3-A-4JWdkQ98z6VLXXsqwzgbJdSwUMsKCU7M9kloSK7w-6-_2nKidb5xj8ECKB7lCtTsVbocyEBUs1PJTpmjmnojrDBFDl7TWVv7V8YmuNss33_2G6Lvq6ZlqtSZ-SubGXLmox-lW7S3CXumqe5Lpe7aFjPI733ksc4fnU7lAkP1gh8nW5_brf2c1CbTyAzE1xQ8GRP8Uhaud_vObwpPInL2eIQRHVsA1z7pYD3U3_eAEr0w3H_Eb9j3e5N5f74SGgnKl_1_ENdVBX",
-          "label": "ibm.com"
-        }
-      ],
-      "type": "timeline_event"
-    },
-    {
-      "title": "MIT and IBM Launch Joint Lab for AI and Quantum Computing",
+      "title": "MIT-IBM Computing Research Lab Expands to Integrate Quantum Computing with AI",
       "date": "2026-04-29",
-      "description": "IBM and MIT established a new joint research laboratory dedicated to exploring the convergence of artificial intelligence and quantum computing in Cambridge, MA.",
+      "description": "IBM and MIT launched an expanded MIT-IBM Computing Research Lab, integrating quantum computing with foundational AI research to develop new computational approaches for complex problems in materials science and biology.",
       "category": "Research",
-      "significance": "This initiative combines two frontier technologies, potentially leading to breakthroughs that could redefine computational power and AI capabilities in the coming decades.",
+      "significance": "This expansion signals a critical convergence of AI and quantum computing, promising breakthroughs in fundamental science and a new paradigm for solving computationally intensive problems. Its long-term impact lies in shaping the future of high-performance computing and advanced AI applications.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbk-77956QQ-RmpWLss5ORacPkr04wbTCRUmphaFR_TnXLPTgy2vODAvZF1cHAzN7tktws1-ivaiiCAi5arFlqd8qlEE-WKj8h9p4dWHY8uskB4RnHNwxXaPMZhsHfZEs73TnAA38fcW5hIEpwNLDBCppk5vIIKOXDKPOMcwulEIsn86dFEa3_TnSxo-Wrs9tBByyRdsBDOeycfOexIOPk92EghW492LUjQbF8JsrOa21aWqo2nCng08A",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEk4nR2QOTg-V6C6-rI6NuZ-YDQAn2lpxs_76DvwmqFpt9BiKLESDMuipik6XujWNUMnXGRXvJJSnXdG7eBWbageE0la4zIZxKC-Wg0EchMPIXfbpX2Im9JTSjx2s6MP1KI_UZ0pFMDqPq3hTLX4KBpN24mvmyaggwiME-S1CHj2W8lL5xsZcvrddyTV1o10DCUeIl9UgVmTTKM3ZWkXiITiYZQl2V0Bpl-W2iHkd6EiI86F9WVbWLA9Bk=",
           "label": "ibm.com"
         }
       ],
       "type": "timeline_event"
     },
     {
-      "title": "Biohub Commits $500 Million to AI-Accelerated Biology Initiative",
+      "title": "Biohub Commits $500 Million to 'Virtual Biology' Initiative for AI-Powered Cellular Modeling",
       "date": "2026-04-29",
-      "description": "The Zuckerberg-backed Biohub announced a $500 million commitment to create an open data foundation for AI-accelerated biology, aiming to build predictive models of human cells.",
+      "description": "The Zuckerberg-backed Biohub announced a five-year, $500 million commitment to its Virtual Biology Initiative, aiming to build predictive AI models of the human cell to create an open-data foundation for accelerating disease prevention and drug discovery.",
       "category": "Funding",
-      "significance": "This substantial investment highlights the increasing role of AI in biological research and has the potential to significantly advance our understanding of human health and disease through AI-driven predictive modeling.",
+      "significance": "This substantial investment underscores the growing importance of AI in biological research and medicine. The creation of comprehensive AI models of human cells could revolutionize drug development, personalized medicine, and our fundamental understanding of life, with impacts far exceeding five years.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHezgRw3AqkDpMtiB6TuvrvghAbg1SNNk2vhgk26XvI2ZQjbnJp6w428qv7sy-WeZIHZZoHlswzsCB3mJdxI7gD9-yLYvvkxVcU5yGSn6Or6RM2k9eNX8XddBp_XIYb57qo8RHawawivQ_apc4KUQ",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEzXS3F63pXzFk3z9avEwFMe5p51knSK-gr4POoXEmqSDlgQyHmDtI-QgKeEn49ECqRNQ4VdqmR-gRBG8DaORlj7KBqH0rnksdQFRdOJvq-_V9I8xNlVX43_xnhtKB-AnrIbKiHncCqeCnAc0-OPA==",
           "label": "biohub.org"
         }
       ],
       "type": "timeline_event"
     },
     {
-      "title": "Google Secures AI Procurement Deal with Pentagon Amid Scrutiny",
+      "title": "Senator Bernie Sanders Hosts International AI Safety Summit with US and China Researchers",
       "date": "2026-04-29",
-      "description": "Google finalized a new AI procurement deal with the Pentagon, immediately drawing attention and scrutiny from Congress regarding the oversight and ethical implications of military AI.",
+      "description": "Senator Bernie Sanders convened a high-profile summit featuring leading AI researchers from the U.S. and China to discuss the 'existential risk' of unchecked AI development and criticize governments for failing to implement adequate safety measures.",
       "category": "Policy",
-      "significance": "This deal underscores the deep integration of AI into national defense strategies and raises critical questions about ethical AI development, regulation, and the role of tech companies in military applications, which will have long-term societal and geopolitical impacts.",
+      "significance": "This summit highlights the increasing global concern over AI safety and the urgency of international dialogue on governance. The participation of researchers from both the U.S. and China signifies a critical, albeit potentially contentious, step towards establishing global AI policy frameworks that will shape the technology's future for decades.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSKjVPB20g4DvrLRS7gNmuojcjILFmg63QOKhzjNLh-IQKzbxHYzEyuDMdh5LNg04Xv2T_VDhQvMFnjIYoc3AN4Qet2HU2wDfqYE8Uat_aft9Za2uXdUgnkGRPi5tIe9TXl0gjaO5sDBA9iUrOSB0Ov5dTr1oRozyBckkiclfMOOjTYvsG1CDrLPz5",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4Y_1WpfbNoOCTVQuSwqo5evtQf6UVMVJ2Ofl1zZAzyd4mpsAiWEYOAoJRgsrp9KBfxhwKuAY0MEIn6oeuHjiZq4236_kNpXqw-b1bKF8dR8MjbjXSYwtSg-SyIAk1sHuPeNnogNtQBdEthkI6vbd9iz1BsYdDDhiUo1n7PLp-5fx_60X-y-aaKq1Vu2c2ZrczZ2p8yvDqBQIrxf3vvaT-rzbPBmeIwWyhPxhqO68=",
+          "label": "broadbandbreakfast.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Google's New AI Contract with Pentagon Draws Congressional Scrutiny Over Military AI Oversight",
+      "date": "2026-04-29",
+      "description": "Reports emerged of a new AI contract between Google and the Pentagon, deepening Google's involvement in military procurement and immediately drawing scrutiny from Congress regarding the lack of a unified framework for military AI oversight.",
+      "category": "Policy",
+      "significance": "This event reflects the ongoing ethical and regulatory challenges surrounding military applications of AI. It will likely intensify debates about corporate responsibility, government transparency, and the control of autonomous weapons systems, issues that will remain central to AI's trajectory for the foreseeable future.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiII-7zYmVSLaJP7FOa4aKpaqVWXWYCFobgfNJ1jwmfExS-7CeMgYMpdv7Rnq7oXdtu-zqHdk9dS5nhLHRN5Iiq2aR0HIXOwbIplm_Znq0u32wjUuc68Fo15fAKQL4NjLlYLDo0orG38-rb_on4IbvJmd4nhun_j6-ZTLn0apPgfUe6Ct0ShgziPiE",
           "label": "heygotrade.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "IBM and Dallara Partner to Revolutionize Vehicle Aerodynamics with Physics-based AI and Quantum Computing",
+      "date": "2026-04-30",
+      "description": "IBM and the Dallara Group announced a major collaboration to leverage physics-based AI foundation models and quantum computing to revolutionize vehicle aerodynamics, aiming to reduce simulation times from hours to minutes and improve fuel efficiency across the transport industry.",
+      "category": "Industry Structure",
+      "significance": "This partnership demonstrates the tangible application of advanced AI and quantum computing in complex engineering challenges. Its long-term significance lies in setting new standards for industrial design and efficiency, potentially transforming sectors beyond automotive by dramatically accelerating R&D cycles and fostering innovation.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF2tVEbh8333of4YumwTAYUkW93lAzh4AArrDGwrBDlrFm8gDwzZXKuePQMwsUlXub9OQAjewOjhWI4m2-5M7Kxw_jy2Sp_7r8o5FC3fnap3ui7aoMflqqE_Em3nfh-s5rCXH8uQS0dHnFFmgGXvH_6mcu92G1NEERfFRtWvFkWlEO138YtOTHfIKydIz57ECYTRXWcnOint2YNF1V8ZCibaxeahWK63n86a4Wgzi2M3GZ3Z7vp",
+          "label": "ibm.com"
         }
       ],
       "type": "timeline_event"
