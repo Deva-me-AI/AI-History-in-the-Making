@@ -5127,5 +5127,44 @@
       }
     ],
     "issueNumber": 473
+  },
+  {
+    "title": "Ineffable Intelligence Secures $1.1 Billion Seed Round to Pursue Superintelligence",
+    "date": "2026-04-28",
+    "description": "UK-based Ineffable Intelligence, founded by DeepMind pioneer David Silver, raised a record-breaking $1.1 billion seed round at a $5.1 billion valuation. The funding aims to accelerate the development of 'superintelligence' through advanced reinforcement learning techniques.",
+    "category": "Funding",
+    "sources": [
+      {
+        "url": "https://todaysstartupnews.com/ineffable-intelligence-secures-1-1b-seed-round-for-superintelligence/",
+        "label": "Today's Startup News"
+      }
+    ],
+    "issueNumber": 474
+  },
+  {
+    "title": "China Blocks Meta's $2 Billion Acquisition of AI Agent Startup Manus",
+    "date": "2026-04-28",
+    "description": "Beijing reportedly intervened to block Meta’s $2 billion acquisition of the AI agent startup Manus, citing national security concerns. This action further cools US-China tech relations in the AI sector.",
+    "category": "Policy",
+    "sources": [
+      {
+        "url": "https://techdg.in/china-blocks-meta-manus-deal-national-security-concerns/",
+        "label": "TechDG.in"
+      }
+    ],
+    "issueNumber": 475
+  },
+  {
+    "title": "Lovelace AI Emerges from Stealth with 'Elemental' Enterprise Context Engine",
+    "date": "2026-04-28",
+    "description": "Founded by Andrew Moore (former Google Cloud AI GM), Pittsburgh-based Lovelace AI exited stealth mode to launch Elemental, an enterprise context engine that aims to replace traditional RAG (Retrieval-Augmented Generation) with deterministic, graph-based reasoning.",
+    "category": "Infrastructure",
+    "sources": [
+      {
+        "url": "https://futurumgroup.com/lovelace-ai-exits-stealth-with-elemental-reimagining-enterprise-rag/",
+        "label": "Futurum Group"
+      }
+    ],
+    "issueNumber": 476
   }
 ]
