@@ -1,1 +1,66 @@
-{"scanDate":"2026-04-30","candidates":[],"questionUpdates":[]}
+{
+  "scanDate": "2026-04-30",
+  "candidates": [
+    {
+      "title": "IBM Launches 'IBM Bob' AI-First Development Partner Globally",
+      "date": "2026-04-28",
+      "description": "IBM announced the global launch of 'IBM Bob,' an AI-first development partner designed to support the entire software development lifecycle (SDLC), with over 80,000 IBM employees already using it.",
+      "category": "Infrastructure",
+      "significance": "This marks a significant move by IBM to embed AI across enterprise software development, potentially streamlining workflows and accelerating AI-driven innovation in large organizations.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGDgJ_p3Yy_688Flc3-A-4JWdkQ98z6VLXXsqwzgbJdSwUMsKCU7M9kloSK7w-6-_2nKidb5xj8ECKB7lCtTsVbocyEBUs1PJTpmjmnojrDBFDl7TWVv7V8YmuNss33_2G6Lvq6ZlqtSZ-SubGXLmox-lW7S3CXumqe5Lpe7aFjPI733ksc4fnU7lAkP1gh8nW5_brf2c1CbTyAzE1xQ8GRP8Uhaud_vObwpPInL2eIQRHVsA1z7pYD3U3_eAEr0w3H_Eb9j3e5N5f74SGgnKl_1_ENdVBX",
+          "label": "ibm.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "MIT and IBM Launch Joint Lab for AI and Quantum Computing",
+      "date": "2026-04-29",
+      "description": "IBM and MIT established a new joint research laboratory dedicated to exploring the convergence of artificial intelligence and quantum computing in Cambridge, MA.",
+      "category": "Research",
+      "significance": "This initiative combines two frontier technologies, potentially leading to breakthroughs that could redefine computational power and AI capabilities in the coming decades.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHbk-77956QQ-RmpWLss5ORacPkr04wbTCRUmphaFR_TnXLPTgy2vODAvZF1cHAzN7tktws1-ivaiiCAi5arFlqd8qlEE-WKj8h9p4dWHY8uskB4RnHNwxXaPMZhsHfZEs73TnAA38fcW5hIEpwNLDBCppk5vIIKOXDKPOMcwulEIsn86dFEa3_TnSxo-Wrs9tBByyRdsBDOeycfOexIOPk92EghW492LUjQbF8JsrOa21aWqo2nCng08A",
+          "label": "ibm.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Biohub Commits $500 Million to AI-Accelerated Biology Initiative",
+      "date": "2026-04-29",
+      "description": "The Zuckerberg-backed Biohub announced a $500 million commitment to create an open data foundation for AI-accelerated biology, aiming to build predictive models of human cells.",
+      "category": "Funding",
+      "significance": "This substantial investment highlights the increasing role of AI in biological research and has the potential to significantly advance our understanding of human health and disease through AI-driven predictive modeling.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHezgRw3AqkDpMtiB6TuvrvghAbg1SNNk2vhgk26XvI2ZQjbnJp6w428qv7sy-WeZIHZZoHlswzsCB3mJdxI7gD9-yLYvvkxVcU5yGSn6Or6RM2k9eNX8XddBp_XIYb57qo8RHawawivQ_apc4KUQ",
+          "label": "biohub.org"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Google Secures AI Procurement Deal with Pentagon Amid Scrutiny",
+      "date": "2026-04-29",
+      "description": "Google finalized a new AI procurement deal with the Pentagon, immediately drawing attention and scrutiny from Congress regarding the oversight and ethical implications of military AI.",
+      "category": "Policy",
+      "significance": "This deal underscores the deep integration of AI into national defense strategies and raises critical questions about ethical AI development, regulation, and the role of tech companies in military applications, which will have long-term societal and geopolitical impacts.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHSKjVPB20g4DvrLRS7gNmuojcjILFmg63QOKhzjNLh-IQKzbxHYzEyuDMdh5LNg04Xv2T_VDhQvMFnjIYoc3AN4Qet2HU2wDfqYE8Uat_aft9Za2uXdUgnkGRPi5tIe9TXl0gjaO5sDBA9iUrOSB0Ov5dTr1oRozyBckkiclfMOOjTYvsG1CDrLPz5",
+          "label": "heygotrade.com"
+        }
+      ],
+      "type": "timeline_event"
+    }
+  ],
+  "questionUpdates": []
+}
