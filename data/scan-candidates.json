@@ -1,1 +1,51 @@
-{"scanDate":"2026-04-30","candidates":[],"questionUpdates":[]}
+{
+  "scanDate": "2026-05-01",
+  "candidates": [
+    {
+      "title": "U.S. and Chinese Researchers Hold AI Safety Dialogue, Warn of 'Existential Risk'",
+      "date": "2026-04-29",
+      "description": "Senator Bernie Sanders convened a rare cross-border discussion in Washington, D.C., featuring leading AI researchers from the U.S. and China. The panel warned that unchecked AI development poses an 'existential risk' and criticized governments for failing to respond with sufficient urgency.",
+      "category": "Policy",
+      "significance": "High. This rare, high-level dialogue between two leading AI powers on existential risks signals a growing international recognition of AI safety as a critical global issue, likely leading to future policy coordination or competition in regulatory frameworks.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQ6zxZ67LAUSw9SAwYzlJvB-YmDCpzBbN3KDqyhNWhiu36PMchOLTitl2orCmXGUjKrTFfpKPt_gUxz53oBi73izuX6XXdoMFicmYUM2f-0qRlzsv9d7qx7qzTOJxyOgVDLvmIQDQgknkQErb1xdUJInuro_xM8gRLOmZms9KBIN29bgr-6AgKZrv5O_XUIymUpWWydwZFLdr_LFriunu5vhrL9QKLfBcXK3RsZg==",
+          "label": "broadbandbreakfast.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Federal Agencies Shift Towards On-Premise 'AI Factories' for Secure Production AI",
+      "date": "2026-04-30",
+      "description": "Leaders from NVIDIA, Dell, and Leidos highlighted a major shift in federal strategy during a Government Executive Media Group discussion. Agencies are increasingly moving away from cloud-only AI models toward 'AI factories'—dedicated, high-security on-premise infrastructure—to handle the scale and data sovereignty requirements of production-level AI.",
+      "category": "Infrastructure",
+      "significance": "High. This strategic pivot by federal agencies towards on-premise AI infrastructure addresses critical concerns around data sovereignty and security, influencing future procurement, cloud computing strategies, and the development of specialized hardware and software solutions for government and defense sectors for years to come.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEUZHOvePKBUCwUjTbMvARyY2iJQFqDA32XAl1lUJ5xO4gFjtBCcfoG8SN8MEl2hY6UNyK9KNkkthIflTCTyzWIOdafUKtMcpeIpy2IAu27Cr8282vL6RLL5vr0rAGltGSnBRrErrXPwrx1mybQeA5jHn5AuILvHouR3l7uPaBZZ5tEBWTMzv2haM7wmPc",
+          "label": "broadbandbreakfast.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Industry Reports Mark Pricing Shift Signifying 'Institutional Consolidation' Phase in Enterprise AI",
+      "date": "2026-05-01",
+      "description": "Industry reports noted that May 1 marked a pricing shift for several major summer AI events, signaling the end of early-bird cycles and the next wave of 2026's 'institutional consolidation' phase in AI, indicating a maturing market.",
+      "category": "Industry Structure",
+      "significance": "Medium. The observed pricing shifts and reported 'institutional consolidation' indicate a maturing enterprise AI market, which could influence investment, mergers, and the competitive landscape for the next few years. While not a direct policy or tech breakthrough, it reflects significant market dynamics.",
+      "confidence": "medium",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEob0XOm_Z0ZtdL0-4IDmfYBp05DD4e2rd4M84NUQ1fkoYP9aOyzX_LQ6tlGv2F9l4vawG_8LAcp5oVFW0FAr7IeGDeejdNWxJVtLIjRZL_UvmFV3fPBzxLXdilVlXZ_CMtOZdy9DD5AoGVGPXJdI=",
+          "label": "10times.com"
+        }
+      ],
+      "type": "timeline_event"
+    }
+  ],
+  "questionUpdates": []
+}
