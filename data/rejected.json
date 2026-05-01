@@ -1693,5 +1693,45 @@
       "claude": "REJECT"
     },
     "reviewedAt": "2026-04-29T11:05:27Z"
+  },
+  {
+    "title": "Federal Agencies Shift Towards On-Premise 'AI Factories' for Secure Production AI",
+    "date": "2026-04-30",
+    "description": "Leaders from NVIDIA, Dell, and Leidos highlighted a major shift in federal strategy during a Government Executive Media Group discussion. Agencies are increasingly moving away from cloud-only AI models toward 'AI factories'—dedicated, high-security on-premise infrastructure—to handle the scale and data sovereignty requirements of production-level AI.",
+    "category": "Infrastructure",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEUZHOvePKBUCwUjTbMvARyY2iJQFqDA32XAl1lUJ5xO4gFjtBCcfoG8SN8MEl2hY6UNyK9KNkkthIflTCTyzWIOdafUKtMcpeIpy2IAu27Cr8282vL6RLL5vr0rAGltGSnBRrErrXPwrx1mybQeA5jHn5AuILvHouR3l7uPaBZZ5tEBWTMzv2haM7wmPc",
+        "label": "broadbandbreakfast.com"
+      }
+    ],
+    "votes": {
+      "accept": 2,
+      "reject": 2,
+      "gemini": "ACCEPT",
+      "gpt": "ACCEPT",
+      "claude": "REJECT"
+    },
+    "reviewedAt": "2026-05-01T12:01:42Z"
+  },
+  {
+    "title": "Industry Reports Mark Pricing Shift Signifying 'Institutional Consolidation' Phase in Enterprise AI",
+    "date": "2026-05-01",
+    "description": "Industry reports noted that May 1 marked a pricing shift for several major summer AI events, signaling the end of early-bird cycles and the next wave of 2026's 'institutional consolidation' phase in AI, indicating a maturing market.",
+    "category": "Industry Structure",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEob0XOm_Z0ZtdL0-4IDmfYBp05DD4e2rd4M84NUQ1fkoYP9aOyzX_LQ6tlGv2F9l4vawG_8LAcp5oVFW0FAr7IeGDeejdNWxJVtLIjRZL_UvmFV3fPBzxLXdilVlXZ_CMtOZdy9DD5AoGVGPXJdI=",
+        "label": "10times.com"
+      }
+    ],
+    "votes": {
+      "accept": 1,
+      "reject": 2,
+      "gemini": "ACCEPT",
+      "gpt": "REJECT",
+      "claude": "REJECT"
+    },
+    "reviewedAt": "2026-05-01T12:02:16Z"
   }
 ]
