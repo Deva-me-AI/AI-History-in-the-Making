@@ -1,1 +1,81 @@
-{"scanDate":"2026-05-01","candidates":[],"questionUpdates":[]}
+{
+  "scanDate": "2026-05-01",
+  "candidates": [
+    {
+      "title": "Anthropic Valuation Reaches Over $900 Billion",
+      "date": "2026-04-30",
+      "description": "Reports surfaced that Anthropic began weighing a new funding round that would value the AI developer at more than $900 billion, signaling immense investor confidence and a rapidly expanding market for frontier AI models.",
+      "category": "Funding",
+      "significance": "This valuation marks Anthropic as one of the most valuable private AI companies, reflecting intense investor interest in advanced AI development and potentially reshapes the competitive landscape.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiQ7EPol5Q9gvQSCSsB2WMbdOF5fY32WMYT0LR2_DEoZ_RPoviJ5g0mY5AvitQBLseasfLtch0tK6NIOSm4T7GIAYX4uRoEUxkWH3JIGGs0DdqrIS-ZYb4lVyGE98BcCkuyiNVkQ==",
+          "label": "youtube.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Microsoft Declares 'Agentic Computing Era' as New AI Frontier",
+      "date": "2026-04-30",
+      "description": "Microsoft CEO Satya Nadella declared the 'agentic computing era' as the new frontier for the company’s cloud and productivity tools during Q1 2026 earnings, pivoting from experimental generative AI to production-ready autonomous systems.",
+      "category": "Industry Structure",
+      "significance": "A strategic declaration from a major tech leader like Microsoft signifies a significant shift in the industry's focus towards autonomous, goal-oriented AI, likely influencing future research, product development, and market trends for years to come.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHw4qQJA1DMUB9vj872VAYEoIi7Uw6faFzT-8jj0jjTiS_ZO0yGExxPwGCwXbqbLRibTPm27qyxAe3ZdlgHCHq1XOy7ulkYAXKIs22NVON8I6gFYWvXVrCEdFyTBwq3o-5-OsPgx12dF2uUmttPTx3w8UkOmttqKnpAOSQ_gbvAFlFt50u4zVKy",
+          "label": "devflokers.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "IBM and Dallara Collaborate on AI and Quantum Computing for Vehicle Design",
+      "date": "2026-04-30",
+      "description": "IBM announced a partnership with Dallara, aiming to use physics-based AI foundation models and quantum computing to revolutionize vehicle design. This collaboration is expected to drastically reduce aerodynamic simulation times.",
+      "category": "Research",
+      "significance": "This partnership represents a significant advancement in applying cutting-edge AI and quantum computing to complex engineering challenges, demonstrating the potential for hybrid computational approaches to accelerate innovation in fields like automotive and aerospace.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFd-8RhkS81DjQdIpcOJ_tH1YmypZlJ8sGAw-c-oYDxx9644z4c4AboQBhmotctt4VtqT03RVr1EYEbpOi_yJ-3SR3dtAfCqBbM-e7OtO_zx0UUWD6FksfBVx9A5_9Regt5CX3RchdHTJ4ZSglQ41JpvtYJG-FZkKGjQI-PuP8gD7urZJFTS0ihrHpMhDR6hADz7KcFaR4hjCyKchov5J8fwH-ruKjsfFL-PrDhdgY-PBOcSvs=",
+          "label": "ibm.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Firestorm Labs Secures $82 Million Funding for Mobile Drone Factories",
+      "date": "2026-04-29",
+      "description": "Firestorm Labs raised $82 million to develop mobile drone factories, underscoring the increasing integration of AI into defense hardware and manufacturing processes.",
+      "category": "Funding",
+      "significance": "This significant investment highlights the ongoing military application and industrialization of AI, particularly in autonomous systems and advanced manufacturing for defense, indicating long-term strategic shifts in global security and technology development.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqj45it9vYYuGy3PRi4RVKZcTrD1dzWEBSFvfFSnzfRwIOmqYyT6MVNsD2EtuerNncX--T1wuQCN8OfuKpcrP_69ytJ2i9SEFs776utPhRggnh8kwoQOLOL3dvvGJ-j79JM3HDhxRb3CAXXCapKZM7DC_AYsEG9EheemH9WZ-8I32wfVQZijP5M_4=",
+          "label": "heygotrade.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Elon Musk Set to Testify in High-Profile Lawsuit Against OpenAI",
+      "date": "2026-04-29",
+      "description": "Elon Musk was scheduled to testify in his lawsuit against OpenAI and CEO Sam Altman. The case centers on claims that OpenAI abandoned its founding non-profit mission in favor of a for-profit model.",
+      "category": "Policy",
+      "significance": "This high-profile legal battle could have profound implications for the governance, ethical direction, and business models of leading AI research organizations, potentially setting precedents for how AI development is conducted and regulated globally.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgsfiMiP0nbVJGN3WsvRbAAj-98RPoohTAZgcrqM4ePA6u__AMvTRjVNW1deNDocpQoDTWOyO9Q7o498XmLR49umP7LlIjF2KPvRCt6vz1W2Wbpj-3XXF5oNO8nUnUcg6qjNVhug==",
+          "label": "youtube.com"
+        }
+      ],
+      "type": "timeline_event"
+    }
+  ],
+  "questionUpdates": []
+}
