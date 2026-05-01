@@ -1733,5 +1733,45 @@
       "claude": "REJECT"
     },
     "reviewedAt": "2026-05-01T12:02:16Z"
+  },
+  {
+    "title": "IBM and Dallara Collaborate on AI and Quantum Computing for Vehicle Design",
+    "date": "2026-04-30",
+    "description": "IBM announced a partnership with Dallara, aiming to use physics-based AI foundation models and quantum computing to revolutionize vehicle design. This collaboration is expected to drastically reduce aerodynamic simulation times.",
+    "category": "Research",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFd-8RhkS81DjQdIpcOJ_tH1YmypZlJ8sGAw-c-oYDxx9644z4c4AboQBhmotctt4VtqT03RVr1EYEbpOi_yJ-3SR3dtAfCqBbM-e7OtO_zx0UUWD6FksfBVx9A5_9Regt5CX3RchdHTJ4ZSglQ41JpvtYJG-FZkKGjQI-PuP8gD7urZJFTS0ihrHpMhDR6hADz7KcFaR4hjCyKchov5J8fwH-ruKjsfFL-PrDhdgY-PBOcSvs=",
+        "label": "ibm.com"
+      }
+    ],
+    "votes": {
+      "accept": 2,
+      "reject": 2,
+      "gemini": "ACCEPT",
+      "gpt": "ACCEPT",
+      "claude": "REJECT"
+    },
+    "reviewedAt": "2026-05-01T20:02:11Z"
+  },
+  {
+    "title": "Firestorm Labs Secures $82 Million Funding for Mobile Drone Factories",
+    "date": "2026-04-29",
+    "description": "Firestorm Labs raised $82 million to develop mobile drone factories, underscoring the increasing integration of AI into defense hardware and manufacturing processes.",
+    "category": "Funding",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFqj45it9vYYuGy3PRi4RVKZcTrD1dzWEBSFvfFSnzfRwIOmqYyT6MVNsD2EtuerNncX--T1wuQCN8OfuKpcrP_69ytJ2i9SEFs776utPhRggnh8kwoQOLOL3dvvGJ-j79JM3HDhxRb3CAXXCapKZM7DC_AYsEG9EheemH9WZ-8I32wfVQZijP5M_4=",
+        "label": "heygotrade.com"
+      }
+    ],
+    "votes": {
+      "accept": 1,
+      "reject": 2,
+      "gemini": "REJECT",
+      "gpt": "ACCEPT",
+      "claude": "REJECT"
+    },
+    "reviewedAt": "2026-05-01T20:02:55Z"
   }
 ]

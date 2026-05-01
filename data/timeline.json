@@ -5231,5 +5231,44 @@
       }
     ],
     "issueNumber": 481
+  },
+  {
+    "title": "Anthropic Valuation Reaches Over $900 Billion",
+    "date": "2026-04-30",
+    "description": "Reports surfaced that Anthropic began weighing a new funding round that would value the AI developer at more than $900 billion, signaling immense investor confidence and a rapidly expanding market for frontier AI models.",
+    "category": "Funding",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGiQ7EPol5Q9gvQSCSsB2WMbdOF5fY32WMYT0LR2_DEoZ_RPoviJ5g0mY5AvitQBLseasfLtch0tK6NIOSm4T7GIAYX4uRoEUxkWH3JIGGs0DdqrIS-ZYb4lVyGE98BcCkuyiNVkQ==",
+        "label": "youtube.com"
+      }
+    ],
+    "issueNumber": 484
+  },
+  {
+    "title": "Microsoft Declares 'Agentic Computing Era' as New AI Frontier",
+    "date": "2026-04-30",
+    "description": "Microsoft CEO Satya Nadella declared the 'agentic computing era' as the new frontier for the company’s cloud and productivity tools during Q1 2026 earnings, pivoting from experimental generative AI to production-ready autonomous systems.",
+    "category": "Industry Structure",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHw4qQJA1DMUB9vj872VAYEoIi7Uw6faFzT-8jj0jjTiS_ZO0yGExxPwGCwXbqbLRibTPm27qyxAe3ZdlgHCHq1XOy7ulkYAXKIs22NVON8I6gFYWvXVrCEdFyTBwq3o-5-OsPgx12dF2uUmttPTx3w8UkOmttqKnpAOSQ_gbvAFlFt50u4zVKy",
+        "label": "devflokers.com"
+      }
+    ],
+    "issueNumber": 485
+  },
+  {
+    "title": "Elon Musk Set to Testify in High-Profile Lawsuit Against OpenAI",
+    "date": "2026-04-29",
+    "description": "Elon Musk was scheduled to testify in his lawsuit against OpenAI and CEO Sam Altman. The case centers on claims that OpenAI abandoned its founding non-profit mission in favor of a for-profit model.",
+    "category": "Policy",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHgsfiMiP0nbVJGN3WsvRbAAj-98RPoohTAZgcrqM4ePA6u__AMvTRjVNW1deNDocpQoDTWOyO9Q7o498XmLR49umP7LlIjF2KPvRCt6vz1W2Wbpj-3XXF5oNO8nUnUcg6qjNVhug==",
+        "label": "youtube.com"
+      }
+    ],
+    "issueNumber": 488
   }
 ]
