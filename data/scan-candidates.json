@@ -2,46 +2,76 @@
   "scanDate": "2026-05-01",
   "candidates": [
     {
-      "title": "U.S. and Chinese Researchers Hold AI Safety Dialogue, Warn of 'Existential Risk'",
+      "title": "Alphabet Reports 22% Revenue Surge, Google Cloud Crosses $20 Billion Quarterly Revenue Driven by AI",
       "date": "2026-04-29",
-      "description": "Senator Bernie Sanders convened a rare cross-border discussion in Washington, D.C., featuring leading AI researchers from the U.S. and China. The panel warned that unchecked AI development poses an 'existential risk' and criticized governments for failing to respond with sufficient urgency.",
-      "category": "Policy",
-      "significance": "High. This rare, high-level dialogue between two leading AI powers on existential risks signals a growing international recognition of AI safety as a critical global issue, likely leading to future policy coordination or competition in regulatory frameworks.",
-      "confidence": "high",
-      "sources": [
-        {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQ6zxZ67LAUSw9SAwYzlJvB-YmDCpzBbN3KDqyhNWhiu36PMchOLTitl2orCmXGUjKrTFfpKPt_gUxz53oBi73izuX6XXdoMFicmYUM2f-0qRlzsv9d7qx7qzTOJxyOgVDLvmIQDQgknkQErb1xdUJInuro_xM8gRLOmZms9KBIN29bgr-6AgKZrv5O_XUIymUpWWydwZFLdr_LFriunu5vhrL9QKLfBcXK3RsZg==",
-          "label": "broadbandbreakfast.com"
-        }
-      ],
-      "type": "timeline_event"
-    },
-    {
-      "title": "Federal Agencies Shift Towards On-Premise 'AI Factories' for Secure Production AI",
-      "date": "2026-04-30",
-      "description": "Leaders from NVIDIA, Dell, and Leidos highlighted a major shift in federal strategy during a Government Executive Media Group discussion. Agencies are increasingly moving away from cloud-only AI models toward 'AI factories'—dedicated, high-security on-premise infrastructure—to handle the scale and data sovereignty requirements of production-level AI.",
-      "category": "Infrastructure",
-      "significance": "High. This strategic pivot by federal agencies towards on-premise AI infrastructure addresses critical concerns around data sovereignty and security, influencing future procurement, cloud computing strategies, and the development of specialized hardware and software solutions for government and defense sectors for years to come.",
-      "confidence": "high",
-      "sources": [
-        {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGEUZHOvePKBUCwUjTbMvARyY2iJQFqDA32XAl1lUJ5xO4gFjtBCcfoG8SN8MEl2hY6UNyK9KNkkthIflTCTyzWIOdafUKtMcpeIpy2IAu27Cr8282vL6RLL5vr0rAGltGSnBRrErrXPwrx1mybQeA5jHn5AuILvHouR3l7uPaBZZ5tEBWTMzv2haM7wmPc",
-          "label": "broadbandbreakfast.com"
-        }
-      ],
-      "type": "timeline_event"
-    },
-    {
-      "title": "Industry Reports Mark Pricing Shift Signifying 'Institutional Consolidation' Phase in Enterprise AI",
-      "date": "2026-05-01",
-      "description": "Industry reports noted that May 1 marked a pricing shift for several major summer AI events, signaling the end of early-bird cycles and the next wave of 2026's 'institutional consolidation' phase in AI, indicating a maturing market.",
+      "description": "Alphabet reported a 22% revenue increase, its fastest in four years, primarily propelled by Google Cloud's exceeding $20 billion in quarterly revenue, signaling significant AI monetization.",
       "category": "Industry Structure",
-      "significance": "Medium. The observed pricing shifts and reported 'institutional consolidation' indicate a maturing enterprise AI market, which could influence investment, mergers, and the competitive landscape for the next few years. While not a direct policy or tech breakthrough, it reflects significant market dynamics.",
-      "confidence": "medium",
+      "significance": "This event demonstrates the accelerating commercialization and revenue generation from AI services and infrastructure, solidifying AI's role as a major economic driver for tech giants and influencing future investment and market dynamics.",
+      "confidence": "high",
       "sources": [
         {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEEob0XOm_Z0ZtdL0-4IDmfYBp05DD4e2rd4M84NUQ1fkoYP9aOyzX_LQ6tlGv2F9l4vawG_8LAcp5oVFW0FAr7IeGDeejdNWxJVtLIjRZL_UvmFV3fPBzxLXdilVlXZ_CMtOZdy9DD5AoGVGPXJdI=",
-          "label": "10times.com"
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbHxWiodDq9Icc1ru6MTfgXA2NxudKVT7Jlw-dTRmM9Nzg0mhfKq3i-Jat4ETRnirWK8tZWqMjPhqP6UiDEYPHSWebAL_WVdoQGMRkKRD8yJCbKV6bDG2cDQsYbRMAN3TeE6QvKDx3PYAhjqVS4i2QmXzopIlFZKa4F0NaAU8t72lY8ss2stm_Bw==",
+          "label": "devflokers.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "OpenAI Issues Urgent Security Alert Following 'Axios' Library Compromise",
+      "date": "2026-04-29",
+      "description": "OpenAI issued an urgent alert requiring all macOS users to update ChatGPT, Codex, and Atlas apps by May 8 after a compromised third-party JavaScript library ('Axios') was used to push a remote access trojan. OpenAI rotated its code-signing certificates.",
+      "category": "Military & Security",
+      "significance": "This incident highlights the critical cybersecurity vulnerabilities inherent in complex AI ecosystems, emphasizing the need for robust supply chain security and swift response mechanisms for maintaining trust and operational integrity in AI systems.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbHxWiodDq9Icc1ru6MTfgXA2NxudKVT7Jlw-dTRmM9Nzg0mhfKq3i-Jat4ETRnirWK8tZWqMjPhqP6UiDEYPHSWebAL_WVdoQGMRkKRD8yJCbKV6bDG2cDQsYbRMAN3TeE6QvKDx3PYAhjqVS4i2QmXzopIlFZKa4F0NaAU8t72lY8ss2stm_Bw==",
+          "label": "devflokers.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Defense Tech Firms Anduril and Firestorm Labs Secure Key Funding and Contracts for AI-Powered Military Systems",
+      "date": "2026-04-29",
+      "description": "Anduril secured a spot in a $1.8 billion Space Force contract, while Firestorm Labs raised $82 million to build mobile drone factories, indicating continued significant investment in AI for defense applications.",
+      "category": "Funding",
+      "significance": "This demonstrates the persistent and growing integration of advanced AI and autonomous systems into military strategies and defense infrastructure, suggesting a long-term shift in global security dynamics and defense industry priorities.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGo9WGNzNB354P7IM3bDgcgUA00s3WUStnHUOcI89_XLfvDkq3aXF9mFY7z3oXsc6Pni7AJn_thmtnYx4bSR2D2I_jupioiHM0NzcsKCmBYwJo_RTlDH4k0An5fT-BE1ihM8ViH4Xi6HXrCh1r_n335g0Hrr5PkQmBG0rFiobVk_sak6aWJV-tHrT7b",
+          "label": "heygotrade.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "IBM and Dallara Partner to Revolutionize Vehicle Aerodynamic Simulation with Physics-Based AI Models",
+      "date": "2026-04-30",
+      "description": "IBM and Dallara announced a collaboration to use Gauge-Invariant Spectral Transformers (GIST)—physics-based AI foundation models—to reduce vehicle aerodynamic simulation times from hours to minutes.",
+      "category": "Research",
+      "significance": "This collaboration showcases the growing trend of specialized, physics-informed AI models tackling complex engineering and industrial challenges, indicating a future where AI significantly accelerates R&D and product development in highly technical fields.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbHxWiodDq9Icc1ru6MTfgXA2NxudKVT7Jlw-dTRmM9Nzg0mhfKq3i-Jat4ETRnirWK8tZWqMjPhqP6UiDEYPHSWebAL_WVdoQGMRkKRD8yJCbKV6bDG2cDQsYbRMAN3TeE6QvKDx3PYAhjqVS4i2QmXzopIlFZKa4F0NaAU8t72lY8ss2stm_Bw==",
+          "label": "devflokers.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Google 'AI Mode' Successor to SGE Reaches 75 Million Daily Active Users",
+      "date": "2026-04-30",
+      "description": "Data revealed that 'AI Mode' (the successor to Search Generative Experience) reached 75 million daily active users, signifying widespread adoption of generative AI in core consumer search functionalities.",
+      "category": "Industry Structure",
+      "significance": "The rapid and massive adoption of AI-powered search features demonstrates a fundamental shift in how users interact with information, pointing towards a future where generative AI deeply integrates into everyday digital experiences, potentially altering content creation and consumption.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbHxWiodDq9Icc1ru6MTfgXA2NxudKVT7Jlw-dTRmM9Nzg0mhfKq3i-Jat4ETRnirWK8tZWqMjPhqP6UiDEYPHSWebAL_WVdoQGMRkKRD8yJCbKV6bDG2cDQsYbRMAN3TeE6QvKDx3PYAhjqVS4i2QmXzopIlFZKa4F0NaAU8t72lY8ss2stm_Bw==",
+          "label": "devflokers.com"
         }
       ],
       "type": "timeline_event"
