@@ -2,80 +2,80 @@
   "scanDate": "2026-05-02",
   "candidates": [
     {
-      "title": "Harvard University Study: AI Outperforms Human Doctors in Emergency Triage",
-      "date": "2026-04-30",
-      "description": "A groundbreaking study published in 'Science' by Harvard University researchers revealed that AI systems, specifically OpenAI’s o1 reasoning model, achieved 82% diagnostic accuracy in emergency room scenarios, surpassing human doctors' 70-79% accuracy. This marks a significant milestone in AI's practical application in critical healthcare settings, though experts caution about AI's current inability to read physical cues.",
-      "category": "Research",
-      "significance": "High. This breakthrough demonstrates AI's potential to fundamentally transform medical diagnosis and patient care, leading to improved outcomes and efficiency. The study's findings will likely influence healthcare policy, AI development for medical applications, and public trust in AI over the next five years.",
+      "title": "OpenAI Begins Rollout of GPT-5.5-Cyber for Critical Infrastructure Defense",
+      "date": "2026-05-01",
+      "description": "OpenAI has started the rollout of GPT-5.5-Cyber, a specialized AI model designed to defend critical infrastructure. This initiative is part of the new 'Trusted Access for Cyber' (TAC) program.",
+      "category": "Model Release",
+      "significance": "This specialized AI model for cybersecurity defense of critical infrastructure represents a major advancement in national security and industrial protection, with long-term implications for global digital resilience.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHxIrR-A9E2DdfTcHXX5BsGsSzPUi4eG3zJ07h-2mrKiCeZ74_eQbKHrh42YsDqIjg8kI5DhtMal4Wgyf9-vpHEjFcKfNjbP1f2NIPNglmI-eA3Is6biEjb9Y0nO4OADFBwdeRpRkIavKhXVpl1xwSvCxT_YNhitXaYN43SeQtRWLxm9ynqKzkYx1BSPkDB2wZ-cFYXnYaaQbGh4LtW8USHQL42XrRd4uVBvhO8U23LSVAhiQ",
-          "label": "theguardian.com"
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHipf2zHalX7A2OQiVlx_RBP62fXCgTzvlQzbWiUW347UDQzl9-zxKlvB8A7vY9MH-eQJ8rCddsKgpg6aVXTOaKq-QGKhTJFWTJh1PI3ux7nMDxOtJc-ja3a3tWiG7gu1kO3z_MOKP8ORILnDCliUonmKGFlaKOhOjktTMTmFJuDGQR",
+          "label": "aitoolsrecap.com"
         }
       ],
       "type": "timeline_event"
     },
     {
-      "title": "Palo Alto Networks Acquires Portkey to Secure Autonomous AI Agents with AI Gateways",
-      "date": "2026-04-30",
-      "description": "Cybersecurity leader Palo Alto Networks announced its intent to acquire Portkey, a pioneer in AI Gateways. This acquisition aims to establish a robust control plane for securing autonomous AI agents operating within enterprise networks, addressing the critical need for governance and protection as AI agents gain more privileged access and operational independence.",
-      "category": "Industry Structure",
-      "significance": "High. The acquisition signifies a major industry move to address the burgeoning cybersecurity challenges posed by autonomous AI agents. It will likely set new standards for AI security, influencing enterprise adoption of agentic AI and shaping the future of AI governance and risk management.",
+      "title": "Anthropic Launches Restricted Preview of Claude Mythos, Uncovering Thousands of Vulnerabilities",
+      "date": "2026-05-01",
+      "description": "Anthropic has initiated a restricted preview for Claude Mythos, its next-generation AI model. Reports from 'Project Glasswing' indicate that Mythos has already identified thousands of previously unknown vulnerabilities in major operating systems and browsers.",
+      "category": "Model Release",
+      "significance": "The ability of Claude Mythos to autonomously discover widespread software vulnerabilities marks a significant leap in AI's capacity for security analysis, potentially revolutionizing cybersecurity and software development practices for years to come.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLuno_QgdDaoHXvfNoH8eY3EXg60d7iO9pbIAPB9JvwLh3lLam4wyNcmnsgQPCRK7t-2iU9T8quh5qFT4NHR4r0FyxBnQhVY151W2wk8Oou_gx4aJZrWfsUueTW24OEE_cOBiRSziMu-k-7MWKEMvX8LpgnhrGg3xnFrdNDa4eqWE89O2aAracAHL5uyjMXDSpYpfWduqVulWkbm1WjKwyrQ5R5jaQoOalasBtDHFi2DrVi34",
-          "label": "paloaltonetworks.com"
-        }
-      ],
-      "type": "timeline_event"
-    },
-    {
-      "title": "Pentagon Signs Landmark AI Deals with Eight Tech Giants for Military Integration",
-      "date": "2026-05-02",
-      "description": "The U.S. Department of Defense announced significant agreements with eight leading AI companies—OpenAI, Google, Nvidia, Microsoft, Amazon Web Services, SpaceX, Oracle, and Reflection AI—to integrate advanced AI capabilities into the military's most secure classified networks. These agreements, reportedly involving consent to 'any lawful use' of their technology, aim to establish the U.S. military as an 'AI-first fighting force,' though the exclusion of Anthropic due to ethical concerns sparked controversy.",
-      "category": "Military & Security",
-      "significance": "High. This represents a pivotal moment in the integration of AI into national defense, with profound implications for military strategy, international relations, and the ethical use of AI. The 'any lawful use' clause and Anthropic's stance highlight ongoing debates about AI's role in warfare and surveillance, which will shape policy and industry standards for decades.",
-      "confidence": "high",
-      "sources": [
-        {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWJ9XAeLKyMlp46nRx1C7cStdheQu404Sax5tHKpPXl6i0KTUBLAcLggfqVSN-OvOFj_4GUhd7LcXNOExBTgCQU5MZ1jw1N1_G562Hjz31ixAc35bdzXGnZBchSWuVAQcdMDpUwwRC4mbk9GQSI1EC_Xn4d9mwCdj-ezTCT2Mwy4q-BKLm1QTlBz-N6IFG3RW8Pu-6NYbLzMStIektWr0=",
-          "label": "theguardian.com"
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHipf2zHalX7A2OQiVlx_RBP62fXCgTzvlQzbWiUW347UDQzl9-zxKlvB8A7vY9MH-eQJ8rCddsKgpg6aVXTOaKq-QGKhTJFWTJh1PI3ux7nMDxOtJc-ja3a3tWiG7gu1kO3z_MOKP8ORILnDCliUonmKGFlaKOhOjktTMTmFJuDGQR",
+          "label": "aitoolsrecap.com"
         },
         {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFw_pQadJQdpwjRoOa1VFlaVXr_cXkKfAHymPLbm_QWpQlQoUK4MUm6hGIwvmwNeRiuJ3C-E3pvK6vViKdzkgPuF8iCSQaR1uH-9L-wsmYtfCdwNKuK2ewRXtdnAsdJ1UowoxYvORfaYkUMtSR1E7PqqHqawBPxhmZfWt5wyll2AIZWu105Cp-C7IWLBOqvyB6Xn4aRkQqJXRQ2eIEuzzcyRroNWOIvNQ==",
-          "label": "latimes.com"
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAFkxvhYfNEjzq2V-yt9oa7KIC0F-uYkkw0YsV0t51y4fF0y3YE-98Rki5mnHbjIHjGEvp2OAQ7nb4IQfpJ0zfaJY3ROgdGAF_ncYxMiKZSa1-cd16h6DshEqGmSP46uY6hxMwWIwJqBfS_a4kFd_6LZGustj0NpOa3Gi1Wym1-0d3jyjDmL0Y01JCSZt6-5pxOhI32Xql6NQ07ZbCAAVBlYYN_MZeYmpKaQKuDVFtKo_hqgyqUvk-9G-xAE0a3sOdUEo=",
+          "label": "ebglaw.com"
         }
       ],
       "type": "timeline_event"
     },
     {
-      "title": "OpenAI Unveils GPT-5.5 as Cornerstone of 'Compute-Powered Economy,' Emphasizing Agent-Driven Workflows",
-      "date": "2026-05-02",
-      "description": "OpenAI officially positioned GPT-5.5 as the foundation for a new 'agent-driven economy.' Unlike previous generative models, GPT-5.5 is designed to be a proactive agent capable of executing complex business workflows and controlling computer systems with minimal human instruction. OpenAI leadership indicates that 'access to compute' will become the primary driver of global productivity.",
-      "category": "Model Release",
-      "significance": "High. The release of GPT-5.5, framed around 'agentic' capabilities and a 'compute-powered economy,' represents a significant evolution in AI model design and economic impact. This shift toward autonomous agents could fundamentally alter how businesses operate and how value is created, having long-lasting effects on the industry and global economy.",
+      "title": "Siemens Unveils 'Eigen' Industrial AI Agent for End-to-End System Configuration",
+      "date": "2026-05-01",
+      "description": "Siemens has unveiled 'Eigen,' an industrial AI agent capable of moving beyond mere recommendations to actively writing automation code and configuring industrial systems end-to-end.",
+      "category": "Industry Structure",
+      "significance": "The introduction of an AI agent capable of autonomous execution and configuration in industrial settings marks a profound shift towards advanced industrial automation, promising long-term impacts on efficiency, manufacturing, and engineering processes worldwide.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbhOuYnC1L5p-8hGLpsbsWH0UkWgtsvtz75fihqAU8z7CvCjkn_Te3SbLQmrqj5y3eC5xreenJuKtAbh9fEcEsbBbYEuNiuCwXZGbPi1X8Rm04d9NcGgykbXSgDQt86gjPCVvH3mMt0o-L_uK8iu8ll84IuaqSGkfZNCM6vlwZOVJ1jRATVxVv7pw1mC3xYzTZpN5zGUwp3tWwLJJ2ckZuprlgSBQ1qg==",
-          "label": "marketingprofs.com"
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHd4Mwa5yVjSTkSnpAx6abwlnXV29LfEweD_8hONjmSUh_gAWI2t0yEZwFe3bn_6ls6sHRH7utHyoeeIXYYQtHC4YbplgMyAv9x5CTuX9ARgt3FhOk42Ly2tHfa2WIhsMtEkH7cbU_S9soU_grIM2CwyrbqnALtg8s=",
+          "label": "aimagazine.com"
         }
       ],
       "type": "timeline_event"
     },
     {
-      "title": "Cloudflare and Stripe Enable 'Self-Deploying' Agents via New Protocol for Independent Account Creation and Deployment",
-      "date": "2026-05-02",
-      "description": "Cloudflare and Stripe introduced a new protocol that allows AI agents to independently create accounts, purchase domains, and launch applications without human intervention. This standardized approach to identity and payment for AI agents marks a major step towards greater agentic autonomy, enabling them to move from code generation to live production autonomously.",
+      "title": "Meta Acquires Assured Robot Intelligence (ARI) in Push for 'Android of Robotics'",
+      "date": "2026-05-01",
+      "description": "Meta has announced the acquisition of Assured Robot Intelligence (ARI), a San Diego startup specializing in humanoid control. This move is part of Meta's strategy to develop an open intelligence layer for robotics, akin to an 'Android of Robotics.'",
+      "category": "Industry Structure",
+      "significance": "Meta's acquisition and stated goal of creating an open robotics intelligence layer could standardize the development and interoperability of robotic systems, fundamentally altering the future of robotics hardware and software industries.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGyYI8yq6i6EQfOs9kZO66Yml10-FCKqVfmEPFyBPkAe2ozVpJC_0VF66Bd6cn9KPpmZWQIgwVdby_HWk0sN_82V0tZDNbGxK55X8hI9_xOiLoF7QJmJSBm0ghfvafWe0hm88inxINZ6rPQsEskHCr8UbB1Yho98E7sU7Gcp-en67o02c1O4nPijXpI3s094KTISIpozt1lZkxukKOOF0jec8AH4TUJOqXsA8vZs",
+          "label": "mlq.ai"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Google Breaks Ground on Massive $15 Billion AI Data Center Hub in India",
+      "date": "2026-05-01",
+      "description": "Google has begun construction on a 600-acre, $15 billion AI data center hub in Visakhapatnam, India. The facility is designed to scale to 5 GW of capacity.",
       "category": "Infrastructure",
-      "significance": "High. This development is a crucial infrastructure breakthrough for AI autonomy, removing significant friction for agents to operate independently on the internet. It has profound implications for the speed of AI deployment, the nature of online services, and the evolving relationship between humans and AI systems, impacting industry structure and innovation for years to come.",
+      "significance": "This colossal investment in AI infrastructure in India signifies a major geopolitical and economic shift in global compute power distribution, profoundly impacting regional AI development and technological capabilities for decades.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbhOuYnC1L5p-8hGLpsbsWH0UkWgtsvtz75fihqAU8z7CvCjkn_Te3SbLQmrqj5y3eC5xreenJuKtAbh9fEcEsbBbYEuNiuCwXZGbPi1X8Rm04d9NcGgykbXSgDQt86gjPCVvH3mMt0o-L_uK8iu8ll84IuaqSGkfZNCM6vlwZOVJ1jRATVxVv7pw1mC3xYzTZpN5zGUwp3tWwLJJ2ckZuprlgSBQ1qg==",
-          "label": "marketingprofs.com"
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3UwwFy3GWn5oNo20tcysxeWMKXlQS-A5SURuPeL2iujKZwM9s_xahI2DmaRocgXvCtIHojwwNip58ya26yl72I9Aqz2It2MyRLSroPfHys0TfFvzQiTLl5IDHir8Fd2_ong2wKCEv3HXy3xkgTxl46aOXk-j0EB8QzdSAyDCaULJ6rfeBvh0YoRmk-Rg8g0Yrhou83BcsIm5i4M0SZiIX58_HuweJgvVChOZrEzVXuaJWhMLV0dkGzJu3diUjTXE8orQ=",
+          "label": "businesstoday.in"
         }
       ],
       "type": "timeline_event"
