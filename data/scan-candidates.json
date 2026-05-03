@@ -1,1 +1,81 @@
-{"scanDate":"2026-05-02","candidates":[],"questionUpdates":[]}
+{
+  "scanDate": "2026-05-03",
+  "candidates": [
+    {
+      "title": "China's DeepSeek V4 Pro Model Emerges as Major Open-Source AI Competitor",
+      "date": "2026-05-01",
+      "description": "China's DeepSeek V4 Pro, a 1.6 trillion-parameter open-source AI model optimized for domestic Chinese hardware, has emerged as a significant competitor to U.S. labs, marking a strategic challenge in the global AI landscape.",
+      "category": "Model Release",
+      "significance": "This model signifies a major advancement in China's open-source AI capabilities, intensifying international competition and potentially leading to a more diversified global AI ecosystem. Its optimization for domestic hardware could also influence future AI infrastructure development.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhlyH71IYGzHwD_vQRiHfh5gwcLYCi-gIAf9mKcbhjtbIt1RqFHnHgZSC2rwUxI1YGKvmfojhySgzxXq5wyAMuVhqpEo9-qMQPbkJdMwkmTyxRPKC4CI6s3tonasfE4lQaeilZceRRke9Ig1icZiAQMzAWzI9SHVJ_Cbbfp70G202J8cThK_x_9nDpOSgQswmi",
+          "label": "buffalo.edu"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "CSAI Foundation to Issue CVEs for AI and Agentic Systems",
+      "date": "2026-05-01",
+      "description": "The CSAI Foundation (Cloud Security Alliance) announced it would begin issuing CVEs (Common Vulnerabilities and Exposures) specifically for AI and agentic systems, aiming to standardize trust and security in autonomous ecosystems.",
+      "category": "Policy",
+      "significance": "This initiative sets a critical precedent for standardizing security practices and vulnerability reporting in the rapidly evolving AI and agentic systems landscape, which is essential for fostering trust and widespread adoption of autonomous AI.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFXHrPBRMeEZziWvyb5CrovlS6vRRRKsf22FwwFAaxXms6QZfEZhWq1DGZAitXnpTsL2ctQFM5sDtmDFw_Q-z_m02awZ3gUrcBLrGaE_qcUjWR9X7AF3F0nP0ujJXjSCxBaHFoQHGeLmB_gMPhBjaHN1eaZnTPK-fIZHWDJgG9rjS08qjQWDlGxlwIvE1oDaXoenAcoKpt98sAp",
+          "label": "solutionsreview.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "U.S. Exempts AI-Related Hardware from Global Tariffs",
+      "date": "2026-05-02",
+      "description": "The U.S. administration exempted AI-related hardware, including advanced chips, servers, and networking gear, from global tariffs, acknowledging the economy's dependence on foreign infrastructure to fuel the AI boom.",
+      "category": "Policy",
+      "significance": "This policy decision underscores the strategic importance of AI development for the U.S. and is likely to accelerate the build-out of AI infrastructure, impacting global supply chains and the competitive landscape for AI hardware.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEmlvGDd3JFG57iy1G74BmyzstEv8li1Wp7I3uJ2jS08eCpY5UIHBJ_PlnSMrna2NCi2qnLLwWentTQwQsN8aRDTLgQ8fnYTKkCq0TQlpG9lmINm_LLg_6Qes4fY26kD4ixX_Solut9TLo3NPU0jxdBqmRIfIah24eKWZTMjttm02mEJcGGx4bBgKpYcA==",
+          "label": "washingtonpost.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "China Court Rules Against AI-Driven Employee Termination, Sets Labor Precedent",
+      "date": "2026-05-02",
+      "description": "In a landmark case, a court in Hangzhou, China, ruled that a tech company unlawfully terminated an employee after replacing his role with AI, signaling a major development for labor protections against AI-driven displacement.",
+      "category": "Policy",
+      "significance": "This ruling establishes a significant legal precedent for safeguarding workers against job displacement due to AI automation, potentially influencing future labor laws and corporate practices globally as AI integration into the workforce accelerates.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWAjgAIt_7TdTHtbMCjrYYUwAXeWpem96lN2DuplFE4W75GzkQuFbrnG4denw83xdj0pjST0vRnxAagf08kdOSNqJkNWUvdkd6ze_QoaYiPw8fXSl55D-PN4Bj6eCrPp5LIkX_wl7nH--tLcTG8Jbkax92x451-txkqBhuzjZCBV9zXu17BU5SbSDg3Bw-Qyke-2qb6YUgdZZztO2DmKEqxKf",
+          "label": "opb.org"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "AI Tool RAVEN Discovers Over 100 New Exoplanets",
+      "date": "2026-05-03",
+      "description": "Astronomers at the University of Warwick announced the discovery of over 100 exoplanets using a new AI tool called RAVEN, which analyzed data from NASA’s TESS mission.",
+      "category": "Research",
+      "significance": "This discovery highlights the transformative potential of AI in accelerating scientific research and discovery, particularly in fields like astronomy, by enabling the rapid analysis of vast datasets and identifying patterns undetectable by traditional methods. This could lead to a new era of AI-assisted scientific breakthroughs.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8u_5woDGwp7WDkk4kd2X9f-UR5wi7xbMqinrGJLJ-rD_ilF0hY5T4RK0lNSWUV_MGZDAujSLxWB0dvqSjxb7STwmSZM8sPZQkCXmjsQjj2T8lQsaAr0F_8OMGr4s_2BhDMNBFDmUrEZv1ZHc09NiRm7RmyhGQ_Tg=",
+          "label": "sciencedaily.com"
+        }
+      ],
+      "type": "timeline_event"
+    }
+  ],
+  "questionUpdates": []
+}
