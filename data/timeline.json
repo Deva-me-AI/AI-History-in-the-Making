@@ -5404,5 +5404,70 @@
       }
     ],
     "issueNumber": 100
+  },
+  {
+    "title": "OpenAI Unveils GPT-5.5 with Agent-Driven Workflows for 'Compute-Powered Economy'",
+    "date": "2026-05-01",
+    "description": "OpenAI positions GPT-5.5 as the cornerstone for a 'compute-powered economy,' emphasizing its advanced agent-driven capabilities that enable the model to control computers and execute complex business workflows autonomously.",
+    "category": "Model Release",
+    "sources": [
+      {
+        "url": "https://marketingprofs.com",
+        "label": "MarketingProfs"
+      }
+    ],
+    "issueNumber": 498
+  },
+  {
+    "title": "Meta Acquires Assured Robot Intelligence, Pivots Towards Physical AI",
+    "date": "2026-05-02",
+    "description": "Meta acquires Assured Robot Intelligence to strengthen its Superintelligence Labs, signaling a strategic shift and increased investment in physical AI and the development of robot-specific models.",
+    "category": "Industry Structure",
+    "sources": [
+      {
+        "url": "https://www.spreaker.com",
+        "label": "Spreaker (AI Daily Brief)"
+      }
+    ],
+    "issueNumber": 499
+  },
+  {
+    "title": "Google Cloud Launches $750M Fund for Agentic AI Adoption",
+    "date": "2026-05-02",
+    "description": "Google Cloud establishes a $750 million fund aimed at accelerating the adoption of 'agentic AI' among its partners, providing crucial resources for prototyping and deploying autonomous agent solutions.",
+    "category": "Funding",
+    "sources": [
+      {
+        "url": "https://aimagazine.com",
+        "label": "AI Magazine"
+      }
+    ],
+    "issueNumber": 500
+  },
+  {
+    "title": "Hyperscalers Plan $3.7 Trillion AI Infrastructure Spend Over Five Years",
+    "date": "2026-05-02",
+    "description": "A new CBRE analysis reveals that major hyperscale companies, including Amazon and Google, are projected to invest an unprecedented $3.7 trillion in AI infrastructure over the next five years, drawing comparisons to historical industrial revolutions.",
+    "category": "Infrastructure",
+    "sources": [
+      {
+        "url": "https://www.spreaker.com",
+        "label": "Spreaker (AI Daily Brief)"
+      }
+    ],
+    "issueNumber": 501
+  },
+  {
+    "title": "Josh Alman Breaks Decades-Old Matrix Multiplication Record",
+    "date": "2026-05-02",
+    "description": "Josh Alman is recognized for a breakthrough in matrix multiplication algorithms, lowering the 'omega' barrier and promising to significantly reduce energy costs and accelerate processing speeds for global data centers vital to AI computations.",
+    "category": "Research",
+    "sources": [
+      {
+        "url": "https://www.spreaker.com",
+        "label": "Spreaker (AI Daily Brief)"
+      }
+    ],
+    "issueNumber": 502
   }
 ]
