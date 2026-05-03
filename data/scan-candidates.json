@@ -2,76 +2,84 @@
   "scanDate": "2026-05-03",
   "candidates": [
     {
-      "title": "OpenAI Unveils GPT-5.5 with Agent-Driven Workflows for 'Compute-Powered Economy'",
+      "title": "OpenAI Launches 'ChatGPT for Clinicians'",
       "date": "2026-05-01",
-      "description": "OpenAI positions GPT-5.5 as the cornerstone for a 'compute-powered economy,' emphasizing its advanced agent-driven capabilities that enable the model to control computers and execute complex business workflows autonomously.",
-      "category": "Model Release",
-      "significance": "This release marks a significant evolution in AI, moving beyond conversational models to autonomous agents capable of performing complex tasks, which will profoundly reshape industries and the digital economy over the next five years.",
-      "confidence": "high",
-      "sources": [
-        {
-          "url": "https://marketingprofs.com",
-          "label": "MarketingProfs"
-        }
-      ],
-      "type": "timeline_event"
-    },
-    {
-      "title": "Meta Acquires Assured Robot Intelligence, Pivots Towards Physical AI",
-      "date": "2026-05-02",
-      "description": "Meta acquires Assured Robot Intelligence to strengthen its Superintelligence Labs, signaling a strategic shift and increased investment in physical AI and the development of robot-specific models.",
+      "description": "OpenAI introduced a specialized, free version of ChatGPT for verified U.S. healthcare professionals, designed to assist with clinical documentation and medical research. This marks a significant step towards practical, domain-specific AI application in a critical sector.",
       "category": "Industry Structure",
-      "significance": "This acquisition by a major tech company indicates a significant future direction for AI, accelerating the convergence of AI with robotics and physical world interaction, impacting numerous sectors within five years.",
+      "significance": "This event demonstrates the increasing specialization and application of AI in critical sectors like healthcare, potentially revolutionizing medical practice and documentation over the next five years.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://www.spreaker.com",
-          "label": "Spreaker (AI Daily Brief)"
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7Us7VHBdaFfFVDON5g-qkxHIYB3HRFoFCmtlrBdd_uB3UokKWngB3-WN8iknwBsOtwu1-eq65N0qBoJbUlvl2WJ9cuDL8Z0cdFYs1MEDdTPwtNyCTb6GHWpyvUfPS7jXH3q_2TMpWZuKkaMimS4-wGyXx",
+          "label": "eyeworld.org"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFk2rgavJjP4cvHcaNAHLUZ9goLAyefKBuyN553bTBL2qe2Q93crGJISk9oob4wRPW7wzhWRB9_Pqr7AiLSzBQANWxaLGxBpCMjXcMZ_9nd13y8G-5cRCVUxCLygiuH4Jq-BoMbCQ==",
+          "label": "youtube.com"
         }
       ],
       "type": "timeline_event"
     },
     {
-      "title": "Google Cloud Launches $750M Fund for Agentic AI Adoption",
+      "title": "Anthropic Labeled 'Supply-Chain Risk' by Pentagon",
+      "date": "2026-05-01",
+      "description": "Anthropic was excluded from Pentagon AI deals and officially labeled a supply-chain risk due to its refusal to allow its models to be used for autonomous weapons or domestic surveillance. This highlights the growing ethical and policy tensions between AI developers and military integration.",
+      "category": "Military & Security",
+      "significance": "This event sets a precedent for AI companies refusing certain military applications and the consequences thereof, shaping future policy debates and the relationship between tech ethics and national security.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGkho7ezDD0yIArpuAmFUWlJGSk0-RByY4EmK3KOGg-LWvNm9_VzQIgms6pWz2kev-GUSOgJTwwVCnKULK6xk0rGdoPjviC7PX6Gr7UiJSsweMJTBis8K3Hzjt5Ydi_xDXvNstoFHjflniHBVqpzjHYUgREzgb_SaoI6fhcStRyoWs_J8CEpKmRII9Tog==",
+          "label": "virginiabusiness.com"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEyS5DmmtpltmXZdbboBIYespHcmGlc322HVQd3XVGds0Dhe-NVYT6dzATdEnqJdn89912iBSie-O6aIbl8pj0wcgS_wKuALBJ63INwhT63O1SD3aJWY2v0rUAO2xGo52Bykb9VLV_SnONspgkHlT0m4EEbi1GxL_zqRgDk912NWNA_NYJv-HWxgQkvi8bW-oeXesrJcA7Adia-YVKvnw==",
+          "label": "theguardian.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "UAE Launches AI-Powered Work-Permit Screening",
       "date": "2026-05-02",
-      "description": "Google Cloud establishes a $750 million fund aimed at accelerating the adoption of 'agentic AI' among its partners, providing crucial resources for prototyping and deploying autonomous agent solutions.",
+      "description": "The United Arab Emirates officially rolled out an AI-powered platform to evaluate all new work-permit applications, developed by the Ministry of Human Resources and Emiratisation and the Federal Authority for Identity, Citizenship, Customs and Port Security. The system aims to significantly reduce approval cycles and analyzes skills and labor-market data for eligibility scores.",
+      "category": "Policy",
+      "significance": "This demonstrates a major governmental adoption of AI for administrative and policy-making processes, setting a potential model for other nations in leveraging AI for efficiency and workforce management with long-term societal impacts.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhSlwstRxAwco3ynH9PbITLP2JUf7UTlbVFqiKsXkU3ZeKi6vjuUDlpB2zUQX1BS_j0aOL2UdOwhupSLiJFDYrnqQZOODUwhiZak5OJxblXtao_KEL9Y26jKkPa3gNIiJrGzbeeIG179ZfL7jld6XGFQzv3re1xxG1xAl_FYZxIGosq7Uu-6Txxz2U5_FopgvIG1cQBZI7YhgcdQjQ48CoOQWrSP2bAXPG",
+          "label": "visahq.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "AI in Warfare: Operation Epic Fury & Civilian Casualties",
+      "date": "2026-05-03",
+      "description": "Reports detailed the U.S. military's heavy reliance on the Maven Smart System (AI) during operations in Iran, with the AI credited for identifying 13,000 targets. However, the day saw increased scrutiny and criticism following reports of civilian casualties attributed to AI targeting errors, raising serious ethical and policy concerns.",
+      "category": "Military & Security",
+      "significance": "This event highlights the critical ethical and humanitarian implications of integrating AI into military targeting systems, prompting intense debate and potentially shaping international laws and regulations surrounding autonomous weapons for decades.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGeFRcbMlXWRSMc3efptzaNh8Eo-3-G-7F8Lp8gautHBv6MgP23aHzlf4asR_r77H8gXvIm4A_sftKa75Wz-o0fXxrXjDc8hWbouJBKpKfjQFTTz5iNjGIwjPEEtetaonZMyWrSIJQ3NmyATwcz0Id_X_BlczYZxJx62878ukIJYTbGuao=",
+          "label": "armscontrol.org"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Google Cloud Unveils $750M Fund for Agentic AI Adoption",
+      "date": "2026-05-03",
+      "description": "Google Cloud announced a substantial $750 million fund specifically to accelerate the adoption of 'agentic AI' (AI that can take independent action) within its global partner ecosystem. This investment signals a major commitment to this advanced AI paradigm.",
       "category": "Funding",
-      "significance": "This substantial investment from a leading cloud provider will fuel the rapid development and widespread implementation of agentic AI, driving innovation and shaping the future of enterprise AI solutions.",
+      "significance": "This significant investment by a major tech player indicates a strong market direction towards agentic AI, which is expected to drive substantial innovation and reshape industries by enabling more autonomous and intelligent software systems over the long term.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://aimagazine.com",
-          "label": "AI Magazine"
-        }
-      ],
-      "type": "timeline_event"
-    },
-    {
-      "title": "Hyperscalers Plan $3.7 Trillion AI Infrastructure Spend Over Five Years",
-      "date": "2026-05-02",
-      "description": "A new CBRE analysis reveals that major hyperscale companies, including Amazon and Google, are projected to invest an unprecedented $3.7 trillion in AI infrastructure over the next five years, drawing comparisons to historical industrial revolutions.",
-      "category": "Infrastructure",
-      "significance": "This colossal infrastructure investment underscores the foundational shift towards an AI-driven economy, providing the necessary computational backbone for future AI advancements and applications, impacting global industry and technology.",
-      "confidence": "high",
-      "sources": [
-        {
-          "url": "https://www.spreaker.com",
-          "label": "Spreaker (AI Daily Brief)"
-        }
-      ],
-      "type": "timeline_event"
-    },
-    {
-      "title": "Josh Alman Breaks Decades-Old Matrix Multiplication Record",
-      "date": "2026-05-02",
-      "description": "Josh Alman is recognized for a breakthrough in matrix multiplication algorithms, lowering the 'omega' barrier and promising to significantly reduce energy costs and accelerate processing speeds for global data centers vital to AI computations.",
-      "category": "Research",
-      "significance": "This fundamental algorithmic improvement has profound implications for the efficiency and scalability of AI systems, potentially leading to faster training, lower operational costs, and the development of more complex models within five years.",
-      "confidence": "high",
-      "sources": [
-        {
-          "url": "https://www.spreaker.com",
-          "label": "Spreaker (AI Daily Brief)"
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH8ZFJTdxVlCepGtFphu7-ahX4Qc3l1RsVCR9D0fdg5X-L1y5pNOAzSRC8djfNPNX9RVZl9M0GvESH-UShoMJGjIwvEhV7qT29l9BqeqwPPUF5A0H0IC1ezSEfgXXi3cWHGJYMTMparcF5Ojiu1ueHq2cSCg4rM_Q=",
+          "label": "aimagazine.com"
         }
       ],
       "type": "timeline_event"
