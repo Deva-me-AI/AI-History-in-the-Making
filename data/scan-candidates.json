@@ -1,1 +1,81 @@
-{"scanDate":"2026-05-04","candidates":[],"questionUpdates":[]}
+{
+  "scanDate": "2026-05-04",
+  "candidates": [
+    {
+      "title": "NVIDIA GTC 2026: Nemotron Coalition Formed with Mistral, Perplexity, Cursor, and Reflection AI",
+      "date": "2026-05-04",
+      "description": "NVIDIA, in collaboration with Mistral, Perplexity, Cursor, and Reflection AI, announced the Nemotron Coalition. This partnership aims to advance open, frontier-level foundation models through shared data, compute, and expertise, fostering an 'open-proprietary' AI ecosystem.",
+      "category": "Industry Structure",
+      "significance": "This indicates a significant shift in how large AI models are developed and commercialized, potentially accelerating innovation and shaping market dynamics for years to come. The 'open-proprietary' aspect is particularly noteworthy.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHB8akxqR5LZb8icFdGBAJDFPs08daJl7_4I4L8AeY9F5x0zp3dWk4Mi1v8fYENXmOiEIfjv4k29XlFLEY6ZHZWtwzD4hbcSwhIVrjySFdJ7lzdGwgq2clp6LnjUVR0xmI8J6EraRVGoYuyx4w=",
+          "label": "airstreet.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Anthropic's Claude Mythos Preview Becomes First Model to Clear 32-Step Cyber-Attack Simulation",
+      "date": "2026-05-04",
+      "description": "The UK’s AI Security Institute (AISI) announced that Anthropic’s Claude Mythos Preview successfully completed 'The Last Ones' (TLO), a complex 32-step end-to-end cyber-attack simulation, marking a significant milestone in AI's offensive cybersecurity capabilities.",
+      "category": "Military & Security",
+      "significance": "This demonstrates a major leap in AI's ability to execute sophisticated cyber-attacks, raising concerns about AI security risks and accelerating the need for advanced AI defense mechanisms. This will definitely matter in 5+ years for national security and enterprise security.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHB8akxqR5LZb8icFdGBAJDFPs08daJl7_4I4L8AeY9F5x0zp3dWk4Mi1v8fYENXmOiEIfjv4k29XlFLEY6ZHZWtwzD4hbcSwhIVrjySFdJ7lzdGwgq2clp6LnjUVR0xmI8J6EraRVGoYuyx4w=",
+          "label": "airstreet.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Mandiant M-Trends 2026 Report: AI Accelerates Time-to-Exploit for CVEs",
+      "date": "2026-05-04",
+      "description": "The Mandiant M-Trends 2026 report reveals that 'time-to-exploit' has effectively gone negative, with 28.3% of CVEs now exploited within 24 hours of disclosure, often before patches are available, attributed to AI-assisted vulnerability discovery and exploitation.",
+      "category": "Military & Security",
+      "significance": "This report highlights a critical and rapidly worsening cybersecurity threat landscape, directly impacted by AI's capabilities, forcing a reevaluation of traditional vulnerability management and incident response. This will have long-term implications for cybersecurity.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHB8akxqR5LZb8icFdGBAJDFPs08daJl7_4I4L8AeY9F5x0zp3dWk4Mi1v8fYENXmOiEIfjv4k29XlFLEY6ZHZWtwzD4hbcSwhIVrjySFdJ7lzdGwgq2clp6LnjUVR0xmI8J6EraRVGoYuyx4w=",
+          "label": "airstreet.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "US Power Consumption to Hit Record Highs Driven by AI Data Centers",
+      "date": "2026-05-04",
+      "description": "The US Energy Information Administration (EIA) released projections showing that US power consumption will reach record highs in 2026, primarily due to the massive expansion of AI data centers, signaling significant infrastructure and environmental challenges.",
+      "category": "Infrastructure",
+      "significance": "This forecast underscores the immense energy requirements of the burgeoning AI industry, portending major impacts on energy policy, infrastructure development, and climate change discussions for decades.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOIypzP37J_Q83jcDHtUVOiyf2MshdEZGiKkmQbRQ0ZOHfBzsw_eqiIspxSU1_vjgiVsXFnFN-ddWoOBQ5EtBdlt2tNbavD6dfiTYa0_FnPy9ERRjyvFwX7SqB61MebaSOQUnGmXuxARbFaBR0_Ch8wHPbx9cVQ_hu7MUPRxiCjUbWOybK4xdq3BHo4qGpzCahw7dRzBhQJ-zPMPTCyFPzT593Qc=",
+          "label": "weforum.org"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Google’s TPU 8i and Microsoft’s Maia 200 AI Chips Enter Full Production",
+      "date": "2026-05-02",
+      "description": "Reports confirmed that Google’s TPU 8i and Microsoft’s Maia 200 chips are now in full production for inference workloads. This move signifies cloud providers' strategic shift towards proprietary custom silicon and reduced reliance on NVIDIA.",
+      "category": "Infrastructure",
+      "significance": "This event marks a critical moment in the AI hardware industry, indicating increased competition and diversification in AI chip development, potentially leading to more specialized and efficient AI infrastructure in the long term.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpIGG4u2y3PJ6ywGZZMH9wnwlFLyZk2dlPtONaGDZJSvl8sx6st-mkTJELzW6lhKVCOMiFUh90hEz3lnjnfZGSPByP95yq9p-rJbza_dijmSmDlzPhvchNMmkz4z8tcJ5Cc7zy-_SCGxmf6pfPhOlNu8cIoF0pXNJqSKZAhfwpn6yQnHPC",
+          "label": "substack.com"
+        }
+      ],
+      "type": "timeline_event"
+    }
+  ],
+  "questionUpdates": []
+}
