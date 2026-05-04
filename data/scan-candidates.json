@@ -2,76 +2,61 @@
   "scanDate": "2026-05-04",
   "candidates": [
     {
-      "title": "NVIDIA GTC 2026: Nemotron Coalition Formed with Mistral, Perplexity, Cursor, and Reflection AI",
+      "title": "Oscars Ban AI Actors and Scripts, Preserving 'Human Artistry'",
       "date": "2026-05-04",
-      "description": "NVIDIA, in collaboration with Mistral, Perplexity, Cursor, and Reflection AI, announced the Nemotron Coalition. This partnership aims to advance open, frontier-level foundation models through shared data, compute, and expertise, fostering an 'open-proprietary' AI ecosystem.",
+      "description": "The Academy of Motion Picture Arts and Sciences officially ruled that AI-generated actors and scripts are ineligible for Academy Awards, aiming to preserve human artistry amidst the rise of generative media.",
+      "category": "Policy",
+      "significance": "This landmark decision sets a global precedent for how major cultural institutions will regulate and define AI's role in creative industries, potentially shaping the future of entertainment and intellectual property.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://coaio.com/",
+          "label": "CoAIO"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "US States Enact Comprehensive AI Regulations and Price-Setting Bans",
+      "date": "2026-05-03",
+      "description": "Connecticut passed a comprehensive AI regulation bill covering frontier models and chatbots, while Maryland signed a first-of-its-kind bill banning certain AI-driven price-setting practices.",
+      "category": "Policy",
+      "significance": "This surge in state-level AI legislation indicates a growing trend of localized regulatory frameworks in the US, which could lead to a fragmented legal landscape for AI development and deployment.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://troutmanprivacy.com/",
+          "label": "Troutman Pepper"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "OpenAI Acquires Personal-Finance AI Agent Startup Hiro",
+      "date": "2026-05-04",
+      "description": "OpenAI completed its seventh acquisition of the year by acquiring Hiro, a startup specializing in personal-finance AI agents, further positioning OpenAI as a 'holding company' for specialized agentic services.",
       "category": "Industry Structure",
-      "significance": "This indicates a significant shift in how large AI models are developed and commercialized, potentially accelerating innovation and shaping market dynamics for years to come. The 'open-proprietary' aspect is particularly noteworthy.",
+      "significance": "This acquisition highlights OpenAI's aggressive strategy to consolidate expertise in specialized AI agents, signaling a future where AI large language models integrate deeply with domain-specific applications to offer comprehensive services.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHB8akxqR5LZb8icFdGBAJDFPs08daJl7_4I4L8AeY9F5x0zp3dWk4Mi1v8fYENXmOiEIfjv4k29XlFLEY6ZHZWtwzD4hbcSwhIVrjySFdJ7lzdGwgq2clp6LnjUVR0xmI8J6EraRVGoYuyx4w=",
-          "label": "airstreet.com"
+          "url": "https://airstreet.com/",
+          "label": "Air Street Journal"
         }
       ],
       "type": "timeline_event"
     },
     {
-      "title": "Anthropic's Claude Mythos Preview Becomes First Model to Clear 32-Step Cyber-Attack Simulation",
-      "date": "2026-05-04",
-      "description": "The UK’s AI Security Institute (AISI) announced that Anthropic’s Claude Mythos Preview successfully completed 'The Last Ones' (TLO), a complex 32-step end-to-end cyber-attack simulation, marking a significant milestone in AI's offensive cybersecurity capabilities.",
+      "title": "UK Royal Navy Announces 'Hybrid Navy' Initiative Integrating Autonomous Systems",
+      "date": "2026-05-03",
+      "description": "The UK’s Royal Navy chief announced a 'Hybrid Navy' plan, which heavily integrates autonomous weapons and robot escorts to bolster the fleet's capabilities.",
       "category": "Military & Security",
-      "significance": "This demonstrates a major leap in AI's ability to execute sophisticated cyber-attacks, raising concerns about AI security risks and accelerating the need for advanced AI defense mechanisms. This will definitely matter in 5+ years for national security and enterprise security.",
+      "significance": "This strategic shift by a major global naval power underscores the accelerating militarization of AI and robotics, setting a potential blueprint for future naval doctrines and defense spending worldwide.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHB8akxqR5LZb8icFdGBAJDFPs08daJl7_4I4L8AeY9F5x0zp3dWk4Mi1v8fYENXmOiEIfjv4k29XlFLEY6ZHZWtwzD4hbcSwhIVrjySFdJ7lzdGwgq2clp6LnjUVR0xmI8J6EraRVGoYuyx4w=",
-          "label": "airstreet.com"
-        }
-      ],
-      "type": "timeline_event"
-    },
-    {
-      "title": "Mandiant M-Trends 2026 Report: AI Accelerates Time-to-Exploit for CVEs",
-      "date": "2026-05-04",
-      "description": "The Mandiant M-Trends 2026 report reveals that 'time-to-exploit' has effectively gone negative, with 28.3% of CVEs now exploited within 24 hours of disclosure, often before patches are available, attributed to AI-assisted vulnerability discovery and exploitation.",
-      "category": "Military & Security",
-      "significance": "This report highlights a critical and rapidly worsening cybersecurity threat landscape, directly impacted by AI's capabilities, forcing a reevaluation of traditional vulnerability management and incident response. This will have long-term implications for cybersecurity.",
-      "confidence": "high",
-      "sources": [
-        {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHB8akxqR5LZb8icFdGBAJDFPs08daJl7_4I4L8AeY9F5x0zp3dWk4Mi1v8fYENXmOiEIfjv4k29XlFLEY6ZHZWtwzD4hbcSwhIVrjySFdJ7lzdGwgq2clp6LnjUVR0xmI8J6EraRVGoYuyx4w=",
-          "label": "airstreet.com"
-        }
-      ],
-      "type": "timeline_event"
-    },
-    {
-      "title": "US Power Consumption to Hit Record Highs Driven by AI Data Centers",
-      "date": "2026-05-04",
-      "description": "The US Energy Information Administration (EIA) released projections showing that US power consumption will reach record highs in 2026, primarily due to the massive expansion of AI data centers, signaling significant infrastructure and environmental challenges.",
-      "category": "Infrastructure",
-      "significance": "This forecast underscores the immense energy requirements of the burgeoning AI industry, portending major impacts on energy policy, infrastructure development, and climate change discussions for decades.",
-      "confidence": "high",
-      "sources": [
-        {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOIypzP37J_Q83jcDHtUVOiyf2MshdEZGiKkmQbRQ0ZOHfBzsw_eqiIspxSU1_vjgiVsXFnFN-ddWoOBQ5EtBdlt2tNbavD6dfiTYa0_FnPy9ERRjyvFwX7SqB61MebaSOQUnGmXuxARbFaBR0_Ch8wHPbx9cVQ_hu7MUPRxiCjUbWOybK4xdq3BHo4qGpzCahw7dRzBhQJ-zPMPTCyFPzT593Qc=",
-          "label": "weforum.org"
-        }
-      ],
-      "type": "timeline_event"
-    },
-    {
-      "title": "Google’s TPU 8i and Microsoft’s Maia 200 AI Chips Enter Full Production",
-      "date": "2026-05-02",
-      "description": "Reports confirmed that Google’s TPU 8i and Microsoft’s Maia 200 chips are now in full production for inference workloads. This move signifies cloud providers' strategic shift towards proprietary custom silicon and reduced reliance on NVIDIA.",
-      "category": "Infrastructure",
-      "significance": "This event marks a critical moment in the AI hardware industry, indicating increased competition and diversification in AI chip development, potentially leading to more specialized and efficient AI infrastructure in the long term.",
-      "confidence": "high",
-      "sources": [
-        {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEpIGG4u2y3PJ6ywGZZMH9wnwlFLyZk2dlPtONaGDZJSvl8sx6st-mkTJELzW6lhKVCOMiFUh90hEz3lnjnfZGSPByP95yq9p-rJbza_dijmSmDlzPhvchNMmkz4z8tcJ5Cc7zy-_SCGxmf6pfPhOlNu8cIoF0pXNJqSKZAhfwpn6yQnHPC",
-          "label": "substack.com"
+          "url": "https://www.theregister.com/",
+          "label": "The Register"
         }
       ],
       "type": "timeline_event"
