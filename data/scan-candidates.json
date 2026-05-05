@@ -1,1 +1,81 @@
-{"scanDate":"2026-05-04","candidates":[],"questionUpdates":[]}
+{
+  "scanDate": "2026-05-05",
+  "candidates": [
+    {
+      "title": "China's 15th Five-Year Plan (2026–2030) pivots national AI strategy toward \"Physical AI\" and robotics",
+      "date": "2026-05-05",
+      "description": "China officially launched its 15th Five-Year Plan, which shifts the national AI strategy to focus on \"Physical AI\" and robotics, integrating AI into the industrial system with humanoid robots and high-end automation as key economic drivers.",
+      "category": "Policy",
+      "significance": "A major global power's strategic pivot to 'Physical AI' and robotics will profoundly impact global industry, technology development, and geopolitics for decades.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://ifr.org/",
+          "label": "ifr.org"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "White House discusses mandatory pre-release vetting of advanced AI models",
+      "date": "2026-05-04",
+      "description": "The Trump administration entered early discussions regarding mandatory vetting of advanced AI models before public release, focusing on \"high-risk\" systems capable of facilitating cyberattacks or identifying software vulnerabilities.",
+      "category": "Policy",
+      "significance": "This signals a significant shift in US policy towards proactive regulation of advanced AI, establishing precedents for how powerful models are developed and deployed, with lasting impact on the AI ecosystem.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://www.csoonline.com/",
+          "label": "csonline.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "IBM Sovereign Core generally available for secure AI deployment",
+      "date": "2026-05-05",
+      "description": "IBM announced the general availability of IBM Sovereign Core, allowing organizations and governments to run AI in sovereign environments with full operational independence, addressing critical data sovereignty and security concerns.",
+      "category": "Infrastructure",
+      "significance": "The availability of sovereign AI solutions enables governments and highly regulated industries to adopt AI securely, accelerating AI integration in critical sectors while ensuring data control and compliance.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://www.ibm.com/",
+          "label": "ibm.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Researchers achieve 10x faster and 10x more energy-efficient AI memory processing",
+      "date": "2026-05-04",
+      "description": "Researchers from USC and UC San Diego presented a new approach using coding theory to make AI memory processing 10 times faster while using 10 times less energy, addressing a critical bottleneck in AI hardware.",
+      "category": "Research",
+      "significance": "This fundamental breakthrough in AI memory efficiency has the potential to revolutionize AI hardware design, significantly reducing the cost and environmental impact of training and running large AI models, and enabling more powerful systems.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://viterbi.usc.edu/",
+          "label": "usc.edu"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Connecticut legislature passes comprehensive AI regulation bill SB 5",
+      "date": "2026-05-03",
+      "description": "The Connecticut legislature passed SB 5, a comprehensive AI regulation bill addressing frontier models, chatbot disclosures, AI in employment, and digital provenance, with the Governor intending to sign it.",
+      "category": "Policy",
+      "significance": "As one of the first comprehensive state-level AI regulations in the US, SB 5 sets a significant precedent, influencing future state and potentially federal AI policies on critical issues like transparency, bias, and accountability.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://www.troutmanprivacy.com/",
+          "label": "troutmanprivacy.com"
+        }
+      ],
+      "type": "timeline_event"
+    }
+  ],
+  "questionUpdates": []
+}
