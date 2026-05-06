@@ -2,53 +2,82 @@
   "scanDate": "2026-05-06",
   "candidates": [
     {
-      "title": "Researchers Unveil AI \"Mollifier Layers\" for Solving Inverse PDEs",
-      "date": "2026-05-06",
-      "description": "Researchers at the University of Pennsylvania introduced a new AI method utilizing \"mollifier layers\" to smooth noisy data, enabling AI to infer hidden causes from observable effects with significantly reduced computing power.",
-      "category": "Research",
-      "significance": "This breakthrough shifts AI capabilities from pattern matching to scientific discovery, likely becoming standard in personalized genomic medicine and new materials discovery within five years.",
-      "confidence": "high",
-      "sources": [
-        {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFTukA_rv9sDEu5tKr4Lgg6X8ZBlX3dB8tUMQBodqnNGFN6hOOKXT7_Pm_S2V5lEbIci3rbmV_bbIPNsh0b17N6qIsYilp0FvHvsE7nmI_7EXNRpK7kIhfCo1Fxc8und1wn4FBpwkqtzItgynOCgrGQP1VNU9wjMM=",
-          "label": "sciencedaily.com"
-        }
-      ],
-      "type": "timeline_event"
-    },
-    {
-      "title": "Academy Awards Ban AI-Generated Actors and Scripts",
+      "title": "Anthropic Reportedly Seeks $900 Billion Valuation in New Funding Round",
       "date": "2026-05-04",
-      "description": "The Academy of Motion Picture Arts and Sciences ruled that AI-generated actors and scripts are ineligible for Oscars to preserve human artistry as AI tools become more sophisticated.",
-      "category": "Policy",
-      "significance": "This sets a legal and cultural precedent for \"Human-Only\" certification, likely leading to a bifurcated entertainment market with human-certified content and hyper-personalized AI-generated media.",
+      "description": "Reports emerged that AI frontier lab Anthropic is in talks to close a new funding round that would value the company at an unprecedented $900 billion, potentially surpassing OpenAI. This comes as the company's annual revenue run rate reportedly nears $40 billion.",
+      "category": "Industry Structure",
+      "significance": "This valuation indicates a massive shift in the market and investor confidence in leading AI labs, influencing the future landscape of the AI industry and the flow of capital.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBgvhDB1X5GPH0Wi81xH0C_HHAjKaEsaH0r1Iz-eA6JVFdAMoKiL1TKPrzFYMttLgeM8QN4DlIu79b7tg__QXMDgJvPohYKUhFl1I0EVqgWPcAgZokdt10CsaK8jBi1bOCLwMV_1L0P_Duuv3dAXBXckXxXBFj75DkETu2V4vNCV4v1M6xloeUZSRDFGnaQTQZlOqLtXsb1k-kcdFy1AIh",
-          "label": "coaio.com"
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdgP18yA3BKLxaI_xdxobXPW20W6d7siF8sdcKFqN6wD-Rbh5EgUzTLFvBCqJfcu1jtnmJrrYkDsA33RmurirXL7BXDnsU9X7r7JX3jWjor1wnnevBPdDzOguxn-6J7APzFy_X",
+          "label": "aibusinessweekly.net"
         }
       ],
       "type": "timeline_event"
     },
     {
-      "title": "Tether's Breakthrough in Local AI and Samsung's AI Chip Surge Indicate Shift to On-Device Processing",
-      "date": "2026-05-06",
-      "description": "Tether's AI research team announced a breakthrough in Local AI, coinciding with a record high in South Korea’s Kospi index driven by Samsung’s AI chip stock, signaling a move from centralized cloud models to high-performance, on-device AI.",
-      "category": "Infrastructure",
-      "significance": "This marks a transition from \"Cloud AI\" to an era where most personal and corporate AI runs on local, neuromorphic hardware, enhancing data privacy and enabling autonomous operations without internet connectivity within five years.",
+      "title": "Leading AI Companies Agree to Provide US Government Early Access to Frontier Models for Security Vetting",
+      "date": "2026-05-05",
+      "description": "Google, Microsoft, and xAI formally agreed to provide the U.S. government, specifically the Center for AI Standards and Innovation (CAISI), with early access to their frontier AI models for security evaluations before public release. This move was accelerated by concerns over Anthropic’s 'Mythos' system, which demonstrated alarming capabilities in identifying software vulnerabilities.",
+      "category": "Policy",
+      "significance": "This agreement sets a critical precedent for government oversight and pre-deployment testing of advanced AI models, profoundly impacting future AI development, safety protocols, and regulatory frameworks globally.",
       "confidence": "high",
-      "sources": [],
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF4SSNKKxiZRLZXMTVtEiOMLCJKEL5HQ2eOhfQOpOj4i34uRLZJtQk3C9V3uhsV7gMW4Qcg1EbjtshBwRXStVYR2zZ81qADnzRkUvaebJoAiQTa4IhaEYeMWwf85QH56q4KeYJAmy1tyCzIyW3NWfb0AORETdcYBM_RduWKacWMndj6I8Q_oGIoIosbhdYYuN-P",
+          "label": "theguardian.com"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEic2gk8OtIzA53GkDNjNfNSR_Pq2z7Jcxu6mEv9Meq3TfoHx7zvQUU79VYiej2bSxeoIBXAL4abJp750wfrskjJytM14Dmyl_GE4LzOK6YMf-l5VOY2jkrG1CZvyO8SGYw8NofrwxE_Y8Kv5StudVDg98SMqw4r7JjKIo8xhS2Bb7wu80j5y2yt9Ig4VZvX8NnPHpWw_0=",
+          "label": "cybersecuritydive.com"
+        }
+      ],
       "type": "timeline_event"
     },
     {
-      "title": "\"Agentic Enterprise\" Emerges as AI Agents Take Over Workflows, Prompting New Governance Challenges",
-      "date": "2026-05-06",
-      "description": "New reports and conferences highlight the shift from chatbots to autonomous AI agents managing entire workflows, with 78% of AI projects delivering business value but facing \"Agent Sprawl\" risks.",
-      "category": "Industry Structure",
-      "significance": "Within five years, corporate structures will become \"Agent-First,\" with human roles shifting to governance and accountability as CISO becomes critical for managing fleets of autonomous digital workers.",
+      "title": "OpenAI Releases GPT-5.5 Instant as Default for ChatGPT, Featuring Reduced Hallucinations",
+      "date": "2026-05-05",
+      "description": "OpenAI released GPT-5.5 Instant, making it the new default model for ChatGPT. The update focuses on speed, reliability, and a claimed 52% reduction in hallucinations for high-stakes topics like law and finance compared to previous versions. It also aims to improve STEM performance and memory-based personalization.",
+      "category": "Model Release",
+      "significance": "The continuous and significant improvement of core AI models, particularly in reliability and hallucination reduction, is crucial for fostering enterprise adoption and expanding AI's impact across critical sectors, accelerating the integration of AI into daily workflows.",
       "confidence": "high",
-      "sources": [],
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFWBJhUGHMYuO6e0U3Uaw-w9tDBlAJafEPtIz9cDY08Wmb3NxoxhBnj1IdALcSFGER09i73jleeKQ_cD6QCHkF56Ggs2qUcp9HqpFnfSnMGxgjFrth0ytxnmROcLY-JHMtWps_kmSwbgYQO5yeXIbr1Zd11HQp8J3wArTToZCuae9Cz0pYCwgU=",
+          "label": "eweek.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "2026 Declared 'Year of AI-Assisted Attacks' as Cyber Vulnerabilities Exploited Within 24 Hours",
+      "date": "2026-05-04",
+      "description": "Reports from cybersecurity experts, including The Hacker News and Mandiant, declared 2026 the 'Year of AI-Assisted Attacks.' Data revealed that the time-to-exploit for vulnerabilities has effectively gone negative, with 28.3% of exploits occurring within 24 hours of disclosure, often before patches are available. This highlights the sophisticated use of AI in cyber warfare.",
+      "category": "Military & Security",
+      "significance": "This rapid acceleration of cyberattack capabilities, driven by AI, poses an existential threat to digital infrastructure and national security. It necessitates a paradigm shift in cybersecurity defense strategies and incident response, impacting governments and corporations globally for years to come.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHh58M4tPKP6oyy-54z-eApxKXnwHCrp6u-oO8TOYOfFEnXZ_08Tp3kPo8EsziNGqDutpvywiSB-zfaXCr4kRGQKP5suaHFF118-mywmq5R9s3soJK-qzvlqDFNjfIF23aBcOabGpPYwP22rC8lgbi3lV7W8ThPKKS-vPxXgttZd6AZ",
+          "label": "thehackernews.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "SoftBank Announces $100 Billion IPO for 'Roze' Robotics to Automate AI Data Center Construction",
+      "date": "2026-05-04",
+      "description": "SoftBank unveiled plans for a massive $100 billion Initial Public Offering (IPO) for its new robotics company, Roze. Roze is specifically designed to automate the construction of AI data centers, addressing the critical infrastructure needs for the burgeoning artificial intelligence industry.",
+      "category": "Infrastructure",
+      "significance": "This monumental investment signals a significant commitment to scaling the physical infrastructure necessary to support future AI growth. Automating data center construction will dramatically impact the speed and cost of AI development, solidifying its place as a cornerstone of the global AI ecosystem.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHdgP18yA3BKLxaI_xdxobXPW20W6d7siF8sdcKFqN6wD-Rbh5EgUzTLFvBCqJfcu1jtnmJrrYkDsA33RmurirXL7BXDnsU9X7r7JX3jWjor1wnnevBPdDzOguxn-6J7APzFy_X",
+          "label": "aibusinessweekly.net"
+        }
+      ],
       "type": "timeline_event"
     }
   ],
