@@ -5651,5 +5651,47 @@
       }
     ],
     "issueNumber": 516
+  },
+  {
+    "title": "Researchers Unveil AI \"Mollifier Layers\" for Solving Inverse PDEs",
+    "date": "2026-05-06",
+    "description": "Researchers at the University of Pennsylvania introduced a new AI method utilizing \"mollifier layers\" to smooth noisy data, enabling AI to infer hidden causes from observable effects with significantly reduced computing power.",
+    "category": "Research",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFTukA_rv9sDEu5tKr4Lgg6X8ZBlX3dB8tUMQBodqnNGFN6hOOKXT7_Pm_S2V5lEbIci3rbmV_bbIPNsh0b17N6qIsYilp0FvHvsE7nmI_7EXNRpK7kIhfCo1Fxc8und1wn4FBpwkqtzItgynOCgrGQP1VNU9wjMM=",
+        "label": "sciencedaily.com"
+      }
+    ],
+    "issueNumber": 517
+  },
+  {
+    "title": "Academy Awards Ban AI-Generated Actors and Scripts",
+    "date": "2026-05-04",
+    "description": "The Academy of Motion Picture Arts and Sciences ruled that AI-generated actors and scripts are ineligible for Oscars to preserve human artistry as AI tools become more sophisticated.",
+    "category": "Policy",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBgvhDB1X5GPH0Wi81xH0C_HHAjKaEsaH0r1Iz-eA6JVFdAMoKiL1TKPrzFYMttLgeM8QN4DlIu79b7tg__QXMDgJvPohYKUhFl1I0EVqgWPcAgZokdt10CsaK8jBi1bOCLwMV_1L0P_Duuv3dAXBXckXxXBFj75DkETu2V4vNCV4v1M6xloeUZSRDFGnaQTQZlOqLtXsb1k-kcdFy1AIh",
+        "label": "coaio.com"
+      }
+    ],
+    "issueNumber": 518
+  },
+  {
+    "title": "Tether's Breakthrough in Local AI and Samsung's AI Chip Surge Indicate Shift to On-Device Processing",
+    "date": "2026-05-06",
+    "description": "Tether's AI research team announced a breakthrough in Local AI, coinciding with a record high in South Korea’s Kospi index driven by Samsung’s AI chip stock, signaling a move from centralized cloud models to high-performance, on-device AI.",
+    "category": "Infrastructure",
+    "sources": [],
+    "issueNumber": 519
+  },
+  {
+    "title": "\"Agentic Enterprise\" Emerges as AI Agents Take Over Workflows, Prompting New Governance Challenges",
+    "date": "2026-05-06",
+    "description": "New reports and conferences highlight the shift from chatbots to autonomous AI agents managing entire workflows, with 78% of AI projects delivering business value but facing \"Agent Sprawl\" risks.",
+    "category": "Industry Structure",
+    "sources": [],
+    "issueNumber": 520
   }
 ]
