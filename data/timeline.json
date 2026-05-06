@@ -5599,5 +5599,57 @@
       }
     ],
     "issueNumber": 512
+  },
+  {
+    "title": "Uber Launches \"Living Sensor Grid\" to Enhance Autonomous Vehicle Data Collection",
+    "date": "2026-05-03",
+    "description": "Uber announced plans to transform its global fleet of drivers into a vast sensor network, collaborating with AV Labs, Lucid, and Nuro. This initiative aims to collect extensive real-world data to refine autonomous vehicle safety and navigation systems.",
+    "category": "Infrastructure",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgxnUOT4wFV2Kkc0ik38tKGbLhKHP6yW7x4tiiuFAnJ2SOx9gMKRSaDsOD7r7wKHiRB9KXJGQw-krAO2gwUCYmr-lt-wGIL_WxWabNuU_dModJgC3ULc9uwatOyA8LO4HFWF8DLk-SNg8Wsmru5sUGdGgKWXRbSC0SPXW4e-ZfOaWxWUbwd-gRYTJFVZjlkNTKax5g7qlpojOhNynolNWbRSaTZQ==",
+        "label": "coaio.com"
+      }
+    ],
+    "issueNumber": 513
+  },
+  {
+    "title": "US Pentagon Secures Major Deals with Nvidia, Microsoft, AWS for AI Integration",
+    "date": "2026-05-04",
+    "description": "The U.S. Pentagon finalized significant agreements with technology giants Nvidia, Microsoft, and AWS to integrate advanced AI capabilities into its classified defense networks, aiming to modernize national security infrastructure.",
+    "category": "Military & Security",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFgxnUOT4wFV2Kkc0ik38tKGbLhKHP6yW7x4tiiuFAnJ2SOx9gMKRSaDsOD7r7wKHiRB9KXJGQw-krAO2gwUCYmr-lt-wGIL_WxWabNuU_dModJgC3ULc9uwatOyA8LO4HFWF8DLk-SNg8Wsmru5sUGdGgKWXRbSC0SPXW4e-ZfOaWxWUbwd-gRYTJFVZjlkNTKax5g7qlpojOhNynolNWbRSaTZQ==",
+        "label": "coaio.com"
+      }
+    ],
+    "issueNumber": 514
+  },
+  {
+    "title": "Caris Life Sciences Launches AI-Driven Prognostic Test for Breast Cancer",
+    "date": "2026-05-05",
+    "description": "Caris Life Sciences introduced Caris MI Clarity™, an AI-powered prognostic test designed to predict early and late distant recurrence risk for breast cancer by analyzing digitized pathology images.",
+    "category": "Research",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHP0Q0VNF59K45rU_hBoKFX9WymjDCWhVBFdqSJZaCr9BlFgGiu2NBRBVSQmKlVJMRWnLGAhbFXDUXJOqWRtRXRsndiE_oAK-9sY-i8BikWo4v5uskqIIVRsDsCV8pWRmfMac2FE5zwCyD4DyvX_epvPiklhUApl6SmDDCbZFsV0OdeLsVDTcmMnk1reJvNIWKYu6JSv4LHJfST8_HJ0nwK1g4RmNJAV71MLx5DvothYXWWxCliXhgH0nJj-XOyTjSqDcYfnYcvXzESQVWoF_q2VzpfE7QcQQINxEn56cxWL2yb43HWC2SjTbpK_fkp79ghVTZxhdzbzvxcBqZXQkv8pkHAcc1grWZs3w0hjC-Ubv7OAO8=",
+        "label": "biospace.com"
+      }
+    ],
+    "issueNumber": 515
+  },
+  {
+    "title": "AWS Reports Over $15 Billion AI Revenue Run Rate, Driving Cloud Growth",
+    "date": "2026-05-04",
+    "description": "Amazon announced that its AWS division has achieved an AI revenue run rate exceeding $15 billion, indicating a massive surge in demand for AI-related cloud services and significant capital expenditure in the sector.",
+    "category": "Industry Structure",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEiV6CeXLR8pTCo2gCOVxArLDYgpDNDskqMwJm_k7uFMsJWe9hY_dvaBe01xDB_V3AXMTaZ6peerFXdLwWrw3cCPRjBrt3KXb_CRj_-WV3eAAYo1Tk3GrFO4BAZIuWQv8s-eDGc8A==",
+        "label": "youtube.com"
+      }
+    ],
+    "issueNumber": 516
   }
 ]
