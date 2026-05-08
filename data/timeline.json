@@ -5809,5 +5809,70 @@
       }
     ],
     "issueNumber": 529
+  },
+  {
+    "title": "Cerebras Systems Files for $3.5 Billion IPO, Valuing Company at $26.6 Billion",
+    "date": "2026-05-07",
+    "description": "AI chipmaker Cerebras Systems filed for a $3.5 billion IPO on Nasdaq, reportedly oversubscribed. This signals intense investor demand for specialized AI hardware alternatives to Nvidia, reflecting a maturing and diversifying AI industry structure.",
+    "category": "Industry Structure",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG4ZB58UjWiADg6lzSqyxdnG3QCiVD_JHyIO--WEJHoH-x7ceUb3V1EH6xZngmwZOEATfDM7hUq6UDcMHT1rEuZEageGYHt2UF-681I8YSPMgoxFsMtTx964zcl2r6rxuQID-Y1jynlWLn5ZUBQu91J",
+        "label": "asanify.com"
+      }
+    ],
+    "issueNumber": 530
+  },
+  {
+    "title": "Greece Proposes Constitutional Amendment for AI Ethics",
+    "date": "2026-05-07",
+    "description": "Greece announced a proposed constitutional amendment requiring AI to serve human society and individual freedom. This move marks one of the first nations to elevate AI ethics to a constitutional level, potentially setting a global precedent for AI governance.",
+    "category": "Policy",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGXOB29Ey7Q7b4XQxDAIxQnOGzaTizqCxmtb4Sb-kWBaZoLmFT6En1A3rejoQEdpOL8prZhiYCs61XUv8oUsxSRy4Y3KyKEvQSdyFMUhJF7PiH5e4q4Yg5xgejygtmj0AQxEroUTgrNOK3opTLXe5pJjXFl8oEcmHO9LChhW2uZvVARVATnEHRKlUXZQI-StJT6OZiN5gzGdbvTq6rgjGCtmvjSDpQg9Gb-ChA3oYFM4dLsgg==",
+        "label": "broadbandbreakfast.com"
+      }
+    ],
+    "issueNumber": 531
+  },
+  {
+    "title": "FDA Deploys Elsa 4.0 and HALO, Integrating Agentic AI for Regulatory Data",
+    "date": "2026-05-06",
+    "description": "The U.S. Food and Drug Administration (FDA) launched Elsa 4.0, a major AI upgrade, and HALO, a platform consolidating over 40 data sources. This allows FDA staff to query regulatory data and build workflows using agentic AI, signifying a major step in AI adoption within critical government functions.",
+    "category": "Infrastructure",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvVRrB6z1vm1EXfpzCoIEowe44hrJyqJl7_HTg8g0aUHiE0nmqEl1noyhRbJzoB6_HdzcLds07Eu7XUaB3eJTCo_Y0IzPACIPSieqT9ru8Q8vuL7AegNNbdIVE1RkIgdCxdPfN5HExJpw2e5Y5gHtDDht85_1R6J1rxhvzraP8_KYDkBRvD7wrv4RuK3JRSzxj0DJ95QkBR3bZ9ckqdm-61wv46O0_v63rap9LzBTaPP7dKxU=",
+        "label": "fda.gov"
+      }
+    ],
+    "issueNumber": 532
+  },
+  {
+    "title": "OpenAI and Anthropic Expand into AI Consulting and Professional Services",
+    "date": "2026-05-06",
+    "description": "Leading AI companies OpenAI and Anthropic announced significant expansions into professional services. Anthropic launched a new enterprise services firm, while OpenAI is reportedly pursuing acquisitions of systems integration firms to assist clients in operationalizing AI from pilot projects to production.",
+    "category": "Industry Structure",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFOMIPMDRyifSsJrajvViLdn42wrUdQERzcgcnpOjwZnWrawVehuXlf8iatz-tkmPEVWdJry6F3t-FHDwUQvOZNCO3Kd5Z8em2KFAIsVLeEgb5L5BEV7yscWfXHVuDdYvvUQiRPZAnoADXsssNv3E6DWbHmhTc8amUpF3dyjMugHC9Uqz9kOh0sUgGn_wIZmd-zzpATrHRi5l8_TR3hLWP0_77pl0RGdVRjD4OdbCE3GNtQ==",
+        "label": "cio.com"
+      }
+    ],
+    "issueNumber": 533
+  },
+  {
+    "title": "IBM Unveils Enterprise Advantage and Agent2Agent Standard at Think 2026",
+    "date": "2026-05-06",
+    "description": "At Think 2026, IBM launched 'IBM Enterprise Advantage,' a consulting service for building hybrid-AI platforms, and announced a partnership with SAP to enable interoperability via the 'Agent2Agent' standard. This aims to standardize communication between diverse AI agents.",
+    "category": "Industry Structure",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1hIZjsjlQQcJEDaFy1DGdsoINBirSwBStg3RIOy4lmjkm601an0h7MgxTgaNveWnjbhSrcnDSaxwE6Sb14j11JQgCgb0ZIzmWKtRubCpDzSm9rCek2kb55z0Bymxz3cSDwOCOPkoonRmhZT574JgpQq4mCGmv-DeS6wGcA3Z7c4K-8XlLl6pU3M6SoTezlWJY2t0A9RZiQDFj-dPZGzqsDZ00n3w-6jm42ufWVQ==",
+        "label": "ibm.com"
+      }
+    ],
+    "issueNumber": 534
   }
 ]
