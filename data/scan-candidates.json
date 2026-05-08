@@ -1,1 +1,89 @@
-{"scanDate":"2026-05-08","candidates":[],"questionUpdates":[]}
+{
+  "scanDate": "2026-05-08",
+  "candidates": [
+    {
+      "title": "Microsoft and OpenAI End Exclusivity in Landmark Partnership Shift",
+      "date": "2026-05-08",
+      "description": "Microsoft and OpenAI amended their partnership, making OpenAI’s IP license non-exclusive. This allows OpenAI to serve products across any cloud provider (Amazon, Google) while Azure remains its primary partner, fundamentally reshaping the AI cloud market.",
+      "category": "Industry Structure",
+      "significance": "High, this is a monumental shift that will dramatically alter the competitive landscape for AI cloud services and deployment, impacting hyperscalers and AI developers for years to come.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHsPeJo-PX3UccoNDcsdzhak-QGDPoCbT2Y5bd0idG8XZu0CVQXJLut9bT7JenzHtQ9o5W4qw7JVKwP6OYiaZTm2vL8rw24GSI8OWQwBeqxZSBlbZwZhBK2TAO0NLqxMJiIM186dIQB8rEwS1r0sMlW-hpc2QjEsy8FzgQR7vQmvt3h1aOUT63JUiFG81PSkAzOIyOK2qG4z25HjqrkGShERFFZ4-dHPA==",
+          "label": "marketingprofs.com"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXnzHpxpCYfzl1jTx__5iQYc18s0rsRfGbO5wiFBa_gm38ygQPH6iwfq6ttf_z0wxw1b-bhxpnw3sG9TFNVQd28Wl-tBCf_HHx8IFia10F5xCWtT0nuffR7SydiL5hJXzu8n41uRirj1rxD1Z3kceI4SuSsZkqtemTXm2Z",
+          "label": "tlt.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "OpenAI-led Consortium Unveils 'MRC' Networking Protocol for Massive AI Model Training",
+      "date": "2026-05-08",
+      "description": "An OpenAI-led consortium (NVIDIA, AMD, Intel, Microsoft) introduced the Multipath Reliable Connection (MRC) protocol. This new standard enables training models on 100,000+ GPUs by distributing traffic across hundreds of network paths, significantly reducing failure amplification.",
+      "category": "Infrastructure",
+      "significance": "High, this is a critical infrastructure breakthrough that directly addresses a major bottleneck in scaling AI model training, paving the way for even larger and more complex frontier models.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9VqqntnK3-j1qfGlCsa88P41FIMNlWq27zigYP1bdkXlqcjJGX-tr2v5AjYH33GXWFKNDQkSXGjkdZkJMJehwC_aXso4mM_NB8rio0TU7457qx4HnxNkYI5uyyl1pkCnfc-f3HEPFRp0F02S73PjLKiHdPn5mZm7APYCbqiQ3pqEVyqISOZBGwQh7Bahng==",
+          "label": "networkworld.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "US Government Initiates Pre-Release Oversight for Powerful AI Models",
+      "date": "2026-05-08",
+      "description": "The US government has begun testing earlier oversight controls, moving towards a 'pre-release review' phase for AI systems that meet certain capability thresholds, indicating a significant step towards proactive AI regulation.",
+      "category": "Policy",
+      "significance": "High, this represents a crucial development in AI governance, shifting towards proactive rather than reactive regulation, with profound implications for AI development and deployment in the US.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE95XEWq2L6rmjKlzrriQJ2kUxZyZ_kEFt-J7xR1QcRMCFrS6AMjH2n9BX_XMp3kQjHyCsb8gZx5EDH6BxytYBKu6CjRtQCHzpHEvMe2EOQ-k5pym0JtAJ8QNbAVXd3IA9W6MVok-EM_C1opVSy",
+          "label": "mean.ceo"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "US and China Prepare for Official Dialogues on AI Safety, Focusing on Autonomous Military Systems",
+      "date": "2026-05-07",
+      "description": "Reports indicate the US and China are preparing for official dialogues on AI safety, specifically concerning autonomous military systems and potential erratic behavior in large models. This signals a critical step in international AI governance.",
+      "category": "Policy",
+      "significance": "High, as it addresses global geopolitical stability and the responsible development of military AI, with long-term implications for international relations and AI regulation.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHQVRvihIwcWXrt4JbMpN0YbAjFBFCqf3nV0w89X3X3xzC4GARPhq6VBJ366AzF_FUdX9278b73Jjs3FXtCnHbEP6tdIaPEqDpnMZAgJFQMzzqmnxKRpJegyFBcxv-J6a28XQ-BmGQ==",
+          "label": "youtube.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Microsoft Global AI Diffusion Report Shows 17.8% Global Adoption and 78% Rise in Coding Activity",
+      "date": "2026-05-07",
+      "description": "Microsoft's report for Q1 2026 indicates 17.8% generative AI usage among the global working-age population and a 78% year-over-year increase in global git pushes, driven by AI coding tools. This points to widespread adoption and impact on software development.",
+      "category": "Industry Structure",
+      "significance": "High, indicates significant global AI adoption and impact on developer productivity, which will have long-term effects on the global economy and workforce.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFEki2ftWL27jAmdFUIviT-hS8oxI1_Sy_SAHzVLEry61COCOiYDU3kc_w1LsYrMZ_PyyXx5RcPMJG6TFsXpFzxJES7VhZy36xUvKxJQP2Lzmg1cMk1N5UAVfMPpFa4msLx3Mgi7wNU_3kiYP8UQlrkMo-I26l5w0_lFQ3cRm-0lsuIvzrWbCghN3JF7Ke4xHE4AAPy6_ioSg==",
+          "label": "microsoft.com"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGTanlsMlkOiShroUCC6ZpPRp7uD-qjeRetz_tmnondj7T5-P6Rnom6vyJkTa1kQtMdva06sd1QrrhgvDbBcKAWBxXo7bf5HsuR1DIkBbQAPvX1pcIpuAkRQBefyKmgKo6ASdAhvckU0Tm1rezA1jxbl9RdCxDncNdSlVnUGM7cz2kXJCINN_UasRTdNaJws13Hzxf2PAV7bJhUNBQhhVFKcvgjfQs08K5N5p5h",
+          "label": "straitstimes.com"
+        }
+      ],
+      "type": "timeline_event"
+    }
+  ],
+  "questionUpdates": []
+}
