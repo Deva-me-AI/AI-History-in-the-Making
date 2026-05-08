@@ -5874,5 +5874,86 @@
       }
     ],
     "issueNumber": 534
+  },
+  {
+    "title": "Frontier AI Vetting Agreements Signed by CAISI",
+    "date": "2026-05-06",
+    "description": "The Center for AI Standards and Innovation (CAISI) signed agreements with Google DeepMind, Microsoft, and xAI to conduct pre-deployment safety evaluations of their frontier AI models.",
+    "category": "Policy",
+    "sources": [
+      {
+        "url": "https://www.cio.com",
+        "label": "CIO.com"
+      },
+      {
+        "url": "https://www.coaio.com",
+        "label": "CAISI.com"
+      }
+    ],
+    "issueNumber": 535
+  },
+  {
+    "title": "Anthropic and SpaceX Partner on Massive AI Compute Deal",
+    "date": "2026-05-07",
+    "description": "Anthropic announced a significant partnership with SpaceX to utilize the 'Colossus 1' data center, housing 220,000 NVIDIA GPUs, to power its next-generation AI models.",
+    "category": "Infrastructure",
+    "sources": [
+      {
+        "url": "https://www.youtube.com",
+        "label": "YouTube (News Summary)"
+      },
+      {
+        "url": "https://www.cognizant.com",
+        "label": "Cognizant.com"
+      }
+    ],
+    "issueNumber": 536
+  },
+  {
+    "title": "OpenAI and Anthropic Secure Billions in Private Equity Funding",
+    "date": "2026-05-07",
+    "description": "OpenAI launched a $10 billion deployment vehicle with TPG and Brookfield, while Anthropic formed a $1.5 billion joint venture with Blackstone and Goldman Sachs.",
+    "category": "Funding",
+    "sources": [
+      {
+        "url": "https://www.youtube.com",
+        "label": "YouTube (News Summary)"
+      },
+      {
+        "url": "https://www.cognizant.com",
+        "label": "Cognizant.com"
+      }
+    ],
+    "issueNumber": 537
+  },
+  {
+    "title": "Reports Indicate AI Labs Nearing Recursive Self-Improvement",
+    "date": "2026-05-08",
+    "description": "Reports from Semafor and IEEE Spectrum highlight that AI labs are close to automating their own research and development cycles, with experts warning of a potential 'intelligence explosion' due to autonomous model improvements.",
+    "category": "Research",
+    "sources": [
+      {
+        "url": "https://www.semafor.com",
+        "label": "Semafor.com"
+      },
+      {
+        "url": "https://www.aitoolsrecap.com",
+        "label": "AIToolsRecap.com"
+      }
+    ],
+    "issueNumber": 538
+  },
+  {
+    "title": "Tesla Tapes Out Next-Generation AI5 Chip for Robotics and Dojo",
+    "date": "2026-05-08",
+    "description": "Tesla has reportedly taped out its next-generation AI5 chip, designed to power its Optimus robots and the Dojo supercomputer, with manufacturing partners TSMC and Samsung in the U.S.",
+    "category": "Infrastructure",
+    "sources": [
+      {
+        "url": "https://www.aitoolsrecap.com",
+        "label": "AIToolsRecap.com"
+      }
+    ],
+    "issueNumber": 539
   }
 ]
