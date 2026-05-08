@@ -2,92 +2,80 @@
   "scanDate": "2026-05-08",
   "candidates": [
     {
-      "title": "Frontier AI Vetting Agreements Signed by CAISI",
+      "title": "Amazon Bedrock Introduces Governed Micropayments for AI Agents",
+      "date": "2026-05-08",
+      "description": "Amazon launched a governed framework enabling AI agents to access digital wallets and execute micropayments, integrating with Coinbase and Stripe to allow autonomous agents to transact through established payment infrastructures.",
+      "category": "Infrastructure",
+      "significance": "High. This development provides fundamental infrastructure for agentic AI to participate directly in the economy, paving the way for new business models and services driven by autonomous agents.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECG6AiTfpt7OpLI5CQV_9Zfsoz26a-DGzN764hMjw2pWkZXAqvQ0CbaoHjqQicMD_1ucMEbqWeqmNivjR_qYO8-fvNV-ZnIhHELhiXQK-rU8=",
+          "label": "substack.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Collibra Launches AI Command Center for Agent Governance",
+      "date": "2026-05-07",
+      "description": "Collibra introduced a new 'AI Command Center' designed to monitor and govern AI agents throughout their lifecycle. The platform includes a partnership with Giskard for automated testing and validation of AI risk signals, addressing crucial ethical and operational challenges.",
+      "category": "Infrastructure",
+      "significance": "High. As AI agents proliferate, robust governance and monitoring tools are essential for ensuring safe, ethical, and compliant deployment. This platform establishes a critical component for managing agentic systems in the long term.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEz66kjVYq-b_alaQp3fAQB1sNQ0-AeEZx9mXf3uq3TLPjg2zuT4BYBVngjW14I9iZL_McUyLdlgKBeW1Cxpwy2M-VFrXW1qQOC_JT4S6rAUe4mNAQQvGXmM10AC1F1ET3SdWVFMups_vztrGFgYk7i1A==",
+          "label": "aiagentstore.ai"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Generative AI Film Selected for Cannes Film Festival",
+      "date": "2026-05-07",
+      "description": "A short film produced using generative AI tools by a filmmaker from Kerala, India, was officially selected for a showcase at the Cannes Film Festival. This marks a significant moment for the acceptance and integration of AI in mainstream creative industries.",
+      "category": "Industry Structure",
+      "significance": "High. The inclusion of an AI-generated film in a prestigious festival like Cannes signifies a major cultural shift and growing acceptance of generative AI in artistic creation. This event will likely influence future adoption and perception of AI in media and arts for years to come.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHixZiHI_xED0rBbk2coRNM3evlDGhnx7HxgnsXtMB821yppFQiUyGYt_MW8PCwLAoRkC2Tqbrm85C0s0pMO4MorIdW3rC4IcVJEfxbu05ZSRSLOBCh94hY6VL5CVgS8KCPJ3-Lit_GWYrpOSPL3ZNGBX9IFJ-GBdNIJ0braCq-gfIwrCabyXOImcehp0I65fbapuQe5PQ=",
+          "label": "letsdatascience.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Martech Report Highlights Shift to 'AI Operationalization'",
       "date": "2026-05-06",
-      "description": "The Center for AI Standards and Innovation (CAISI) signed agreements with Google DeepMind, Microsoft, and xAI to conduct pre-deployment safety evaluations of their frontier AI models.",
-      "category": "Policy",
-      "significance": "Establishes a critical framework for AI safety and regulatory oversight, influencing the future development and responsible deployment of advanced AI systems.",
+      "description": "The 2026 Marketing Technology Landscape report by Scott Brinker (Chief Martec) revealed a stabilization in the number of martech products (15,505) and a critical shift from 'AI experimentation' to 'AI operationalization' across the industry. This indicates AI is moving from novelty to core business function.",
+      "category": "Industry Structure",
+      "significance": "High. This report identifies a significant trend in the AI industry: the maturation of AI from experimental projects to integrated, operationalized business processes. This shift will fundamentally reshape how businesses leverage AI and drive innovation in the coming years.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://www.cio.com",
-          "label": "CIO.com"
-        },
-        {
-          "url": "https://www.coaio.com",
-          "label": "CAISI.com"
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJaTqAGOvvaN6Nen2H7fQX9gO6Hbw_At0-U1PMGhXrmkfgbMLXZUWiongMKL6fZ9yBFGV2akuLHnLZyPdFWH4uisEYrLNptND-r-bNcMnvusJQGc_rBaik32nt3EKgsL5e02d1BO9mJ-92C2U_Metss0Xqw4RxwbkUnM_xlePS8egeG6QrOFEdPqA=",
+          "label": "agilebrandguide.com"
         }
       ],
       "type": "timeline_event"
     },
     {
-      "title": "Anthropic and SpaceX Partner on Massive AI Compute Deal",
-      "date": "2026-05-07",
-      "description": "Anthropic announced a significant partnership with SpaceX to utilize the 'Colossus 1' data center, housing 220,000 NVIDIA GPUs, to power its next-generation AI models.",
-      "category": "Infrastructure",
-      "significance": "This collaboration marks a substantial expansion of computational resources for frontier AI research, accelerating the development of more powerful and complex AI systems.",
+      "title": "Agentic Commerce Tools See Significant Surge",
+      "date": "2026-05-06",
+      "description": "Several companies introduced new agent-driven commerce tools, including 'one-toggle' catalog layers for AI agents (Build My Online Store), an AI risk analyst for real-time fraud management (Riskified's ARIA), and conversational Q&A agents for e-commerce product discovery (Lucidworks).",
+      "category": "Industry Structure",
+      "significance": "High. This surge in agentic commerce tools signifies a major evolution in how e-commerce will function, with autonomous AI agents taking on more roles in store management, customer service, and risk assessment. This trend will have lasting impact on the digital economy.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://www.youtube.com",
-          "label": "YouTube (News Summary)"
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFJaTqAGOvvaN6Nen2H7fQX9gO6Hbw_At0-U1PMGhXrmkfgbMLXZUWiongMKL6fZ9yBFGV2akuLHnLZyPdFWH4uisEYrLNptND-r-bNcMnvusJQGc_rBaik32nt3EKgsL5e02d1BO9mJ-92C2U_Metss0Xqw4RxwbkUnM_xlePS8egeG6QrOFEdPqA=",
+          "label": "agilebrandguide.com"
         },
         {
-          "url": "https://www.cognizant.com",
-          "label": "Cognizant.com"
-        }
-      ],
-      "type": "timeline_event"
-    },
-    {
-      "title": "OpenAI and Anthropic Secure Billions in Private Equity Funding",
-      "date": "2026-05-07",
-      "description": "OpenAI launched a $10 billion deployment vehicle with TPG and Brookfield, while Anthropic formed a $1.5 billion joint venture with Blackstone and Goldman Sachs.",
-      "category": "Funding",
-      "significance": "These massive investments underscore the immense financial interest and belief in the future growth and profitability of leading AI labs, fueling accelerated innovation and shaping the industry's landscape.",
-      "confidence": "high",
-      "sources": [
-        {
-          "url": "https://www.youtube.com",
-          "label": "YouTube (News Summary)"
-        },
-        {
-          "url": "https://www.cognizant.com",
-          "label": "Cognizant.com"
-        }
-      ],
-      "type": "timeline_event"
-    },
-    {
-      "title": "Reports Indicate AI Labs Nearing Recursive Self-Improvement",
-      "date": "2026-05-08",
-      "description": "Reports from Semafor and IEEE Spectrum highlight that AI labs are close to automating their own research and development cycles, with experts warning of a potential 'intelligence explosion' due to autonomous model improvements.",
-      "category": "Research",
-      "significance": "This development could fundamentally alter the pace and nature of AI advancement, leading to rapid and potentially unpredictable capabilities growth through AI-driven self-optimization.",
-      "confidence": "high",
-      "sources": [
-        {
-          "url": "https://www.semafor.com",
-          "label": "Semafor.com"
-        },
-        {
-          "url": "https://www.aitoolsrecap.com",
-          "label": "AIToolsRecap.com"
-        }
-      ],
-      "type": "timeline_event"
-    },
-    {
-      "title": "Tesla Tapes Out Next-Generation AI5 Chip for Robotics and Dojo",
-      "date": "2026-05-08",
-      "description": "Tesla has reportedly taped out its next-generation AI5 chip, designed to power its Optimus robots and the Dojo supercomputer, with manufacturing partners TSMC and Samsung in the U.S.",
-      "category": "Infrastructure",
-      "significance": "This represents a significant advancement in specialized AI hardware, crucial for scaling real-world AI applications like advanced robotics and large-scale AI training, deepening the integration of AI into physical systems.",
-      "confidence": "high",
-      "sources": [
-        {
-          "url": "https://www.aitoolsrecap.com",
-          "label": "AIToolsRecap.com"
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEz66kjVYq-b_alaQp3fAQB1sNQ0-AeEZx9mXf3uq3TLPjg2zuT4BYBVngjW14I9iZL_McUyLdlgKBeW1Cxpwy2M-VFrXW1qQOC_JT4S6rAUe4mNAQQvGXmM10AC1F1ET3SdWVFMups_vztrGFgYk7i1A==",
+          "label": "aiagentstore.ai"
         }
       ],
       "type": "timeline_event"
