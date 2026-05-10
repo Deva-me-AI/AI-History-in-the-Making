@@ -1,1 +1,89 @@
-{"scanDate":"2026-05-10","candidates":[],"questionUpdates":[]}
+{
+  "scanDate": "2026-05-10",
+  "candidates": [
+    {
+      "title": "China Releases First National AI Standards for Smart Vehicle Cockpits",
+      "date": "2026-05-10",
+      "description": "China’s Ministry of Industry and Information Technology (MIIT) released the \"Artificial Intelligence Terminal Intelligence Grading\" (GB/Z 177—2026), which includes the first national standards for Level 3 smart vehicle cockpits, requiring capabilities like chain-of-thought reasoning and adaptive contextual learning.",
+      "category": "Policy",
+      "significance": "This landmark regulation sets a critical precedent for AI governance and development in one of the world's largest automotive and technology markets, influencing future global standards and technological trajectories for AI in autonomous systems for decades to come.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://www.gasgoo.com/news/1077531998906.html",
+          "label": "Gasgoo"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Moonshot AI Secures $2 Billion in Mega-Funding Round, Valued at $20 Billion",
+      "date": "2026-05-09",
+      "description": "Chinese AI startup Moonshot AI closed a $2 billion funding round led by Meituan, with participation from Alibaba and Tencent, elevating its valuation to an estimated $20 billion.",
+      "category": "Funding, Industry Structure",
+      "significance": "This substantial investment underscores the escalating global competition and investor confidence in cutting-edge AI startups, potentially accelerating breakthroughs and shifting the landscape of AI industry leadership in the coming years, particularly in Asia.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://www.asanify.com/ai-daily-news-may-9-2026/",
+          "label": "Asanify AI Daily News"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "OpenAI Launches GPT-5.5 Model Series and ChatGPT Ads Manager",
+      "date": "2026-05-08",
+      "description": "OpenAI officially launched its GPT-5.5 model series, including GPT-5.5-Cyber tailored for security professionals, and simultaneously debuted a self-serve Ads Manager for ChatGPT, targeting $2.5 billion in ad revenue this year.",
+      "category": "Model Release, Industry Structure",
+      "significance": "The release of a new generation model like GPT-5.5 marks continued advancements in AI capabilities, while the introduction of an advertising platform for ChatGPT signifies a pivotal shift in business models for conversational AI, potentially redefining user experience and economic structures within the AI ecosystem.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://www.distillintelligence.com/news/openai-launches-gpt-5.5-and-chatgpt-ads-manager-may-8-2026/",
+          "label": "Distill Intelligence"
+        },
+        {
+          "url": "https://www.marketingprofs.com/articles/2026/openai-unveils-gpt-5.5-and-ad-platform",
+          "label": "MarketingProfs"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Ukraine Deploys AI-Powered Turrets for Autonomous UAV Defense",
+      "date": "2026-05-09",
+      "description": "Ukraine’s Ministry of Defence announced that over 10 military units are now equipped with AI-powered turrets capable of autonomously detecting and destroying UAVs, including those immune to electronic warfare.",
+      "category": "Military & Security",
+      "significance": "This deployment marks a significant real-world application of autonomous lethal AI in active conflict, raising profound ethical, strategic, and policy questions globally regarding the future of warfare and the regulation of AI in military contexts.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://www.mod.gov.ua/news/ukraine-ai-turrets-uav-defense-may-9-2026/",
+          "label": "Ministry of Defence of Ukraine"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Google and Anthropic Advance Autonomous AI Agent Research",
+      "date": "2026-05-08",
+      "description": "Google began testing \"Remy,\" an autonomous personal agent inside Gemini, while Anthropic unveiled a \"dreaming\" system that allows AI agents to review and improve their own behavior between sessions.",
+      "category": "Research",
+      "significance": "These advancements by leading AI labs represent a critical leap in the development of autonomous AI agents and self-improvement mechanisms. Such progress is foundational for creating more capable and independent AI systems, profoundly impacting future applications and the trajectory of artificial general intelligence.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://www.neuralbuddies.com/news/google-anthropic-ai-agent-innovation-may-8-2026",
+          "label": "NeuralBuddies"
+        },
+        {
+          "url": "https://www.marketingprofs.com/articles/2026/google-remy-anthropic-dreaming-ai",
+          "label": "MarketingProfs"
+        }
+      ],
+      "type": "timeline_event"
+    }
+  ],
+  "questionUpdates": []
+}
