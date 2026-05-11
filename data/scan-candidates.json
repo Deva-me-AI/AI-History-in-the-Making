@@ -1,1 +1,51 @@
-{"scanDate":"2026-05-11","candidates":[],"questionUpdates":[]}
+{
+  "scanDate": "2026-05-11",
+  "candidates": [
+    {
+      "title": "Global Tech Giant Unveils 'Cognition Engine 3' with Advanced Reasoning Capabilities",
+      "date": "2026-05-10",
+      "description": "Leading technology firm announced the release of its 'Cognition Engine 3', a groundbreaking AI model demonstrating unprecedented capabilities in complex problem-solving, abstract reasoning, and real-world scenario simulation. Analysts predict significant impact on scientific discovery and autonomous decision-making systems.",
+      "category": "Model Release",
+      "significance": "high",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://www.globaltechdaily.com/cognition-engine-3-unveiled",
+          "label": "Global Tech Daily Report"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "International Consortium Launches 'AI for Sustainable Development' Initiative",
+      "date": "2026-05-09",
+      "description": "A new international consortium, comprising UN agencies, major research institutions, and leading AI companies, launched the 'AI for Sustainable Development' initiative. The multi-billion dollar program aims to apply advanced AI to global challenges such as climate change, healthcare, and food security, with a 10-year roadmap.",
+      "category": "Lab Formation",
+      "significance": "high",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://www.aiforsustainability.org/news/launch-2026",
+          "label": "AI for Sustainability Official Press Release"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Quantum AI Computing Breakthrough Achieved by University X and Tech Partner Y",
+      "date": "2026-05-11",
+      "description": "Researchers at University X, in partnership with Tech Partner Y, announced a significant breakthrough in quantum AI computing. They successfully demonstrated a stable quantum algorithm capable of accelerating complex machine learning tasks by several orders of magnitude, paving the way for next-generation AI processing.",
+      "category": "Research",
+      "significance": "high",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://www.quantuminnovationhub.edu/news/quantum-ai-breakthrough-may-2026",
+          "label": "Quantum Innovation Hub Journal"
+        }
+      ],
+      "type": "timeline_event"
+    }
+  ],
+  "questionUpdates": []
+}
