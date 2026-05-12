@@ -1,1 +1,74 @@
-{"scanDate":"2026-05-12","candidates":[],"questionUpdates":[]}
+{
+  "scanDate": "2026-05-12",
+  "candidates": [
+    {
+      "title": "Kenya Launches \"AI for Disability\" Project to Bridge Digital Divide",
+      "date": "2026-05-12",
+      "description": "The Kenyan Ministry of Information, in collaboration with Huawei and local NGOs, initiated the Kenya AI for Disability Project. This ambitious program aims to develop and deploy AI-driven hardware and software solutions specifically designed to enhance accessibility and bridge the digital divide for citizens with disabilities across the nation.",
+      "category": "Policy",
+      "significance": "This initiative represents a significant government-led effort to leverage AI for social good and inclusion, potentially setting a precedent for other nations and fostering long-term technological and social impact for marginalized communities.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXQjNQl2MKDbONrFb2-e-HgXfHPJZL_etoaEpb9FKp11D8uyNobuR3CTEmC_XHLyZONde5xNoHjaEvgfAMP6mkO6mGnbMkX6V_OYAaL1x61_ssEVovYu2Z7BqWQJWvESJCVv88Hr-m0le-SSI5z_paELWr2cQ-8Zvy",
+          "label": "huawei.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Canada Unveils Major Sovereign AI Data Center Project",
+      "date": "2026-05-11",
+      "description": "The Canadian federal government, in partnership with Telus, announced a substantial AI data center project in British Columbia. This initiative involves the construction of three new facilities aimed at bolstering Canada's sovereign computing power and fostering domestic innovation in artificial intelligence, reducing reliance on foreign infrastructure.",
+      "category": "Infrastructure",
+      "significance": "This move signifies a strategic national investment in foundational AI infrastructure, crucial for long-term economic competitiveness, data sovereignty, and the development of a robust domestic AI ecosystem, with implications for national security and technological self-reliance.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFsKzPwn2hnX79pgB8fKs3flzbUXY2PNAVFkzaK9ZNvj2TDqOe-OFjGuPF3M8EaSbrWmO3_UxBMRaWpM5vLQGRuEVg0v7aBO0HN0edDIHVC24FOms5KZAQoILucMG6hoJc5F0PCLcwNKiXVALhBTco2bh2FKDhz7oxEuNyCPCl4M3BZIadlRBJfpS2vzGAupAdFLIcSPik_oS0JG2Mr-yAONP0KztrckHcn93oMKfrAvcu0MG7PQQrtTNNkUA==",
+          "label": "bnnbloomberg.ca"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "AI-Assisted Cyberattacks Become Mainstream Threat in 2026",
+      "date": "2026-05-10",
+      "description": "Reports from cybersecurity experts and The Hacker News declared 2026 as the year AI-assisted cyberattacks became a standard operational threat. Advanced frontier models are now capable of executing complex, end-to-end simulated cyberattacks, marking a significant escalation in the cyber warfare landscape and posing new challenges for defense mechanisms.",
+      "category": "Military & Security",
+      "significance": "This marks a pivotal shift in the global cybersecurity paradigm, elevating the stakes for both offensive and defensive cyber operations. The widespread deployment of AI in cyber warfare will have profound and lasting impacts on national security, critical infrastructure, and digital privacy for years to come.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQECrQRiSnJWbQLIuMBCTAyZOlRbTpniSjPZaJueUZSt3ug7hlFynGFcZPgjhFarIbPdJSp_wnaUOcsUCA_-O-1xI7PlG7dE7cgmB3CzsC9315lR68vdUT1kXYbOZI4_1vAnF66dB9umBJlz_SImM2yQVOhMh-VIIhLWqxIoK52ajReiYFwrkSQ=",
+          "label": "thehackernews.com"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFFlz5U0_myzBeUelmy_mi5M9pLABJ7lZsGGd6pDs6yEszIKa-sSewR2XRvAygxX6rzftGBZowFPfE68-7fNhigjRFSYBQj_pcpZC823vSDT-dujhq1WO1-4cLNjIz4M2Eq6X5J1AknFt_Z",
+          "label": "protocol-ai-lab.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "U.S. and China Hold High-Level Talks on AI Arms Control",
+      "date": "2026-05-10",
+      "description": "President Trump and Chinese President Xi Jinping included AI as a top agenda item in their recent high-level discussions. The talks focused on establishing \"arms control\"-style agreements for artificial intelligence and addressing international concerns regarding the export and proliferation of advanced AI models, signaling a new era of geopolitical AI governance.",
+      "category": "Policy",
+      "significance": "These high-level discussions between the world's leading technological powers represent a foundational step towards international AI governance and regulation. The outcomes of such talks will shape the future of AI development, deployment, and ethical guidelines on a global scale for decades.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFbB_luCEnq2lYOvpXMKYK5VS7JlZVWpeKQLFTxNm0inlhZfwaMDbMD_uhybxI6QR00MawvTW-kDEAFUx82b-tBgfHQPGShuSd2tU8IfUVq3UGTaukE3cGgk0deHEihTF8Gp2TlsGqJtLz7Grard5PuwDYM67zMXzwTCQjui01ONAizuSW0EEWepafV5j5ktkr48Eth_JTSyUvAOBs=",
+          "label": "latimes.com"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7MtjQ4KK4M_4dIX0kATUND6EdalI1icAHh4lc9rrI9IJ1Fw66Ts4x6NmcKZgtEHNDKMmwaC09VocOiNV5bpWWTq61ePCS9FY4KGd_2VVaJT9bW5LXZztKwPP_XVVo_bvwWWIJ1e_IwOXVeycwd4cdsNAob9i-JhFHoU7wyEG0fcuDCwpRYd6YIFXjTBZvpA==",
+          "label": "hawaiipublicradio.org"
+        }
+      ],
+      "type": "timeline_event"
+    }
+  ],
+  "questionUpdates": []
+}
