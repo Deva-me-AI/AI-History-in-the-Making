@@ -6316,5 +6316,70 @@
       }
     ],
     "issueNumber": 564
+  },
+  {
+    "title": "Jina AI Embeddings: Universal Multimodal Model Release",
+    "date": "2026-05-13",
+    "description": "Jina AI released embeddings-v5-omni, the first universal model capable of handling text, images, audio, and video simultaneously.",
+    "category": "Model Release",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvzdoCEEjEKfKSyZ6ugbW-sDqSsTlp6FtdaCG894PtvQHqrdI0HvZR1Si-fPuRieBtkHqY1lJuL-0Bf7HS4Ln8UZyVeM68u60vO-wlDduNRtUH4o3ci6t5ffZNGwO9XLB-eBAwt7U=",
+        "label": "youtube.com"
+      }
+    ],
+    "issueNumber": 565
+  },
+  {
+    "title": "Googlebooks: Android Laptops with Deep Gemini Integration",
+    "date": "2026-05-13",
+    "description": "Google teased a new line of Android laptops called Googlebooks, built from the ground up for Gemini. Features include a 'magic pointer' for prompt-based actions and Gemini baked directly into the OS.",
+    "category": "Industry Structure",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvzdoCEEjEKfKSyZ6ugbW-sDqSsTlp6FtdaCG894PtvQHqrdI0HvZR1Si-fPuRieBtkHqY1lJuL-0Bf7HS4Ln8UZyVeM68u60vO-wlDduNRtUH4o3ci6t5ffZNGwO9XLB-eBAwt7U=",
+        "label": "youtube.com"
+      }
+    ],
+    "issueNumber": 566
+  },
+  {
+    "title": "InclusiveAI: Penn State Proposes Democratic AI Governance Framework",
+    "date": "2026-05-13",
+    "description": "A Penn State-led team proposed InclusiveAI, a democratic framework using decentralized voting (DAO-based) to give diverse communities a voice in how AI models are aligned and governed.",
+    "category": "Policy",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEz7D2UEJ1CEKHa_HKJ3z1iOG3bpCT3U0XBURW6cqge9LLUhl7ZIVlSqM-sITEXJnlyxntwkRHGPTqfiwd1oAKwbOFYF5fr0hDd_ya68bSyqp42XFQr4QiqQd02oVyoKym-2kREwTwE8abc5brdQfeho3SvHKCIxsbj6kFqeo2LQhU8QXOlSzr9muZVrXpbotGr508h4Z7mAC3-OeevaLwRu2MFoPAFrHeWBEvZ",
+        "label": "psu.edu"
+      }
+    ],
+    "issueNumber": 567
+  },
+  {
+    "title": "AntAngelMed: First Open-Source Medical LLM for Consumer Hardware",
+    "date": "2026-05-13",
+    "description": "The first open-source medical LLM with 100 billion parameters (6.1B active) was released, topping MedBench scores while running locally on consumer-grade hardware.",
+    "category": "Open Source",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHvzdoCEEjEKfKSyZ6ugbW-sDqSsTlp6FtdaCG894PtvQHqrdI0HvZR1Si-fPuRieBtkHqY1lJuL-0Bf7HS4Ln8UZyVeM68u60vO-wlDduNRtUH4o3ci6t5ffZNGwO9XLB-eBAwt7U=",
+        "label": "youtube.com"
+      }
+    ],
+    "issueNumber": 568
+  },
+  {
+    "title": "Enterprise Data Gap: Report Highlights AI Data Readiness Challenge",
+    "date": "2026-05-13",
+    "description": "A Dun & Bradstreet report revealed that while 97% of organizations have active AI initiatives, only 5% believe their data is actually ready to support them.",
+    "category": "Industry Structure",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-4x77Vssd-u0p9UF2S48vHZU0FCDlxbbvgcCOgb5yAqofxfCIzRQUMWIQgtrump5Mup41GME2YN2wesfoVrU5xNqeLYGYpM78moygbEr-N27euNCEaEdpaARhm8_72oehB5m7QFYrA4tx8hmkLMVBOseGX8lXu75LCqkBXVI4m1b-u3O44Lzo4A246TjYkpHj_iO37cUKyc1IxUb4O3RaLoFA5Z18TlEn89y23PBvFKU=",
+        "label": "cio.com"
+      }
+    ],
+    "issueNumber": 569
   }
 ]
