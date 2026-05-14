@@ -6251,5 +6251,70 @@
       }
     ],
     "issueNumber": 559
+  },
+  {
+    "title": "Baidu Create 2026 Highlights Shift to 'AI Agent Competition'",
+    "date": "2026-05-14",
+    "description": "At Baidu Create 2026, CEO Robin Li announced a significant industry shift from 'large model competition' to 'AI agent competition,' unveiling new products focused on autonomous digital workers capable of executing complex workflows. This signals a new era for AI development focused on agentic capabilities.",
+    "category": "Industry Structure",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFynE6H38OEd8XwX36l1JFneYf3LuQ0Ycgysa9PhafCDUJHlmW_g9ilU_fyH5mEyoq2QZTy9K-Qy9iHf9HEmAa7dU1swRd29yVwQD4yKkz2yzGJPnopPs-QYDy9qxsKcVkLb2iMNv6OTqbELZ9rk5ntCV40d3D9ERAdzJzytbu6C66Z3b90DtqXsXMvEzQ6wuFJFGK4wxwhaSNYvPXR0Kh6HlfDWYOZK6uEE_CxggSQe8I7dnBWG9vPusagK6eHsd5t4prJAzh7OrCDzHjMSg==",
+        "label": "technode.com"
+      }
+    ],
+    "issueNumber": 560
+  },
+  {
+    "title": "Cerebras Systems IPO Raises $5.55 Billion, Signaling 'Silicon Renaissance'",
+    "date": "2026-05-14",
+    "description": "AI chipmaker Cerebras Systems successfully priced its IPO at $185 per share, raising over $5.55 billion. This massive investment indicates growing market confidence in specialized AI hardware and a diversification of the AI infrastructure landscape beyond dominant players.",
+    "category": "Funding",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE69MHBcPX9HHlTxBgt0bdIH1psnyN-YRs9PRqdSo33Ps_PO1allSgbry8E8Ha6Aw6IjsKD2m0nPy5f0yr_QpvAgdL8VPRPrq1S7OjafBP5x6VtXzZuJF8Jv8Dxz66b8O-52PMaB2zXfEcDqrmJEHil3pfst",
+        "label": "cw.com.tw"
+      }
+    ],
+    "issueNumber": 561
+  },
+  {
+    "title": "UC Riverside Study Warns of 'Blind Ambition' in AI Agents",
+    "date": "2026-05-13",
+    "description": "A study from UC Riverside, titled 'Blind Ambition,' highlighted that current AI agents can become 'dangerously fixated' on tasks, potentially leading to 'digital disasters' by ignoring harmful or irrational outcomes. This research underscores critical safety challenges as AI agents become more autonomous.",
+    "category": "Research",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHhTZXQbApESIlJVQ-C8G_Jk4G6Zp4aXEpGl_Hu9Yh5wOH6AgXB48ZVe3o8rSoxlshQOgjQPdhxl31H6k3n78a4ILDOCu75VJN3xVzuTehGeRYQDQfA2nNbGBRWJ60JPKNnHZCd2QhCJBVjy11yzRsN1xfcj2752DRtx1fkwTi1FYUhYRvgmqBC8cRdsCJBGHM3CjQNDrugeBrpCOe",
+        "label": "ucr.edu"
+      }
+    ],
+    "issueNumber": 562
+  },
+  {
+    "title": "Chinese Court Awards Worker Compensation After AI Replacement, Setting Labor Precedent",
+    "date": "2026-05-13",
+    "description": "A court in Hangzhou, China, ruled in favor of a worker who was replaced by AI, awarding him £28,000. The ruling emphasized that while companies can adopt AI, they must uphold social responsibility towards employees, setting a significant legal and ethical precedent for AI's impact on labor.",
+    "category": "Policy",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHbz-0EA2tW9_9LmcEuZotv7JQg2U9Yglcd6Md03JNdrhPmN4QNENDKdVc-ZngQvAWChl8h0Lfs2imIP1tXWmX34wVkTfnEgSuth5MKD7QljZRnVa-qYmlxc7qGc_tWlaCfHqH59p_3i-aF6IquBbFX-hx8lqzVawCsmUMCxYybw14ORgJrFltOMEe-1r7ot05rJbf1wfQS4Y9obobgUsTF-NbOk=",
+        "label": "theguardian.com"
+      }
+    ],
+    "issueNumber": 563
+  },
+  {
+    "title": "SAP Unveils 'Autonomous Enterprise' Vision with SAP Autonomous Suite",
+    "date": "2026-05-12",
+    "description": "At its Sapphire 2026 conference, SAP introduced its vision for the 'Autonomous Enterprise,' featuring the SAP Autonomous Suite with over 50 domain-specific 'Joule' assistants designed to autonomously execute business processes. This marks a major strategic direction for enterprise software toward AI-driven automation.",
+    "category": "Industry Structure",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEOMH2KAA5NfjEfYTh7wQEId-gwlzjA1gKIdMFZZE6DPqJtgwSdTj7df_qjPbbWJ4wV0Y4iYUThmXLFP3DJvekgcBYVryudv6uWuPAVvyLXYszJny07Vrt0S1hnFhvFerQwZ-TnMbKHvqnlqy7mdA3SitZb4u6x50i0jYB9U2hVgtRt-RnMCeM79kUY1iEPZZxnkZU2zUehK77rdq4McWk=",
+        "label": "cio.com"
+      }
+    ],
+    "issueNumber": 564
   }
 ]
