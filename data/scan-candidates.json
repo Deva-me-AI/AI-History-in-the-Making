@@ -1,1 +1,81 @@
-{"scanDate":"2026-05-15","candidates":[],"questionUpdates":[]}
+{
+  "scanDate": "2026-05-15",
+  "candidates": [
+    {
+      "title": "Pope Leo XIV Warns of 'Spiral of Annihilation' from AI Warfare",
+      "date": "2026-05-14",
+      "description": "During a visit to Sapienza University, Pope Leo XIV warned that AI-directed warfare and high-tech weaponry are leading to a 'spiral of annihilation,' calling for human responsibility in military choices.",
+      "category": "Policy",
+      "significance": "A strong ethical intervention from a global figure, potentially impacting the development and regulation of autonomous weapons systems for decades to come, highlighting the moral dimensions of AI.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGfNBiDwNRLlfx-zY5aM5d1NZxwqEARmWntPUDsWiVbuEcv0dhGvStFhVo_dU9-ifW6ldwM-SVhmf39PSwJW-1hfgWiri5lmVL-cWK22OciHfEv5w-cLS0JiQKUbmbkbvfFLAKrnVO68A8JOFzPpHq3QGsq32exoTwN47f2Sx-rVE08atrjAHuVVA63kcSGt1pTzQ_q2wWxr-JWuYrgIm5DiIoQTDfIKso_1EBypZJgkX4rhn9g",
+          "label": "opb.org"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Anthropic Releases Policy Paper on Global AI Leadership, Urges US Compute Lead",
+      "date": "2026-05-14",
+      "description": "Anthropic released a major policy paper arguing that the U.S. must defend its 'compute lead' to prevent authoritarian misuse of transformative AI by 2028, influencing geopolitical strategy.",
+      "category": "Policy",
+      "significance": "A leading AI research lab directly influencing international policy and strategic competition in AI. This paper could shape national AI strategies and resource allocation for years.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbuvNzHaH5n1GfZPLfwAIgTSwjPhHpC_9SnEXF-thIdo2GlwdHIh800DySxiwqnR7uhuIxby2lxwxIyYTMufzXd69JDFtre-c-pkJpUnqYKpPiUv6HEYCHEq6e71rsfHux8Mf8-FQk7FbGxy1-S9Uz-Q0F1iPSDoEdv5ajj2RbVKdNp8xKHKmRIabwhSkpQRBeFfbE1vIGuDKCI0xXxONxcorqSw==",
+          "label": "coaio.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "IBM Consulting Launches Forward Deployed Units (FDUs) for Enterprise AI Scaling",
+      "date": "2026-05-14",
+      "description": "IBM Consulting launched FDUs, specialized 'pods' of humans and digital agents designed to move AI from pilot programs to full-scale production within enterprises.",
+      "category": "Industry Structure",
+      "significance": "Represents an evolution in how AI solutions are deployed and scaled in large organizations, potentially becoming a standard model for enterprise AI integration and accelerating real-world AI impact.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEoYnryrVM-c02Yp2ii49HikV3yed2jtgKJ6hQKxyNmRqJobIfXR_Hqmm1_ZBT7hSedQowrWfNMYNSVBYE6nf5gx62rtQCeI9Atykiyz_vyy4jUX0U7zq6xb-3Dy84xPsHZgt0aFkbTFAd-FgjBAK07HLqI2MbNnEx4YclnlJpV_j8FHcC-lJCAxXK0KD-nVQ_b9IM=",
+          "label": "ibm.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Bank of England, FCA, HM Treasury Warn on AI-Driven Financial Cyber Threats",
+      "date": "2026-05-15",
+      "description": "A joint statement warned that frontier AI models are already exceeding human speed in identifying cyber vulnerabilities, urging financial firms to adopt AI-enabled defenses.",
+      "category": "Policy",
+      "significance": "Highlights a critical and evolving cybersecurity threat posed by advanced AI, driving policy and investment in AI-driven defensive measures within the financial sector, a key global infrastructure.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6xTeSscYRvGIpdHCxzM4C98lra51dzEfHl-AGrHaHxqOGHOqjAZn4iYS4rE8YGLCEsUSnB3LukO4AexK8rtA1iurAUbz_m-8NVHOYMhBQzPgPSNxI2--v_U_gQn8_OQTy8T0wzh0AGRl9dUD1yXNWVQfKztJdWNOBOZYsJw5Eld7IfrjQZzS7c_hSM5AdI01xCdAF8LUFN_Tl6w==",
+          "label": "futurumgroup.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Cisco Raises 2026 AI Infrastructure Order Target to $9 Billion Amidst Enterprise AI Boom",
+      "date": "2026-05-15",
+      "description": "Cisco increased its AI infrastructure order target to $9 billion, citing a 'triple-fold' increase in network traffic driven by enterprise AI workloads.",
+      "category": "Infrastructure",
+      "significance": "This massive investment signifies a profound shift in IT infrastructure, driven by the escalating demands of enterprise AI. It indicates rapid expansion and reorientation of global network and computing resources to support AI.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH6xTeSscYRvGIpdHCxzM4C98lra51dzEfHl-AGrHaHxqOGHOqjAZn4iYS4rE8YGLCEsUSnB3LukO4AexK8rtA1iurAUbz_m-8NVHOYMhBQzPgPSNxI2--v_U_gQn8_OQTy8T0wzh0AGRl9dUD1yXNWVQfKztJdWNOBOZYsJw5Eld7IfrjQZzS7c_hSM5AdI01xCdAF8LUFN_Tl6w==",
+          "label": "futurumgroup.com"
+        }
+      ],
+      "type": "timeline_event"
+    }
+  ],
+  "questionUpdates": []
+}
