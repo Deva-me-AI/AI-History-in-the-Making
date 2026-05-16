@@ -1,1 +1,76 @@
-{"scanDate":"2026-05-15","candidates":[],"questionUpdates":[]}
+{
+  "scanDate": "2026-05-16",
+  "candidates": [
+    {
+      "title": "OpenAI-Microsoft Deal Renegotiated, Capping Revenue Share at $38 Billion",
+      "date": "2026-05-16",
+      "description": "OpenAI and Microsoft have reportedly renegotiated their revenue-sharing agreement, capping Microsoft's share at $38 billion. This strategic move is expected to save OpenAI approximately $97 billion by 2030, bolstering its financial position for a potential public offering later this year.",
+      "category": "Industry Structure",
+      "significance": "Redefines a critical partnership in the AI industry, profoundly impacting OpenAI's long-term financial health and market independence, and setting a precedent for future mega-tech collaborations.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyQU9JhaU_J37LeYRXJ4KM1RnMUfptXYX0L7IBrE6d2_UlOpspgKzDfnVp0jvFitXOygFldKmsliFfSqDn4GG7KU7sEdTRZBT5sDBaqiKvq5WiHx-vSXz_SKiQyTm3SqQFnK2EIkTNYDhqYRPViiQsWgVvyWVTQ6MamaDmUVXn",
+          "label": "aimagazine.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Researchers Discover 'Poetry' Vulnerability Affecting 31 Major AI Systems",
+      "date": "2026-05-16",
+      "description": "Italian researchers have uncovered a significant security flaw, dubbed the 'Poetry' vulnerability, affecting 31 leading AI systems from companies like Google and OpenAI. The vulnerability allows users to bypass safety guardrails by using elaborate poetic metaphors, enabling the models to provide instructions for dangerous activities.",
+      "category": "Research",
+      "significance": "Highlights a critical and widespread weakness in AI safety mechanisms, prompting a re-evaluation of current security protocols and likely leading to new research and development in robust adversarial training.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH1Cnrlx3Nca6KvO2tHPI3xQVUKSBFmdIbJ3HY1M6ANn9tN7vi5vLuLcyQOW6tFyeyav8OJWGmtZ4bg5ouNjlDRn7enovhs19dS2bKsz8lc48rgzElI6tLnmKzPgRv6nFb21h5hnrLpl3goz2NN4otZrjUnfqT3bmez86TZ6EOv62bWW4JEUsvliaJR6gn5_LwU4n0cBTw_",
+          "label": "spokesman.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "SAP Implements Policy Restricting Third-Party AI Agent Autonomous API Calls",
+      "date": "2026-05-16",
+      "description": "SAP's updated 2026 API policy, specifically Section 2.2.2, now prohibits third-party AI agents from autonomously executing sequences of API calls. This move has generated controversy, with enterprise leaders expressing concern that it will hinder the growth and innovation within the 'Agentic AI' ecosystem.",
+      "category": "Policy",
+      "significance": "Sets a critical precedent for how major enterprise software vendors will integrate and regulate AI agents, potentially shaping the architecture and adoption trajectory of agentic AI solutions across industries.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHyQU9JhaU_J37LeYRXJ4KM1RnMUfptXYX0L7IBrE6d2_UlOpspgKzDfnVp0jvFitXOygFldKkmsliFfSqDn4GG7KU7sEdTRZBT5sDBaqiKvq5WiHx-vSXz_SKiQyTm3SqQFnK2EIkTNYDhqYRPViiQsWgVvyWVTQ6MamaDmUVXn",
+          "label": "aimagazine.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "OpenAI Cuts Model Costs by Up to 30% Amidst Open-Source Competition",
+      "date": "2026-05-16",
+      "description": "OpenAI has announced new pricing tiers, significantly reducing its model costs by up to 30%. This strategic price adjustment is a direct response to a surge of competitive open-source AI model releases, which have driven down industry-wide API prices by nearly 40%.",
+      "category": "Industry Structure",
+      "significance": "Reflects a major shift in the competitive dynamics of the AI model market, indicating intensified pressure from open-source alternatives and potentially leading to broader accessibility and adoption of AI technologies due to lower costs.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFst5XYNWRD1bc9gs0OUqJTUJ4S7qBOY6WM7y0dwTjdB2ULscZjZ5XcDtHzYEHgUOZIFYuzZPh0gB_d_LqK6buW6xEE0y6cS89EvjvxECrKvaplIsFziyX9DwuJNzzeqAgPM6-027Y=",
+          "label": "youtube.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Anthropic Launches 'Claude Design' Model Optimized for Architectural Tasks",
+      "date": "2026-05-16",
+      "description": "Anthropic Labs has officially released 'Claude Design,' a specialized AI model meticulously optimized for complex architectural and design tasks. This launch signifies a growing trend towards highly capable, domain-specific AI applications from leading research labs.",
+      "category": "Model Release",
+      "significance": "Marks an important step in the development of highly specialized AI, potentially revolutionizing creative and technical fields like architecture and design by offering advanced, tailored generative capabilities.",
+      "confidence": "high",
+      "sources": [],
+      "type": "timeline_event"
+    }
+  ],
+  "questionUpdates": []
+}
