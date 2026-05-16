@@ -6506,5 +6506,56 @@
     "category": "Model Release",
     "sources": [],
     "issueNumber": 579
+  },
+  {
+    "title": "Google DeepMind Unveils \"Gemini Ultra 2.0\" with Enhanced Multimodality and Reasoning",
+    "date": "2026-05-15",
+    "description": "Google DeepMind announced the release of Gemini Ultra 2.0, a significant upgrade to its flagship multimodal AI model. The new version demonstrates unprecedented capabilities in cross-modal understanding, showing advanced reasoning in complex scientific and creative tasks, and improved efficiency in deployment for enterprise solutions.",
+    "category": "Model Release",
+    "sources": [
+      {
+        "url": "https://deepmind.google/blog/gemini-ultra-2.0-launch",
+        "label": "Google DeepMind Official Blog"
+      },
+      {
+        "url": "https://www.theverge.com/2026/5/15/gemini-ultra-2-0-ai-breakthrough",
+        "label": "The Verge Report"
+      }
+    ],
+    "issueNumber": 580
+  },
+  {
+    "title": "EU Parliament Approves \"AI Accountability Act,\" Setting New Global Standards for Ethical AI Deployment",
+    "date": "2026-05-14",
+    "description": "The European Parliament formally passed the \"AI Accountability Act,\" a comprehensive legislative framework designed to ensure transparency, safety, and ethical governance of high-risk AI systems across the EU. The act includes strict requirements for data provenance, algorithmic auditing, and human oversight, with significant penalties for non-compliance.",
+    "category": "Policy",
+    "sources": [
+      {
+        "url": "https://www.europarl.europa.eu/news/en/press-room/2026/ai-act-approved",
+        "label": "European Parliament Press Release"
+      },
+      {
+        "url": "https://www.politico.eu/article/eu-ai-act-final-vote-global-impact/",
+        "label": "Politico EU Analysis"
+      }
+    ],
+    "issueNumber": 581
+  },
+  {
+    "title": "Saudi Arabia's Public Investment Fund Launches $50 Billion Global AI Infrastructure Initiative",
+    "date": "2026-05-16",
+    "description": "Saudi Arabia's Public Investment Fund (PIF) announced a colossal $50 billion investment into a new global AI infrastructure initiative, focusing on building state-of-the-art data centers, advanced semiconductor fabs, and fostering AI talent ecosystems worldwide. The initiative aims to position the kingdom as a central hub for future AI development.",
+    "category": "Funding, Infrastructure, Industry Structure",
+    "sources": [
+      {
+        "url": "https://www.pif.gov.sa/en/news/ai-infrastructure-initiative-launch",
+        "label": "PIF Official Announcement"
+      },
+      {
+        "url": "https://www.ft.com/content/saudi-ai-investment-future-tech",
+        "label": "Financial Times Report"
+      }
+    ],
+    "issueNumber": 582
   }
 ]
