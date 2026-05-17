@@ -1,1 +1,85 @@
-{"scanDate":"2026-05-17","candidates":[],"questionUpdates":[]}
+{
+  "scanDate": "2026-05-17",
+  "candidates": [
+    {
+      "title": "Anthropic Achieves $900 Billion Valuation, Overtaking OpenAI in Market Value",
+      "date": "2026-05-16",
+      "description": "Anthropic reached a landmark $900 billion valuation, officially surpassing OpenAI in market value, driven by a five-fold increase in revenue since late 2024.",
+      "category": "Industry Structure",
+      "significance": "High",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHMGW7FFQIC7jhLWK-GgAJgYEI0fSTIep7c8YqrzhDxlPmQ8FHP8pYvf1MrbPErQjyQ0XrwYHhji02OU1XmiglXQV-Tzp3QVjOJQcx0G8ckH3Gm5j-gtNSEQkGTQ0dLSK5n9x8Rj6E=",
+          "label": "youtube.com (AI news summary)"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Vatican Establishes Interdicasterial Commission on Artificial Intelligence to Address Ethical Implications",
+      "date": "2026-05-16",
+      "description": "Pope Leo XIV approved the creation of a new Interdicasterial Commission on Artificial Intelligence to coordinate the Holy See’s response to AI, focusing on human dignity and ethical implications. An encyclical is expected soon.",
+      "category": "Policy",
+      "significance": "High",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH-SkBqoLxtMf-ToEBjOVbjfnPRJYXzuzrC87n3e8BHdKZGumSZeo1ZlTYNnFO-m6XM7t3klmTFMo8-k8E40FyLlFL5t3hmGM6fOCfUfxn7vVUAihH5rZoP4H9qxsl0fzY-UrjkzduKkCA2-dKFwtANdEWIA42xb8L02Qh8mjULfT5z_ZChHy_yRkAwp9-uCWWjitDKxYNgG86_l2UlDg==",
+          "label": "catholicconnect.in"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFcgteOUDvlGxojxN3VBeKq_XGJVm-AeeraBSdyb9exGUHtXPhEmkl_EYFobD3WTnMk4RKxlrd37T98wdTLlvFi36Gu60znCjE6YQiBuiiy_GcLqpd9DJqQdyXMwNE2_yCpRFzKcQeCeNohG0R9yxFGYfsPrPhg6eeV9EjCswQfkdrwAE_Kr1IGhh8b4YxnE3jltrIsJ_J0q19Bc7rKtDkG",
+          "label": "catholicworldreport.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Israel Unveils National AI Directorate with 'AI Superpower' Strategy",
+      "date": "2026-05-17",
+      "description": "The Israeli government approved a preliminary work plan for its National AI Directorate, aiming to secure 5,000 advanced GPUs annually for academia and public sector, attract global talent, and establish applied AI laboratories.",
+      "category": "Policy",
+      "significance": "High",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGcIcVEn4VHYriXysLQS_OeRRXbzpFNy_F7TKvmkHsmmW0w3qi6AJ0l6bmEt3xL-P7cU1CJKmo9zaTYkkyVLIf0NuBAYFjcffGSTbYhtKDnc_WYyK_Qbr1S2K1T-ReRIhSLAiemUeoODKEMIHSwX4YHjW47qllCrGqjL5WxJUlCroxRu0NNAgzKA0uqgebjS4TVk4rmpBtPuxjyHFtm5PhPiVYLyXu5tIqOznAAv4pP8hW2WTjH2fAp",
+          "label": "jns.org"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Anthropic Launches 'Claude for Small Business' with Integrated Workflows and Connectors",
+      "date": "2026-05-15",
+      "description": "Anthropic introduced 'Claude for Small Business,' a suite offering ready-to-run AI workflows and connectors for popular tools like QuickBooks, PayPal, and Microsoft 365, aiming to provide enterprise-level AI to smaller firms.",
+      "category": "Industry Structure",
+      "significance": "Medium-High",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEuDtqTsPIr4t49uvf-Vz2JTtKGW4HhiQSdTUG_qLvrBNDj9FCqolhJnFskNq0Tf1zxekQ-ZotB7esaJlRUahB-I9vvZEQqNX43fou7n-yvCa0Ufs7FHfR575brBLbq1c-JloJoTlmjdCnkw7J1p-kQdmlJUSMK20MGokgniDTv47w5HMKynU0Twh-wf2Oy9naIW2K6RpJrq60deBw714CshJsz",
+          "label": "medium.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "OpenAI Partners with Malta to Provide ChatGPT Plus to All Citizens and Launch AI Literacy Program",
+      "date": "2026-05-16",
+      "description": "OpenAI and the Government of Malta announced a world-first initiative to provide ChatGPT Plus to all Maltese citizens, including a mandatory AI literacy course developed by the University of Malta.",
+      "category": "Policy",
+      "significance": "High",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPm-zp71PNsC4frlqrUngKobsM73SJ_uyL0qY7jrVu5_TQHLQopmJWR5anbZd9lA60aW6c_rH_TToclLDWEMLybkK-wnVgidQKKKT3hlces3hFUgvgZ5ynnPUOYTeKae4Jyk2M1T6hbIsg9iNV_vplL",
+          "label": "openai.com"
+        }
+      ],
+      "type": "timeline_event"
+    }
+  ],
+  "questionUpdates": []
+}
