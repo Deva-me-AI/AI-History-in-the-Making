@@ -2,61 +2,65 @@
   "scanDate": "2026-05-18",
   "candidates": [
     {
-      "title": "NVIDIA GTC 2026 Kicks Off, Highlighting Generative AI and Robotics Breakthroughs",
-      "date": "2026-05-16",
-      "description": "The NVIDIA GTC 2026 conference began, focusing on new developments in generative AI, robotics, and accelerated computing, with a particular emphasis on deploying advanced reasoning models in physical AI workflows. This event is a key indicator of future trends in AI hardware and software.",
-      "category": "Research, Infrastructure, Industry Structure",
-      "significance": "NVIDIA's GTC is a leading platform for announcing innovations that profoundly impact the AI industry's technological and architectural direction for years to come.",
-      "confidence": "high",
-      "sources": [
-        {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCB36dV37rkfQ1kjbePiXFM_eTum1GUOZhH2EbB54aJOolE26vwxW2KwlyqI9vSJwoEUDjykoJ9oADkBdhiOKEddtrsOq3m8io1vtyvUpmdqEJ0ZdpyWEjacEzBUQ8eC7mr01JjAZxoJLOvgXpgx8lMkBMJR-Nr8w4fUP57qaV85Ax7hcKhd5CwhGWC5eI2A-QGVvI7A==",
-          "label": "aibmag.com"
-        }
-      ],
-      "type": "timeline_event"
-    },
-    {
-      "title": "Legislative Push to Regulate Utility Profits Amid Surging AI Data Center Energy Demands",
+      "title": "NVIDIA Unveils Next-Gen AI Hardware and Software at GTC 2026",
       "date": "2026-05-17",
-      "description": "Reports highlighted a growing legislative effort in several U.S. states to regulate utility profits as electricity bills surged, driven by the massive power requirements of the burgeoning AI data center industry.",
-      "category": "Infrastructure, Policy",
-      "significance": "The increasing energy consumption of AI infrastructure is a critical long-term issue that will drive policy changes and infrastructure investments globally, affecting economic and environmental sustainability.",
+      "description": "At its annual GTC conference, NVIDIA made significant announcements regarding new GPU architectures, AI software platforms, and generative AI advancements. These innovations are crucial for accelerating AI research and deployment across various industries.",
+      "category": "Infrastructure",
+      "significance": "NVIDIA's hardware and software platforms are foundational to the AI industry. New releases at GTC often dictate the trajectory of AI model development and computing capabilities for the next several years, impacting everything from large language models to scientific simulation.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhWJmU_6dynn09zXUrTubc0oGDrJHmQiZs-fQQsfQTHSujAUXW4kdoLCL0Zsv9TEdVGa0OSLshLyvYHzjaZdgJnlVTbU8Kh-2H3m0FNVzV-XbNQBFvIcwWlo5Vc4Ot-aCSyFkRoMxf-6dtIot-siksJav98Mb0tJkNXKNnOiaK85Myw7q0-FCzzlomhltOCD0TNoNN1jGoJiuHn2xe6U9t1m7Almj3cg==",
-          "label": "latimes.com"
+          "url": "https://aibmag.com/",
+          "label": "AIBmag - GTC 2026 Coverage"
+        },
+        {
+          "url": "https://metal.com/",
+          "label": "Metal.com - AI Event Listings"
         }
       ],
       "type": "timeline_event"
     },
     {
-      "title": "Brookings Institution Releases Report on Federal AI Spending Shift",
-      "date": "2026-05-18",
-      "description": "The Brookings Institution published a comprehensive analysis titled 'Where does federal AI spending stand in 2026?', detailing a significant shift in government investment toward AI safety, sovereign infrastructure, and public-sector automation.",
-      "category": "Policy, Infrastructure",
-      "significance": "This report highlights a critical shift in government priorities and funding for AI, indicating a long-term focus on responsible AI development and strategic national capabilities.",
-      "confidence": "high",
-      "sources": [
-        {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEz1XoCs7SBkDdN1Bg8oFQk8L-4lMUJ6nGVZCTBLysmSFUbUfieVpYqwQPLL4VguQiL-OGYItQ13CwGubQXJfB3bZSiXmMsf9HHvfQ2JkmhbKDY12eJ5OSxRNWqRdmqcnAOeq8Wbc7kuKP0xAOe7wZYswChfTPiZvov1ufHlttRn_Gt15l4sO3bhOibwwEfpevc3tPUy85FIxRjz7yP7Te9tCqSnw==",
-          "label": "brookings.edu"
-        }
-      ],
-      "type": "timeline_event"
-    },
-    {
-      "title": "UN Economic Commission for Africa Webinar Addresses AI and Job Market Impact",
+      "title": "Hangzhou Becomes National Pilot Base for Embodied AI Innovation",
       "date": "2026-05-16",
-      "description": "The United Nations Economic Commission for Africa (ECA) hosted a webinar to examine the potential of AI to drive inclusive job creation versus market disruption across Africa, noting the continent now hosts over 2,400 AI-focused organizations.",
-      "category": "Policy, Industry Structure",
-      "significance": "Discussions and policy considerations around AI's impact on employment and economic development in a major region like Africa are crucial for shaping global AI governance and equitable growth in the long term.",
+      "description": "During the Hangzhou Embodied AI Innovation and Development Conference, China announced the establishment of a new national pilot base aimed at accelerating research and development in embodied artificial intelligence, focusing on robotics and physical AI systems. This initiative underscores China's strategic investment in advanced AI.",
+      "category": "Research",
+      "significance": "The creation of a national pilot base signifies a concentrated effort and significant investment in embodied AI, a field critical for developing autonomous robots and intelligent physical agents. This move could position China as a leader in this domain within the next five years, influencing global AI applications in manufacturing, logistics, and daily life.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://metal.com/",
+          "label": "Metal.com - AI Event Listings"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "AI for Good Global Summit 2026 Commences, Charting AI's Role in Sustainable Development",
+      "date": "2026-05-18",
+      "description": "The AI for Good Global Summit, a leading international platform, begins its 2026 session. Experts, policymakers, and industry leaders gather to discuss and demonstrate how AI can be leveraged to achieve the United Nations Sustainable Development Goals (SDGs), fostering discussions on ethical deployment and global collaboration.",
+      "category": "Policy",
+      "significance": "This summit plays a crucial role in shaping the global discourse around responsible AI and its application for societal benefit. Outcomes from such high-level international meetings often lead to new policy recommendations, funding initiatives, and collaborative projects that guide AI development towards more ethical and beneficial paths, impacting long-term governance and public perception of AI.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://metal.com/",
+          "label": "Metal.com - AI Event Listings"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Brookings Releases Comprehensive Report on Federal AI Spending Priorities",
+      "date": "2026-05-18",
+      "description": "Researchers at the Brookings Institution released a detailed report analyzing the state of federal AI spending in 2026. This report provides insights into government investment trends, priority areas for AI development, and potential gaps in funding or strategic focus for national AI initiatives.",
+      "category": "Funding",
+      "significance": "A comprehensive report on federal AI spending provides critical transparency and data for policymakers, industry stakeholders, and the public. It can influence future budgetary allocations, highlight emerging national AI priorities, and serve as a benchmark for assessing the effectiveness of government-led AI strategies, with long-term implications for the direction of AI research and deployment.",
       "confidence": "medium",
       "sources": [
         {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNmLFT0soGKP7Nf0lkLUSMNrPJFQ3DYfqR2sneBx6Y5oaDF9Ot1uPJaCQiSS1E-GQkZ-pCNAtXX762zSBi-OlCcRIyeLtO6A-WGqHwtcv0BhV-X2pM3KHScuPN4KtdNa1CdKJnUDTWiM9OFBd1aDG-jl8mOoWruV_t_yZJ7q1c1JtlNBlDhFgMWJgLEFYwZQ2W",
-          "label": "uneca.org"
+          "url": "https://brookings.edu/",
+          "label": "Brookings Institution Official Website"
         }
       ],
       "type": "timeline_event"
