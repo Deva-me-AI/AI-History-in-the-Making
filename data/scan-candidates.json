@@ -1,1 +1,66 @@
-{"scanDate":"2026-05-18","candidates":[],"questionUpdates":[]}
+{
+  "scanDate": "2026-05-18",
+  "candidates": [
+    {
+      "title": "NVIDIA GTC 2026 Kicks Off, Highlighting Generative AI and Robotics Breakthroughs",
+      "date": "2026-05-16",
+      "description": "The NVIDIA GTC 2026 conference began, focusing on new developments in generative AI, robotics, and accelerated computing, with a particular emphasis on deploying advanced reasoning models in physical AI workflows. This event is a key indicator of future trends in AI hardware and software.",
+      "category": "Research, Infrastructure, Industry Structure",
+      "significance": "NVIDIA's GTC is a leading platform for announcing innovations that profoundly impact the AI industry's technological and architectural direction for years to come.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHCB36dV37rkfQ1kjbePiXFM_eTum1GUOZhH2EbB54aJOolE26vwxW2KwlyqI9vSJwoEUDjykoJ9oADkBdhiOKEddtrsOq3m8io1vtyvUpmdqEJ0ZdpyWEjacEzBUQ8eC7mr01JjAZxoJLOvgXpgx8lMkBMJR-Nr8w4fUP57qaV85Ax7hcKhd5CwhGWC5eI2A-QGVvI7A==",
+          "label": "aibmag.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Legislative Push to Regulate Utility Profits Amid Surging AI Data Center Energy Demands",
+      "date": "2026-05-17",
+      "description": "Reports highlighted a growing legislative effort in several U.S. states to regulate utility profits as electricity bills surged, driven by the massive power requirements of the burgeoning AI data center industry.",
+      "category": "Infrastructure, Policy",
+      "significance": "The increasing energy consumption of AI infrastructure is a critical long-term issue that will drive policy changes and infrastructure investments globally, affecting economic and environmental sustainability.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEhWJmU_6dynn09zXUrTubc0oGDrJHmQiZs-fQQsfQTHSujAUXW4kdoLCL0Zsv9TEdVGa0OSLshLyvYHzjaZdgJnlVTbU8Kh-2H3m0FNVzV-XbNQBFvIcwWlo5Vc4Ot-aCSyFkRoMxf-6dtIot-siksJav98Mb0tJkNXKNnOiaK85Myw7q0-FCzzlomhltOCD0TNoNN1jGoJiuHn2xe6U9t1m7Almj3cg==",
+          "label": "latimes.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Brookings Institution Releases Report on Federal AI Spending Shift",
+      "date": "2026-05-18",
+      "description": "The Brookings Institution published a comprehensive analysis titled 'Where does federal AI spending stand in 2026?', detailing a significant shift in government investment toward AI safety, sovereign infrastructure, and public-sector automation.",
+      "category": "Policy, Infrastructure",
+      "significance": "This report highlights a critical shift in government priorities and funding for AI, indicating a long-term focus on responsible AI development and strategic national capabilities.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEz1XoCs7SBkDdN1Bg8oFQk8L-4lMUJ6nGVZCTBLysmSFUbUfieVpYqwQPLL4VguQiL-OGYItQ13CwGubQXJfB3bZSiXmMsf9HHvfQ2JkmhbKDY12eJ5OSxRNWqRdmqcnAOeq8Wbc7kuKP0xAOe7wZYswChfTPiZvov1ufHlttRn_Gt15l4sO3bhOibwwEfpevc3tPUy85FIxRjz7yP7Te9tCqSnw==",
+          "label": "brookings.edu"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "UN Economic Commission for Africa Webinar Addresses AI and Job Market Impact",
+      "date": "2026-05-16",
+      "description": "The United Nations Economic Commission for Africa (ECA) hosted a webinar to examine the potential of AI to drive inclusive job creation versus market disruption across Africa, noting the continent now hosts over 2,400 AI-focused organizations.",
+      "category": "Policy, Industry Structure",
+      "significance": "Discussions and policy considerations around AI's impact on employment and economic development in a major region like Africa are crucial for shaping global AI governance and equitable growth in the long term.",
+      "confidence": "medium",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGNmLFT0soGKP7Nf0lkLUSMNrPJFQ3DYfqR2sneBx6Y5oaDF9Ot1uPJaCQiSS1E-GQkZ-pCNAtXX762zSBi-OlCcRIyeLtO6A-WGqHwtcv0BhV-X2pM3KHScuPN4KtdNa1CdKJnUDTWiM9OFBd1aDG-jl8mOoWruV_t_yZJ7q1c1JtlNBlDhFgMWJgLEFYwZQ2W",
+          "label": "uneca.org"
+        }
+      ],
+      "type": "timeline_event"
+    }
+  ],
+  "questionUpdates": []
+}
