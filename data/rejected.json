@@ -1773,5 +1773,105 @@
       "claude": "REJECT"
     },
     "reviewedAt": "2026-05-01T20:02:55Z"
+  },
+  {
+    "title": "Google Unveils Gemini 4.0 at I/O 2026, Alongside Aluminium OS and Android XR Glasses",
+    "date": "2026-05-19",
+    "description": "Google I/O 2026 kicked off with the highly anticipated reveal of Gemini 4.0, boasting significant enhancements in multimodal reasoning and agentic reliability. Additional announcements included Aluminium OS, a new desktop-focused operating system, and Android XR Glasses developed in collaboration with Samsung and XREAL.",
+    "category": "Model Release",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGaV5NwonsN3b6LD8MOCjHADNqfHLQRv1nTNpo9uzIj2QZ_71ScsY3u_5u3Mo1q5SV1CJRGLmnINkqfqa5SzEOpMG8au_D3cIlOF0VyzKC5TYK69BnnBVt9uee02Zms4eOqSPgnOtgnqSZqBihjBn32zN1XpTT9MVE",
+        "label": "buildfastwithai.com"
+      }
+    ],
+    "votes": {
+      "accept": 0,
+      "reject": 0,
+      "gemini": "ABSTAIN",
+      "gpt": "ABSTAIN",
+      "claude": "ABSTAIN"
+    },
+    "reviewedAt": "2026-05-19T16:02:06Z"
+  },
+  {
+    "title": "Vatican Releases First AI Encyclical, 'Magnifica Humanitas,' on Ethical AI",
+    "date": "2026-05-18",
+    "description": "Pope Leo XIV issued his first encyclical, 'Magnifica Humanitas' (Magnificent Humanity), addressing the ethical challenges posed by artificial intelligence and emphasizing the protection of human dignity. The document will be presented publicly on May 25, 2026, alongside Anthropic co-founder Christopher Olah.",
+    "category": "Policy",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGw6Bvm2wy7xjCMCdmXS30GAq-APeAmmw6GWtRiEdOVqp1sbOviJNwv7zx0PXGlNrGjdfogqNW934v-PsJINSQFYt4dRhvgKuNGZHwtvPJrhooNnNbHlRNmMxsjkFbeBwKRWYYnabLmdMqIToLyGWRChQKDwHE7uKQqzEAioaFXW9CcORgXPEqx7UHYr-aDfwSNGS5P02rf_zQn2ni9g7dyUif-jFrdsAAzDw==",
+        "label": "ncronline.org"
+      }
+    ],
+    "votes": {
+      "accept": 0,
+      "reject": 0,
+      "gemini": "ABSTAIN",
+      "gpt": "ABSTAIN",
+      "claude": "ABSTAIN"
+    },
+    "reviewedAt": "2026-05-19T16:03:53Z"
+  },
+  {
+    "title": "US and China Initiate Formal AI Safety and Guardrail Discussions",
+    "date": "2026-05-17",
+    "description": "Following a visit to Beijing by President Trump, China agreed to engage in formal discussions with the United States regarding AI safety and the implementation of guardrails. Treasury Secretary Scott Bessent highlighted the primary goal as preventing non-state actors from acquiring advanced AI models.",
+    "category": "Policy",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGL4ezDkkyPhx4Q9OMWRmof8DAv9e23FtvbR4oIaB7LeQP7lG3z_SJfCWSGTHXjlgrBlBBu4aGLkStjvNpme2SQ13JZbz8R5XbQALJjvyiaLFRut0r2-kuCtbTcCTAoOaHjgu_tImf2yGMwpQpb_9Ci3QHwYYW0WpuC4ASwqqN377Bg9Dhj-Ocg8_xYFshsjxri88DY_vlCiBeTtXQ==",
+        "label": "washingtonpost.com"
+      }
+    ],
+    "votes": {
+      "accept": 0,
+      "reject": 0,
+      "gemini": "ABSTAIN",
+      "gpt": "ABSTAIN",
+      "claude": "ABSTAIN"
+    },
+    "reviewedAt": "2026-05-19T16:05:36Z"
+  },
+  {
+    "title": "Isomorphic Labs Secures $2.1 Billion Series B for AI Drug Discovery",
+    "date": "2026-05-17",
+    "description": "Google DeepMind spinout Isomorphic Labs successfully closed a massive $2.1 billion Series B funding round. This significant investment indicates a market shift, with institutional investors now viewing AI-driven drug discovery as a mature commercial category rather than solely a research endeavor.",
+    "category": "Funding",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEGaV5NwonsN3b6LD8MOCjHADNqfHLQRv1nTNpo9uzIj2QZ_71ScsY3u_5u3Mo1q5SV1CJRGLmnINkqfqa5SzEOpMG8au_D3cIlOF0VyzKC5TYK69BnnBVt9uee02Zms4eOqSPgnOtgnqSZqBihjBn32zN1XpTT9MVE",
+        "label": "buildfastwithai.com"
+      }
+    ],
+    "votes": {
+      "accept": 0,
+      "reject": 0,
+      "gemini": "ABSTAIN",
+      "gpt": "ABSTAIN",
+      "claude": "ABSTAIN"
+    },
+    "reviewedAt": "2026-05-19T16:07:20Z"
+  },
+  {
+    "title": "Standard Chartered to Cut 15% of Support Staff by 2030, Citing AI Integration",
+    "date": "2026-05-19",
+    "description": "Standard Chartered CEO Bill Winters announced plans to reduce the bank's support staff by over 15%, equating to thousands of roles, by 2030. Winters explicitly stated that the bank aims to replace 'lower-value human capital' with AI to enhance and streamline global operations.",
+    "category": "Industry Structure",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGul3yXYZoBmbkHWna_Ng4KryXo8TgKf7kuHi7GoFysCgOynYBX9NJZVrnLjDZcLSiKfVlos7ZrxztamXHnr7PJL3XjtLcWL2iBBt5-KM12rdSXiSMoPHg8Xfcy8VZFXXERieyq3hetwZ00IgUcDnM3BbWfjZ-vzKkYuDng2wO-DdwkuFtrUDRFf_thvSDxUAjjk6763tcOgwAVis08eLCgiet5X6B4VFOpmbPY",
+        "label": "staffingindustry.com"
+      }
+    ],
+    "votes": {
+      "accept": 0,
+      "reject": 0,
+      "gemini": "ABSTAIN",
+      "gpt": "ABSTAIN",
+      "claude": "ABSTAIN"
+    },
+    "reviewedAt": "2026-05-19T16:09:03Z"
   }
 ]
