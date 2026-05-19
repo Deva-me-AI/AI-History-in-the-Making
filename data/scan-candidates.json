@@ -1,1 +1,89 @@
-{"scanDate":"2026-05-19","candidates":[],"questionUpdates":[]}
+{
+  "scanDate": "2026-05-19",
+  "candidates": [
+    {
+      "title": "Pope Leo XIV to Release Encyclical on AI Ethics, Partnering with Anthropic",
+      "date": "2026-05-18",
+      "description": "The Vatican announced that Pope Leo XIV will release his first encyclical, *Magnifica Humanitas* ('Magnificent Humanity'), on May 25, focusing on human dignity in the AI era. Anthropic co-founder Christopher Olah will join the Pope for the launch, signaling a unique moral alliance on AI safety.",
+      "category": "Policy",
+      "significance": "This collaboration between a major religious institution and a leading AI company on ethical AI development could establish a global precedent for moral frameworks in AI, influencing future policies and public discourse for decades.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqLAhKnyXGE79mZVk9JoevHQc0etGgm8epMjs9ZO5DXOfGsjHiWMA9XCnoIiE5e_jlb6EEJPvHuIn52nCd9RjAk5lTfc8wSnMmWjcE5wKLrDRc-gCs9J__XngXmWkOjWnBrYLnBUubT8SVbu8srtT8txmOjXrzbUcce3Vko_RuAwROPT0BQJ4Jm5XFYGQEtlV6fB40lyyqsPA7pwo0W88ABtCphmSLxERX4_A==",
+          "label": "ncronline.org"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFzxBUsI_4EqIgW-IJWx7imUKOf4k2rwBoDLUT6L4NNHT5mCUvdTGwTZYVfv6heiQz6XP4ZQXC9s21JENFsgNxTjbb0PINlqfpG3KVDnnbQN9LfQd1TieV1gSLd3ZsfW7sEUB3zJAMIcQUyKw2MJQ83Qqvgsm2l4xGNhWexE35KPWcuaH_bPrmOoe4vX9AcgpfrOj01a1kHbI1PyxNlwPLAB2xcwmDtESZ",
+          "label": "wral.com"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGj2zk0SgFb1Alt8Q_nmEUhsQfcf1wq0LTadUK7DxJLNi3ab_Ra9SWB6nzrBgnsF2v7CgE2geF4P0eFuYp8Cj5tzI5XkVL2lALxtXwDE2xWe65wzOaejVxjUKeDIY35RWpGqs7BijQotOXwAzsCsV6TI3Ho1YHJAvAyU2cb3u9q6bz1ouwpzQ2fbN7fQSqmWVUM7rBKPcE8fvOnU-yHrABX0He7y3AIba_nOIWs",
+          "label": "catholicworldreport.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "U.S. and China to Begin Formal AI Safety Framework Discussions",
+      "date": "2026-05-18",
+      "description": "Following a visit to Beijing by President Trump, U.S. Treasury Secretary Scott Bessent announced that the U.S. and China will commence formal discussions to develop a framework for the 'responsible use' of AI, aiming to balance U.S. leadership with preventing non-state actors from accessing powerful models.",
+      "category": "Policy",
+      "significance": "Direct, high-level talks between the world's two leading AI powers on safety and governance are critical for global AI stability. This initiative could shape international norms and regulations, profoundly impacting geopolitical relations and AI development trajectories.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEHoeZWgI704hNOthr9z5wTbaFr3IkN9I7T9M40kEjZm_vgvcXQJx39o8Q6OFejqS5L3tbjZhr268sNG9S7IRv4kmEZr4GYkHVUz90poio37cMm30gayI_FHoL3g5lwSyrYuqELQMRIgfi3rS7AJSMI3FWbi2A4uPC6toO8qnrzs_Fdo9F-4D5DU_iO2rJ_biY6bqIYhJoMEdSkx7U=",
+          "label": "washingtonpost.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Anthropic Continues Lawsuit Against U.S. Government Over AI Military Use",
+      "date": "2026-05-18",
+      "description": "Tensions escalated as Anthropic continued its lawsuit against the U.S. government. The administration previously ordered agencies to cease using Anthropic technology after the company refused to allow unrestricted military use of its AI models.",
+      "category": "Military & Security",
+      "significance": "This legal battle sets a critical precedent for the boundaries of corporate autonomy versus national security interests in AI development, particularly concerning military applications. Its outcome will define the private sector's role and ethical obligations in the military-AI complex.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHFzxBUsI_4EqIgW-IJWx7imUKOf4k2rwBoDLUT6L4NNHT5mCUvdTGwTZYVfv6heiQz6XP4ZQXC9s21JENFsgNxTjbb0PINlqfpG3KVDnnbQN9LfQd1TieV1gSLd3ZsfW7sEUB3zJAMIcQUyKw2MJQ83Qqvgsm2l4xGNhWexE35KPWcuaH_bPrmOoe4vX9AcgpfrOj01a1kHbI1PyxNlwPLAB2xcwmDtESZ",
+          "label": "wral.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Leaks Ahead of Google I/O Point to Gemini 4.0, Aluminium OS, and Android XR Glasses",
+      "date": "2026-05-18",
+      "description": "On the eve of Google I/O 2026, leaks suggested Google is set to unveil Gemini 4.0, a new 'Aluminium OS' (an Android-based ChromeOS replacement), and Android XR Glasses developed in partnership with Samsung and Warby Parker.",
+      "category": "Model Release",
+      "significance": "The launch of Gemini 4.0, coupled with a new foundational operating system and integrated XR hardware, represents a major platform shift for Google. This could redefine human-computer interaction, accelerate ambient computing, and significantly reshape the tech industry landscape.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHXWIE4crBXA8-6awL7RNqnXXgHLIxjlyTT4VTQCY5mRNTlLYzIP8sgXSp5Md_d9YjefnK6JnEdti8gEVtqdcqtnitESzR-xo8EeNx1BzgV9GA-ZDDyGCTWLGfJnfIhpW48pKspy2abe15SPqDGXGUrvLCuFnL-w4BX",
+          "label": "buildfastwithai.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "China Launches National Embodied AI Application Pilot Base in Hangzhou",
+      "date": "2026-05-17",
+      "description": "At the Hangzhou Embodied AI Conference, China unveiled its National AI Application Pilot Base for 'Embodied AI.' This initiative forms a massive industry alliance, including key players like Unitree Robotics and Moore Threads, to accelerate the development of AI systems capable of interacting with the physical world.",
+      "category": "Infrastructure",
+      "significance": "China's strategic establishment of a national-level base for Embodied AI signals a concentrated effort to lead in a critical domain of AI. This will have profound long-term implications for robotics, advanced manufacturing, and the global balance of AI technological power.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFtiqlhFOiEmp5Dc2NqclbbzyDSYUNOCh8eHk5sYCWC6nyfMTx6tPSJc6M9C0uyakerbbBF1EFCF1bVTFFC__4Ytwp7epdRTosneY_AeO8YpFA97e0i_hPnmcw5hJ8N9RAj_tOwI3Is16x_VM0ZFwGucqMtiFzwbd3WMNmw7yXpzz7jme2ZJRjFwNOLBFJiA2sk8-zEjLGUqa_u-vxnscYiv6rndy7po6hZ6fywAjnX3bOhdn7kacHcJlHBBap_IUw2YrU6dBZ6XA==",
+          "label": "metal.com"
+        }
+      ],
+      "type": "timeline_event"
+    }
+  ],
+  "questionUpdates": []
+}
