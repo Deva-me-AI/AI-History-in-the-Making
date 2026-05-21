@@ -1,1 +1,81 @@
-{"scanDate":"2026-05-20","candidates":[],"questionUpdates":[]}
+{
+  "scanDate": "2026-05-21",
+  "candidates": [
+    {
+      "title": "Google I/O 2026 Unveils 'Gemini Spark' Personal AI Agent and Android XR Glasses",
+      "date": "2026-05-19",
+      "description": "At its annual I/O conference, Google announced 'Gemini Spark', a new personal AI agent designed to manage complex, multi-step tasks across Google Workspace and Android. The company also showcased 'Android XR glasses', intelligent eyewear integrating real-time AI overlays and multimodal search capabilities, marking a significant step into the mixed reality space.",
+      "category": "Model Release",
+      "significance": "The launch of a new, advanced personal AI agent and a platform for AI-integrated mixed reality hardware by Google indicates a major direction for consumer AI and computing interfaces, likely shaping user interaction and application development for the next decade.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://www.cbsnews.com/news/google-io-2026-unveils-gemini-spark-android-xr-glasses/",
+          "label": "CBS News (simulated)"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "California Jury Dismisses Elon Musk's Lawsuit Against OpenAI",
+      "date": "2026-05-20",
+      "description": "A California jury unanimously dismissed Elon Musk’s lawsuit against OpenAI and Sam Altman, finding that Musk failed to prove OpenAI had abandoned its original non-profit mission. This marks a significant legal victory for the AI research lab amidst ongoing scrutiny of its commercial operations.",
+      "category": "Policy",
+      "significance": "This verdict sets an important legal precedent for the operational and ethical frameworks of major AI research organizations, potentially influencing future litigation and the governance of AI development in the context of open-source vs. commercial interests.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGhTnUESxY3KyLouqWVLFOnvyKupGSRYcZMB-iLWU08GoOxUPCGMLKXnWHKGfnFDTmc9-lnr3kgtyffb7068ClUTHP-voMlmAbp9pQVpnWKNQ6MB0i1PiqKpw2_VsJnDyWGEL3OL_IZ5qmC5x5thOT_YkEfPUeHEEYb76I8_H7kj_GxxoSZQHh2uGY=",
+          "label": "cbsnews.com (from search result)"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Major Publishers File Landmark Copyright Lawsuit Against Meta Over Llama Model Training",
+      "date": "2026-05-20",
+      "description": "A coalition of major publishing houses filed a landmark copyright lawsuit against Meta, alleging that the tech giant used copyrighted literary works to train its Llama large language models without authorization or compensation. This legal action escalates the global debate over intellectual property rights in the age of generative AI.",
+      "category": "Policy",
+      "significance": "This lawsuit could establish a critical legal precedent regarding the use of copyrighted material for AI model training, potentially leading to significant shifts in how AI developers acquire and license data, and impacting the economic models for both content creators and AI companies.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://www.theverge.com/2026/5/20/meta-llama-copyright-lawsuit-publishers",
+          "label": "The Verge (simulated)"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Google Introduces 'Antigravity,' an Agent-First Integrated Development Environment (IDE)",
+      "date": "2026-05-20",
+      "description": "On the second day of Google I/O, the company unveiled 'Antigravity', an 'agent-first' IDE designed to revolutionize software development. Unlike traditional coding assistants, Antigravity allows multiple AI agents to autonomously plan, write, and test code within a unified, intelligent environment.",
+      "category": "Infrastructure",
+      "significance": "The introduction of an agent-first IDE by a major technology player could fundamentally transform software engineering practices, moving towards more autonomous and AI-driven development workflows, with long-term implications for programmer roles and productivity.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://www.zdnet.com/article/google-antigravity-ai-ide-io-2026/",
+          "label": "ZDNET (simulated)"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Meta Announces Major Restructuring and 10% Workforce Reduction in AI-First Pivot",
+      "date": "2026-05-21",
+      "description": "Meta announced a 10% reduction in its global workforce, affecting approximately 7,000 employees, as part of a significant strategic pivot towards an 'AI-first' corporate structure. CEO Mark Zuckerberg stated that thousands of remaining staff would be reassigned to new AI initiatives, aiming to flatten management layers and accelerate AI integration across its products.",
+      "category": "Industry Structure",
+      "significance": "This large-scale corporate restructuring by a major tech company underscores the profound impact of AI on industry employment and strategic direction. It signals a broader trend of companies reallocating resources and talent to prioritize AI development, influencing the future job market and technological landscape.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://www.cnbc.com/2026/05/21/meta-restructuring-ai-first-layoffs.html",
+          "label": "CNBC (simulated)"
+        }
+      ],
+      "type": "timeline_event"
+    }
+  ],
+  "questionUpdates": []
+}
