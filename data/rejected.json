@@ -1873,5 +1873,25 @@
       "claude": "ABSTAIN"
     },
     "reviewedAt": "2026-05-19T16:09:03Z"
+  },
+  {
+    "title": "Andrej Karpathy Joins Anthropic in Key AI Talent Shift",
+    "date": "2026-05-21",
+    "description": "Andrej Karpathy, a prominent AI researcher previously at OpenAI and Tesla, officially joined Anthropic, signaling a significant talent acquisition in the competitive landscape of leading AI research labs.",
+    "category": "Industry Structure",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEekvj1oHcv74U34stVvzSQTzjpL7tbM1nAJLzf7quEtCo5tRSuDsXwO6pJcxNbSjHpiZy0QBOvGYmEYL69jjPsWwkjujAxdjNNLHkuqWWTc520FYm2QAjORKGCNcC13J88NtTh3hJLE0LEDksqTNp_lCI05S_I0tdhwQc8G2oJLCYezvv1KhWmwa7WisPZlU3aZSecvOXWlDIav07s2AR6bU1VHz6hr9ZDya2uSMVKeQYADfoPb4nZZsiiJqX5nmXEOs0mzMynTiHBrPjOOL1n1agkP5bWjF9FlOKmYROFl7c2rrOq7dhLtiR4ZA==",
+        "label": "microsoft.com"
+      }
+    ],
+    "votes": {
+      "accept": 0,
+      "reject": 1,
+      "gemini": "REJECT",
+      "gpt": "ABSTAIN",
+      "claude": "ABSTAIN"
+    },
+    "reviewedAt": "2026-05-22T12:11:08Z"
   }
 ]

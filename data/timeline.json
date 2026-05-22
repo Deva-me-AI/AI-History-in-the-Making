@@ -6795,5 +6795,57 @@
       }
     ],
     "issueNumber": 605
+  },
+  {
+    "title": "Pentagon Reports 1,775% Increase in AI Use",
+    "date": "2026-05-20",
+    "description": "The U.S. Pentagon announced a staggering 1,775% increase in AI adoption across the Department of Defense over the past year, indicating a rapid expansion of artificial intelligence technologies within military operations.",
+    "category": "Military & Security",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEIjb_4rbccPhI7EVjzwSA7AqkoPqlc1PNEIA--5UN6BAtl7WubP0PiP2f5Fz6tT9oBDrWcRUtXkgALxsxOVjSPBk5cdZ9BoE7lRuFUGiB99Y4Tb1y0hwI9RXnP-aG1MAi6a1xjVfFbc8XFgo5DTGpibiRxYOlEp1tDVQXnVPfIaoA-ChSQa4TfI-N11VWpOjfxKa-W1hODRod9hp9Uj3ZR1st1QVDPlVsqnd69uhWZQJlIxhyzXIu_nJsO3BxA==",
+        "label": "war.gov"
+      }
+    ],
+    "issueNumber": 606
+  },
+  {
+    "title": "Pope Francis Publishes Landmark AI Encyclical",
+    "date": "2026-05-20",
+    "description": "Pope Francis issued a new Encyclical, outlining the Vatican's official stance on the moral, ethical, and societal implications of artificial general intelligence (AGI), providing guidance for responsible development and use.",
+    "category": "Policy",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGF7d2ghwBcE5P31k59xVhdr0JkbRWpq1z1oJ0xF6K9XUDRYmoH89dPo6vzTmSzxoa5D408imKfCh0wzPrOmF9uFtTcc1S30tj5RQW0CyAOQ28TA6jh360GRIiRleT4cwTCUbgKRn6svOjN57AzCmzYYVxCGWMMv9DpBMQ=",
+        "label": "deepser.com"
+      }
+    ],
+    "issueNumber": 607
+  },
+  {
+    "title": "President Trump Signs Executive Order for Frontier AI Model Review",
+    "date": "2026-05-21",
+    "description": "President Trump signed a new Executive Order mandating a 90-day safety and security review for all frontier AI models surpassing specific compute thresholds, aiming to enhance national security and responsible AI deployment.",
+    "category": "Policy",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEekvj1oHcv74U34stVvzSQTzjpL7tbM1nAJLzf7quEtCo5tRSuDsXwO6pJcxNbSjHpiZy0QBOvGYmEYL69jjPsWwkjujAxdjNNLHkuqWWTc520FYm2QAjORKGCNcC13J88NtTh3hLLE0LEDksqTNp_lCI05S_I0tdhwQc8G2oJLCYezvv1KhWmwa7WisPZlU3aZSecvOXWlDIav07s2AR6bU1VHz6hr9ZDya2uSMVKeQYADfoPb4nZZsiiJqX5nmXEOs0mzMynTiHBrPjOOL1n1agkP5bWjF9FlOKmYROFl7c2rrOq7dhLtiR4ZA==",
+        "label": "microsoft.com"
+      }
+    ],
+    "issueNumber": 609
+  },
+  {
+    "title": "California Governor Newsom Issues Executive Order on AI-Displaced Workers",
+    "date": "2026-05-21",
+    "description": "California Governor Gavin Newsom issued an executive order directing state agencies to develop support systems and initiatives for workers displaced by AI-driven layoffs, addressing the economic impact of automation.",
+    "category": "Policy",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEqnxgKQdIr6SsoETsojUK9zrhL7AiTkO1rK9NGiglChYQby4P4DIDSq86ARWGQeRO0VCr1p_vE1XvHNDz6cCFj3mEvxbMqboVT91PWFpYjSqjIV-n1fuppAAdt3dPTASDMiF41SiaUAnYxkPWLheaH7k2nO0yozHZ2wXSRt7xreon0NZ6VpJdT84DTG6F5nzB-jAIGPpfdnvAxqeMNFR3RoVnclTu00EccHoxbyMtM4-mXv6xWAA==",
+        "label": "capradio.org"
+      }
+    ],
+    "issueNumber": 610
   }
 ]
