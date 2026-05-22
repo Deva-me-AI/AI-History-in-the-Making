@@ -1,1 +1,81 @@
-{"scanDate":"2026-05-22","candidates":[],"questionUpdates":[]}
+{
+  "scanDate": "2026-05-22",
+  "candidates": [
+    {
+      "title": "Microsoft and EY Announce $1 Billion Investment in Enterprise Agentic AI",
+      "date": "2026-05-22",
+      "description": "Microsoft and EY announced a $1 billion investment to accelerate the implementation and scaling of agentic AI solutions for enterprise customers, signaling a major push for AI adoption in business.",
+      "category": "Funding",
+      "significance": "This significant investment highlights the growing confidence in agentic AI for enterprise applications, paving the way for widespread adoption and potentially reshaping business operations and competitive landscapes in the next five years.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGU600VGh491FSvkTT4duipDjXz7jHm2Cn4oQdgqrAKfMNaRYvAuUFVHPqROZWR5LbSSadDJgVnngcg3AdUJr-WcA9VqAe8XBteJ8c71OyJccJVBeIloRPRVOTmDrG2IqEvEkwKtuAKs3b9N3c5H_QueYZZKN4AxA1jlF50lLnjQuurJQ9O6PR9qW69vNl3D375Z9W5dt0WvOuahlzRt2u_YQ",
+          "label": "seekingalpha.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Trump Postpones AI Executive Order Amid Competitiveness Concerns",
+      "date": "2026-05-22",
+      "description": "President Trump officially postponed a highly anticipated executive order on AI oversight, citing concerns that strict regulations could hinder the U.S.'s ability to compete with China in the global AI race.",
+      "category": "Policy",
+      "significance": "The postponement of a key AI regulatory framework indicates a shift towards prioritizing national competitiveness in AI development. This decision could have profound long-term implications for the pace of innovation, ethical guidelines, and international dynamics in the AI landscape over the next five years.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGAlNgMZIauVCxRXuLuGejV4Scl2vegVznGcw0G9zxz_J5drk0NK17urs48UKwT57foaqeo-wArkvpcue2rkaFXg7DXfcTyBmyoou7JUZ3fMwnKbC3Yo9F9ffqROlzfP_Gl-kLM895aqfjeqAZrb22bGPvJRyaIguCNCXgViTpFr2AgWg6Cn68fSlk_Xz56QNxYwA",
+          "label": "altoonamirror.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "AI-Driven System for Genetic Diagnosis Unveiled at Texas Children's Hospital",
+      "date": "2026-05-22",
+      "description": "Researchers at Texas Children's Hospital announced a new AI-driven system capable of significantly simplifying and accelerating genetic diagnosis for complex neurological conditions.",
+      "category": "Research",
+      "significance": "This breakthrough demonstrates the transformative potential of AI in healthcare, particularly for expediting the diagnosis of severe genetic disorders. Its long-term impact will likely include earlier interventions, improved patient outcomes, and a template for AI integration into precision medicine globally.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBtgrn6FKzPyIaQvt6U1j92-NXLWwI_aRTTSXue-8ex3xRMvAKun2f3hND7AHMhHN7_CJYxU6k8AS7Z15eAHPLb8jHQvOaVw4mbAVD9bqOHlYYUQWjr7YPqbEpaN-zD_u0-nZZ71D_0QI6FLtTc_rHJD-BsxYPz5IZWUOuJ-w5ImU5COedLv2i3qsWhJWm-Q9tcPflePORmWavew",
+          "label": "texaschildrens.org"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Andrej Karpathy Joins Anthropic in Key Talent Shift",
+      "date": "2026-05-21",
+      "description": "Prominent AI researcher Andrej Karpathy, formerly of Tesla and OpenAI, announced he has joined Anthropic, signaling a significant shift in top-tier AI talent.",
+      "category": "Lab Formation",
+      "significance": "The recruitment of a highly influential AI figure like Karpathy by Anthropic could profoundly impact the direction and speed of Anthropic's research and development, potentially leading to new breakthroughs and intensifying the talent war among leading AI labs for years to come.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG8QQ3Rd6YHiF6JnE6pXX4XN8iWPyuVeWWbHB5LiO1HqEodf1ZSsON12L1mdlOyNrb8pMm4mp4n45kei9rr16kh2kA3W3sUrJdIcIjVVvIZUYh3eHG7gVVuse8frVRlfL15zaEHnH0mFVaX-WakRGSrMaG1QADaAR6hwSUxpXMpw23bbdd8vge3RK3RMvApJFvr-K0",
+          "label": "thedailyrecord.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Oscars Ban Fully AI-Generated Actors from Eligibility",
+      "date": "2026-05-21",
+      "description": "The Academy of Motion Picture Arts and Sciences established new rules banning fully AI-generated actors from eligibility for acting categories, sparking widespread debate across the entertainment industry.",
+      "category": "Policy",
+      "significance": "This landmark decision from a major cultural institution sets a critical precedent for how traditional creative industries will grapple with advanced AI. It signifies a move to protect human artistry and could shape future regulations, ethical guidelines, and the very definition of 'performance' in entertainment for decades.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG2hKlef-5NL8iZI3OFYAI0WUxILhwawRIdVtxi3ydlHhZnWhITYx9ft5ZOUSJtz1ToJuLrxx0YenttkTzub78t5dq-nEsrWTF-wsSScoXcQYKTUXveyA3-SdHxOAjQPgHUnQmRK0ReHt7Qf-TenWofAJDgvX-lc7gTCYnK_hY81Dg",
+          "label": "axios.com"
+        }
+      ],
+      "type": "timeline_event"
+    }
+  ],
+  "questionUpdates": []
+}
