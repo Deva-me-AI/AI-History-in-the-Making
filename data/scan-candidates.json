@@ -1,1 +1,81 @@
-{"scanDate":"2026-05-24","candidates":[],"questionUpdates":[]}
+{
+  "scanDate": "2026-05-24",
+  "candidates": [
+    {
+      "title": "Illinois Senate Advances AI Transparency and Risk Reporting Bill (SB 315)",
+      "date": "2026-05-22",
+      "description": "The Illinois Senate voted to advance SB 315, a bill requiring large AI developers to adopt transparency frameworks and report on catastrophic risk capabilities. This could set a precedent for state-level AI regulation in the US.",
+      "category": "Policy",
+      "significance": "High",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEI0ccCD7TLmmFrTzSqSxvgmEvYftH-KyQdW-1h7zwlb12I43JIydKs15avBEOaLPj7PI8ScnkSJZq4-X32QCTbuBcYAUi9h-AQusWZQWR-sgcriIwDYga3rL7DfnP4re9nMwiLkQvULoTXjBI59ATWANrUg_p9dvdz2gVGQX_wED25yiTFgWUN-qk-wb1Ik8f3KzbQmMabG5KXTeRlDUsVJcNTZ05Xqa87A==",
+          "label": "wttw.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "California Governor Issues Executive Order for AI Workforce Protections",
+      "date": "2026-05-22",
+      "description": "California Governor Gavin Newsom issued an executive order directing state agencies to build frameworks to protect workers from AI-driven displacement and ensure they share in productivity gains. This signals a growing focus on labor impacts of AI at the state level.",
+      "category": "Policy",
+      "significance": "Medium",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRqJQIXoq3v6WAj5PdrUOHONaNaydWqc4UvgRpUvc6U8s0xxAkYrBQN3iDYfWHPbOCwa9dOEB-0Bw6M2_K4GUbNrFgUk9OPFb3m-LunvF_FII-ddy8KqIJ40C-8S5_hDHdd1i_hYwmffsYvQVSCBruT1_u5XiWFxAbPKvGgqOeoAbLxWEHTudGVzv8DU5G54khHKbBOhkTMuSKND1wpX8BcX5R261CTOivDlRg_ExePgwfjb2FH-_flK_u0Dn7pSPkYcPXxvuHGmI4qmAUOr3chDPf0g==",
+          "label": "ca.gov"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "OpenAI Reportedly Prepares Confidential S-1 Filing for IPO",
+      "date": "2026-05-22",
+      "description": "Reports surfaced that OpenAI is preparing a confidential S-1 filing for an IPO, targeting a September listing with a valuation near $852 billion. This move would dramatically alter the financial landscape of the AI industry.",
+      "category": "Industry Structure",
+      "significance": "High",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEaKfCTrqtd2amBdFnxPgsRx_WLephU_WWFccRR1QaT1ilB_YMmYSAk-xROBnHeEwX2y3x_zxJUlzuCEnXnM4sxxWxEbAuKli-8j5c8-wZslnVoD6LoDmvUsNtfHNgSzEKlloj8CrCzPBzosWNE1TS-xjsKPP4dgWqMjw==",
+          "label": "buildfastwithai.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Anthropic Partners with Gates Foundation in $200 Million Initiative for AI in Global Health and Agriculture",
+      "date": "2026-05-22",
+      "description": "Anthropic announced a $200 million partnership with the Gates Foundation to develop AI solutions for healthcare and agriculture in underserved regions. This signifies a major investment in AI for social good and development.",
+      "category": "Funding",
+      "significance": "High",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEsdNL2FrekNwJKFIvKlzZ64fUAEY81XneyDknrr1rGAhCSkyih2vAtpyW_JyVwooobx4YqceBCTI7lGDUMndqJGDArL0yprV5Lnpghz9QlhPF1W1ZTxA620yhlqedwq3RSvbZzwT7pG6wJQjJAnPWfmqbD1gtJF4TAiiBx2vYPUudbjc_C4Ey0l1rb6tg==",
+          "label": "medium.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Microsoft Announces General Availability of \"Computer Use\" Agents in Copilot Studio",
+      "date": "2026-05-22",
+      "description": "Microsoft made generally available new agents in Copilot Studio that can visually navigate software interfaces, mimicking human interaction instead of relying solely on APIs. This represents a significant step towards more autonomous and versatile AI agents.",
+      "category": "Model Release",
+      "significance": "High",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH0lWVV7VWvR254cuu6vXl06acsWPuDdwmFWERQC31cGveXOFUDfFzV9W4EF-qdJCv6lVLZmnuCX0J-DTz6RUh3H3pFYJBDMJYZubP3kGvkLilQVsLh3swZkMkGwPX3hWCqX7mthltgwbBGsa6R_SMCALvS3QmzVAlspf7jMxBX7orul3yVFnelh96oUVuEZF10LIsrG6MXSHyUKpjEhaOHrxPG_SfSzxg==",
+          "label": "marketingprofs.com"
+        }
+      ],
+      "type": "timeline_event"
+    }
+  ],
+  "questionUpdates": []
+}
