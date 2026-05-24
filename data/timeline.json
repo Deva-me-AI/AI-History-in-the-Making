@@ -6912,5 +6912,74 @@
       }
     ],
     "issueNumber": 615
+  },
+  {
+    "title": "OpenAI Solves 80-Year-Old Math Mystery with AI",
+    "date": "2026-05-23",
+    "description": "OpenAI announced that an internal reasoning model autonomously disproved the Erdős Unit Distance Conjecture, a problem in discrete geometry that has stumped mathematicians since 1946. The 125-page proof was hailed by Fields Medalist Tim Gowers as a 'milestone in AI mathematics.'",
+    "category": "Research",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEekNDo98cxe7TAd-Zb4w4onsU0hLRiyzZsSTkW_xyPDFm99njpXX70Omv_RDEF9VpFKlB94AJHDDodhnE29J17FwC1jVnF5Sqhr7If4as_sBQfRFr1QeY0Rzd-4MCwssaWP8T91cNCuJLWp7se1Y4eb-3lKXvBchRhLw==",
+        "label": "buildfastwithai.com"
+      }
+    ],
+    "issueNumber": 616
+  },
+  {
+    "title": "Trump Scraps AI Safety Executive Order",
+    "date": "2026-05-23",
+    "description": "President Trump cancelled a planned executive order that would have established a 90-day safety review framework for frontier AI models. The decision reportedly followed direct calls from industry leaders like Elon Musk, Mark Zuckerberg, and David Sacks, who argued the regulations would hinder the U.S. lead over China.",
+    "category": "Policy",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEekNDo98cxe7TAd-Zb4w4onsU0hLRiyzZsSTkW_xyPDFm99njpXX70Omv_RDEF9VpFKlB94AJHDDodhnE29J17FwC1jVnF5Sqhr7If4as_sBQfRFr1QeY0Rzd-4MCwssaWP8T91cNCuJLWp7se1Y4eb-3lKXvBchRhLw==",
+        "label": "buildfastwithai.com"
+      },
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcO3cjh0At14Fw7Tf4B6zdnt_ytA4oWgMWug4yUMe6ecGpT8SfJNns-UD9uWoXEaIoMhkc4fRrDAGUwnqsTvvh_jef_sF55CJQwovqb9XcvtaPbQ5-bq_dyTUB5NQa41S1fCV7WAAfVPGtw3O8MACvwC_E4uFgF59HEfsH5qTE7rnCxY0",
+        "label": "theguardian.com"
+      }
+    ],
+    "issueNumber": 617
+  },
+  {
+    "title": "Anthropic's Claude Mythos Uncovers 10,000 Software Vulnerabilities",
+    "date": "2026-05-23",
+    "description": "Anthropic disclosed that its latest model, Claude Mythos, identified over 10,000 high-severity flaws in 'systemically important' software through its defensive 'Project Glasswing.' The model's extreme capabilities have sparked a geopolitical debate over the safety of releasing such powerful cybersecurity tools.",
+    "category": "Model Release",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFwFK-AnMVEBXtMiddhKA5AzM_l5AicCPKDvaU58uzhdqfobtXKFBrK8RO5OuMySXyxwoactQdmXDy8CVj10VCpHB8pzMqOecQ4wMPc5QuvVQK_xS4FPRu_-xiYi98lHsBUDU7P3ez6rB5-SsWDsGsSFe6_5DuT1QzzFJayuhKaRiI1uA==",
+        "label": "thehackernews.com"
+      }
+    ],
+    "issueNumber": 618
+  },
+  {
+    "title": "Anthropic Reaches Profitability, OpenAI Prepares for IPO",
+    "date": "2026-05-22",
+    "description": "Anthropic projected $10.9 billion in Q2 2026 revenue, marking its first-ever quarterly operating profit and is reportedly raising funds at a $900 billion valuation. Meanwhile, OpenAI is preparing a confidential S-1 filing, targeting a September 2026 listing at a valuation between $852 billion and $1 trillion.",
+    "category": "Industry Structure",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF-YZrxuNhYbgNqystrwPpmWWvxGnGTrkNIPtAVexpvJ2_6S0e61jn1cFpXTgbfxj6mbpN5qdDYTJ1vw6vKn-C-HkPDf4eGgIVRhyBEYfPA6E9G7KIrJoSSXMYAyv1T2NQoC-G990BkFgdW2x_IUfEl24_sruNnw8irSg==",
+        "label": "buildfastwithai.com"
+      }
+    ],
+    "issueNumber": 619
+  },
+  {
+    "title": "Google Unveils 'Agentic' Search Powered by Gemini 3.5 Flash",
+    "date": "2026-05-22",
+    "description": "Google unveiled a major redesign of Search powered by Gemini 3.5 Flash, introducing 'information agents' that can autonomously track topics (like apartment hunting) and perform tasks like booking appointments.",
+    "category": "Research",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUVVad-zmLSiQyfpZ7LpQX7Oh-g6klwH1wonfLdTPbpBRu7EM94gy9Y2x0U9Ux-8fK9Usiz6Qb8Z8VnhQTaeE5rp0p6QDaFeuEtKEUo0UqSKSlcL6nHqOUKd0ChSRSc_mFL0pG9yVnIIqAQm-Z0pGzDCjn8UslqBGracp8fpaie2cMun8JMv9DHfvbs7fl8gDBQ2DUdJe-cIZxislAt4OQrHm44ZRRCQU=",
+        "label": "marketingprofs.com"
+      }
+    ],
+    "issueNumber": 620
   }
 ]
