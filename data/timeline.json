@@ -7046,5 +7046,57 @@
       }
     ],
     "issueNumber": 625
+  },
+  {
+    "title": "Nvidia Shifts Strategic Focus to AI, Shelves Gaming GPU Plans",
+    "date": "2026-05-23",
+    "description": "Nvidia reportedly shelved its gaming GPU release plans for 2026, breaking a 30-year tradition. The company cited an ongoing memory-chip shortage and a strategic pivot toward its 'end-to-end AI ecosystem.' Data-center revenue now accounts for 90% of Nvidia's sales, signaling a permanent shift from its gaming roots to AI infrastructure.",
+    "category": "Industry Structure",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF56ANbANNNNxabVyqYFnTjYBhgX0P5d8do-TmjcpJz8IwctN08wiKVpJruBOFaBoYlKMQg8LN1gqHKsN6taSspkmuRvLVPYjFQ_nRNjcNru3wtOlQ9rEhkeO0sBkmf8_zdMg2DMpsD74SYXlcGmMkgE9HwlwX2Av03WUqkDemqL5dMAFultHk55aiRmr8wJvrOVz9omOOYOStkWPpFXZpS",
+        "label": "morningstar.com"
+      }
+    ],
+    "issueNumber": 626
+  },
+  {
+    "title": "Meta's 'Model Capability Initiative' Leak Reveals Employee Data Use for AI Training",
+    "date": "2026-05-23",
+    "description": "Leaked audio from a Meta all-hands meeting revealed the company tracked employee activity (including Gmail, internal chats, and VS Code sessions) to train its AI models on 'how smart people work.' The leak occurred on the same day Meta laid off approximately 8,000 employees, leading to significant internal and public backlash.",
+    "category": "Industry Structure",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFli4f-98mHaU9Pe4DXBUsms_KoiYq5sFVmZCBt9lek0pTOnPMcPhBmjgSLzm67U_eb6Zx5JOm_Ef0mCsZdnTRsOdr85FfNXWl16VC4AtFmTEdfn-ffjuB0vWe9wwsO9X0OyWoLtwQlioHOLQmtnhG9NO6JoMe22SxwmA==",
+        "label": "buildfastwithai.com"
+      }
+    ],
+    "issueNumber": 627
+  },
+  {
+    "title": "Google Gemini Spark to Support Model Context Protocol (MCP) for Autonomous Agents",
+    "date": "2026-05-23",
+    "description": "At I/O 2026, Google confirmed that Gemini Spark, a 24/7 personal agent, would soon support the Model Context Protocol (MCP), allowing it to operate autonomously within third-party applications like Canva, Instacart, and OpenTable.",
+    "category": "Research",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFli4f-98mHaU9Pe4DXBUsms_KoiYq5sFVmZCBt9lek0pTOnPMcPhBmjgSLzm67U_eb6Zx5JOm_Ef0mCsZdnTRsOdr85FfNXWl16VC4AtFmTEdfn-ffjuB0vWe9wwsO9X0OyWoLtwQlioHOLQmtnhG9NO6JoMe22SxwmA==",
+        "label": "buildfastwithai.com"
+      }
+    ],
+    "issueNumber": 628
+  },
+  {
+    "title": "Alibaba Unveils Zenwu M890 Chip Optimized for Agentic AI Reasoning",
+    "date": "2026-05-23",
+    "description": "Alibaba unveiled the Zenwu M890 chip, specifically optimized for multi-step reasoning and tool-calling rather than just raw inference speed.",
+    "category": "Infrastructure",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE9_DXadDrR0PEZpqyAEFSNW0cy_2i04IrE33wT1SySGEVA0qBlQRbXPRvIoN6nLGMEyh5Mad75K5QcwqCKeTbdnojW4tXBXR3jSFUazKSwg9WQa2A_lh_CQyzefrxdyRO2YfDsp6M=",
+        "label": "youtube.com"
+      }
+    ],
+    "issueNumber": 629
   }
 ]
