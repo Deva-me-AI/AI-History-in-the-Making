@@ -1,1 +1,21 @@
-{"scanDate":"2026-05-26","candidates":[],"questionUpdates":[]}
+{
+  "scanDate": "2026-05-26",
+  "candidates": [
+    {
+      "title": "Andrej Karpathy Joins Anthropic to Lead Pretraining Research",
+      "date": "2026-05-24",
+      "description": "Industry reports confirmed that Andrej Karpathy, co-founder of OpenAI and former Tesla lead, joined Anthropic to lead their pretraining research team, a move seen as a significant shift in the AI talent landscape.",
+      "category": "Industry Structure",
+      "significance": "High. Karpathy is a highly influential researcher in deep learning and AI. His move to Anthropic could significantly impact their pretraining strategy and research direction, potentially leading to new foundational models and approaches that shape the field in the coming years. This also reflects the intense talent competition and evolving power dynamics among leading AI labs.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://buildfastwithai.com",
+          "label": "buildfastwithai.com"
+        }
+      ],
+      "type": "timeline_event"
+    }
+  ],
+  "questionUpdates": []
+}
