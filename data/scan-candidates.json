@@ -2,92 +2,66 @@
   "scanDate": "2026-05-26",
   "candidates": [
     {
-      "title": "First Papal Encyclical on AI, \"Magnifica Humanitas,\" Calls for Disarmament of Technology",
+      "title": "Papal Encyclical 'Magnifica Humanitas' Calls for AI Disarmament and Global Regulation",
       "date": "2026-05-25",
-      "description": "Pope Leo XIV issued the first papal encyclical on artificial intelligence, titled \"Magnifica Humanitas,\" advocating for AI to be freed from monopolistic control and competitive arms races, and emphasizing that no algorithm can justify war. Anthropic co-founder Christopher Olah co-presented the document.",
+      "description": "Pope Leo XIV issued his first encyclical, 'Magnifica Humanitas', advocating for the 'disarming' of AI by removing it from purely military and economic competition and calling for global regulation to ensure AI serves the common good. Anthropic co-founder Chris Olah spoke at the launch.",
       "category": "Policy",
-      "significance": "This landmark encyclical establishes a foundational moral and ethical framework for AI development and governance from a major global religious authority, influencing international policy discussions, research ethics, and public perception for decades to come.",
+      "significance": "A major religious and ethical statement that could influence global AI governance and ethical considerations, setting a long-term precedent for societal engagement with AI development.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXYx6zvc5mnIgKn6HTJ8q4ZyIuTlfL6hAxsqBgZmSHk_OLGbe1--Ag_hO_fvYre_Hcn6qiGR4BrUjSMLSj4fAJiZypJge3FuQjVvvojBkMaocSfW-jyLy3aTP2spqeQvFRiWsoZbH6eD71P07puV6bfWjfR8N7mb6kFg==",
-          "label": "buildfastwithai.com"
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH456yZqF82-v9Gfe7cavMMVqof6A0uV0oOKQ1qVY2B72nTfHLsIfqmwdWkl9tcF-e9PrEl8dCWBo_CpmwbOqZ7LtPuVA6f9u6l7wSY0SbDP8N2nEydQzGGpB-57ew5Otqa3zLrcu7GeMWdQt6yqFAj0ZCuLv_5rhqrQCQYdaSxv3g=",
+          "label": "getmaxim.ai"
         },
         {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZ07emLeAzcifiYiA3irUrLHPpmRqG5EFFCudqpvvuqhYFUy92v3JK4D2YoNG_CzK-3yHeRWm1k36e1o93ZnWE_tNstklIVQhGeRcMLCaW-Q_Igb_BNLJznONsieVutXD7Kedc7Obdpyu-YYnubbBZ-o8CS6ER7olJHWvBs-8nI_kX3vuTR4c5tWM==",
-          "label": "time.com"
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEYdE6ZpdYgUuoB-_hGjs4mIRw5S1YOy-4w7NHZzYU0n_4FVGV9BSJVoCAyPNFz3jIQRlG-Zmgu2762yh1jn0t2hCAj31wg2cmq4EIBvseKofGXJ1mqhZfsoeSXPXVoaMOFz85AWAPHR_FXkSsSq5BFaNTyNFucUXbeda2IFeNfZaJzPbHRbNvK5wSoQd5Cd1u2ARd1KkH8v-nLyEGpPt7f8unMwqrpBIy4_tEFrsU=",
+          "label": "broadbandbreakfast.com"
         },
         {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcWBUL_bfpmB9NFTy2fdybI3HT23tOx7vwbc2KRFa_jtcWax1FYVgzyYO7L-NPKKkWrfv_4mYT24oO5pDEUWXnzGWiPkSvaHxxXFO_tI7mLYctlwQmTErWQ0ZtmaVEfG_tsO0gLJLExnVoXm1h4M32UUXWoykyy9gyG3yNTWU5AaSz-X9njS3FEkZC5787pyLsKZdVnKdwd31TvPi6O6xMzrEAeiwfB4ZJBhuC_jtGWEIMouuA-M_KDZJ3ea-h9DSNPw==",
-          "label": "latimes.com"
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG20cjX41-5EBySofBv05MWKS2fdu70X7C6SBR3s101zVVUuiB3oyk80Eo8UmsE90b_meji2FnRc9kQ_qhLPKm0KiLXdMMDQ5xjQ-gExTsHPJmVl-NSnm4a-DnHEqgPlDX3i3ctkaHbc8HT7ZGGio02kADBX5vx6ra07IVbtAMsZWPyQp6SwbE7maviEnuZG7hY5ZMorHIzjCBK6pKE1c2-PpjrB2i7O-SJgm5l4vSaGum4",
+          "label": "npr.org"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGFReTUlt5DZJ5f-J46kVCPgkZ9efuqigmEvZjAuUfbhq1abG0PS4Clfa6cgpHgKmYDhzsaokzUvLshs5eeVOq2lei9ZRd42rmzopmokkt4tWJLUvgnLkIrJGJQeDoi2YdIEPVp4bOJZY9S_OjM8TLTZzRMKH4JlRA=",
+          "label": "anthropic.com"
         }
       ],
       "type": "timeline_event"
     },
     {
-      "title": "Anthropic Nears $900 Billion Valuation, Surpassing OpenAI as Most Valuable Private AI Startup",
-      "date": "2026-05-26",
-      "description": "Anthropic is reportedly closing a $30 billion funding round, pushing its valuation past $900 billion, which would make it the world's most valuable private AI startup, exceeding OpenAI's $852 billion valuation.",
-      "category": "Funding, Industry Structure",
-      "significance": "This financial milestone indicates a significant shift in the competitive landscape of frontier AI model development, potentially leading to increased investment, accelerated innovation, and new strategic directions for major players in the AI industry over the next five years.",
-      "confidence": "high",
-      "sources": [
-        {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXYx6zvc5mnIgKn6HTJ8q4ZyIuTlfL6hAxsqBgZmSHk_OLGbe1--Ag_hO_fvYre_Hcn6qiGR4BrUjSMLSj4fAJiZypJge3FuQjVvvojBkMaocSfW-jyLy3aTP2spqeQvFRiWsoZbH6eD71P07puV6bfWjfR8N7mb6kFg==",
-          "label": "buildfastwithai.com"
-        },
-        {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHadtyM-lXi0z1w_6rXvCsIdke-y8zi25uJN8zylzaE17ySUhPnamq3jg-kXtUJLQDLZFRLW39PuUqeBPBsRhEWTKrCmKmFNTPigBZe7U0zHyOa9Z8putLWrFotOHt1xehv4gszSnsEzF0QALmBEdFdIhT8GvXlMvGZog==",
-          "label": "buildfastwithai.com"
-        }
-      ],
-      "type": "timeline_event"
-    },
-    {
-      "title": "NextEra Energy and Dominion Energy Announce $67 Billion Merger to Power AI Data Centers",
-      "date": "2026-05-26",
-      "description": "NextEra Energy and Dominion Energy announced a $67 billion merger, the largest utility merger in US history, specifically aimed at expanding the power grid to meet the escalating electricity demands of AI data centers.",
-      "category": "Infrastructure",
-      "significance": "This massive merger underscores the critical and rapidly growing energy demands of the AI industry, signaling a significant shift in infrastructure investment and potentially impacting energy policy, sustainability efforts, and the geographic distribution of AI development over the next five years.",
-      "confidence": "high",
-      "sources": [
-        {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXYx6zvc5mnIgKn6HTJ8q4ZyIuTlfL6hAxsqBgZmSHk_OLGbe1--Ag_hO_fvYre_Hcn6qiGR4BrUjSMLSj4fAJiZypJge3FuQjVvvojBkMaocSfW-jyLy3aTP2spqeQvFRiWsoZbH6eD71P07puV6bfWjfR8N7mb6kFg==",
-          "label": "buildfastwithai.com"
-        }
-      ],
-      "type": "timeline_event"
-    },
-    {
-      "title": "Flinders University AI System Acts as 'Smart Materials Discovery Engine' for Next-Gen Chips",
-      "date": "2026-05-26",
-      "description": "Researchers at Flinders University unveiled an AI system capable of rapidly predicting new gallium-based semiconductor materials for next-generation computer chips, significantly accelerating the materials discovery process compared to traditional methods.",
+      "title": "ICML 2026 Concludes with Focus on Agentic AI Architectures and Neural Network Theory",
+      "date": "2026-05-24",
+      "description": "The International Conference on Machine Learning (ICML) 2026 concluded in San Francisco, highlighting significant advancements and discussions in neural network theory, reinforcement learning, and the maturation of agentic AI architectures.",
       "category": "Research",
-      "significance": "This breakthrough demonstrates AI's profound impact on fundamental scientific research, particularly in materials science. It promises to dramatically speed up the development of advanced computing components and other technologies, influencing innovation across various industries for many years.",
+      "significance": "ICML is a premier AI research conference, and its focus areas indicate key directions for AI development over the next five years, particularly in foundational research for advanced AI systems.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwOI2kSArupuEeG_61jzsmE4_u7VWPUVyh5E9mm9WhWkum7BMuNelOYxMFNIuhNJhB-XCl0-R2VwCNzIAjTcwYLcKL26RyroZrK98eB79H4DRQ8d0Wc7Qkv3JRTmtixYqR3bUFt0ACO4XI5MfNhO54MMGm_LcsRlwCCwFxOHxLDco3MztEepgM11BcEnU8M1gKwLUIJ09VGcmg224sV35lhfOvUZ0hL8-STM2wpHxJipPaFA==",
-          "label": "flinders.edu.au"
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH456yZqF82-v9Gfe7cavMMVqof6A0uV0oOKQ1qVY2B72nTfHLsIfqmwdWkl9tcF-e9PrEl8dCWBo_CpmwbOqZ7LtPuVA6f9u6l7wSY0SbDP8N2nEydQzGGpB-57ew5Otqa3zLrcu7GeMWdQt6yqFAj0ZCuLv_5rhqrQCQYdaSxv3g=",
+          "label": "getmaxim.ai"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFNLo9HRxxh5GUGNoKAb935LpTB5xwxo32B8BPcGGDb7zn6X5lFUf9WFLVIcaEzTIvRamyr9R2ak91Yob4q7w8GsUUbgDQb7qYOifxPZM1Qyz4SAz7HSp7ykOijU56yo4ri4h3Hfp6aOic3zBs4I1MZTHpvE1vAHcsztLR4LG1mw71DarsPC0aNR7w_jtNTQd3UI1DUFvo=",
+          "label": "aibmag.com"
         }
       ],
       "type": "timeline_event"
     },
     {
-      "title": "Trump Administration Reportedly Scraps Key AI Safety Executive Order",
+      "title": "NVIDIA Context Memory Platform (CMX) Integrations Address LLM Memory Bottlenecks",
       "date": "2026-05-26",
-      "description": "Reports indicate that the Trump administration has rescinded a crucial AI Safety Executive Order following lobbying efforts from several tech billionaires, signaling a potential shift in the US government's approach to AI regulation and safety.",
-      "category": "Policy",
-      "significance": "The reversal of a significant AI safety directive by a major global power has profound implications for the future of AI governance, both domestically and internationally. This decision could influence the pace and direction of AI development, public trust, and regulatory frameworks for years, potentially leading to varied safety standards or increased risk.",
+      "description": "At a pre-COMPUTEX event, AIC hosted a panel revealing new hardware integrations with the NVIDIA Context Memory Platform (CMX) aimed at overcoming memory bottlenecks in Large Language Model (LLM) inference.",
+      "category": "Infrastructure",
+      "significance": "Addressing fundamental hardware limitations in LLM inference is crucial for scaling AI capabilities. Breakthroughs in memory infrastructure can significantly impact the efficiency and performance of future AI systems.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZ07emLeAzcifiYiA3irUrLHPpmRqG5EFFCudqpvvuqhYFUy92v3JK4D2YoNG_CzK-3yHeRWm1k36e1o93ZnWE_tNstklIVQhGeRcMLCaW-Q_Igb_BNLJznONsieVutXD7Kedc7Obdpyu-YYnubbBZ-o8CS6ER7olJHWvBs-8nI_kX3vuTR4c5tWM==",
-          "label": "time.com"
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH456yZqF82-v9Gfe7cavMMVqof6A0uV0oOKQ1qVY2B72nTfHLsIfqmwdWkl9tcF-e9PrEl8dCWBo_CpmpmwbOqZ7LtPuVA6f9u6l7wSY0SbDP8N2nEydQzGGpB-57ew5Otqa3zLrcu7GeMWdQt6yqFAj0ZCuLv_5rhqrQCQYdaSxv3g=",
+          "label": "getmaxim.ai"
         },
         {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGp2XnWn9wYBw53aJACmnj42CqI1IAt7WohLQwAJfn9ewpbSOkbbLKJRfkW3CJJDZtS2Hic42cE41n368OAG5QWW9tQOzl_hdYuKD4eyALZWFr5x1sz8wKefgJUFa0Ygungp6bU2YaxSINAHzQ0g6VApkRoYJ-vjUO2jzDUCOM0MveQWwWcVdZS2pRtxG5FB9hN7mb3kFg==",
-          "label": "theguardian.com"
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFUl9gDwMKy3huyq1PVsx07EDH-rmb6pKFbS4b480lT7VdIM78iRHwv4uz37eqMYyABi6rNzN91VvU5XTDBaxSMBGZyYg2DieDeicGf5b2Th1VvvqD42UlEwxFxxK4ie52UZjQF7kXyxsv3IyLSkHuOMY95BQF5Xw9wCrqP0A-zaNmK3EMtkCGcszVhhXWkxx02bW1GaVNPyw1cDAh4WWF9EyRTGBbbl4xOOUjr2zLNN761Vp5IDhEb68zPmS6cwVjWrMvA3Ztt_Axc4HqYPuJ8BmRaRCCMQAyFR8lP5Zj4h_jvrZnb-5M1SOpk_Es3eqxrK2dngGf9O5K_y65G7ZIcg=",
+          "label": "eqs-news.com"
         }
       ],
       "type": "timeline_event"
