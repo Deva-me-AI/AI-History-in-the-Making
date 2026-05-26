@@ -1,1 +1,66 @@
-{"scanDate":"2026-05-26","candidates":[],"questionUpdates":[]}
+{
+  "scanDate": "2026-05-26",
+  "candidates": [
+    {
+      "title": "OpenAI Files Confidential IPO Paperwork",
+      "date": "2026-05-26",
+      "description": "OpenAI confidentially filed paperwork for an initial public offering (IPO), following the resolution of significant legal challenges, including the dismissal of Elon Musk’s lawsuit.",
+      "category": "Industry Structure",
+      "significance": "This move by one of the leading AI research and deployment companies is expected to dramatically reshape the AI industry's financial landscape and corporate governance, setting a precedent for other major AI players.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGakxGVapj9JuVlO6OLL3JHwHSUfbZpNr4sBypoLpTxOzeD23SZATcpGuGqTAdXAl1J_txhJUUVa0h9Qo1EUX1JtBWpaK44_VNHxVB6BxON9Ntr2yRdevT3nutN6yem-raj_-dX2qJHMpX3Zrd80XmR0KzBUs2lfEZI",
+          "label": "buildfastwithai.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "OpenAI Model Solves 80-Year-Old Math Problem",
+      "date": "2026-05-25",
+      "description": "OpenAI announced that its latest AI model autonomously solved the 80-year-old Erdős-Turán conjecture on additive bases, marking a significant advancement in AI's mathematical reasoning capabilities.",
+      "category": "Research",
+      "significance": "This breakthrough demonstrates a major leap in AI's ability to tackle complex, unsolved mathematical problems, indicating a future where AI could significantly accelerate scientific discovery and theoretical advancements.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGakxGVapj9JuVlO6OLL3JHwHSUfbZpNr4sBypoLpTxOzeD23SZATcpGuGqTAdXAl1J_txhJUUVa0h9Qo1EUX1JtBWpaK44_VNHxVB6BxON9Ntr2yRdevT3nutN6yem-raj_-dX2qJHMpX3Zrd80XmR0KzBUs2lfEZI",
+          "label": "buildfastwithai.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Google Launches AI-Powered App Generation Tools",
+      "date": "2026-05-26",
+      "description": "Google released new AI-powered tools that enable developers to generate fully native Android applications, including Kotlin code and hardware integrations, directly from simple text prompts.",
+      "category": "Model Release",
+      "significance": "This innovation from Google has the potential to democratize app development, drastically reducing the time and expertise required to create functional applications, thus expanding the ecosystem of AI-driven software.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0zgEM1bkjiMyStnPKepNUWpH2ojAN_MDYvsiF8BXM74WkqzzfMBU09UHDn3coWVjb6mDx6hvtDE161i_30qLclurOUiJdJLfkSWwAfuBdBnXtY124LSFcq7_ezX1kaetFaWVzug==",
+          "label": "youtube.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Illinois Passes Comprehensive AI Legislation",
+      "date": "2026-05-26",
+      "description": "The state of Illinois passed the 'Consumer AI Notice Act' and the 'AI Companion Model Safety Act,' establishing new regulations for AI transparency, consumer protection, and the responsible development of AI companion models.",
+      "category": "Policy",
+      "significance": "These legislative actions in Illinois set a significant precedent for state-level AI regulation in the US, potentially influencing other states and contributing to a fragmented but evolving regulatory landscape for AI across the nation.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7vHwe49B3nP3DFs2xoaGVw_kf22sd56BqNXNNLvHj7_H1kbhLbdhHuKNPOOPqsNmfd6sB5ofTCkI_y42qMxJPnSinu47DSRmYACPi9rNCxVxORwUFB9xmTCVkdHV8Nu3-3PQwGJIVTtliaX6irhHIoBRaScN4paXY-xfEb9XDgPZf7d2ngw==",
+          "label": "jdsupra.com"
+        }
+      ],
+      "type": "timeline_event"
+    }
+  ],
+  "questionUpdates": []
+}
