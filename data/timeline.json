@@ -7098,5 +7098,86 @@
       }
     ],
     "issueNumber": 629
+  },
+  {
+    "title": "First Papal Encyclical on AI, \"Magnifica Humanitas,\" Calls for Disarmament of Technology",
+    "date": "2026-05-25",
+    "description": "Pope Leo XIV issued the first papal encyclical on artificial intelligence, titled \"Magnifica Humanitas,\" advocating for AI to be freed from monopolistic control and competitive arms races, and emphasizing that no algorithm can justify war. Anthropic co-founder Christopher Olah co-presented the document.",
+    "category": "Policy",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXYx6zvc5mnIgKn6HTJ8q4ZyIuTlfL6hAxsqBgZmSHk_OLGbe1--Ag_hO_fvYre_Hcn6qiGR4BrUjSMLSj4fAJiZypJge3FuQjVvvojBkMaocSfW-jyLy3aTP2spqeQvFRiWsoZbH6eD71P07puV6bfWjfR8N7mb6kFg==",
+        "label": "buildfastwithai.com"
+      },
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZ07emLeAzcifiYiA3irUrLHPpmRqG5EFFCudqpvvuqhYFUy92v3JK4D2YoNG_CzK-3yHeRWm1k36e1o93ZnWE_tNstklIVQhGeRcMLCaW-Q_Igb_BNLJznONsieVutXD7Kedc7Obdpyu-YYnubbBZ-o8CS6ER7olJHWvBs-8nI_kX3vuTR4c5tWM==",
+        "label": "time.com"
+      },
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHcWBUL_bfpmB9NFTy2fdybI3HT23tOx7vwbc2KRFa_jtcWax1FYVgzyYO7L-NPKKkWrfv_4mYT24oO5pDEUWXnzGWiPkSvaHxxXFO_tI7mLYctlwQmTErWQ0ZtmaVEfG_tsO0gLJLExnVoXm1h4M32UUXWoykyy9gyG3yNTWU5AaSz-X9njS3FEkZC5787pyLsKZdVnKdwd31TvPi6O6xMzrEAeiwfB4ZJBhuC_jtGWEIMouuA-M_KDZJ3ea-h9DSNPw==",
+        "label": "latimes.com"
+      }
+    ],
+    "issueNumber": 630
+  },
+  {
+    "title": "Anthropic Nears $900 Billion Valuation, Surpassing OpenAI as Most Valuable Private AI Startup",
+    "date": "2026-05-26",
+    "description": "Anthropic is reportedly closing a $30 billion funding round, pushing its valuation past $900 billion, which would make it the world's most valuable private AI startup, exceeding OpenAI's $852 billion valuation.",
+    "category": "Funding, Industry Structure",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXYx6zvc5mnIgKn6HTJ8q4ZyIuTlfL6hAxsqBgZmSHk_OLGbe1--Ag_hO_fvYre_Hcn6qiGR4BrUjSMLSj4fAJiZypJge3FuQjVvvojBkMaocSfW-jyLy3aTP2spqeQvFRiWsoZbH6eD71P07puV6bfWjfR8N7mb6kFg==",
+        "label": "buildfastwithai.com"
+      },
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHadtyM-lXi0z1w_6rXvCsIdke-y8zi25uJN8zylzaE17ySUhPnamq3jg-kXtUJLQDLZFRLW39PuUqeBPBsRhEWTKrCmKmFNTPigBZe7U0zHyOa9Z8putLWrFotOHt1xehv4gszSnsEzF0QALmBEdFdIhT8GvXlMvGZog==",
+        "label": "buildfastwithai.com"
+      }
+    ],
+    "issueNumber": 631
+  },
+  {
+    "title": "NextEra Energy and Dominion Energy Announce $67 Billion Merger to Power AI Data Centers",
+    "date": "2026-05-26",
+    "description": "NextEra Energy and Dominion Energy announced a $67 billion merger, the largest utility merger in US history, specifically aimed at expanding the power grid to meet the escalating electricity demands of AI data centers.",
+    "category": "Infrastructure",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEXYx6zvc5mnIgKn6HTJ8q4ZyIuTlfL6hAxsqBgZmSHk_OLGbe1--Ag_hO_fvYre_Hcn6qiGR4BrUjSMLSj4fAJiZypJge3FuQjVvvojBkMaocSfW-jyLy3aTP2spqeQvFRiWsoZbH6eD71P07puV6bfWjfR8N7mb6kFg==",
+        "label": "buildfastwithai.com"
+      }
+    ],
+    "issueNumber": 632
+  },
+  {
+    "title": "Flinders University AI System Acts as 'Smart Materials Discovery Engine' for Next-Gen Chips",
+    "date": "2026-05-26",
+    "description": "Researchers at Flinders University unveiled an AI system capable of rapidly predicting new gallium-based semiconductor materials for next-generation computer chips, significantly accelerating the materials discovery process compared to traditional methods.",
+    "category": "Research",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEwOI2kSArupuEeG_61jzsmE4_u7VWPUVyh5E9mm9WhWkum7BMuNelOYxMFNIuhNJhB-XCl0-R2VwCNzIAjTcwYLcKL26RyroZrK98eB79H4DRQ8d0Wc7Qkv3JRTmtixYqR3bUFt0ACO4XI5MfNhO54MMGm_LcsRlwCCwFxOHxLDco3MztEepgM11BcEnU8M1gKwLUIJ09VGcmg224sV35lhfOvUZ0hL8-STM2wpHxJipPaFA==",
+        "label": "flinders.edu.au"
+      }
+    ],
+    "issueNumber": 633
+  },
+  {
+    "title": "Trump Administration Reportedly Scraps Key AI Safety Executive Order",
+    "date": "2026-05-26",
+    "description": "Reports indicate that the Trump administration has rescinded a crucial AI Safety Executive Order following lobbying efforts from several tech billionaires, signaling a potential shift in the US government's approach to AI regulation and safety.",
+    "category": "Policy",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEZ07emLeAzcifiYiA3irUrLHPpmRqG5EFFCudqpvvuqhYFUy92v3JK4D2YoNG_CzK-3yHeRWm1k36e1o93ZnWE_tNstklIVQhGeRcMLCaW-Q_Igb_BNLJznONsieVutXD7Kedc7Obdpyu-YYnubbBZ-o8CS6ER7olJHWvBs-8nI_kX3vuTR4c5tWM==",
+        "label": "time.com"
+      },
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGp2XnWn9wYBw53aJACmnj42CqI1IAt7WohLQwAJfn9ewpbSOkbbLKJRfkW3CJJDZtS2Hic42cE41n368OAG5QWW9tQOzl_hdYuKD4eyALZWFr5x1sz8wKefgJUFa0Ygungp6bU2YaxSINAHzQ0g6VApkRoYJ-vjUO2jzDUCOM0MveQWwWcVdZS2pRtxG5FB9hN7mb3kFg==",
+        "label": "theguardian.com"
+      }
+    ],
+    "issueNumber": 634
   }
 ]
