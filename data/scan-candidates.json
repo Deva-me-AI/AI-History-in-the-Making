@@ -2,76 +2,54 @@
   "scanDate": "2026-05-27",
   "candidates": [
     {
-      "title": "EU AI Act 'Digital Omnibus' Agreement Reached, Imposing Immediate Prohibitions on AI-Generated Non-Consensual Intimate Imagery",
-      "date": "2026-05-27",
-      "description": "EU institutions reached a provisional political agreement on the Digital Omnibus on AI, an amendment to the EU AI Act. This agreement postpones certain high-risk AI obligations to late 2027 and 2028, but immediately prohibits AI-generated non-consensual intimate imagery ('nudifiers') and child sexual abuse material.",
-      "category": "Policy",
-      "significance": "High, this landmark agreement by a major global regulatory body establishes immediate legal boundaries for AI applications, setting a precedent for international AI governance and emphasizing ethical AI development.",
-      "confidence": "high",
-      "sources": [
-        {
-          "url": "https://www.gibsondunn.com/",
-          "label": "gibsondunn.com"
-        }
-      ],
-      "type": "timeline_event"
-    },
-    {
-      "title": "Microsoft Forecasts $190 Billion AI Capital Expenditure for 2026, Signaling Massive Infrastructure Investment",
+      "title": "OpenAI and Anthropic Launch Agentic AI for Wall Street",
       "date": "2026-05-26",
-      "description": "Microsoft significantly raised its 2026 AI capital expenditure forecast to $190 billion. The increase is attributed to the rising costs of memory and storage components, driven by the escalating demand for robust AI infrastructure.",
-      "category": "Infrastructure, Funding",
-      "significance": "High, this substantial financial commitment by a leading tech giant underscores the immense investment required to scale AI capabilities, indicating accelerated development and deployment of AI technologies across various sectors.",
-      "confidence": "high",
-      "sources": [
-        {
-          "url": "https://buildfastwithai.com",
-          "label": "buildfastwithai.com"
-        }
-      ],
-      "type": "timeline_event"
-    },
-    {
-      "title": "Anthropic's Next-Generation 'Claude Mythos' Model Leaks, Suggesting Earlier-Than-Expected Launch",
-      "date": "2026-05-26",
-      "description": "Leaked code preparations on GitHub indicate that Anthropic’s highly anticipated next-generation model, 'Claude Mythos,' may launch weeks ahead of schedule. The leaks included details on a new reasoning protocol called 'Strict Write Discipline' and references to a production variant of 'Opus 4.7.'",
-      "category": "Model Release",
-      "significance": "Medium-High, the early release of a new frontier model from a leading AI lab could significantly impact the competitive landscape for large language models, driving further innovation and application development.",
-      "confidence": "medium",
-      "sources": [
-        {
-          "url": "https://buildfastwithai.com",
-          "label": "buildfastwithai.com"
-        }
-      ],
-      "type": "timeline_event"
-    },
-    {
-      "title": "China Reportedly Restricts Overseas Travel for Top AI Researchers and Executives to Safeguard Domestic Expertise",
-      "date": "2026-05-27",
-      "description": "Reports emerged that the Chinese government has begun to restrict overseas travel for leading AI researchers and executives from private firms, including Alibaba and DeepSeek. This move is seen as an effort to retain and safeguard domestic AI expertise amidst intensified global competition in artificial intelligence.",
-      "category": "Policy, Industry Structure",
-      "significance": "High, this policy has profound implications for global AI talent mobility, international research collaboration, and the competitive balance between major AI-developing nations.",
-      "confidence": "high",
-      "sources": [
-        {
-          "url": "https://www.japantimes.co.jp/",
-          "label": "japantimes.co.jp"
-        }
-      ],
-      "type": "timeline_event"
-    },
-    {
-      "title": "Fujitsu Announces Strategic Partnership with OpenAI to Accelerate AI Transformation in Japan's Enterprise Sector",
-      "date": "2026-05-27",
-      "description": "Fujitsu revealed a strategic partnership with OpenAI, aimed at accelerating AI transformation within Japan’s enterprise sector. As part of this collaboration, Fujitsu will integrate OpenAI’s advanced models into its service offerings and deploy ChatGPT Enterprise and Codex across its global workforce, fostering new models of human-AI collaboration.",
+      "description": "OpenAI and Anthropic introduced specialized enterprise deployment arms, rolling out \"agentic\" tooling designed to automate trade execution, risk management, and compliance for major investment banks.",
       "category": "Industry Structure",
-      "significance": "Medium, this alliance between a prominent Japanese technology firm and a leading AI research company signifies the deepening integration of advanced AI capabilities into traditional enterprise solutions, promoting broader adoption and efficiency gains across industries.",
+      "significance": "This marks a major push of advanced AI into critical financial infrastructure, potentially transforming how Wall Street operates, leading to significant efficiency gains, but also raising new regulatory and ethical challenges. This could matter in 5+ years due to its impact on the global economy and job market in finance.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://www.fujitsu.com/global/",
-          "label": "global.fujitsu"
+          "url": "https://mean.ceo",
+          "label": "mean.ceo"
+        },
+        {
+          "url": "https://aibmag.com",
+          "label": "aibmag.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "SpaceX IPO Reveals Anthropic's $1.25 Billion Monthly GPU Compute Deal",
+      "date": "2026-05-27",
+      "description": "SpaceX's initial public offering prospectus disclosed that Anthropic is committed to paying SpaceX $1.25 billion per month for GPU compute resources until 2029. This revelation underscores the enormous infrastructure investments necessary for training and operating advanced AI models.",
+      "category": "Infrastructure",
+      "significance": "This deal showcases the critical importance of massive compute resources for leading AI labs and points to the emergence of specialized, high-cost infrastructure providers, potentially shaping the competitive landscape of AI development for years to come. This directly impacts the scalability and capabilities of future AI models, thus mattering in 5+ years.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://getmaxim.ai",
+          "label": "getmaxim.ai"
+        },
+        {
+          "url": "https://digitalmara.com",
+          "label": "digitalmara.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Google Launches Gemini 3.5 Flash and Gemini Spark at I/O 2026",
+      "date": "2026-05-24",
+      "description": "At Google I/O 2026, Google unveiled Gemini 3.5 Flash, a new, faster AI model, and Gemini Spark, a personal AI agent deeply integrated across the Android ecosystem. These releases aim to enhance speed and ubiquitous AI assistance for users.",
+      "category": "Model Release",
+      "significance": "The introduction of a faster model (Flash) and a deeply integrated personal agent (Spark) across Android signifies Google's strategic push for pervasive AI, potentially setting new standards for AI accessibility and user interaction on mobile devices, which will matter in 5+ years.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://aitoolsrecap.com",
+          "label": "aitoolsrecap.com"
         }
       ],
       "type": "timeline_event"
