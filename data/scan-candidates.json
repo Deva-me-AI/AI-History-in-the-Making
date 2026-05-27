@@ -2,76 +2,76 @@
   "scanDate": "2026-05-27",
   "candidates": [
     {
-      "title": "Google Launches Gemini Enterprise Agent Platform",
-      "date": "2026-05-26",
-      "description": "At Google Cloud Next '26, Google unveiled the Gemini Enterprise Agent Platform, a unified system designed for building and governing AI agents. This move positions Google as a direct competitor to existing enterprise AI offerings from OpenAI and Anthropic, signaling an aggressive push into the rapidly expanding market for AI-driven business solutions.",
-      "category": "Industry Structure",
-      "significance": "Establishes Google as a key player in the enterprise AI agent market, intensifying competition and driving innovation in AI-powered business solutions. This will shape how businesses adopt and manage AI agents in the coming years.",
-      "confidence": "high",
-      "sources": [
-        {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbW7mKPVVxXg0GN2ZIUaTBmHh9eQk_tQRPu2KPi7P1dypt-C2GnerIjLQ7dYabAdTrNRWpiRwQqtI72qAqGNvn5dbnTwrDYSB9VGPROqFiCO9d3FGmKxu8XG-6SAKkJg-ATojSQ9YG8FGSWefw0oMCOxwj7GnmViqnyg==",
-          "label": "buildfastwithai.com"
-        }
-      ],
-      "type": "timeline_event"
-    },
-    {
-      "title": "DeepSeek Makes Permanent 75% Price Cut",
-      "date": "2026-05-26",
-      "description": "DeepSeek announced a permanent 75% reduction in its AI infrastructure pricing. This aggressive strategic move is seen as escalating the ongoing AI infrastructure price war, aiming to attract a larger user base and increase accessibility to advanced AI computing resources.",
-      "category": "Industry Structure",
-      "significance": "A significant price reduction by a major AI provider will likely trigger further price competition across the industry, making AI infrastructure more affordable and accelerating its adoption across various sectors.",
-      "confidence": "high",
-      "sources": [
-        {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbW7mKPVVxXg0GN2ZIUaTBmHh9eQk_tQRPu2KPi7P1dypt-C2GnerIjLQ7dYabAdTrNRWpiRwQqtI72qAqGNvn5dbnTwrDYSB9VGPROqFiCO9d3FGmKxu8XG-6SAKkJg-ATojSQ9YG8FGSWefw0oMCOxwj7GnmViqnyg==",
-          "label": "buildfastwithai.com"
-        }
-      ],
-      "type": "timeline_event"
-    },
-    {
-      "title": "Canada Invests $2 Billion in Sovereign AI Compute Strategy",
-      "date": "2026-05-26",
-      "description": "The Digital Research Alliance of Canada announced a $15 million investment into a distributed compute grid, as part of a larger $2 billion federal 'Sovereign AI Compute' strategy. This initiative aims to keep AI research power within Canadian borders, safeguarding domestic expertise and fostering national AI capabilities.",
-      "category": "Policy",
-      "significance": "Reflects a growing global trend of nations investing heavily in domestic AI infrastructure and talent to maintain technological sovereignty and competitiveness, influencing international AI collaboration and competition for decades.",
-      "confidence": "high",
-      "sources": [
-        {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRi2HiU0ZgN_t-DBjsP7p89-N6l2yTJbhFq0cbO8nl6Caph3yX3jdjNdpXgfz2at7D5YvI8GCAYAQ7dysuVzicMMKxBY6M12tmP6LpEwQBKPYYX6OCLGIYjwc7gS0T3guY4m-EatiLpJxNbb7qddebESf1h3Ob5Jhh3PME94qxHKT0C_hbW0iGHJRbXlw==",
-          "label": "westernu.ca"
-        }
-      ],
-      "type": "timeline_event"
-    },
-    {
-      "title": "Supermicro and Verda Deploy Liquid-cooled NVIDIA Blackwell for Sustainable AI",
+      "title": "Google Unveils Gemini 3.5 Flash, Omni, and Spark, Advancing Multimodal and Agentic AI",
       "date": "2026-05-27",
-      "description": "Supermicro and European cloud provider Verda announced a partnership to deploy liquid-cooled NVIDIA Blackwell systems. This collaboration emphasizes sustainable AI, with data centers powered entirely by renewable energy and featuring excess heat repurposing to warm local homes, addressing the environmental impact of AI infrastructure.",
-      "category": "Infrastructure",
-      "significance": "This initiative sets a new standard for sustainable AI infrastructure development, crucial for mitigating the environmental footprint of AI and ensuring its long-term viability and public acceptance. It highlights the integration of advanced hardware with ecological solutions.",
+      "description": "Google announced the release of Gemini 3.5 Flash, a high-speed model optimized for coding and agentic workflows; Gemini Omni, a native multimodal system capable of processing text, image, audio, and video simultaneously; and Gemini Spark, a persistent autonomous agent designed to manage tasks across Google Workspace.",
+      "category": "Model Release",
+      "significance": "High. The release of new, advanced large language models and autonomous agents from Google represents significant progress in AI capabilities, especially in multimodal processing and agentic AI, which will shape future applications and development over the next 5+ years.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3st9EB9sDW-jOhU9eo9nwtVxGENL66RB_PonU59SY3N5qIC0c3uDl7MTZCo5no985nP04ZBVGcRrpl_Ms8GVc_cSbREbTt2Ndr08P5oc-gEj3zSvHg4NN9haG_lXbLlHzz2asjZKqnDzRYb6MdPVUoH4i1zqkmIjGl76CNnCudew5xOFLfky6MIZ4_KbjCx_0PkGgurq9N-B-LhH8bU00ZP00DdutY_ngmNsflWoZHnxJ2UAv2lxFI98blJaUZIuQia4RNnDnTE4YC4siFNiEmqwXs5VEG_BrwdCy_Ei45xAbngs6",
-          "label": "supermicro.com"
+          "url": "https://blog.google/technology/ai/gemini-3-5-flash-omni-spark-update/",
+          "label": "Google Blog"
         }
       ],
       "type": "timeline_event"
     },
     {
-      "title": "Workday Study Reveals AI Causes 'Connection Deficit' for Gen Z",
+      "title": "Anthropic's Project Glasswing Reveals Over 10,000 Software Vulnerabilities Using Claude Mythos Preview",
       "date": "2026-05-27",
-      "description": "A new global study by Workday found that while AI tools boost productivity (86%) and reduce employee burnout (62%), they also contribute to a 'connection deficit,' particularly affecting Gen Z workers who report increased loneliness and disconnection. This research highlights the complex social impacts of AI integration in the workplace.",
+      "description": "Anthropic reported that its unreleased Claude Mythos Preview model, part of 'Project Glasswing,' identified over 10,000 high- or critical-severity vulnerabilities in critical software infrastructure in its first month. The project involves collaboration with major cybersecurity partners to secure infrastructure before such advanced AI capabilities become widely available.",
       "category": "Research",
-      "significance": "This research sheds light on the critical social and psychological consequences of AI adoption, particularly concerning younger generations. Understanding and addressing this 'connection deficit' will be vital for designing future AI tools and workplace strategies to ensure human well-being alongside productivity gains.",
+      "significance": "High. This demonstrates a breakthrough in AI's capability for autonomous vulnerability discovery, with profound implications for cybersecurity, national security, and the future development of secure software systems. It highlights a shift in the cybersecurity landscape.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1uFUXnzcMP0QFOkJALwD5vYwiZtyMNW07mokIOEvYsYpXAsgXFRej6lMhbKFcYM4dShSIjR79uP3hFZM5jySPiF-Ojf1nYWuWSVjqu5yke-b08uUZmV7mNZHgWxWOJIFVNgFKZD1tzSaospjkuK15tRw2SPYgwGoAMJw446JOWe4onPRBPQo7gkJm8DaH0T5JhdbqL3XT4xHmDpYlLfDrxIi_BWAkohaYp_4SoNWh_xy9xkCaUtGzt2zFCI69rja4RUr3NuF2rB1JUsog7x47RgkLzsETpRmgLQSaGrw0C6DgcqkkCGdD6GvZTwuWGZDBLvcZJgJFrYhJxrglTQ==",
-          "label": "workday.com"
+          "url": "https://www.anthropic.com/news/project-glasswing-claude-mythos-preview",
+          "label": "Anthropic Newsroom"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "NVIDIA Declares 'AI Factory' Era with Blackwell Ultra and GB300 Systems Focused on Energy Efficiency",
+      "date": "2026-05-27",
+      "description": "NVIDIA officially positioned its Blackwell Ultra GB300 systems as the cornerstone of the 'AI Factory' era, emphasizing a massive leap in energy efficiency and cost-effectiveness for generative AI. The GB300 NVL72 system delivers up to 50 times more tokens per watt and a 35-fold reduction in cost per token for inference workloads compared to previous platforms.",
+      "category": "Infrastructure",
+      "significance": "High. This marks a critical development in AI hardware infrastructure, addressing the massive energy consumption of large-scale AI and signaling a strategic shift towards 'tokens per watt' efficiency, which will be vital for the sustainable and economic scaling of AI over the next 5+ years.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://www.nvidia.com/en-us/data-center/ai-factories-blackwell-ultra-gb300/",
+          "label": "NVIDIA Official"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "U.S. Congress Advances Bill to Shift AI Data Center Energy Costs to Operators, Not Consumers",
+      "date": "2026-05-26",
+      "description": "The 'Protecting Families from AI Data Center Energy Costs Act (H.R. 6529)' gained traction in the U.S. House of Representatives. The bill proposes that AI data centers, rather than residential consumers, bear the cost of electricity grid upgrades necessitated by their massive power demands, and mandates FERC to establish appropriate rate structures.",
+      "category": "Policy",
+      "significance": "High. This legislation directly addresses the burgeoning environmental and economic impact of AI infrastructure on national energy grids. It represents a significant policy move to regulate the cost burden and sustainability of AI development, with long-term implications for industry growth and consumer protection.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://www.mintz.com/insights/alerts/2026-05-26-congress-focuses-ai-data-center-energy-costs-hr6529",
+          "label": "Mintz Law Firm"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "I Squared Capital Acquires Data Center Portfolio for $225 Million to Boost AI Inference Infrastructure",
+      "date": "2026-05-26",
+      "description": "I Squared Capital announced the acquisition of a portfolio of 10 data center facilities from Cogent Fiber for $225 million in cash. This acquisition is intended to form a new U.S. data center platform specifically targeting AI inference, high-density deployments, and edge colocation, with an additional $1 billion committed for future expansion and upgrades.",
+      "category": "Funding",
+      "significance": "High. This significant private equity investment directly into specialized AI inference data center infrastructure highlights the escalating demand for dedicated computing resources. It signals a major financial commitment to building the physical backbone necessary for future AI deployment and growth, impacting the industry over the next 5+ years.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://www.businesswire.com/news/home/20260526005001/en/I-Squared-Capital-Acquires-Data-Center-Portfolio-from-Cogent-Fiber-for-225-Million",
+          "label": "Business Wire"
         }
       ],
       "type": "timeline_event"
