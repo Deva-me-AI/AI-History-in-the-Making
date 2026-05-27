@@ -1,1 +1,81 @@
-{"scanDate":"2026-05-27","candidates":[],"questionUpdates":[]}
+{
+  "scanDate": "2026-05-27",
+  "candidates": [
+    {
+      "title": "EU AI Act 'Digital Omnibus' Agreement Reached, Imposing Immediate Prohibitions on AI-Generated Non-Consensual Intimate Imagery",
+      "date": "2026-05-27",
+      "description": "EU institutions reached a provisional political agreement on the Digital Omnibus on AI, an amendment to the EU AI Act. This agreement postpones certain high-risk AI obligations to late 2027 and 2028, but immediately prohibits AI-generated non-consensual intimate imagery ('nudifiers') and child sexual abuse material.",
+      "category": "Policy",
+      "significance": "High, this landmark agreement by a major global regulatory body establishes immediate legal boundaries for AI applications, setting a precedent for international AI governance and emphasizing ethical AI development.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://www.gibsondunn.com/",
+          "label": "gibsondunn.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Microsoft Forecasts $190 Billion AI Capital Expenditure for 2026, Signaling Massive Infrastructure Investment",
+      "date": "2026-05-26",
+      "description": "Microsoft significantly raised its 2026 AI capital expenditure forecast to $190 billion. The increase is attributed to the rising costs of memory and storage components, driven by the escalating demand for robust AI infrastructure.",
+      "category": "Infrastructure, Funding",
+      "significance": "High, this substantial financial commitment by a leading tech giant underscores the immense investment required to scale AI capabilities, indicating accelerated development and deployment of AI technologies across various sectors.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://buildfastwithai.com",
+          "label": "buildfastwithai.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Anthropic's Next-Generation 'Claude Mythos' Model Leaks, Suggesting Earlier-Than-Expected Launch",
+      "date": "2026-05-26",
+      "description": "Leaked code preparations on GitHub indicate that Anthropic’s highly anticipated next-generation model, 'Claude Mythos,' may launch weeks ahead of schedule. The leaks included details on a new reasoning protocol called 'Strict Write Discipline' and references to a production variant of 'Opus 4.7.'",
+      "category": "Model Release",
+      "significance": "Medium-High, the early release of a new frontier model from a leading AI lab could significantly impact the competitive landscape for large language models, driving further innovation and application development.",
+      "confidence": "medium",
+      "sources": [
+        {
+          "url": "https://buildfastwithai.com",
+          "label": "buildfastwithai.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "China Reportedly Restricts Overseas Travel for Top AI Researchers and Executives to Safeguard Domestic Expertise",
+      "date": "2026-05-27",
+      "description": "Reports emerged that the Chinese government has begun to restrict overseas travel for leading AI researchers and executives from private firms, including Alibaba and DeepSeek. This move is seen as an effort to retain and safeguard domestic AI expertise amidst intensified global competition in artificial intelligence.",
+      "category": "Policy, Industry Structure",
+      "significance": "High, this policy has profound implications for global AI talent mobility, international research collaboration, and the competitive balance between major AI-developing nations.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://www.japantimes.co.jp/",
+          "label": "japantimes.co.jp"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Fujitsu Announces Strategic Partnership with OpenAI to Accelerate AI Transformation in Japan's Enterprise Sector",
+      "date": "2026-05-27",
+      "description": "Fujitsu revealed a strategic partnership with OpenAI, aimed at accelerating AI transformation within Japan’s enterprise sector. As part of this collaboration, Fujitsu will integrate OpenAI’s advanced models into its service offerings and deploy ChatGPT Enterprise and Codex across its global workforce, fostering new models of human-AI collaboration.",
+      "category": "Industry Structure",
+      "significance": "Medium, this alliance between a prominent Japanese technology firm and a leading AI research company signifies the deepening integration of advanced AI capabilities into traditional enterprise solutions, promoting broader adoption and efficiency gains across industries.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://www.fujitsu.com/global/",
+          "label": "global.fujitsu"
+        }
+      ],
+      "type": "timeline_event"
+    }
+  ],
+  "questionUpdates": []
+}
