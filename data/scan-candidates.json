@@ -1,1 +1,81 @@
-{"scanDate":"2026-05-27","candidates":[],"questionUpdates":[]}
+{
+  "scanDate": "2026-05-27",
+  "candidates": [
+    {
+      "title": "Google Launches Gemini Enterprise Agent Platform",
+      "date": "2026-05-26",
+      "description": "At Google Cloud Next '26, Google unveiled the Gemini Enterprise Agent Platform, a unified system designed for building and governing AI agents. This move positions Google as a direct competitor to existing enterprise AI offerings from OpenAI and Anthropic, signaling an aggressive push into the rapidly expanding market for AI-driven business solutions.",
+      "category": "Industry Structure",
+      "significance": "Establishes Google as a key player in the enterprise AI agent market, intensifying competition and driving innovation in AI-powered business solutions. This will shape how businesses adopt and manage AI agents in the coming years.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbW7mKPVVxXg0GN2ZIUaTBmHh9eQk_tQRPu2KPi7P1dypt-C2GnerIjLQ7dYabAdTrNRWpiRwQqtI72qAqGNvn5dbnTwrDYSB9VGPROqFiCO9d3FGmKxu8XG-6SAKkJg-ATojSQ9YG8FGSWefw0oMCOxwj7GnmViqnyg==",
+          "label": "buildfastwithai.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "DeepSeek Makes Permanent 75% Price Cut",
+      "date": "2026-05-26",
+      "description": "DeepSeek announced a permanent 75% reduction in its AI infrastructure pricing. This aggressive strategic move is seen as escalating the ongoing AI infrastructure price war, aiming to attract a larger user base and increase accessibility to advanced AI computing resources.",
+      "category": "Industry Structure",
+      "significance": "A significant price reduction by a major AI provider will likely trigger further price competition across the industry, making AI infrastructure more affordable and accelerating its adoption across various sectors.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEbW7mKPVVxXg0GN2ZIUaTBmHh9eQk_tQRPu2KPi7P1dypt-C2GnerIjLQ7dYabAdTrNRWpiRwQqtI72qAqGNvn5dbnTwrDYSB9VGPROqFiCO9d3FGmKxu8XG-6SAKkJg-ATojSQ9YG8FGSWefw0oMCOxwj7GnmViqnyg==",
+          "label": "buildfastwithai.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Canada Invests $2 Billion in Sovereign AI Compute Strategy",
+      "date": "2026-05-26",
+      "description": "The Digital Research Alliance of Canada announced a $15 million investment into a distributed compute grid, as part of a larger $2 billion federal 'Sovereign AI Compute' strategy. This initiative aims to keep AI research power within Canadian borders, safeguarding domestic expertise and fostering national AI capabilities.",
+      "category": "Policy",
+      "significance": "Reflects a growing global trend of nations investing heavily in domestic AI infrastructure and talent to maintain technological sovereignty and competitiveness, influencing international AI collaboration and competition for decades.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFRi2HiU0ZgN_t-DBjsP7p89-N6l2yTJbhFq0cbO8nl6Caph3yX3jdjNdpXgfz2at7D5YvI8GCAYAQ7dysuVzicMMKxBY6M12tmP6LpEwQBKPYYX6OCLGIYjwc7gS0T3guY4m-EatiLpJxNbb7qddebESf1h3Ob5Jhh3PME94qxHKT0C_hbW0iGHJRbXlw==",
+          "label": "westernu.ca"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Supermicro and Verda Deploy Liquid-cooled NVIDIA Blackwell for Sustainable AI",
+      "date": "2026-05-27",
+      "description": "Supermicro and European cloud provider Verda announced a partnership to deploy liquid-cooled NVIDIA Blackwell systems. This collaboration emphasizes sustainable AI, with data centers powered entirely by renewable energy and featuring excess heat repurposing to warm local homes, addressing the environmental impact of AI infrastructure.",
+      "category": "Infrastructure",
+      "significance": "This initiative sets a new standard for sustainable AI infrastructure development, crucial for mitigating the environmental footprint of AI and ensuring its long-term viability and public acceptance. It highlights the integration of advanced hardware with ecological solutions.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3st9EB9sDW-jOhU9eo9nwtVxGENL66RB_PonU59SY3N5qIC0c3uDl7MTZCo5no985nP04ZBVGcRrpl_Ms8GVc_cSbREbTt2Ndr08P5oc-gEj3zSvHg4NN9haG_lXbLlHzz2asjZKqnDzRYb6MdPVUoH4i1zqkmIjGl76CNnCudew5xOFLfky6MIZ4_KbjCx_0PkGgurq9N-B-LhH8bU00ZP00DdutY_ngmNsflWoZHnxJ2UAv2lxFI98blJaUZIuQia4RNnDnTE4YC4siFNiEmqwXs5VEG_BrwdCy_Ei45xAbngs6",
+          "label": "supermicro.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Workday Study Reveals AI Causes 'Connection Deficit' for Gen Z",
+      "date": "2026-05-27",
+      "description": "A new global study by Workday found that while AI tools boost productivity (86%) and reduce employee burnout (62%), they also contribute to a 'connection deficit,' particularly affecting Gen Z workers who report increased loneliness and disconnection. This research highlights the complex social impacts of AI integration in the workplace.",
+      "category": "Research",
+      "significance": "This research sheds light on the critical social and psychological consequences of AI adoption, particularly concerning younger generations. Understanding and addressing this 'connection deficit' will be vital for designing future AI tools and workplace strategies to ensure human well-being alongside productivity gains.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE1uFUXnzcMP0QFOkJALwD5vYwiZtyMNW07mokIOEvYsYpXAsgXFRej6lMhbKFcYM4dShSIjR79uP3hFZM5jySPiF-Ojf1nYWuWSVjqu5yke-b08uUZmV7mNZHgWxWOJIFVNgFKZD1tzSaospjkuK15tRw2SPYgwGoAMJw446JOWe4onPRBPQo7gkJm8DaH0T5JhdbqL3XT4xHmDpYlLfDrxIi_BWAkohaYp_4SoNWh_xy9xkCaUtGzt2zFCI69rja4RUr3NuF2rB1JUsog7x47RgkLzsETpRmgLQSaGrw0C6DgcqkkCGdD6GvZTwuWGZDBLvcZJgJFrYhJxrglTQ==",
+          "label": "workday.com"
+        }
+      ],
+      "type": "timeline_event"
+    }
+  ],
+  "questionUpdates": []
+}
