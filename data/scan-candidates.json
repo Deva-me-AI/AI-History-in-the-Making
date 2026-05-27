@@ -1,62 +1,77 @@
 {
-  "scanDate": "2026-05-26",
+  "scanDate": "2026-05-27",
   "candidates": [
     {
-      "title": "OpenAI Files Confidential IPO Paperwork",
+      "title": "Microsoft Raises 2026 AI Capital Expenditure Forecast to $190 Billion",
       "date": "2026-05-26",
-      "description": "OpenAI confidentially filed paperwork for an initial public offering (IPO), following the resolution of significant legal challenges, including the dismissal of Elon Musk’s lawsuit.",
-      "category": "Industry Structure",
-      "significance": "This move by one of the leading AI research and deployment companies is expected to dramatically reshape the AI industry's financial landscape and corporate governance, setting a precedent for other major AI players.",
+      "description": "Microsoft announced a significant increase in its AI capital expenditure forecast for 2026, reaching $190 billion. This $25 billion increase is attributed to rising costs for memory and storage components driven by surging AI demand, signaling a massive commitment to AI infrastructure development.",
+      "category": "Infrastructure",
+      "significance": "This unprecedented investment by a major tech giant directly impacts the foundational infrastructure of AI, guaranteeing a substantial increase in compute and storage capabilities for AI development and deployment. This will shape the landscape of AI innovation and accessibility for the next decade.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGakxGVapj9JuVlO6OLL3JHwHSUfbZpNr4sBypoLpTxOzeD23SZATcpGuGqTAdXAl1J_txhJUUVa0h9Qo1EUX1JtBWpaK44_VNHxVB6BxON9Ntr2yRdevT3nutN6yem-raj_-dX2qJHMpX3Zrd80XmR0KzBUs2lfEZI",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhnmUUpYrR_MLfMgUmtioSqLvIJB8uhk0WvNax01mB33n7yoqOGZfJ0vyVMqSrKWfZhIcULSo3ow-dbKd48h56emoa0JJOhw201Os8U8s-UteOsJRSUUHcYOqnsXxcj1TdFCdJqtT0cEBykvw_GnD7PNrHnWrSllEohg==",
           "label": "buildfastwithai.com"
         }
       ],
       "type": "timeline_event"
     },
     {
-      "title": "OpenAI Model Solves 80-Year-Old Math Problem",
-      "date": "2026-05-25",
-      "description": "OpenAI announced that its latest AI model autonomously solved the 80-year-old Erdős-Turán conjecture on additive bases, marking a significant advancement in AI's mathematical reasoning capabilities.",
-      "category": "Research",
-      "significance": "This breakthrough demonstrates a major leap in AI's ability to tackle complex, unsolved mathematical problems, indicating a future where AI could significantly accelerate scientific discovery and theoretical advancements.",
-      "confidence": "high",
-      "sources": [
-        {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGakxGVapj9JuVlO6OLL3JHwHSUfbZpNr4sBypoLpTxOzeD23SZATcpGuGqTAdXAl1J_txhJUUVa0h9Qo1EUX1JtBWpaK44_VNHxVB6BxON9Ntr2yRdevT3nutN6yem-raj_-dX2qJHMpX3Zrd80XmR0KzBUs2lfEZI",
-          "label": "buildfastwithai.com"
-        }
-      ],
-      "type": "timeline_event"
-    },
-    {
-      "title": "Google Launches AI-Powered App Generation Tools",
-      "date": "2026-05-26",
-      "description": "Google released new AI-powered tools that enable developers to generate fully native Android applications, including Kotlin code and hardware integrations, directly from simple text prompts.",
-      "category": "Model Release",
-      "significance": "This innovation from Google has the potential to democratize app development, drastically reducing the time and expertise required to create functional applications, thus expanding the ecosystem of AI-driven software.",
-      "confidence": "high",
-      "sources": [
-        {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE0zgEM1bkjiMyStnPKepNUWpH2ojAN_MDYvsiF8BXM74WkqzzfMBU09UHDn3coWVjb6mDx6hvtDE161i_30qLclurOUiJdJLfkSWwAfuBdBnXtY124LSFcq7_ezX1kaetFaWVzug==",
-          "label": "youtube.com"
-        }
-      ],
-      "type": "timeline_event"
-    },
-    {
-      "title": "Illinois Passes Comprehensive AI Legislation",
-      "date": "2026-05-26",
-      "description": "The state of Illinois passed the 'Consumer AI Notice Act' and the 'AI Companion Model Safety Act,' establishing new regulations for AI transparency, consumer protection, and the responsible development of AI companion models.",
+      "title": "China Reportedly Restricts Overseas Travel for Top AI Professionals",
+      "date": "2026-05-27",
+      "description": "Reports indicate that the Chinese government has begun restricting overseas travel for leading AI professionals working at private firms such as Alibaba and DeepSeek. This measure is perceived as an intensified effort to protect domestic AI technology and maintain a strategic advantage in the global AI race.",
       "category": "Policy",
-      "significance": "These legislative actions in Illinois set a significant precedent for state-level AI regulation in the US, potentially influencing other states and contributing to a fragmented but evolving regulatory landscape for AI across the nation.",
+      "significance": "This policy directly impacts the global flow of AI talent and intellectual exchange, signifying an escalation in nationalistic approaches to AI development. It could lead to a more bifurcated global AI ecosystem and accelerate indigenous innovation within China, while potentially hindering global collaborative research.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG7vHwe49B3nP3DFs2xoaGVw_kf22sd56BqNXNNLvHj7_H1kbhLbdhHuKNPOOPqsNmfd6sB5ofTCkI_y42qMxJPnSinu47DSRmYACPi9rNCxVxORwUFB9xmTCVkdHV8Nu3-3PQwGJIVTtliaX6irhHIoBRaScN4paXY-xfEb9XDgPZf7d2ngw==",
-          "label": "jdsupra.com"
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiO0LQD-715-JgJXOK59S-pgXNsbVxQk7yKYy-_qevUriP82P2Xc-y-n5w-Xt1jATHTEY1T2NKf9A_bo4sL07Rbzi0BV7h2OKdi-syPnx1qBo-UavHjiNarm6QRR5CYawG7Pn_UVobiBBiMyWCIjHl5Wnq_cTyNDRHRHoSeGQzHjy7WxCGvIh78QddK_I=",
+          "label": "japantimes.co.jp"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "EU Institutions Reach Provisional Agreement on 'Digital Omnibus on AI' Amendments",
+      "date": "2026-05-27",
+      "description": "EU institutions have reached a provisional political agreement on the 'Digital Omnibus on AI,' amending the existing AI Act. Key changes include a strict ban on AI systems that generate non-consensual intimate imagery and child sexual abuse material, and an official postponement of some high-risk AI compliance deadlines to late 2027 and 2028.",
+      "category": "Policy",
+      "significance": "These amendments to the seminal EU AI Act demonstrate the ongoing evolution of AI regulation, setting legal precedents for ethical AI use and liability, especially concerning harmful content generation. The extended compliance deadlines signal a pragmatic adjustment to implementation challenges, influencing global regulatory frameworks and corporate AI development strategies for years to come.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG-c3wBZJKy9qNYSLO-EIMAkwFQyL_fQh4DZootB-cFiRWE76fbL1xjZz3ueYjIwcl3BHPcIzQKQZHf7BXUe0fxRqG3r-xIk3OMCKDLHeRNQ1aX29xuRvs5j7BWGz4MDUBYtJmMEWmyXvYaWyypt946oaDgdOUFFJQLBUnd4v7wujCV_EnhT7_nGHWYxBnxKqiAe4LrOgPXRBFCIAU3kFnqy6-waFV7",
+          "label": "gibsondunn.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Fujitsu Announces Major Collaboration with OpenAI for AI Transformation in Japan",
+      "date": "2026-05-27",
+      "description": "Fujitsu has announced a significant partnership with OpenAI to accelerate AI transformation across Japan's enterprise sector. As part of this collaboration, Fujitsu will integrate OpenAI's advanced models, including ChatGPT Enterprise and Codex, into its service offerings, with a focus on applications in manufacturing, healthcare, and cybersecurity.",
+      "category": "Industry Structure",
+      "significance": "This collaboration signifies a critical step in the enterprise adoption of advanced AI models in a major economy. Fujitsu's integration of OpenAI's technology into core industries will drive widespread AI deployment, influence competitive dynamics in the Japanese market, and serve as a model for similar partnerships globally, shaping how AI is applied at scale.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQET-WHlCJDuf84PqPU4nNQ7iaX2YmJGApAbudeWFTo8n0BEKAkqIUA8-nI_33YpRoWSz8b4m-eMyByLNjBvSj08rdnInmdwmy_fwrUrGPP6slkH1Pv8lmMprUh7-wjPVXnkUn998VhPJIQYdyTSBZ1-5g==",
+          "label": "global.fujitsu"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Leaked Code Suggests Early Launch for Anthropic's Claude Mythos Model",
+      "date": "2026-05-26",
+      "description": "Leaked code found on GitHub indicates that Anthropic's next-generation AI model, Claude Mythos, may be released weeks ahead of its anticipated schedule. The leaks included references to a 'Strict Write Discipline' reasoning protocol and 'production Opus 4.7 thinking variant,' suggesting advanced capabilities.",
+      "category": "Model Release",
+      "significance": "The premature leak of a next-generation model from a leading AI research lab like Anthropic underscores the rapid pace of development and intense competition in the AI frontier. Claude Mythos, with its hinted advanced reasoning capabilities, could set new benchmarks for model performance and influence the direction of future AI research and application, impacting the industry for years.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFhnmUUpYrR_MLfMgUmtioSqLvIJB8uhk0WvNax01mB33n7yoqOGZfJ0vyVMqSrKWfZhIcULSo3ow-dbKd48h56emoa0JJOhw201Os8U8s-UteOsJRSUUHcYOqnsXxcj1TdFCdJqtT0cEBykvw_GnD7PNrHnWrSllEohg==",
+          "label": "buildfastwithai.com"
         }
       ],
       "type": "timeline_event"
