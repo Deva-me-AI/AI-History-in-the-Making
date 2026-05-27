@@ -7244,5 +7244,57 @@
       }
     ],
     "issueNumber": 639
+  },
+  {
+    "title": "EU AI Act 'Digital Omnibus' Agreement Reached, Imposing Immediate Prohibitions on AI-Generated Non-Consensual Intimate Imagery",
+    "date": "2026-05-27",
+    "description": "EU institutions reached a provisional political agreement on the Digital Omnibus on AI, an amendment to the EU AI Act. This agreement postpones certain high-risk AI obligations to late 2027 and 2028, but immediately prohibits AI-generated non-consensual intimate imagery ('nudifiers') and child sexual abuse material.",
+    "category": "Policy",
+    "sources": [
+      {
+        "url": "https://www.gibsondunn.com/",
+        "label": "gibsondunn.com"
+      }
+    ],
+    "issueNumber": 640
+  },
+  {
+    "title": "Microsoft Forecasts $190 Billion AI Capital Expenditure for 2026, Signaling Massive Infrastructure Investment",
+    "date": "2026-05-26",
+    "description": "Microsoft significantly raised its 2026 AI capital expenditure forecast to $190 billion. The increase is attributed to the rising costs of memory and storage components, driven by the escalating demand for robust AI infrastructure.",
+    "category": "Infrastructure, Funding",
+    "sources": [
+      {
+        "url": "https://buildfastwithai.com",
+        "label": "buildfastwithai.com"
+      }
+    ],
+    "issueNumber": 641
+  },
+  {
+    "title": "China Reportedly Restricts Overseas Travel for Top AI Researchers and Executives to Safeguard Domestic Expertise",
+    "date": "2026-05-27",
+    "description": "Reports emerged that the Chinese government has begun to restrict overseas travel for leading AI researchers and executives from private firms, including Alibaba and DeepSeek. This move is seen as an effort to retain and safeguard domestic AI expertise amidst intensified global competition in artificial intelligence.",
+    "category": "Policy, Industry Structure",
+    "sources": [
+      {
+        "url": "https://www.japantimes.co.jp/",
+        "label": "japantimes.co.jp"
+      }
+    ],
+    "issueNumber": 643
+  },
+  {
+    "title": "Fujitsu Announces Strategic Partnership with OpenAI to Accelerate AI Transformation in Japan's Enterprise Sector",
+    "date": "2026-05-27",
+    "description": "Fujitsu revealed a strategic partnership with OpenAI, aimed at accelerating AI transformation within Japan’s enterprise sector. As part of this collaboration, Fujitsu will integrate OpenAI’s advanced models into its service offerings and deploy ChatGPT Enterprise and Codex across its global workforce, fostering new models of human-AI collaboration.",
+    "category": "Industry Structure",
+    "sources": [
+      {
+        "url": "https://www.fujitsu.com/global/",
+        "label": "global.fujitsu"
+      }
+    ],
+    "issueNumber": 644
   }
 ]

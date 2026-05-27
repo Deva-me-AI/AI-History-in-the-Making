@@ -1893,5 +1893,25 @@
       "claude": "ABSTAIN"
     },
     "reviewedAt": "2026-05-22T12:11:08Z"
+  },
+  {
+    "title": "Anthropic's Next-Generation 'Claude Mythos' Model Leaks, Suggesting Earlier-Than-Expected Launch",
+    "date": "2026-05-26",
+    "description": "Leaked code preparations on GitHub indicate that Anthropic’s highly anticipated next-generation model, 'Claude Mythos,' may launch weeks ahead of schedule. The leaks included details on a new reasoning protocol called 'Strict Write Discipline' and references to a production variant of 'Opus 4.7.'",
+    "category": "Model Release",
+    "sources": [
+      {
+        "url": "https://buildfastwithai.com",
+        "label": "buildfastwithai.com"
+      }
+    ],
+    "votes": {
+      "accept": 0,
+      "reject": 1,
+      "gemini": "REJECT",
+      "gpt": "ABSTAIN",
+      "claude": "ABSTAIN"
+    },
+    "reviewedAt": "2026-05-27T12:02:30Z"
   }
 ]
