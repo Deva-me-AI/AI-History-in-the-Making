@@ -1,1 +1,85 @@
-{"scanDate":"2026-05-27","candidates":[],"questionUpdates":[]}
+{
+  "scanDate": "2026-05-28",
+  "candidates": [
+    {
+      "title": "Anthropic Closes $30 Billion Funding Round, Valuation Reaches $900 Billion",
+      "date": "2026-05-28",
+      "description": "Anthropic officially closed a $30 billion funding round, bringing its valuation to $900 billion, making it the world’s most valuable private AI startup, surpassing OpenAI’s $852 billion valuation.",
+      "category": "Funding",
+      "significance": "This massive valuation solidifies Anthropic's position as a dominant force in the AI landscape, reflecting significant investor confidence and reshaping the competitive dynamics and investment scale of the entire AI industry for years to come.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://buildfastwithai.com",
+          "label": "buildfastwithai.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Google Launches Gemini 3.5 Flash and Gemini Omni",
+      "date": "2026-05-28",
+      "description": "Google launched Gemini 3.5 Flash into general availability, making it the new default for AI Mode Search and reportedly outperforming Gemini 3.1 Pro on agentic benchmarks. Additionally, Google introduced Gemini Omni, a new multimodal model capable of conversational video editing and content generation across various modalities.",
+      "category": "Model Release",
+      "significance": "The release of Gemini 3.5 Flash as the default for AI Search signifies a major step in practical AI integration for consumers, while Gemini Omni's advanced multimodal capabilities push the boundaries of AI interaction and content creation, influencing future model development and applications.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnIyf61Af0b_49rANMG0x3VrIoVJ-LpcCQNIA8tIu1AFEC6rYqPsk4V5XPn2QSP4B1tMhOuyBD62QUBM-w_1hhhIJI-8cU4th5IqLV4--T6AZytYNTO_oV3cNF0TV1hcA_5j5__P7GyLkzcZw=",
+          "label": "aitoolsrecap.com"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE-1-V_ojLtmkYaYqBE9KyPXuh-i1YQQy751SDUnyWIFbT3F6XmdxiU7mN5u5FBXqQ2PQCVyc6zRrdmL4mxDD7vooQsgoXR-PKDL5FKICw9O74-vDPDqeYv8UiccVOQ1W7IJ2qrR_d6Y812rB2aMvgFXxIPeO8ECn82OPKY_RjWFwxZO20=",
+          "label": "substack.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Illinois House Passes AI Safety Measures Act (SB 315)",
+      "date": "2026-05-28",
+      "description": "The Illinois House unanimously passed SB 315, the Artificial Intelligence Safety Measures Act. If signed into law, it will be the first state legislation to mandate annual independent third-party audits of safety protocols for 'frontier' AI models.",
+      "category": "Policy",
+      "significance": "This act sets a crucial precedent for AI governance and regulation, potentially influencing future state, national, and international policies. It signifies a growing commitment to responsible AI development by introducing mandatory safety checks for advanced models, shaping the ethical and regulatory landscape for years.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQETIqGlS2-9z_7t_oEd8uySmcXoCQ9MUQjldmKB2jf6PgpVnBZu6qGTPmMAUE2LCDPWkua-TjBACPg56j0OZWQWUtuc7BfJDwqAQuZBsyDgSUCvb-IUpD6NyRLKJkjGipnoz_qMDb3mFrgDdbOaPQvF77G_CFm6w9CxvOuQclO21B1Ik4kGID6xv41TduBxxs8fj3XPCrAryuCZQcFZ815fpcVzoz_Yq5QXdWlHq0maPRpJxYYxYA=",
+          "label": "transparencycoalition.ai"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Microsoft Moves Computer-Using Agents in Copilot Studio to General Availability",
+      "date": "2026-05-28",
+      "description": "Microsoft has made its 'computer-using agents' in Copilot Studio generally available. These agents are designed to navigate desktop and web applications, clicking and filling forms like a human user, without the need for APIs.",
+      "category": "Model Release",
+      "significance": "This advancement in autonomous agents represents a significant step towards more sophisticated and flexible AI automation. By enabling AI to interact with software directly like a human, it could revolutionize business process automation and personal computing, opening new avenues for efficiency and innovation.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://buildfastwithai.com",
+          "label": "buildfastwithai.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "OpenAI Launches Daybreak Cybersecurity Initiative",
+      "date": "2026-05-28",
+      "description": "OpenAI introduced 'Daybreak,' a new cybersecurity initiative powered by GPT-5.5 and Codex Security. This new offering is positioned as a direct competitor to Anthropic’s Project Glasswing.",
+      "category": "Military & Security",
+      "significance": "OpenAI's entry into the cybersecurity domain with advanced AI models marks a critical expansion of AI application, likely escalating an 'arms race' in AI-powered defense and offense. This has significant long-term implications for national security, data protection, and the future of cyber warfare.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGnIyf61Af0b_49rANMG0x3VrIoVJ-LpcCQNIA8tIu1AFEC6rYqPsk4V5XPn2QSP4B1tMhOuyBD62QUBM-w_1hhhIJI-8cU4th5IqLV4--T6AZytYNTO_oV3cNF2TV1hcA_5j5__P7GyLkzcZw=",
+          "label": "aitoolsrecap.com"
+        }
+      ],
+      "type": "timeline_event"
+    }
+  ],
+  "questionUpdates": []
+}
