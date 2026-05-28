@@ -1,1 +1,85 @@
-{"scanDate":"2026-05-28","candidates":[],"questionUpdates":[]}
+{
+  "scanDate": "2026-05-28",
+  "candidates": [
+    {
+      "title": "IBM and Red Hat Launch $5 Billion Project Lightwell for Open-Source AI Security",
+      "date": "2026-05-28",
+      "description": "IBM and Red Hat announced \"Project Lightwell,\" a $5 billion initiative to secure open-source software using frontier AI. This commitment includes a global force of 20,000 engineers dedicated to identifying and fixing vulnerabilities at scale.",
+      "category": "Infrastructure, Open Source",
+      "significance": "This massive investment in open-source AI security is crucial for building trust and ensuring the long-term viability and widespread adoption of AI technologies, mitigating risks associated with open-source dependencies.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_jCJPFzRTUVRbWwEDeI3PNCJHS40-ka2KH0b7VfpADZjs22BYVe2yPu2hmxOzhV0myPs397jBKunq7A4zx0gG8d05on1TxmQf7itZ2oNEuA1UBmBWnPKktDxRKXlN7ROcYhDrOCIBKltgUnEZ6vI0A9EOPH5azQYj6YhLEkH0BSB2JIiQSO0sR5ALrmt3uYuHCsiBhia5bZQM5GWYF9Rhdnr8LRmpF0_BPjT7gobUGjNF1Q==",
+          "label": "ibm.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Cohere Acquires Aleph Alpha to Form $20 Billion Transatlantic AI Powerhouse",
+      "date": "2026-05-28",
+      "description": "Cohere acquired German AI firm Aleph Alpha, creating a combined entity valued at approximately $20 billion, with the strategic goal of establishing a \"transatlantic sovereign AI powerhouse\" to challenge US-based tech giants in regulated sectors.",
+      "category": "Industry Structure, Funding",
+      "significance": "This acquisition marks a significant consolidation in the AI market, emphasizing the rise of non-US AI champions focused on data sovereignty and regional compliance, which will reshape global AI competition and regulatory landscapes.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPaDPFaCGlyJ0W7-68Vrva8P44V1gFHn-InTg1u01tNSh37wovwbPpox7Q723KlDwSnaVPAr2K181wLC9vEGFWfoIXXdq-DYgvkWSPBSwO62Detc3KKbS2_zj5X3sLc0Rx1NsgipMTUvcTP3MHba1Iw-2nUQvLTGyL",
+          "label": "buildfastwithai.com"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBbXuh1gmbUcQihMACJ9rAZuHKxCGi-dUtzaBFnZN2PEy1idZdA3mcMHE20hfFV89bZ8RkpVm58aH9Dzft-S-0RiezcCWxxxY_C_PtgX6htvsy9IsHw4geIAGEykLjqkb5GEST8Gfc9lKulbD8LoOPE-Em81xqhm8JjHuwFJ_UPuj3rC646R3dBt8=",
+          "label": "betakit.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Mark Zuckerberg’s Biohub Unveils AI \"World Model\" for Protein Research",
+      "date": "2026-05-27",
+      "description": "Mark Zuckerberg’s Biohub introduced a groundbreaking AI atlas of proteins, termed a \"world model,\" designed to dramatically accelerate disease research by compressing years of study into days.",
+      "category": "Research",
+      "significance": "This represents a significant leap in AI's application to fundamental biological research, promising to revolutionize drug discovery, personalized medicine, and our understanding of life sciences over the next decade.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1yIoO_YJnPEAxvRq_m92H4_iYCFMvbocF8rdLUdumq3S1ygiVb5ML8a3TEAWCjOK0K4ryVsgAnbxIQl5qT-wdVc59VtkRKlM8sjf8tzHHuY7aUQDFbtSPA8a-m8IzWuV20cFjoQxMISS8yMtfzPADGNb3",
+          "label": "aidevforum.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Pope Leo XIV Releases \"Magnifica Humanitas,\" AI's Moral Constitution",
+      "date": "2026-05-28",
+      "description": "Pope Leo XIV issued \"Magnifica Humanitas,\" a 42,300-word encyclical addressing AI's ethical implications, labor dignity, and its societal impact on the scale of an Industrial Revolution. The document is being widely referred to as \"AI's Moral Constitution.\"",
+      "category": "Policy",
+      "significance": "As a major global moral authority, the Vatican's comprehensive stance on AI ethics is poised to profoundly influence international policy discussions, public discourse, and the development of ethical AI guidelines for decades to come.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGq8VmznQcUq4KHWjbTcH1yO77EmacD_NaVtWQQy8e_9xpujwLc4u1TZcFsWUkFbbRO1SPQkhEdlej6WUaTLm0MZw5GgVGTQ_1GAOWOA3e2tLUPOFNPwDdn5vihIIeB_c58zKxfwxovQXMYr3Z6n84=",
+          "label": "unrot.co"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "EU Amends AI Act, Postponing High-Risk AI Obligations to Late 2027/2028",
+      "date": "2026-05-27",
+      "description": "EU institutions reached a provisional agreement to amend the AI Act, specifically postponing the enforcement of high-risk AI obligations for certain systems until late 2027 or 2028. This aims to allow for better implementation and adaptation by affected entities.",
+      "category": "Policy",
+      "significance": "This adjustment to a landmark AI regulation demonstrates the ongoing challenges and adaptive nature of AI governance. It will significantly influence the development and deployment of high-risk AI systems within the EU for years, affecting compliance strategies and market entry for AI developers.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5dbVVGD7gIJ6SpBgZ--_Z6Bfc66zEP--VaR6J_rgVPSR_f5-QrG7qJHq9gJ7hrVX4h75Jbt0DCVq6J7bbf3RnL3kFLcPRjUtEqYTWEmI8blk1LuWJc4IFsPyBrgzZ_VImA9SbMGD_s-Y8kkZsjl1wY4hkKlm9Ukdn6EE4jZ9fxwYQI3QffYDEUwyFsAgwzynboSVMZQo0RANv_S03QQ8owEWjpLnE",
+          "label": "gibsondunn.com"
+        }
+      ],
+      "type": "timeline_event"
+    }
+  ],
+  "questionUpdates": []
+}
