@@ -2,80 +2,84 @@
   "scanDate": "2026-05-28",
   "candidates": [
     {
-      "title": "IBM and Red Hat Launch $5 Billion Project Lightwell for Open-Source AI Security",
-      "date": "2026-05-28",
-      "description": "IBM and Red Hat announced \"Project Lightwell,\" a $5 billion initiative to secure open-source software using frontier AI. This commitment includes a global force of 20,000 engineers dedicated to identifying and fixing vulnerabilities at scale.",
-      "category": "Infrastructure, Open Source",
-      "significance": "This massive investment in open-source AI security is crucial for building trust and ensuring the long-term viability and widespread adoption of AI technologies, mitigating risks associated with open-source dependencies.",
+      "title": "NSF Launches \"TechAccess: AI-Ready America\" Initiative",
+      "date": "2026-05-26",
+      "description": "The National Science Foundation, in collaboration with the Departments of Labor and Agriculture, launched \"TechAccess: AI-Ready America.\" This nationwide initiative establishes state-level coordination hubs and funding to prepare small businesses and local governments for the economic shifts brought by AI, focusing on workforce readiness.",
+      "category": "Policy",
+      "significance": "This initiative represents a significant governmental effort to proactively address AI's societal impact and foster widespread AI adoption and preparedness across various sectors, which will be crucial for national economic resilience and technological advancement in the long term.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE_jCJPFzRTUVRbWwEDeI3PNCJHS40-ka2KH0b7VfpADZjs22BYVe2yPu2hmxOzhV0myPs397jBKunq7A4zx0gG8d05on1TxmQf7itZ2oNEuA1UBmBWnPKktDxRKXlN7ROcYhDrOCIBKltgUnEZ6vI0A9EOPH5azQYj6YhLEkH0BSB2JIiQSO0sR5ALrmt3uYuHCsiBhia5bZQM5GWYF9Rhdnr8LRmpF0_BPjT7gobUGjNF1Q==",
-          "label": "ibm.com"
-        }
-      ],
-      "type": "timeline_event"
-    },
-    {
-      "title": "Cohere Acquires Aleph Alpha to Form $20 Billion Transatlantic AI Powerhouse",
-      "date": "2026-05-28",
-      "description": "Cohere acquired German AI firm Aleph Alpha, creating a combined entity valued at approximately $20 billion, with the strategic goal of establishing a \"transatlantic sovereign AI powerhouse\" to challenge US-based tech giants in regulated sectors.",
-      "category": "Industry Structure, Funding",
-      "significance": "This acquisition marks a significant consolidation in the AI market, emphasizing the rise of non-US AI champions focused on data sovereignty and regional compliance, which will reshape global AI competition and regulatory landscapes.",
-      "confidence": "high",
-      "sources": [
-        {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFPaDPFaCGlyJ0W7-68Vrva8P44V1gFHn-InTg1u01tNSh37wovwbPpox7Q723KlDwSnaVPAr2K181wLC9vEGFWfoIXXdq-DYgvkWSPBSwO62Detc3KKbS2_zj5X3sLc0Rx1NsgipMTUvcTP3MHba1Iw-2nUQvLTGyL",
-          "label": "buildfastwithai.com"
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpM6AORlO0wmJrMKW1arZlYNl7w_RZH-7cwaIbkeyBoXKERtTZEQ4wZFm9wHtMtX3LBMCXz6PaYpKJsmcVaoHMqdVzX6_dcNFaWF6ZXvTqAMgSv0gFvhDjmU--Bn1BVmGncw3Ju-_RYWyhLD22zW_Y_fUYnZO-nQ6jyTZbWWtKE8E=",
+          "label": "getmaxim.ai"
         },
         {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFBbXuh1gmbUcQihMACJ9rAZuHKxCGi-dUtzaBFnZN2PEy1idZdA3mcMHE20hfFV89bZ8RkpVm58aH9Dzft-S-0RiezcCWxxxY_C_PtgX6htvsy9IsHw4geIAGEykLjqkb5GEST8Gfc9lKulbD8LoOPE-Em81xqhm8JjHuwFJ_UPuj3rC646R3dBt8=",
-          "label": "betakit.com"
-        }
-      ],
-      "type": "timeline_event"
-    },
-    {
-      "title": "Mark Zuckerberg’s Biohub Unveils AI \"World Model\" for Protein Research",
-      "date": "2026-05-27",
-      "description": "Mark Zuckerberg’s Biohub introduced a groundbreaking AI atlas of proteins, termed a \"world model,\" designed to dramatically accelerate disease research by compressing years of study into days.",
-      "category": "Research",
-      "significance": "This represents a significant leap in AI's application to fundamental biological research, promising to revolutionize drug discovery, personalized medicine, and our understanding of life sciences over the next decade.",
-      "confidence": "high",
-      "sources": [
-        {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF1yIoO_YJnPEAxvRq_m92H4_iYCFMvbocF8rdLUdumq3S1ygiVb5ML8a3TEAWCjOK0K4ryVsgAnbxIQl5qT-wdVc59VtkRKlM8sjf8tzHHuY7aUQDFbtSPA8a-m8IzWuV20cFjoQxMISS8yMtfzPADGNb3",
+          "url": "https://aidevforum.com",
           "label": "aidevforum.com"
         }
       ],
       "type": "timeline_event"
     },
     {
-      "title": "Pope Leo XIV Releases \"Magnifica Humanitas,\" AI's Moral Constitution",
-      "date": "2026-05-28",
-      "description": "Pope Leo XIV issued \"Magnifica Humanitas,\" a 42,300-word encyclical addressing AI's ethical implications, labor dignity, and its societal impact on the scale of an Industrial Revolution. The document is being widely referred to as \"AI's Moral Constitution.\"",
-      "category": "Policy",
-      "significance": "As a major global moral authority, the Vatican's comprehensive stance on AI ethics is poised to profoundly influence international policy discussions, public discourse, and the development of ethical AI guidelines for decades to come.",
+      "title": "I Squared Capital Acquires Data Centers for AI Inference",
+      "date": "2026-05-26",
+      "description": "I Squared Capital announced a $225 million acquisition of data centers from Cogent, specifically targeting AI inference. This move signals a strategic market shift towards infrastructure optimized for deploying AI models, rather than solely focusing on training-heavy compute resources.",
+      "category": "Funding",
+      "significance": "This substantial investment highlights the growing maturity of the AI market, indicating a critical shift in infrastructure focus from pure AI model training to the scalable deployment and operationalization of AI. This will shape how AI services are delivered and consumed in the coming years.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGq8VmznQcUq4KHWjbTcH1yO77EmacD_NaVtWQQy8e_9xpujwLc4u1TZcFsWUkFbbRO1SPQkhEdlej6WUaTLm0MZw5GgVGTQ_1GAOWOA3e2tLUPOFNPwDdn5vihIIeB_c58zKxfwxovQXMYr3Z6n84=",
-          "label": "unrot.co"
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpM6AORlO0wmJrMKW1arZlYNl7w_RZH-7cwaIbkeyBoXKERtTZEQ4wZFm9wHtMtX3LBMCXz6PaYpKJsmcVaoHMqdVzX6_dcNFaWF6ZXvTqAMgSv0gFvhDjmU--Bn1BVmGncw3Ju-_RYWyhLD22zW_Y_fUYnZO-nQ6jyTZbWWtKE8E=",
+          "label": "getmaxim.ai"
         }
       ],
       "type": "timeline_event"
     },
     {
-      "title": "EU Amends AI Act, Postponing High-Risk AI Obligations to Late 2027/2028",
-      "date": "2026-05-27",
-      "description": "EU institutions reached a provisional agreement to amend the AI Act, specifically postponing the enforcement of high-risk AI obligations for certain systems until late 2027 or 2028. This aims to allow for better implementation and adaptation by affected entities.",
+      "title": "China Expands Travel Restrictions on AI Talent",
+      "date": "2026-05-26",
+      "description": "Reports indicated that China expanded travel restrictions on top AI talent at private firms, intensifying global competition for specialized engineering expertise. This move reflects escalating geopolitical tensions and strategic efforts to control human capital in the advanced AI sector.",
       "category": "Policy",
-      "significance": "This adjustment to a landmark AI regulation demonstrates the ongoing challenges and adaptive nature of AI governance. It will significantly influence the development and deployment of high-risk AI systems within the EU for years, affecting compliance strategies and market entry for AI developers.",
+      "significance": "This development underscores the increasing geopolitical competition for AI leadership. Restrictions on talent mobility could have profound implications for global AI research collaboration, innovation ecosystems, and the distribution of AI capabilities internationally for years to come.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG5dbVVGD7gIJ6SpBgZ--_Z6Bfc66zEP--VaR6J_rgVPSR_f5-QrG7qJHq9gJ7hrVX4h75Jbt0DCVq6J7bbf3RnL3kFLcPRjUtEqYTWEmI8blk1LuWJc4IFsPyBrgzZ_VImA9SbMGD_s-Y8kkZsjl1wY4hkKlm9Ukdn6EE4jZ9fxwYQI3QffYDEUwyFsAgwzynboSVMZQo0RANv_S03QQ8owEWjpLnE",
-          "label": "gibsondunn.com"
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpM6AORlO0wmJrMKW1arZlYNl7w_RZH-7cwaIbkeyBoXKERtTZEQ4wZFm9wHtMtX3LBMCXz6PaYpKJsmcVaoHMqdVzX6_dcNFaWF6ZXvTqAMgSv0gFvhDjmU--Bn1BVGncw3Ju-_RYWyhLD22zW_Y_fUYnZO-nQ6jyTZbWWtKE8E=",
+          "label": "getmaxim.ai"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Ai4 2026 Announces Keynote on \"Frontier AI Governance\"",
+      "date": "2026-05-27",
+      "description": "America’s largest AI conference, Ai4 2026, announced a landmark keynote panel featuring AI pioneers Geoffrey Hinton, Fei-Fei Li, and Andrew Ng. The panel is set to focus on \"Frontier AI Governance,\" bringing critical attention to the ethical and regulatory challenges of advanced AI systems.",
+      "category": "Policy",
+      "significance": "The convergence of leading AI figures to discuss 'Frontier AI Governance' signals a growing urgency within the AI community to address the profound societal implications and regulatory frameworks for advanced AI. This discussion will significantly influence future policy directions and the responsible development of AI.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpM6AORlO0wmJrMKW1arZlYNl7w_RZH-7cwaIbkeyBoXKERtTZEQ4wZFm9wHtMtX3LBMCXz6PaYpKJsmcVaoHMqdVzX6_dcNFaWF6ZXvTqAMgSv0gFvhDjmU--Bn1BVGncw3Ju-_RYWyhLD22zW_Y_fUYnZO-nQ6jyTZbWWtKE8E=",
+          "label": "getmaxim.ai"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Google Reveals First Designs for AI-Integrated Eyewear",
+      "date": "2026-05-28",
+      "description": "Google unveiled the initial designs for its AI-integrated eyewear, including 'audio glasses' offering real-time spoken assistance and 'display glasses' providing AR-based information overlays, powered by Android XR. This marks a significant step towards ubiquitous AI in personal devices.",
+      "category": "Industry Structure",
+      "significance": "The introduction of AI-integrated eyewear by Google represents a potential paradigm shift in human-computer interaction, moving AI capabilities from screens to wearable devices. This could establish a new product category and profoundly alter daily life and access to information over the next five years and beyond.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGpM6AORlO0wmJrMKW1arZlYNl7w_RZH-7cwaIbkeyBoXKERtTZEQ4wZFm9wHtMtX3LBMCXz6PaYpKJsmcVaoHMqdVzX6_dcNFaWF6ZXvTqAMgSv0gFvhDjmU--Bn1BVGncw3Ju-_RYWyhLD22zW_Y_fUYnZO-nQ6jyTZbWWtKE8E=",
+          "label": "getmaxim.ai"
+        },
+        {
+          "url": "https://blog.google",
+          "label": "blog.google"
         }
       ],
       "type": "timeline_event"
