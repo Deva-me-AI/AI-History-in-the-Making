@@ -1913,5 +1913,25 @@
       "claude": "ABSTAIN"
     },
     "reviewedAt": "2026-05-27T12:02:30Z"
+  },
+  {
+    "title": "KPMG Deploys Anthropic's Claude to 276,000 Global Employees",
+    "date": "2026-05-28",
+    "description": "KPMG announced the widespread deployment of Anthropic’s Claude AI model across its entire global workforce of 276,000 employees in 138 countries. This marks the largest AI rollout by a 'Big Four' firm to date.",
+    "category": "Industry Structure",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGZ--3H0jKQXAh1H66ia9wSEmytBUpWphDeFy1J1LdWaB4N2lN5yNsot6Q7W9Ew6N8N36vm17AiS01zH9_piVepNGEErV-7GFgOZNv8Bp-N_-emd-2Q2X4Qs-xHEitd8RRuc8fOo3ZGfubm93Ca0KZVkdCkuXYzo2zl",
+        "label": "buildfastwithai.com"
+      }
+    ],
+    "votes": {
+      "accept": 0,
+      "reject": 0,
+      "gemini": "ABSTAIN",
+      "gpt": "ABSTAIN",
+      "claude": "ABSTAIN"
+    },
+    "reviewedAt": "2026-05-29T12:05:32Z"
   }
 ]

@@ -7499,5 +7499,57 @@
       }
     ],
     "issueNumber": 660
+  },
+  {
+    "title": "OpenAI Publishes Comprehensive Frontier Governance Framework",
+    "date": "2026-05-28",
+    "description": "OpenAI released a detailed framework outlining its safety and security practices, emphasizing alignment with major regulatory bodies like the EU AI Act and California’s Transparency in Frontier AI Act. This move sets a precedent for how leading AI developers intend to address governance challenges for advanced models.",
+    "category": "Policy",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEU3OzoxWlqblPuC0_OT5NmkQc7wxunKDVUn4WHzt3IDD-0_YrW7tqG-_q_elltWF40xk-3EoFEzc8rEbwr3XTHa-cngTyXXbbDr9fo97WMu8LPO-dkmVdcMtPHeoOML9cQga-R_Y-pymH4fU3l73-eUUmxhZJKNP8=",
+        "label": "openai.com"
+      }
+    ],
+    "issueNumber": 661
+  },
+  {
+    "title": "OpenAI Establishes DeployCo, a $4 Billion AI Consulting Subsidiary",
+    "date": "2026-05-28",
+    "description": "OpenAI officially launched DeployCo, a new $4 billion consulting subsidiary dedicated to assisting enterprises with the large-scale implementation of its AI models.",
+    "category": "Industry Structure",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPeylq8maIT_hWA8is65VGZI4NeWnlUcQ8D9VWXqPmJCNAi4YD0hYdO_7LQR-C7DB6HCOgBa6q8uSGJ6p1DaBOFkagBiMfSn81nRW68fdn0SR7R-mCKN4hz3e47mwJlebWsFwr8tSts1q9EXXpOok6lVKZBKwOLGQ==",
+        "label": "digitalmara.com"
+      }
+    ],
+    "issueNumber": 663
+  },
+  {
+    "title": "Colorado Governor Signs Landmark AI Safety Bills into Law",
+    "date": "2026-05-29",
+    "description": "Colorado Governor Jared Polis signed two significant AI-related bills: HB 1263, a landmark chatbot safety bill, and HB 1195, which restricts the use of AI in psychotherapy. These laws establish new state-level regulations for AI deployment and usage.",
+    "category": "Policy",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGgRGbzZPHcZqzcWNhaV65FHNfhUtzcjHfh8OTCyo9ax3113TqLiKXTO9f5zAH8qyRq2Cyo2zc7yVgupjqhuZUmyt0t8ysSX0NjtsYyMbF8Bu3L4dYPVLSOVfsGIHD90wV3UyN9Ckney-SLUMaFerwPOqv2gMUktKoWke3VE8Z8r6JCu-w=",
+        "label": "transparencycoalition.ai"
+      }
+    ],
+    "issueNumber": 664
+  },
+  {
+    "title": "Infineon Joins NVIDIA MGX AI Factory Ecosystem for Agentic AI Power Architectures",
+    "date": "2026-05-29",
+    "description": "Infineon has partnered with NVIDIA, joining its MGX AI Factory ecosystem. The collaboration focuses on developing 800 VDC power architectures to support the massive energy demands of 'agentic AI' data centers.",
+    "category": "Infrastructure",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHA77RJS9VIErhEDVbufSMJ5M7QKsw4ZI96nLnuSIw2V-N8cTmerV0SUdtrsj5Uj6VsqT_dSPI6dhpRRP8i4qLk5B_Z9BpdXA7-YpckRgau93Wes-eNP94P54GCsxNVx24ze_pLPUXM5ORG7ZKayZ0NaFJSPOV9I_NPaIGPg27sMiawvCr57MRqKqjofiX2BauKgO-U3ku5ihf0AwJ85wv9fC02JqxorAyj6PlTMGnJ-ORSf__yrv-1tH5Mn6UTW75V-i7L8ZT5EzuydsgmpXVu-2UvwiJy5yNZe7t7AtRc1Sx5vdiHW5R56uymkeRLslCTtQ==",
+        "label": "prnewswire.com"
+      }
+    ],
+    "issueNumber": 665
   }
 ]
