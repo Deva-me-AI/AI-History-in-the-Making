@@ -7551,5 +7551,70 @@
       }
     ],
     "issueNumber": 665
+  },
+  {
+    "title": "Anthropic and AWS Launch Claude Opus 4.8 with 1-Million-Token Context Window",
+    "date": "2026-05-29",
+    "description": "Amazon Web Services (AWS) announced the immediate availability of Claude Opus 4.8 on Amazon Bedrock. This new model features an unprecedented 1-million-token context window and is specifically optimized for 'agentic' workflows, allowing for more autonomous operations and deeper reasoning across large datasets like entire codebases.",
+    "category": "Model Release",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUxzMzUU2Sh4B3Aalv-JqaY2C00Ym4iA6tYMG14P5LWYWCnStpaEbQP6ti1LA4vd0aF8quL-pnQMZdh4kZCEPiVL9PRDZmZ33ILCw0PZHtwpnSfoSf0j1tOSXRPsgYctp6ehZ-CbzU_CJ02PUFhSBhz-UipDhvLAwvdrsK9gu7sA1MoUzEZgOQ9YuCMCuc",
+        "label": "aboutamazon.com"
+      }
+    ],
+    "issueNumber": 666
+  },
+  {
+    "title": "Amazon Announces Strategic Pivot Towards Agentic AI Systems",
+    "date": "2026-05-29",
+    "description": "Amazon revealed a significant strategic shift, moving its primary focus from generative chatbots to advanced 'agentic' AI systems. These agents are designed to autonomously reason, plan, and execute real-world tasks with minimal human intervention, with direct integration into AWS infrastructure to ensure enterprise-scale accuracy and deployment.",
+    "category": "Industry Structure",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUxzMzUU2Sh4B3Aalv-JqaY2C00Ym4iA6tYMG14P5LWYWCnStpaEbQP6ti1LA4vd0aF8quL-pnQMZdh4kZCEPiVL9PRDZmZ33ILCw0PZHtwpnSfoSf0j1tOSXRPsgYctp6ehZ-CbzU_CJ02PUFhSBhz-UipDhvLAwvdrsK9gu7sA1MoUzEZgOQ9YuCMCuc",
+        "label": "aboutamazon.com"
+      }
+    ],
+    "issueNumber": 667
+  },
+  {
+    "title": "TelePIX and Bellatrix Aerospace Partner for AI-Powered VLEO Satellites",
+    "date": "2026-05-28",
+    "description": "South Korean space AI firm TelePIX and India’s Bellatrix Aerospace signed a Memorandum of Understanding (MOU) to collaborate on the development of Very Low Earth Orbit (VLEO) satellites. The mission will incorporate TelePIX’s 'Chouette' AI-powered optical payload, designed for high-resolution Earth observation with in-orbit data processing to significantly reduce data latency.",
+    "category": "Infrastructure",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHpRKw2Odo0dpO3uXYo4QS8sITJDThQ8S7kQNU-s9k-FRqdCHsm9zOy_OdJe2rDk4OiHki2JaX2ebt8g0Wb3gJ0Q6VUG1Xbmqs3AvvUaPksV-NgywipN-0Q1xBzGEj3xpDbB1L367v10xSPqW6F-WYYBViEt1Sz1J7Gdj8VNzD4hfLsBUeYLchTg_7Nc0se_EPDidUkB2dx2pc8-eWqUd7ZtQ7hqZWJcPUHLDxpA==",
+        "label": "natlawreview.com"
+      }
+    ],
+    "issueNumber": 668
+  },
+  {
+    "title": "NCC Group Report Warns of AI Cybersecurity Vulnerabilities in Industrial OT",
+    "date": "2026-05-29",
+    "description": "The NCC Group released a report detailing the 'hidden pitfalls of AI integration' within industrial environments. The report highlights that while AI is boosting efficiency in operational technology (OT), it has simultaneously created new cybersecurity vulnerabilities, making the manufacturing sector the most frequent target for ransomware attacks in 2026.",
+    "category": "Military & Security",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElw49NyOW-fDo4D9QvDLE4tIB_6eJXqFLeKRvJmF_7Ooh3P0Kg7WSmmbxTmWhufjDFOquShvAVq-4SuEgmI3Og0UieehMIjdbBQfD3Zq1K2IAP2q6mrvAyp_1ZVq5tt6XDELMypFDiyZaR7EUvXatnRbqJYlDXAzvoy2wheQFnw_vYB76AJRCtJYct2Lrq7HZMxXA5XY5NOWkFUAQ-amsrUGF-ZeA59OAbZWokH-DdwVieTu9y_sfB8Vozt8ZWiQSqaI-y3aDQGywuILRMb38IvN2onMSh9sW3lo7iSriCHtx2G5ayNmxKJqlkOrMZQrV_wp_24XrIvw==",
+        "label": "mbtmag.com"
+      }
+    ],
+    "issueNumber": 669
+  },
+  {
+    "title": "Nordic Semiconductor Enhances AI Tools for IoT Fleet Optimization",
+    "date": "2026-05-28",
+    "description": "Nordic Semiconductor announced the expansion of its AI assistance toolset, extending beyond firmware development to provide AI-driven diagnostics and optimization for deployed Internet of Things (IoT) fleets. This new suite enables developers to autonomously manage power consumption and connectivity issues across their IoT devices.",
+    "category": "Infrastructure",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnXZlE6KPWv2dM-CtGH2aRl45skNBiJ1AVKMf5kdn1XgUy1ZYJvQuY8avbYuQxoizYmh1nUNJB5063qFRq8TmVUBrWs-h0tzX2AdlUdG0z_aS3hHK3ICS8RJNA0IkkIsjkNXb1a1cIwU2er30p2EkuwcwvYYro25PMMtSlrAR6Vh76X9oCbRWIjD3IjhJSrCVssE_Z35mHCbzqeeR_d3vmrg==",
+        "label": "iotbusinessnews.com"
+      }
+    ],
+    "issueNumber": 670
   }
 ]
