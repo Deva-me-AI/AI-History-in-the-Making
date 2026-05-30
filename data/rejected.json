@@ -1933,5 +1933,25 @@
       "claude": "ABSTAIN"
     },
     "reviewedAt": "2026-05-29T12:05:32Z"
+  },
+  {
+    "title": "Anthropic Becomes Most Valuable Private AI Startup After Major Funding Round",
+    "date": "2026-05-28",
+    "description": "Reports confirmed Anthropic closed a major funding round, making it the most valuable private AI startup globally, surpassing OpenAI's previous valuation.",
+    "category": "Funding, Industry Structure",
+    "sources": [
+      {
+        "url": "https://medium.com",
+        "label": "Medium"
+      }
+    ],
+    "votes": {
+      "accept": 0,
+      "reject": 1,
+      "gemini": "REJECT",
+      "gpt": "ABSTAIN",
+      "claude": "ABSTAIN"
+    },
+    "reviewedAt": "2026-05-30T20:02:02Z"
   }
 ]

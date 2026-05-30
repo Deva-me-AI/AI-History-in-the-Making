@@ -7616,5 +7616,48 @@
       }
     ],
     "issueNumber": 670
+  },
+  {
+    "title": "KPMG Deploys Anthropic's Claude to 276,000 Employees Worldwide",
+    "date": "2026-05-28",
+    "description": "KPMG announced the deployment of Anthropic's Claude to its 276,000 employees across 138 countries, representing one of the largest \"Big Four\" AI enterprise deployments.",
+    "category": "Industry Structure",
+    "sources": [
+      {
+        "url": "https://buildfastwithai.com",
+        "label": "BuildFastWithAI"
+      }
+    ],
+    "issueNumber": 672
+  },
+  {
+    "title": "University of Illinois Researchers Announce Breakthrough in Monolithic 3D Chips for AI",
+    "date": "2026-05-29",
+    "description": "Researchers at the University of Illinois Urbana-Champaign (UIUC) announced a major breakthrough in semiconductor technology with the successful development of monolithic 3D integrated chips using standard single-crystalline silicon, poised to address the \"memory wall\" limiting AI processing speeds.",
+    "category": "Infrastructure, Research",
+    "sources": [
+      {
+        "url": "https://eurekalert.org",
+        "label": "EurekAlert!"
+      },
+      {
+        "url": "https://bioengineer.org",
+        "label": "Bioengineer.org"
+      }
+    ],
+    "issueNumber": 673
+  },
+  {
+    "title": "Anthropic Forecasts First Profitable Quarter with Revenue Doubling to $10.9 Billion",
+    "date": "2026-05-29",
+    "description": "Anthropic disclosed to investors that its revenue is projected to more than double to $10.9 billion in Q2 2026, putting the company on track for its first profitable quarter.",
+    "category": "Funding, Industry Structure",
+    "sources": [
+      {
+        "url": "https://substack.com",
+        "label": "Substack"
+      }
+    ],
+    "issueNumber": 674
   }
 ]
