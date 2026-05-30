@@ -1,1 +1,70 @@
-{"scanDate":"2026-05-30","candidates":[],"questionUpdates":[]}
+{
+  "scanDate": "2026-05-30",
+  "candidates": [
+    {
+      "title": "Anthropic Becomes Most Valuable Private AI Startup After Major Funding Round",
+      "date": "2026-05-28",
+      "description": "Reports confirmed Anthropic closed a major funding round, making it the most valuable private AI startup globally, surpassing OpenAI's previous valuation.",
+      "category": "Funding, Industry Structure",
+      "significance": "High",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://medium.com",
+          "label": "Medium"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "KPMG Deploys Anthropic's Claude to 276,000 Employees Worldwide",
+      "date": "2026-05-28",
+      "description": "KPMG announced the deployment of Anthropic's Claude to its 276,000 employees across 138 countries, representing one of the largest \"Big Four\" AI enterprise deployments.",
+      "category": "Industry Structure",
+      "significance": "High",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://buildfastwithai.com",
+          "label": "BuildFastWithAI"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "University of Illinois Researchers Announce Breakthrough in Monolithic 3D Chips for AI",
+      "date": "2026-05-29",
+      "description": "Researchers at the University of Illinois Urbana-Champaign (UIUC) announced a major breakthrough in semiconductor technology with the successful development of monolithic 3D integrated chips using standard single-crystalline silicon, poised to address the \"memory wall\" limiting AI processing speeds.",
+      "category": "Infrastructure, Research",
+      "significance": "High",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://eurekalert.org",
+          "label": "EurekAlert!"
+        },
+        {
+          "url": "https://bioengineer.org",
+          "label": "Bioengineer.org"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Anthropic Forecasts First Profitable Quarter with Revenue Doubling to $10.9 Billion",
+      "date": "2026-05-29",
+      "description": "Anthropic disclosed to investors that its revenue is projected to more than double to $10.9 billion in Q2 2026, putting the company on track for its first profitable quarter.",
+      "category": "Funding, Industry Structure",
+      "significance": "High",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://substack.com",
+          "label": "Substack"
+        }
+      ],
+      "type": "timeline_event"
+    }
+  ],
+  "questionUpdates": []
+}
