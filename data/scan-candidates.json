@@ -1,1 +1,81 @@
-{"scanDate":"2026-05-29","candidates":[],"questionUpdates":[]}
+{
+  "scanDate": "2026-05-30",
+  "candidates": [
+    {
+      "title": "Anthropic and AWS Launch Claude Opus 4.8 with 1-Million-Token Context Window",
+      "date": "2026-05-29",
+      "description": "Amazon Web Services (AWS) announced the immediate availability of Claude Opus 4.8 on Amazon Bedrock. This new model features an unprecedented 1-million-token context window and is specifically optimized for 'agentic' workflows, allowing for more autonomous operations and deeper reasoning across large datasets like entire codebases.",
+      "category": "Model Release",
+      "significance": "This represents a major leap in AI model capability, enabling far more complex and long-running autonomous AI agents. The focus on 'agentic' workflows is a critical direction for future AI development and enterprise adoption, influencing AI architecture and application design for years to come.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUxzMzUU2Sh4B3Aalv-JqaY2C00Ym4iA6tYMG14P5LWYWCnStpaEbQP6ti1LA4vd0aF8quL-pnQMZdh4kZCEPiVL9PRDZmZ33ILCw0PZHtwpnSfoSf0j1tOSXRPsgYctp6ehZ-CbzU_CJ02PUFhSBhz-UipDhvLAwvdrsK9gu7sA1MoUzEZgOQ9YuCMCuc",
+          "label": "aboutamazon.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Amazon Announces Strategic Pivot Towards Agentic AI Systems",
+      "date": "2026-05-29",
+      "description": "Amazon revealed a significant strategic shift, moving its primary focus from generative chatbots to advanced 'agentic' AI systems. These agents are designed to autonomously reason, plan, and execute real-world tasks with minimal human intervention, with direct integration into AWS infrastructure to ensure enterprise-scale accuracy and deployment.",
+      "category": "Industry Structure",
+      "significance": "As a major technology leader, Amazon's pivot indicates a strong belief in the long-term potential of agentic AI. This strategic direction will likely accelerate the development and adoption of AI agents across industries, impacting how businesses leverage AI for complex operational challenges for the next decade.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGUxzMzUU2Sh4B3Aalv-JqaY2C00Ym4iA6tYMG14P5LWYWCnStpaEbQP6ti1LA4vd0aF8quL-pnQMZdh4kZCEPiVL9PRDZmZ33ILCw0PZHtwpnSfoSf0j1tOSXRPsgYctp6ehZ-CbzU_CJ02PUFhSBhz-UipDhvLAwvdrsK9gu7sA1MoUzEZgOQ9YuCMCuc",
+          "label": "aboutamazon.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "TelePIX and Bellatrix Aerospace Partner for AI-Powered VLEO Satellites",
+      "date": "2026-05-28",
+      "description": "South Korean space AI firm TelePIX and India’s Bellatrix Aerospace signed a Memorandum of Understanding (MOU) to collaborate on the development of Very Low Earth Orbit (VLEO) satellites. The mission will incorporate TelePIX’s 'Chouette' AI-powered optical payload, designed for high-resolution Earth observation with in-orbit data processing to significantly reduce data latency.",
+      "category": "Infrastructure",
+      "significance": "This partnership signifies a critical advancement in space technology, integrating AI directly into satellite operations for enhanced data processing and reduced latency. This will have long-term implications for global Earth observation, defense capabilities, and next-generation communication networks.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHHpRKw2Odo0dpO3uXYo4QS8sITJDThQ8S7kQNU-s9k-FRqdCHsm9zOy_OdJe2rDk4OiHki2JaX2ebt8g0Wb3gJ0Q6VUG1Xbmqs3AvvUaPksV-NgywipN-0Q1xBzGEj3xpDbB1L367v10xSPqW6F-WYYBViEt1Sz1J7Gdj8VNzD4hfLsBUeYLchTg_7Nc0se_EPDidUkB2dx2pc8-eWqUd7ZtQ7hqZWJcPUHLDxpA==",
+          "label": "natlawreview.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "NCC Group Report Warns of AI Cybersecurity Vulnerabilities in Industrial OT",
+      "date": "2026-05-29",
+      "description": "The NCC Group released a report detailing the 'hidden pitfalls of AI integration' within industrial environments. The report highlights that while AI is boosting efficiency in operational technology (OT), it has simultaneously created new cybersecurity vulnerabilities, making the manufacturing sector the most frequent target for ransomware attacks in 2026.",
+      "category": "Military & Security",
+      "significance": "This report underscores a critical emerging threat as AI becomes more embedded in core industrial infrastructure. Addressing these vulnerabilities will be paramount for national security and economic stability, driving significant investment and policy changes in cybersecurity and industrial AI regulation over the next five years.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQElw49NyOW-fDo4D9QvDLE4tIB_6eJXqFLeKRvJmF_7Ooh3P0Kg7WSmmbxTmWhufjDFOquShvAVq-4SuEgmI3Og0UieehMIjdbBQfD3Zq1K2IAP2q6mrvAyp_1ZVq5tt6XDELMypFDiyZaR7EUvXatnRbqJYlDXAzvoy2wheQFnw_vYB76AJRCtJYct2Lrq7HZMxXA5XY5NOWkFUAQ-amsrUGF-ZeA59OAbZWokH-DdwVieTu9y_sfB8Vozt8ZWiQSqaI-y3aDQGywuILRMb38IvN2onMSh9sW3lo7iSriCHtx2G5ayNmxKJqlkOrMZQrV_wp_24XrIvw==",
+          "label": "mbtmag.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Nordic Semiconductor Enhances AI Tools for IoT Fleet Optimization",
+      "date": "2026-05-28",
+      "description": "Nordic Semiconductor announced the expansion of its AI assistance toolset, extending beyond firmware development to provide AI-driven diagnostics and optimization for deployed Internet of Things (IoT) fleets. This new suite enables developers to autonomously manage power consumption and connectivity issues across their IoT devices.",
+      "category": "Infrastructure",
+      "significance": "The increasing intelligence at the edge, facilitated by AI-driven optimization for deployed IoT fleets, is crucial for the scalability, reliability, and efficiency of future IoT ecosystems. This development will significantly impact industries reliant on large-scale connected devices, fostering more autonomous and self-managing IoT infrastructures.",
+      "confidence": "medium",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHnXZlE6KPWv2dM-CtGH2aRl45skNBiJ1AVKMf5kdn1XgUy1ZYJvQuY8avbYuQxoizYmh1nUNJB5063qFRq8TmVUBrWs-h0tzX2AdlUdG0z_aS3hHK3ICS8RJNA0IkkIsjkNXb1a1cIwU2er30p2EkuwcwvYYro25PMMtSlrAR6Vh76X9oCbRWIjD3IjhJSrCVssE_Z35mHCbzqeeR_d3vmrg==",
+          "label": "iotbusinessnews.com"
+        }
+      ],
+      "type": "timeline_event"
+    }
+  ],
+  "questionUpdates": []
+}
