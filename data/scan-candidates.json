@@ -1,1 +1,81 @@
-{"scanDate":"2026-05-30","candidates":[],"questionUpdates":[]}
+{
+  "scanDate": "2026-05-31",
+  "candidates": [
+    {
+      "title": "AI Memory Demand Drives Micron, SK Hynix, and Samsung to Trillion-Dollar Valuations",
+      "date": "2026-05-30",
+      "description": "Surging demand for AI memory pushed semiconductor giants Micron, SK Hynix, and Samsung past the US$1 trillion valuation mark, signaling a massive financial shift towards AI infrastructure.",
+      "category": "Industry Structure",
+      "significance": "This signifies the immense financial impact and growth driven by the demand for AI hardware, particularly memory. It points to a re-shaping of the semiconductor industry and global tech landscape, with long-term implications for global supply chains and economic power.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFn0xgJzF2y3x75uzHVIoQDUYxlsysZPKgRnV09IW7d4W17bsb2UWjm7f7UzAzwvO3uqmHwMVkfzg1ai4iNbzSle9KBVHkNx67CmyR4emKYFas0SgFgL4XLRNHFGgPbCSoTUSxfAhWhXQmsCDC4u7IyC0v0UALUyw==",
+          "label": "sophiccapital.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Anthropic Raises $65 Billion at $900 Billion Valuation",
+      "date": "2026-05-30",
+      "description": "AI research company Anthropic reportedly raised US$65 billion in new funding, achieving a staggering US$900 billion valuation, with investments from Micron and Samsung.",
+      "category": "Funding",
+      "significance": "This massive funding round for Anthropic underscores the continued 'AI arms race' among leading labs and the high stakes involved in developing advanced AI models. It implies accelerated research and development, potentially leading to new model releases and capabilities that will shape the future of AI.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFn0xgJzF2y3x75uzHVIoQDUYxlsysZPKgRnV09IW7d4W17bsb2UWjm7f7UzAzwvO3uqmHwMVkfzg1ai4iNbzSle9KBVHkNx67CmyR4emKYFas0SgFgL4XLRNHFGgPbCSoTUSxfAhWhXQmsCDC4u7IyC0v0UALUyw==",
+          "label": "sophiccapital.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Meta Launches Paid AI Chatbot Subscriptions, Forecasts $145 Billion in AI Capital Expenditure",
+      "date": "2026-05-30",
+      "description": "Meta launched paid chatbot subscriptions for its users and revealed a capital expenditure forecast of US$145 billion related to AI development and infrastructure.",
+      "category": "Industry Structure",
+      "significance": "Meta's entry into paid AI chatbot subscriptions and its colossal capital expenditure forecast for AI show a decisive move towards integrating and monetizing AI across its platforms. This could set a trend for other tech giants and profoundly influence consumer interaction with AI services and the future of social media platforms.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFn0xgJzF2y3x75uzHVIoQDUYxlsysZPKgRnV09IW7d4W17bsb2UWjm7f7UzAzwvO3uqmHwMVkfzg1ai4iNbzSle9KBVHkNx67CmyR4emKYFas0SgFgL4XLRNHFGgPbCSoTUSxfAhWhXQmsCDC4u7IyC0v0UALUyw==",
+          "label": "sophiccapital.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Alibaba Group Secures Six-Year AI and Cloud Partnership with UEFA",
+      "date": "2026-05-31",
+      "description": "Alibaba Group signed an exclusive six-year deal with UEFA to become the official AI and cloud services partner for the Champions League and Euro 2028, leveraging Alibaba's Qwen LLM and 360-degree replay technology.",
+      "category": "Industry Structure",
+      "significance": "This partnership showcases a major commercial application of AI, extending its reach into global sports and entertainment. It highlights the increasing integration of advanced AI (like Alibaba's Qwen LLM) into media operations and fan engagement, setting a precedent for future sports broadcasting and digital experiences and expanding AI's impact on diverse industries.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHPumoaGR7q5ifyzF6akVPzHA0zBdm-a0xU_VHwp9ekjZ9imfpMUJFR2WElmxCAUFtoMDOqpv15i1Kqh96yMnryZYJZtwt5HKNfEIGJYhR_HYlukAXdh4jlimaeIEVCaeWJJjEMhrf-cqswSomjkj29YYgiDKpwnNWg7HUOwu1UG8zl63yTpbFKfzmkv0pIFC6ZpuGddsSiI6E70hjzV85gAu0ySUmJlt9cbs_s3fBRdgPPe7502U6PJ_mLPPmg",
+          "label": "scmp.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Robinhood Launches Automated AI-Agent Trading for Users",
+      "date": "2026-05-31",
+      "description": "Financial trading platform Robinhood officially launched automated AI-agent trading capabilities for its users, allowing for AI-driven investment strategies.",
+      "category": "Industry Structure",
+      "significance": "Robinhood's launch of automated AI-agent trading for retail investors marks a pivotal moment in the democratization of advanced financial tools. This could dramatically alter individual investment strategies, market volatility, and necessitate new regulatory frameworks for AI in finance, impacting millions of investors globally.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFn0xgJzF2y3x75uzHVIoQDUYxlsysZPKgRnV09IW7d4W17bsb2UWjm7f7UzAzwvO3uqmHwMVkfzg1ai4iNbzSle9KBVHkNx67CmyR4emKYFas0SgFgL4XLRNHFGgPbCSoTUSxfAhWhXQmsCDC4u7IyC0v0UALUyw==",
+          "label": "sophiccapital.com"
+        }
+      ],
+      "type": "timeline_event"
+    }
+  ],
+  "questionUpdates": []
+}
