@@ -1,1 +1,89 @@
-{"scanDate":"2026-06-01","candidates":[],"questionUpdates":[]}
+{
+  "scanDate": "2026-06-01",
+  "candidates": [
+    {
+      "title": "Anthropic Files for Confidential U.S. IPO, Valued at $965 Billion",
+      "date": "2026-06-01",
+      "description": "Following a massive $65 billion funding round in late May, AI giant Anthropic confidentially filed for a U.S. initial public offering, with its valuation reaching $965 billion, surpassing OpenAI. This move signifies a new phase for the AI industry's financial landscape.",
+      "category": "Industry Structure",
+      "significance": "High",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3MfYE07tAUHsUv1qQfkJDOIINe9cvt6QGr598jWlDWC3VKak50iITk0UZqX-GWEkod5MECuPT3HwfkyeuthEUOxpmTOfBxChKqT53ULx6L0m_m7wxHFwfniXIN5-cR-wFwjj6Gil6G5H6qeMYh4SWxZJ1fXqHyafotM6rF_jXOl9aHLyX6NeTaL2KjOYGhiH37DNSCYpD71MYkoP0DGSC8N5NwJbU=",
+          "label": "bnnbloomberg.ca"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Anthropic Releases Claude Opus 4.8 with \"Dynamic Workflows\" and Reduced Hallucinations",
+      "date": "2026-05-30",
+      "description": "Anthropic launched Claude Opus 4.8, just 42 days after its previous version. The update focuses on \"honesty,\" with the model being 4x less likely to hallucinate, and introduced \"Dynamic Workflows,\" allowing Claude to manage hundreds of sub-agents in parallel.",
+      "category": "Model Release",
+      "significance": "High",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEu_5s-fmSc0ibQajFClCVlUyJLv12Z7g5a1RyUj0rbQ7cxR57w6XK8jYXJQxSfTtLDlMvzrjANdJrf0AzdwXypVe7sHrR4KCW3cjrHi-vf8gFXCVyNkSZuyp5nRgyfe5zyTG4hHvgxiiKhSQ==",
+          "label": "unrot.co"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiEpwxMDeZJKOliBubzjVnHtpUqmCKW7dpS5DTLKqzLLIBf2tCwF1xzmnw30CeLqDVtrmCCPwQfSGtmAmmYvuFFj3mt-xJYUmrLUB4k1chYQ48WLzzzcmGbwfE3Z745HUIb73EkOWAAAGIEl9K-f3oy3A3czF9ePofSQ==",
+          "label": "buildfastwithai.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "SoftBank Commits €75 Billion to Build Europe's Largest AI Data Center Capacity",
+      "date": "2026-06-01",
+      "description": "SoftBank Group announced plans to invest €75 billion ($87 billion) to build Europe’s largest AI data center capacity in France, aiming to deliver 5 gigawatts of capacity by 2031. This is part of a larger commitment to establish France as a European hub for AI infrastructure.",
+      "category": "Infrastructure",
+      "significance": "High",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7zgPMCKvV1e2ydaoQ8L60zLggDVHKjBAS-2FlWhCYtUhFGboW4V0mZaH2-J7Tz5SV_ZTHJSG4I30D4iBUsZsLPsvXW0wYYUGbX59X8MRWoD3AN88bmkiBUeNnQ-32uS-nfyz69evMAfzxst7EynNCWXDGospXZqUvZtnacw==",
+          "label": "unrot.co"
+        },
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_7Pj8g2p3oHLOS-f_Zck6uadyXK4G2f5O_wsf5kP2Ve3hwZ2O26u9_OpkAbPi7m4Uww2qj7_EMdkb7S0rlEIOw8Q7B5HCf4gSLOsd3rZogHXwgDfE5ipJsdI9L1UyYbS2M0h_yw99g==",
+          "label": "group.softbank"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Florida Attorney General Files Lawsuit Against OpenAI and Sam Altman Over Safety Risks",
+      "date": "2026-06-01",
+      "description": "Florida Attorney General James Uthmeier filed a state-led lawsuit against OpenAI and CEO Sam Altman, alleging the company concealed serious risks and suppressed internal safety warnings while marketing ChatGPT to the public. This could set legal precedents and increase scrutiny on AI safety practices.",
+      "category": "Policy",
+      "significance": "High",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWtCLwcRk9Q_MaXLC0zELjN9EEBomDiaK-qCFsxDkoc-P2xmAOJTTA0ypMczD8MWnw-uxbsXnXYGfF3EiSdGCD4bb7-7-4zgyfz9yQmz-7PKdjhADxi2jGDlY_x5g37H4HEJCOYQ26c2SSNQGJO0ogQYqRsTlUYn-a0r166jV1CKNYvVn1xs5wp6LtQ3uJ6PYQro9u9WVgKs52SXQzReehOZmjyTiNWh3JrpZ5Sf_0_zsYLCpMf_0MErCM-WbGeqA4qDBHaI-W1KUJ55XgM3OyWMG9IEVNR77mbczo1Hz",
+          "label": "bnnbloomberg.ca"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Microsoft to Unveil Homegrown \"MAI\" AI Models at Build 2026",
+      "date": "2026-05-31",
+      "description": "Reports indicate Microsoft will unveil its own \"MAI\" AI models at Build 2026 (starting June 2). This strategic move aims to reclaim the developer market and marks a significant shift in the competitive landscape for frontier AI foundation models.",
+      "category": "Model Release",
+      "significance": "High",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiEpwxMDeZJKOliBubzjVnHtpUqmCKW7dpS5DTLKqzLLIBf2tCwF1xzmnw30CeLqDVtrmCCPwQfSGtmAmmYvuFFj3mt-xJYUmrLUB4k1chYQ48WLzzzcmGbwfE3Z745HUIb73EkOWAAAGIEl9K-f3oy3A3czF9ePofSQ==",
+          "label": "buildfastwithai.com"
+        }
+      ],
+      "type": "timeline_event"
+    }
+  ],
+  "questionUpdates": []
+}
