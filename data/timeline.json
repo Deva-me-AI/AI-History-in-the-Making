@@ -7789,5 +7789,44 @@
       }
     ],
     "issueNumber": 684
+  },
+  {
+    "title": "NVIDIA and Microsoft Unveil RTX Spark AI Superchip for PCs",
+    "date": "2026-06-01",
+    "description": "NVIDIA and Microsoft introduced 'RTX Spark,' a new AI superchip for Windows PCs capable of 1 petaflop of AI performance. The chip is designed to enable local, personal AI agents, shifting the paradigm of AI interaction on personal devices.",
+    "category": "Infrastructure",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQE6RBV91V1ZZammnUKBlyTfqb7nmLHtY_r_bubKGyYYq0ZK2xl37rWB2NH5ddcdGne9TZl0z3YIyy1e3Gcm5h-x-HPEcCuaEl3gxJxqA7p3TUxSXhrK4DsL_oSvc1jGa77EAWQ9iW7l3j-dNb_Vof29Acez4H_K32FgrHYNte7qpCZpBFoQyIbha9dL",
+        "label": "nvidia.com"
+      }
+    ],
+    "issueNumber": 685
+  },
+  {
+    "title": "US DOD and NSA Launch Joint Task Force to Integrate Frontier AI Models into Military Operations",
+    "date": "2026-06-01",
+    "description": "The US Department of Defense (DOD) and National Security Agency (NSA) announced the formation of a joint task force to accelerate the integration of cutting-edge AI models into military and defense operations, signaling a deepened commitment to AI in national security.",
+    "category": "Military & Security",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF51I1Li1-l6F3eTFu_QADYawMmt1Qo7_qNt61XwxhFO7TnY8Idn3I2dnSNYCYw4BluME0PcRtahfxLU20DSjlSFaNlS4lJXn5z7NAIMZevbu4lwBC7EnR0ek_kyebZBmogb6rCBGkmdvhaPO4ALCgjlH3qkMNBODM=",
+        "label": "techpolicy.press"
+      }
+    ],
+    "issueNumber": 686
+  },
+  {
+    "title": "Groq Reportedly Raises $650 Million to Expand AI Inference Cloud Services",
+    "date": "2026-05-30",
+    "description": "Groq, a company specializing in AI inference hardware and cloud services, reportedly secured $650 million in funding to scale its operations and expand its offerings in the rapidly growing market for AI inference at scale.",
+    "category": "Funding",
+    "sources": [
+      {
+        "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFyScLZ5eF1WVH_fNhmMiEBcB-am0-gKcy3HNRcNPLxGTkfwWrFZX3GUN7I8bLPw8UQIZFI9hSaG5Xh-94hIGr8D8JFwDK1Vxe3cCgzfUvBpcNBx1CRNTnDVE3y4jUCbPqUp1Rq2qRsVOnSGbh3p4-t4eFw_M4MJlxt4Urwff5fA0TpTdoxtb8Pmi8na7aj9yC5TuFg1Qp5t4tpIpmGJY5_fA==",
+        "label": "medium.com"
+      }
+    ],
+    "issueNumber": 687
   }
 ]
