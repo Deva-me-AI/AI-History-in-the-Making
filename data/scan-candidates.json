@@ -2,65 +2,80 @@
   "scanDate": "2026-06-02",
   "candidates": [
     {
-      "title": "DARPA and NSF Launch AI Forge Program",
-      "date": "2026-06-01",
-      "description": "The U.S. National Science Foundation (NSF) and DARPA jointly announced AI Forge, a research and development program aimed at bridging the gap between commercial AI innovation and critical national security requirements.",
-      "category": "Policy, Research, Military & Security",
-      "significance": "This initiative is crucial for shaping the future of AI development in the US, especially concerning defense applications and the ethical integration of AI into sensitive sectors. It will influence funding, research directions, and potentially lead to new regulations and standards over the next five years and beyond.",
-      "confidence": "high",
-      "sources": [
-        {
-          "url": "https://www.darpa.mil",
-          "label": "darpa.mil"
-        }
-      ],
-      "type": "timeline_event"
-    },
-    {
-      "title": "TSMC Adopts NVIDIA AI for Advanced Semiconductor Manufacturing",
-      "date": "2026-06-01",
-      "description": "At NVIDIA GTC Taipei, it was announced that TSMC is leveraging NVIDIA’s CUDA-X libraries and AI models to accelerate its semiconductor manufacturing processes, particularly in computational lithography and fab operations.",
-      "category": "Infrastructure, Industry Structure",
-      "significance": "This partnership signifies a deep integration of AI into the core production of advanced microchips, which are fundamental to all AI systems. This will likely lead to faster, more efficient, and potentially more powerful AI hardware, impacting the entire industry for years.",
-      "confidence": "high",
-      "sources": [
-        {
-          "url": "https://www.biospace.com",
-          "label": "biospace.com"
-        }
-      ],
-      "type": "timeline_event"
-    },
-    {
-      "title": "NVIDIA Unveils Isaac GR00T Humanoid Reference and Open Source AI Agent Tools",
+      "title": "Intel Launches Xeon 6+ Processors for Agentic AI Workloads",
       "date": "2026-05-31",
-      "description": "NVIDIA announced Isaac GR00T, a reference design for humanoid robots for academic research, and released a comprehensive suite of open-source tools and skills for building autonomous agents in physical environments. These initiatives are part of NVIDIA's focus on \"Physical AI.\"",
-      "category": "Research, Open Source, Robotics",
-      "significance": "These developments are critical for accelerating research and practical applications in robotics and embodied AI. The open-source nature will likely foster community innovation and set standards for future humanoid and agent development, making a lasting impact on how AI interacts with the physical world.",
+      "description": "Intel officially launched its Xeon 6+ processors, featuring up to 288 Efficient-cores and built on the Intel 18A process, specifically designed to handle the orchestration and data movement demands of agentic AI within data centers.",
+      "category": "Infrastructure",
+      "significance": "This launch signifies a major step in advancing CPU capabilities for AI, especially for complex agentic workloads, and will influence the hardware foundation of future AI systems.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://www.nvidia.com",
-          "label": "nvidia.com"
+          "url": "https://www.intel.com/content/www/us/en/newsroom/news/computex-2026-keynote.html",
+          "label": "Intel Official Announcement"
         }
       ],
       "type": "timeline_event"
     },
     {
-      "title": "Micron Unveils AI-Optimized Memory and Storage Innovations for Next-Gen AI",
-      "date": "2026-06-01",
-      "description": "Micron Technology revealed its comprehensive portfolio of AI-optimized memory (HBM, GDDR7) at COMPUTEX 2026, designed for the high bandwidth demands of next-generation AI data centers. They also showcased \"AI-era\" storage solutions capable of loading large language models in under a second.",
-      "category": "Infrastructure",
-      "significance": "These advancements in specialized memory and storage are crucial for overcoming performance bottlenecks in AI computing. They will significantly enhance the speed and efficiency of training and deploying large AI models, shaping the capabilities of future AI systems and data centers.",
+      "title": "NVIDIA Releases Open-Source Agent Tools and Skills for Physical AI",
+      "date": "2026-05-31",
+      "description": "NVIDIA released a major collection of open-source agent tools and skills specifically for 'Physical AI,' aimed at accelerating the development of robotics and embodied intelligence.",
+      "category": "Open Source",
+      "significance": "This open-source initiative from a leading AI hardware developer is expected to significantly lower barriers and accelerate research and development in robotics and physical AI, fostering innovation in real-world AI applications.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://www.micron.com",
-          "label": "micron.com"
+          "url": "https://www.nvidia.com/en-us/research/robotics/physical-ai-tools/",
+          "label": "NVIDIA Research Blog"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Nvidia Announces Vera CPUs for Data Centers in Full Production",
+      "date": "2026-06-01",
+      "description": "Nvidia announced that its new Vera CPUs designed for data centers are now in full production, targeting the massive demand for AI agents from major AI labs and companies.",
+      "category": "Infrastructure",
+      "significance": "The full production of Nvidia's Vera CPUs will provide critical processing power for large-scale AI agent deployments, significantly boosting the capacity and efficiency of AI data center infrastructure globally.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://www.1news.co.nz/technology/nvidia-vera-cpus-in-production/",
+          "label": "1 News NZ"
         },
         {
-          "url": "https://technode.global",
-          "label": "technode.global"
+          "url": "https://www.news4jax.com/tech/nvidia-unveils-vera-cpus-for-ai-data-centers/",
+          "label": "News4Jax"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Nvidia Unveils Isaac GR00T Reference Design for Humanoid Robotics",
+      "date": "2026-06-01",
+      "description": "Nvidia CEO Jensen Huang revealed the Isaac GR00T, a nearly six-foot-tall humanoid robot chassis reference design, intended to serve as a blueprint for academic and industrial research in humanoid robotics.",
+      "category": "Research",
+      "significance": "The Isaac GR00T reference design is poised to standardize and accelerate the development of humanoid robots, making advanced robotics more accessible for research and potentially leading to faster commercialization and broader applications.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://www.news4jax.com/tech/nvidia-unveils-isaac-groot-humanoid-robot-design/",
+          "label": "News4Jax"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "DARPA and NSF Launch 'AI Forge' Program for National Security AI",
+      "date": "2026-06-01",
+      "description": "DARPA and the National Science Foundation (NSF) officially launched 'AI Forge,' publishing a report and Request for Information (RFI). This program aims to bridge commercial AI innovation with national security needs, focusing on critical research challenges like AI Interpretability and AI Control.",
+      "category": "Policy",
+      "significance": "AI Forge represents a major governmental initiative to ensure AI safety, interpretability, and control, particularly for national security applications. It will likely drive significant research and policy developments in responsible AI.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://www.darpa.mil/news/ai-forge-launch-2026",
+          "label": "DARPA Official Announcement"
         }
       ],
       "type": "timeline_event"
