@@ -7901,5 +7901,61 @@
       }
     ],
     "issueNumber": 692
+  },
+  {
+    "title": "DARPA and NSF Launch AI Forge Program",
+    "date": "2026-06-01",
+    "description": "The U.S. National Science Foundation (NSF) and DARPA jointly announced AI Forge, a research and development program aimed at bridging the gap between commercial AI innovation and critical national security requirements.",
+    "category": "Policy, Research, Military & Security",
+    "sources": [
+      {
+        "url": "https://www.darpa.mil",
+        "label": "darpa.mil"
+      }
+    ],
+    "issueNumber": 693
+  },
+  {
+    "title": "TSMC Adopts NVIDIA AI for Advanced Semiconductor Manufacturing",
+    "date": "2026-06-01",
+    "description": "At NVIDIA GTC Taipei, it was announced that TSMC is leveraging NVIDIA’s CUDA-X libraries and AI models to accelerate its semiconductor manufacturing processes, particularly in computational lithography and fab operations.",
+    "category": "Infrastructure, Industry Structure",
+    "sources": [
+      {
+        "url": "https://www.biospace.com",
+        "label": "biospace.com"
+      }
+    ],
+    "issueNumber": 694
+  },
+  {
+    "title": "NVIDIA Unveils Isaac GR00T Humanoid Reference and Open Source AI Agent Tools",
+    "date": "2026-05-31",
+    "description": "NVIDIA announced Isaac GR00T, a reference design for humanoid robots for academic research, and released a comprehensive suite of open-source tools and skills for building autonomous agents in physical environments. These initiatives are part of NVIDIA's focus on \"Physical AI.\"",
+    "category": "Research, Open Source, Robotics",
+    "sources": [
+      {
+        "url": "https://www.nvidia.com",
+        "label": "nvidia.com"
+      }
+    ],
+    "issueNumber": 695
+  },
+  {
+    "title": "Micron Unveils AI-Optimized Memory and Storage Innovations for Next-Gen AI",
+    "date": "2026-06-01",
+    "description": "Micron Technology revealed its comprehensive portfolio of AI-optimized memory (HBM, GDDR7) at COMPUTEX 2026, designed for the high bandwidth demands of next-generation AI data centers. They also showcased \"AI-era\" storage solutions capable of loading large language models in under a second.",
+    "category": "Infrastructure",
+    "sources": [
+      {
+        "url": "https://www.micron.com",
+        "label": "micron.com"
+      },
+      {
+        "url": "https://technode.global",
+        "label": "technode.global"
+      }
+    ],
+    "issueNumber": 696
   }
 ]
