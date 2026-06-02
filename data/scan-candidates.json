@@ -1,85 +1,77 @@
 {
-  "scanDate": "2026-06-01",
+  "scanDate": "2026-06-02",
   "candidates": [
     {
-      "title": "Anthropic Files for Confidential U.S. IPO, Valued at $965 Billion",
+      "title": "Florida Sues OpenAI Over AI Risks",
       "date": "2026-06-01",
-      "description": "Following a massive $65 billion funding round in late May, AI giant Anthropic confidentially filed for a U.S. initial public offering, with its valuation reaching $965 billion, surpassing OpenAI. This move signifies a new phase for the AI industry's financial landscape.",
-      "category": "Industry Structure",
-      "significance": "High",
-      "confidence": "high",
-      "sources": [
-        {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG3MfYE07tAUHsUv1qQfkJDOIINe9cvt6QGr598jWlDWC3VKak50iITk0UZqX-GWEkod5MECuPT3HwfkyeuthEUOxpmTOfBxChKqT53ULx6L0m_m7wxHFwfniXIN5-cR-wFwjj6Gil6G5H6qeMYh4SWxZJ1fXqHyafotM6rF_jXOl9aHLyX6NeTaL2KjOYGhiH37DNSCYpD71MYkoP0DGSC8N5NwJbU=",
-          "label": "bnnbloomberg.ca"
-        }
-      ],
-      "type": "timeline_event"
-    },
-    {
-      "title": "Anthropic Releases Claude Opus 4.8 with \"Dynamic Workflows\" and Reduced Hallucinations",
-      "date": "2026-05-30",
-      "description": "Anthropic launched Claude Opus 4.8, just 42 days after its previous version. The update focuses on \"honesty,\" with the model being 4x less likely to hallucinate, and introduced \"Dynamic Workflows,\" allowing Claude to manage hundreds of sub-agents in parallel.",
-      "category": "Model Release",
-      "significance": "High",
-      "confidence": "high",
-      "sources": [
-        {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEu_5s-fmSc0ibQajFClCVlUyJLv12Z7g5a1RyUj0rbQ7cxR57w6XK8jYXJQxSfTtLDlMvzrjANdJrf0AzdwXypVe7sHrR4KCW3cjrHi-vf8gFXCVyNkSZuyp5nRgyfe5zyTG4hHvgxiiKhSQ==",
-          "label": "unrot.co"
-        },
-        {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiEpwxMDeZJKOliBubzjVnHtpUqmCKW7dpS5DTLKqzLLIBf2tCwF1xzmnw30CeLqDVtrmCCPwQfSGtmAmmYvuFFj3mt-xJYUmrLUB4k1chYQ48WLzzzcmGbwfE3Z745HUIb73EkOWAAAGIEl9K-f3oy3A3czF9ePofSQ==",
-          "label": "buildfastwithai.com"
-        }
-      ],
-      "type": "timeline_event"
-    },
-    {
-      "title": "SoftBank Commits €75 Billion to Build Europe's Largest AI Data Center Capacity",
-      "date": "2026-06-01",
-      "description": "SoftBank Group announced plans to invest €75 billion ($87 billion) to build Europe’s largest AI data center capacity in France, aiming to deliver 5 gigawatts of capacity by 2031. This is part of a larger commitment to establish France as a European hub for AI infrastructure.",
-      "category": "Infrastructure",
-      "significance": "High",
-      "confidence": "high",
-      "sources": [
-        {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQH7zgPMCKvV1e2ydaoQ8L60zLggDVHKjBAS-2FlWhCYtUhFGboW4V0mZaH2-J7Tz5SV_ZTHJSG4I30D4iBUsZsLPsvXW0wYYUGbX59X8MRWoD3AN88bmkiBUeNnQ-32uS-nfyz69evMAfzxst7EynNCWXDGospXZqUvZtnacw==",
-          "label": "unrot.co"
-        },
-        {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQF_7Pj8g2p3oHLOS-f_Zck6uadyXK4G2f5O_wsf5kP2Ve3hwZ2O26u9_OpkAbPi7m4Uww2qj7_EMdkb7S0rlEIOw8Q7B5HCf4gSLOsd3rZogHXwgDfE5ipJsdI9L1UyYbS2M0h_yw99g==",
-          "label": "group.softbank"
-        }
-      ],
-      "type": "timeline_event"
-    },
-    {
-      "title": "Florida Attorney General Files Lawsuit Against OpenAI and Sam Altman Over Safety Risks",
-      "date": "2026-06-01",
-      "description": "Florida Attorney General James Uthmeier filed a state-led lawsuit against OpenAI and CEO Sam Altman, alleging the company concealed serious risks and suppressed internal safety warnings while marketing ChatGPT to the public. This could set legal precedents and increase scrutiny on AI safety practices.",
+      "description": "The state of Florida filed a lawsuit against OpenAI and CEO Sam Altman, alleging the company knowingly released and aggressively marketed ChatGPT while concealing serious risks and suppressing internal safety warnings. The complaint cites instances where the tool was allegedly used in the planning of violent crimes.",
       "category": "Policy",
-      "significance": "High",
+      "significance": "This lawsuit sets a potentially significant legal precedent for AI liability and safety, impacting how AI models are developed and deployed, and holding companies accountable for their societal impact.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQEWtCLwcRk9Q_MaXLC0zELjN9EEBomDiaK-qCFsxDkoc-P2xmAOJTTA0ypMczD8MWnw-uxbsXnXYGfF3EiSdGCD4bb7-7-4zgyfz9yQmz-7PKdjhADxi2jGDlY_x5g37H4HEJCOYQ26c2SSNQGJO0ogQYqRsTlUYn-a0r166jV1CKNYvVn1xs5wp6LtQ3uJ6PYQro9u9WVgKs52SXQzReehOZmjyTiNWh3JrpZ5Sf_0_zsYLCpMf_0MErCM-WbGeqA4qDBHaI-W1KUJ55XgM3OyWMG9IEVNR77mbczo1Hz",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQHe1f8fFckyKuE1Az96vzSNUvPccES_NSNuILFNHJd4RMGqD-OyLVRNYHzxF3iqwLiAeV6Eruw3wKAti-pw4wKep7WZHuX5CwLssimQn3MIjDGmhbpzuZX8xXeT0ZmiChVutO-ePzCBDww0GMg7b0Mge1qeB7FKt7jwoP_tCI3aRk8mvFhCwIURB6kL_c-IPrZAkdncI4LQ6zqiYhlZtrBGsQ5To-vJ5JYnXCH-QAndZrKAXHdQ82q12g2AR7Bo9hDgFbWfuGIP-IP_DhhMvOtte3884kT0u2S_4Qxkxck=",
           "label": "bnnbloomberg.ca"
         }
       ],
       "type": "timeline_event"
     },
     {
-      "title": "Microsoft to Unveil Homegrown \"MAI\" AI Models at Build 2026",
-      "date": "2026-05-31",
-      "description": "Reports indicate Microsoft will unveil its own \"MAI\" AI models at Build 2026 (starting June 2). This strategic move aims to reclaim the developer market and marks a significant shift in the competitive landscape for frontier AI foundation models.",
-      "category": "Model Release",
-      "significance": "High",
+      "title": "Illinois Passes Comprehensive AI Frontier Model Bill (SB 315)",
+      "date": "2026-06-01",
+      "description": "The Illinois legislature passed SB 315, a significant AI frontier model bill, making it one of the first states alongside California and New York to enact comprehensive safety regulations for large-scale AI models.",
+      "category": "Policy",
+      "significance": "Establishes a framework for state-level comprehensive safety regulations for advanced AI models, potentially influencing other states and federal policy development, and shaping the future regulatory landscape of AI.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFiEpwxMDeZJKOliBubzjVnHtpUqmCKW7dpS5DTLKqzLLIBf2tCwF1xzmnw30CeLqDVtrmCCPwQfSGtmAmmYvuFFj3mt-xJYUmrLUB4k1chYQ48WLzzzcmGbwfE3Z745HUIb73EkOWAAAGIEl9K-f3oy3A3czF9ePofSQ==",
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQFl-c3WEUBGJ4WgNzd8lR8iIzoNLapb5ATw_29HsqAq7fmxX5ryd8gCgvw55vMRdWbLhbCv5UIP24JY2Ey8z8IcmlCm1d6na_9X30O-dijnRfNd8ZSWcSKHUMCHv0VmMOmJSv4CSo9HUY3yAiTejy6IqmjoY5tfSdBfluN5cZoKYFpk8D5KUg==",
+          "label": "jdsupra.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Anthropic Releases Claude Opus 4.8 with Dynamic Workflows",
+      "date": "2026-05-31",
+      "description": "Anthropic released Claude Opus 4.8, introducing 'Dynamic Workflows' that enable the model to orchestrate up to 1,000 parallel subagents for complex tasks like repository migrations. The update also reportedly improved the model's 'honesty' regarding code bugs by four times.",
+      "category": "Model Release",
+      "significance": "This release pushes the boundaries of agentic AI capabilities, allowing for more autonomous and complex task execution by large language models, which is critical for future enterprise and development applications.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGLqfSrj7Z6VAx9hbvpZUiJk8NK8w825p8EOO0MRwSq2sO1iu9vYau3fd4gnofAyzGK-e2MROmqLZ_Z70uBd4Kbr8I4JswuT-UlTDmfzzhIz7rJ6bg3AX9Ei3UxBmZi6hcCdW1W8L80umxAt-vC2mSGPzCBp2Ji9iNcw==",
           "label": "buildfastwithai.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "OpenAI Recruits for Autonomous AI Self-Replication Safety Team",
+      "date": "2026-05-31",
+      "description": "OpenAI began recruiting for a specialized safety team focused on preventing autonomous AI self-replication, offering high salaries for researchers dedicated to building 'brakes' for self-improving systems.",
+      "category": "Research",
+      "significance": "Highlights the industry's proactive focus on advanced AI safety and control mechanisms, crucial for mitigating potential existential risks as AI capabilities continue to accelerate and become more autonomous.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQG52uU_rFCYWC8X8lD_Jkfaat5h2iIHB0bXKwDJTvbvGhaXNx5lg_8ys-nfoQA0uRhu9G41tB_hr1XnOEpvnCZDUsAFen1AdEAUOBYSKUXRLibRhCYqn4XP2p10O720kF0IcafzbFM=",
+          "label": "youtube.com"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Pentagon and Anthropic Publicly Rift Over Military AI Use",
+      "date": "2026-05-31",
+      "description": "A public dispute emerged between the Pentagon and Anthropic concerning the integration of AI into lethal autonomous systems. The Trump administration is pushing for faster military AI integration, while Anthropic expresses concerns over unchecked government use for mass surveillance and drone strikes.",
+      "category": "Military & Security",
+      "significance": "This public disagreement underscores the escalating ethical and policy challenges surrounding military AI development and deployment, likely influencing future international agreements and national defense strategies.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://vertexaisearch.cloud.google.com/grounding-api-redirect/AUZIYQGbn-9VvedBhaPmo4GfXE2ukrM4bzlJ07yvU2cfh13wvDc16pYbeIeu-IGmxX739QVWSzVSBLaXXnrGcuoarTekf-c2DcFJAACvUSpC8pDya2v9nnurpBtDWzg7AZq21ItmBPvr06uAmBDchBvlgiHMURG2TLz8Q5qjI4JbL9t-Cb3OZLwC2yrnojMWnEPnX3j-Vz3GIb4UbsYlEoGPK_jH8xIcKUUjKRLoQnNr4QhOnA==",
+          "label": "post-gazette.com"
         }
       ],
       "type": "timeline_event"
