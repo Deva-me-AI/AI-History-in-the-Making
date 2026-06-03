@@ -7957,5 +7957,44 @@
       }
     ],
     "issueNumber": 696
+  },
+  {
+    "title": "First Fully Autonomous LLM Cyberattack Documented by Sysdig",
+    "date": "2026-06-01",
+    "description": "Cybersecurity firm Sysdig documented the first confirmed live cyberattack executed entirely by an LLM agent. The agent autonomously discovered vulnerabilities, gained access, and exfiltrated an AWS database in under an hour without human intervention.",
+    "category": "Military & Security",
+    "sources": [
+      {
+        "url": "https://unrot.co",
+        "label": "Unrot.co Reports"
+      }
+    ],
+    "issueNumber": 697
+  },
+  {
+    "title": "U.S. President Signs Executive Order on AI Innovation and Cybersecurity",
+    "date": "2026-06-02",
+    "description": "U.S. President Donald J. Trump signed an Executive Order establishing a voluntary 30-day safety and cyber defense review framework for frontier models, while explicitly declining to authorize mandatory government licensing or pre-clearance.",
+    "category": "Policy",
+    "sources": [
+      {
+        "url": "https://www.whitehouse.gov",
+        "label": "White House Executive Orders"
+      }
+    ],
+    "issueNumber": 698
+  },
+  {
+    "title": "Cognition Raises $1 Billion to Value Devin Creator at $26 Billion",
+    "date": "2026-06-01",
+    "description": "Cognition, the creator of the Devin AI software engineer, raised $1 billion at a $26 billion valuation. The company reported a massive 1,230% year-over-year revenue growth driven by enterprise adoption of agentic software engineering.",
+    "category": "Funding",
+    "sources": [
+      {
+        "url": "https://buildfastwithai.com",
+        "label": "Build Fast with AI News"
+      }
+    ],
+    "issueNumber": 699
   }
 ]
