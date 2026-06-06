@@ -7996,5 +7996,35 @@
       }
     ],
     "issueNumber": 699
+  },
+  {
+    "title": "U.S. President Signs National Security Presidential Memorandum (NSPM-11) on Military AI Integration",
+    "date": "2026-06-05",
+    "description": "President Donald J. Trump signed National Security Presidential Memorandum (NSPM-11), establishing a formal framework to rapidly onboard commercial and open-source AI models onto classified military and intelligence networks. The memo also orders updated directives for autonomous weapon systems and strictly prohibits AI use for domestic surveillance or political censorship.",
+    "category": "Military & Security",
+    "sources": [
+      {
+        "url": "https://www.whitehouse.gov",
+        "label": "White House Presidential Memoranda"
+      },
+      {
+        "url": "https://www.washingtonpost.com",
+        "label": "The Washington Post"
+      }
+    ],
+    "issueNumber": 704
+  },
+  {
+    "title": "U.S. Congress Unveils 'Great American Artificial Intelligence Act' Draft",
+    "date": "2026-06-05",
+    "description": "Representatives Jay Obernolte and Lori Trahan introduced a 269-page draft of the 'Great American Artificial Intelligence Act'. The bill's key provision is a three-year freeze on state-level AI regulations, designed to preempt upcoming state laws, including Colorado's Consumer Protections for AI Act and various California AI safety bills.",
+    "category": "Policy",
+    "sources": [
+      {
+        "url": "https://buildfastwithai.com",
+        "label": "Build Fast with AI News"
+      }
+    ],
+    "issueNumber": 705
   }
 ]

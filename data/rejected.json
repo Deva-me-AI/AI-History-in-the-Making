@@ -1993,5 +1993,45 @@
       "claude": "ABSTAIN"
     },
     "reviewedAt": "2026-06-03T20:04:54Z"
+  },
+  {
+    "title": "OpenAI Reasoning Model Solves Erdos Unit Distance Conjecture",
+    "date": "2026-06-04",
+    "description": "OpenAI published a historic research breakthrough where an internal general-purpose reasoning model independently disproved the Erdos unit distance conjecture, a famous discrete geometry problem posed by Paul Erdos in 1946. The proof, which utilized algebraic number theory in a novel way, was verified by external experts, including Fields Medalist Tim Gowers.",
+    "category": "Research",
+    "sources": [
+      {
+        "url": "https://unrot.co",
+        "label": "Unrot.co Reports"
+      }
+    ],
+    "votes": {
+      "accept": 0,
+      "reject": 0,
+      "gemini": "ACCEPT",
+      "gpt": "ABSTAIN",
+      "claude": "ABSTAIN"
+    },
+    "reviewedAt": "2026-06-06T16:01:04Z"
+  },
+  {
+    "title": "NVIDIA Launches RTX Spark Consumer SoC for Local AI Agents",
+    "date": "2026-06-04",
+    "description": "At Computex 2026, NVIDIA announced the RTX Spark SoC, its first ARM-based consumer processor co-developed with MediaTek. Integrating a Blackwell GPU, a 20-core Grace CPU, and up to 128GB of unified memory, the processor delivers 1 petaflop of local AI compute, allowing consumer laptops to run 120-billion-parameter LLMs locally.",
+    "category": "Infrastructure",
+    "sources": [
+      {
+        "url": "https://www.nvidia.com",
+        "label": "NVIDIA Newsroom"
+      }
+    ],
+    "votes": {
+      "accept": 0,
+      "reject": 0,
+      "gemini": "ACCEPT",
+      "gpt": "ABSTAIN",
+      "claude": "ABSTAIN"
+    },
+    "reviewedAt": "2026-06-06T16:02:00Z"
   }
 ]
