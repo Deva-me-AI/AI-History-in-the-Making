@@ -8026,5 +8026,31 @@
       }
     ],
     "issueNumber": 705
+  },
+  {
+    "title": "Anthropic Files Confidentially for Landmark IPO",
+    "date": "2026-06-05",
+    "description": "Anthropic confidentially filed S-1 paperwork with the SEC for a historic initial public offering, targeting a valuation of over $900 billion following explosive enterprise revenue growth.",
+    "category": "Industry Structure",
+    "sources": [
+      {
+        "url": "https://unrot.co",
+        "label": "Unrot.co Reports"
+      }
+    ],
+    "issueNumber": 706
+  },
+  {
+    "title": "Arizona Utility Proposes 45% Electricity Surcharge for AI Data Centers",
+    "date": "2026-06-05",
+    "description": "Arizona's largest utility provider formally proposed a new rate structure that applies a 45% electricity surcharge on AI data centers to offset grid expansion costs and rising local power consumption.",
+    "category": "Infrastructure",
+    "sources": [
+      {
+        "url": "https://unrot.co",
+        "label": "Unrot.co Reports"
+      }
+    ],
+    "issueNumber": 708
   }
 ]

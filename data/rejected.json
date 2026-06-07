@@ -2033,5 +2033,45 @@
       "claude": "ABSTAIN"
     },
     "reviewedAt": "2026-06-06T16:02:00Z"
+  },
+  {
+    "title": "Senator Sanders Introduces American AI Sovereign Wealth Fund Act",
+    "date": "2026-06-05",
+    "description": "U.S. Senator Bernie Sanders introduced the American AI Sovereign Wealth Fund Act, proposing a one-time 50% equity tax on frontier AI companies to seed a national wealth fund offering public voting rights and dividends.",
+    "category": "Policy",
+    "sources": [
+      {
+        "url": "https://buildfastwithai.com",
+        "label": "Build Fast with AI News"
+      }
+    ],
+    "votes": {
+      "accept": 0,
+      "reject": 1,
+      "gemini": "REJECT",
+      "gpt": "ABSTAIN",
+      "claude": "ABSTAIN"
+    },
+    "reviewedAt": "2026-06-07T20:01:58Z"
+  },
+  {
+    "title": "Florida Attorney General Sues OpenAI and CEO Sam Altman",
+    "date": "2026-06-05",
+    "description": "The Florida Attorney General filed an 83-page lawsuit against OpenAI and CEO Sam Altman, alleging negligence and a failure to enforce adequate safety protocols on public LLM models.",
+    "category": "Policy",
+    "sources": [
+      {
+        "url": "https://neuralbuddies.com",
+        "label": "Neural Buddies News"
+      }
+    ],
+    "votes": {
+      "accept": 0,
+      "reject": 0,
+      "gemini": "ACCEPT",
+      "gpt": "ABSTAIN",
+      "claude": "ABSTAIN"
+    },
+    "reviewedAt": "2026-06-07T20:03:23Z"
   }
 ]
