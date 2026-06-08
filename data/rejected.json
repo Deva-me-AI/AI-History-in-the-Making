@@ -2073,5 +2073,45 @@
       "claude": "ABSTAIN"
     },
     "reviewedAt": "2026-06-07T20:03:23Z"
+  },
+  {
+    "title": "Senator Sanders Introduces the American AI Sovereign Wealth Fund Act Proposing Public AI Equity",
+    "date": "2026-06-07",
+    "description": "Senator Bernie Sanders introduced the 'American AI Sovereign Wealth Fund Act,' proposing a 50% stock tax on premier private AI entities (including OpenAI, Anthropic, and xAI) to seed a public sovereign wealth fund. The proposal saw unexpected alignment as President Donald Trump expressed support for partnerships ensuring the public benefits from AI company profits, and OpenAI CEO Sam Altman held private discussions with Sanders regarding public equity.",
+    "category": "Policy",
+    "sources": [
+      {
+        "url": "https://broadbandbreakfast.com",
+        "label": "Broadband Breakfast"
+      }
+    ],
+    "votes": {
+      "accept": 0,
+      "reject": 0,
+      "gemini": "ACCEPT",
+      "gpt": "ABSTAIN",
+      "claude": "ABSTAIN"
+    },
+    "reviewedAt": "2026-06-08T16:03:55Z"
+  },
+  {
+    "title": "NVIDIA and SK Hynix Announce Multiyear Technology Partnership for Next-Gen Vera Rubin Memory",
+    "date": "2026-06-07",
+    "description": "NVIDIA and SK Hynix announced a multiyear technology partnership to co-develop next-generation high-bandwidth memory (HBM) optimized for NVIDIA's upcoming 'Vera Rubin' AI supercomputers. The collaboration also focuses on integrating AI simulations to accelerate semiconductor design and optimize thermal management for ultra-dense data center deployments.",
+    "category": "Infrastructure",
+    "sources": [
+      {
+        "url": "https://www.nvidia.com",
+        "label": "NVIDIA"
+      }
+    ],
+    "votes": {
+      "accept": 0,
+      "reject": 0,
+      "gemini": "REJECT",
+      "gpt": "ABSTAIN",
+      "claude": "ABSTAIN"
+    },
+    "reviewedAt": "2026-06-08T16:04:48Z"
   }
 ]

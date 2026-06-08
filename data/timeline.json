@@ -8052,5 +8052,35 @@
       }
     ],
     "issueNumber": 708
+  },
+  {
+    "title": "Apple Partners with Google to Rebuild Siri Using Custom 1.2-Trillion-Parameter Gemini Model",
+    "date": "2026-06-08",
+    "description": "At WWDC 2026, Apple announced a landmark multi-year partnership with Google to license a custom-built, cloud-based 1.2-trillion-parameter Google Gemini model to power Siri and Apple Intelligence. The rebuild includes a conversational standalone app interface and Dynamic Island integration, running through Apple's Private Cloud Compute. Additionally, iOS 27 introduces 'Extensions' allowing users to integrate other models like OpenAI's ChatGPT and Anthropic's Claude.",
+    "category": "Industry Structure",
+    "sources": [
+      {
+        "url": "https://www.macrumors.com",
+        "label": "MacRumors"
+      },
+      {
+        "url": "https://www.business-standard.com",
+        "label": "Business Standard"
+      }
+    ],
+    "issueNumber": 710
+  },
+  {
+    "title": "AMD Commits £2 Billion to UK Sovereign AI, Quantum, and Research Infrastructure",
+    "date": "2026-06-08",
+    "description": "AMD CEO Dr. Lisa Su announced a £2 billion, five-year investment in the United Kingdom focused on accelerating sovereign AI, high-performance computing, and quantum networking technologies. The initiative includes strategic partnerships with Imperial College London, Oriole Networks, and the University of Cambridge to develop next-generation optical networks and large-scale academic supercomputing clusters.",
+    "category": "Infrastructure",
+    "sources": [
+      {
+        "url": "https://www.amd.com",
+        "label": "AMD"
+      }
+    ],
+    "issueNumber": 713
   }
 ]
