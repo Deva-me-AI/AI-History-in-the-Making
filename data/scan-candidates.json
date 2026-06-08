@@ -2,30 +2,45 @@
   "scanDate": "2026-06-08",
   "candidates": [
     {
-      "title": "Apple Partners with Google to Rebuild Siri Using Custom 1.2-Trillion-Parameter Gemini Model",
+      "title": "Apple Unveils Rebuilt Siri Powered by Google Gemini and CEO Succession at WWDC 2026",
       "date": "2026-06-08",
-      "description": "At WWDC 2026, Apple announced a landmark multi-year partnership with Google to license a custom-built, cloud-based 1.2-trillion-parameter Google Gemini model to power Siri and Apple Intelligence. The rebuild includes a conversational standalone app interface and Dynamic Island integration, running through Apple's Private Cloud Compute. Additionally, iOS 27 introduces 'Extensions' allowing users to integrate other models like OpenAI's ChatGPT and Anthropic's Claude.",
+      "description": "At WWDC 2026, Apple announced a complete overhaul of Siri, partnering with Google to license a custom 1.2-trillion-parameter Gemini model for $1 billion annually. Apple also announced that Tim Cook will step down as CEO on September 1, 2026, to be succeeded by hardware engineering head John Ternus.",
       "category": "Industry Structure",
-      "significance": "This is a major consolidation in the AI consumer space, giving Google unmatched distribution of its Gemini models on millions of devices while standardizing Apple's hybrid on-device and private cloud architecture.",
+      "significance": "This marks a massive shift in the consumer AI landscape, representing a historic partnership between long-term rivals Apple and Google, a transition to agentic on-device AI, and the end of Tim Cook's 15-year tenure as Apple CEO.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://www.macrumors.com",
-          "label": "MacRumors"
+          "url": "https://www.apple.com",
+          "label": "Apple Official Website"
         },
         {
-          "url": "https://www.business-standard.com",
-          "label": "Business Standard"
+          "url": "https://www.macrumors.com",
+          "label": "MacRumors WWDC Coverage"
         }
       ],
       "type": "timeline_event"
     },
     {
-      "title": "Senator Sanders Introduces the American AI Sovereign Wealth Fund Act Proposing Public AI Equity",
+      "title": "Google Partners with SpaceX for Colossus Data Center Capacity",
+      "date": "2026-06-08",
+      "description": "Google signed a milestone deal with SpaceX to utilize its Colossus data center to handle overflow compute capacity for Gemini Enterprise. The agreement highlights the extreme scaling demands and infrastructure constraints faced by frontier AI developers.",
+      "category": "Infrastructure",
+      "significance": "Secures critical non-traditional infrastructure pathways for frontier AI compute scaling, reflecting the intense competition and physical capacity constraints in AI data center hosting.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://stratechery.com",
+          "label": "Stratechery"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Sovereign Wealth Fund Act Proposed for US Public Share in Frontier AI",
       "date": "2026-06-07",
-      "description": "Senator Bernie Sanders introduced the 'American AI Sovereign Wealth Fund Act,' proposing a 50% stock tax on premier private AI entities (including OpenAI, Anthropic, and xAI) to seed a public sovereign wealth fund. The proposal saw unexpected alignment as President Donald Trump expressed support for partnerships ensuring the public benefits from AI company profits, and OpenAI CEO Sam Altman held private discussions with Sanders regarding public equity.",
+      "description": "U.S. Senator Bernie Sanders introduced the 'American AI Sovereign Wealth Fund Act,' proposing a 50% one-time stock-based tax on leading private AI companies—including OpenAI, Anthropic, and xAI—to establish a public wealth fund. OpenAI CEO Sam Altman expressed openness to public equity concepts.",
       "category": "Policy",
-      "significance": "This marks the first major legislative attempt in the US to establish public equity stakes in leading private artificial intelligence firms, signaling a potential shift from regulatory oversight to direct public-private economic integration.",
+      "significance": "Represents a historic, high-stakes legislative proposal to transition a portion of private AI capital gains to the public sector, sparking debate on public ownership of frontier AI technologies.",
       "confidence": "high",
       "sources": [
         {
@@ -36,31 +51,16 @@
       "type": "timeline_event"
     },
     {
-      "title": "NVIDIA and SK Hynix Announce Multiyear Technology Partnership for Next-Gen Vera Rubin Memory",
+      "title": "NVIDIA, SK hynix, and SK Telecom Partner on Rubin AI Supercomputer Memory and Giga-Scale Cloud",
       "date": "2026-06-07",
-      "description": "NVIDIA and SK Hynix announced a multiyear technology partnership to co-develop next-generation high-bandwidth memory (HBM) optimized for NVIDIA's upcoming 'Vera Rubin' AI supercomputers. The collaboration also focuses on integrating AI simulations to accelerate semiconductor design and optimize thermal management for ultra-dense data center deployments.",
+      "description": "NVIDIA and SK hynix established a multiyear partnership to co-develop next-generation memory for NVIDIA's upcoming Vera Rubin AI supercomputer architecture and Jetson Thor robotics platform. Concurrently, SK Telecom announced a gigawatt-scale AI Cloud in South Korea using NVIDIA's DSX platform.",
       "category": "Infrastructure",
-      "significance": "This solidifies the hardware supply chain for next-generation frontier AI training, deepening the technological integration between the world's leading chip designer and HBM manufacturer to overcome physical memory bottlenecks.",
+      "significance": "Solidifies the hardware and high-bandwidth memory (HBM) supply chains necessary for next-generation frontier AI supercomputers, enabling gigawatt-scale AI data center expansions globally.",
       "confidence": "high",
       "sources": [
         {
           "url": "https://www.nvidia.com",
-          "label": "NVIDIA"
-        }
-      ],
-      "type": "timeline_event"
-    },
-    {
-      "title": "AMD Commits £2 Billion to UK Sovereign AI, Quantum, and Research Infrastructure",
-      "date": "2026-06-08",
-      "description": "AMD CEO Dr. Lisa Su announced a £2 billion, five-year investment in the United Kingdom focused on accelerating sovereign AI, high-performance computing, and quantum networking technologies. The initiative includes strategic partnerships with Imperial College London, Oriole Networks, and the University of Cambridge to develop next-generation optical networks and large-scale academic supercomputing clusters.",
-      "category": "Infrastructure",
-      "significance": "This massive investment bolsters Europe's sovereign computing capacity and establishes AMD as a primary institutional alternative to NVIDIA in national-scale public AI infrastructure.",
-      "confidence": "high",
-      "sources": [
-        {
-          "url": "https://www.amd.com",
-          "label": "AMD"
+          "label": "NVIDIA Newsroom"
         }
       ],
       "type": "timeline_event"
