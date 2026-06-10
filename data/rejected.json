@@ -2113,5 +2113,29 @@
       "claude": "ABSTAIN"
     },
     "reviewedAt": "2026-06-08T16:04:48Z"
+  },
+  {
+    "title": "Tim Cook Announces September 2026 Retirement as Apple CEO at WWDC",
+    "date": "2026-06-08",
+    "description": "During the WWDC 2026 keynote, Tim Cook announced he will step down as Apple's CEO on September 1, 2026, transitioning to Executive Chairman of the Board of Directors after 15 years leading the company. He will be succeeded by John Ternus, Apple's current Senior VP of Hardware Engineering, marking a historic leadership transition as Apple shifts to a full-scale AI ecosystem strategy.",
+    "category": "Industry Structure",
+    "sources": [
+      {
+        "url": "https://www.theguardian.com",
+        "label": "The Guardian"
+      },
+      {
+        "url": "https://www.mashable.com",
+        "label": "Mashable"
+      }
+    ],
+    "votes": {
+      "accept": 0,
+      "reject": 1,
+      "gemini": "REJECT",
+      "gpt": "ABSTAIN",
+      "claude": "ABSTAIN"
+    },
+    "reviewedAt": "2026-06-10T12:01:23Z"
   }
 ]

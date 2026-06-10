@@ -8082,5 +8082,61 @@
       }
     ],
     "issueNumber": 713
+  },
+  {
+    "title": "OpenAI Confidentially Files S-1 Paperwork for Landmark IPO",
+    "date": "2026-06-09",
+    "description": "OpenAI confidentially submitted its draft S-1 paperwork to the SEC, initiating the regulatory process for an initial public offering. Alongside the filing, OpenAI published a plan highlighting its commitment to distributing the benefits of transformative artificial intelligence widely, setting up a public market competition with Anthropic, which filed for its own IPO earlier in June.",
+    "category": "Industry Structure",
+    "sources": [
+      {
+        "url": "https://medium.com",
+        "label": "Medium Reports"
+      },
+      {
+        "url": "https://www.sec.gov",
+        "label": "SEC"
+      }
+    ],
+    "issueNumber": 715
+  },
+  {
+    "title": "Google and SpaceX Partner in Historic $30 Billion AI Compute Deal",
+    "date": "2026-06-09",
+    "description": "Google signed a multi-year cloud services agreement with SpaceX worth $920 million per month, totaling approximately $30 billion over 32 months. Under the agreement, Google gains leased access to approximately 110,000 NVIDIA GPUs housed within SpaceX's Memphis data centers, which were originally built to train xAI's Grok models.",
+    "category": "Infrastructure",
+    "sources": [
+      {
+        "url": "https://medium.com",
+        "label": "Medium Reports"
+      }
+    ],
+    "issueNumber": 716
+  },
+  {
+    "title": "China Unveils Record-Breaking $295 Billion AI Infrastructure Initiative",
+    "date": "2026-06-09",
+    "description": "The government of China announced a massive $295 billion AI infrastructure investment plan, representing the largest single national AI initiative in history. The initiative aims to dramatically scale up domestic semiconductor manufacturing, expand state-sponsored data center clusters, and build a unified national compute network to secure technological leadership.",
+    "category": "Policy",
+    "sources": [
+      {
+        "url": "https://zedking.in",
+        "label": "Zedking Reports"
+      }
+    ],
+    "issueNumber": 717
+  },
+  {
+    "title": "EU Orders Meta to Interoperate WhatsApp with Rival AI Chatbots",
+    "date": "2026-06-10",
+    "description": "The European Commission issued an interim order requiring Meta to restore and support access to WhatsApp's messaging protocols for rival AI chatbot developers, including OpenAI. The decision comes amidst an ongoing antitrust investigation into whether Meta is anticompetitively locking out rival conversational models from its massive communication platforms.",
+    "category": "Policy",
+    "sources": [
+      {
+        "url": "https://wsls.com",
+        "label": "WSLS News"
+      }
+    ],
+    "issueNumber": 718
   }
 ]
