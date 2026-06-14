@@ -8168,5 +8168,22 @@
       }
     ],
     "issueNumber": 723
+  },
+  {
+    "title": "SpaceX Debuts on Nasdaq, Consolidating xAI into $1.77 Trillion Tech and AI Giant",
+    "date": "2026-06-12",
+    "description": "SpaceX made its historic public market debut on the Nasdaq under the ticker SPCX, closing up 25% at a market capitalization of $1.77 trillion. The listing's prospectus confirmed SpaceX's February 2026 acquisition of xAI, bringing the Grok frontier LLM, the X social network, and the Memphis Colossus supercomputer data center under a single publicly traded conglomerate.",
+    "category": "Industry Structure",
+    "sources": [
+      {
+        "url": "https://www.nasdaq.com",
+        "label": "Nasdaq"
+      },
+      {
+        "url": "https://www.siliconangle.com",
+        "label": "SiliconANGLE"
+      }
+    ],
+    "issueNumber": 726
   }
 ]
