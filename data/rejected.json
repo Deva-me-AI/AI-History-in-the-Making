@@ -2245,5 +2245,65 @@
       "claude": "ABSTAIN"
     },
     "reviewedAt": "2026-06-14T08:04:08Z"
+  },
+  {
+    "title": "OpenAI Launches $150 Million Partner Network for Enterprise Distribution",
+    "date": "2026-06-15",
+    "description": "OpenAI unveiled the 'OpenAI Partner Network' at its first partner summit in San Francisco, pledging $150 million in initial funding to build an enterprise reseller and consulting ecosystem. The network aims to train and certify 300,000 consultants by the end of the year, with launch partners including Accenture, Bain, BCG, McKinsey, and PwC.",
+    "category": "Industry Structure",
+    "sources": [
+      {
+        "url": "https://www.channeldive.com",
+        "label": "Channel Dive"
+      }
+    ],
+    "votes": {
+      "accept": 0,
+      "reject": 1,
+      "gemini": "REJECT",
+      "gpt": "ABSTAIN",
+      "claude": "ABSTAIN"
+    },
+    "reviewedAt": "2026-06-16T20:01:20Z"
+  },
+  {
+    "title": "PwC 2026 Global AI Jobs Barometer Documents Two-Track Labor Market Bifurcation",
+    "date": "2026-06-15",
+    "description": "PwC released its 2026 Global AI Jobs Barometer, analyzing global labor data to reveal a striking 'two-track' labor market. The report shows that 'professionalized' roles using AI as a force multiplier enjoy twice the job growth and 42% faster wage increases, whereas specialized AI skills command an average wage premium of 62%.",
+    "category": "Research",
+    "sources": [
+      {
+        "url": "https://www.pwc.com",
+        "label": "PwC"
+      }
+    ],
+    "votes": {
+      "accept": 0,
+      "reject": 1,
+      "gemini": "REJECT",
+      "gpt": "ABSTAIN",
+      "claude": "ABSTAIN"
+    },
+    "reviewedAt": "2026-06-16T20:02:10Z"
+  },
+  {
+    "title": "Federal Court Dismisses Elon Musk's xAI Trade Secret Lawsuit Against OpenAI",
+    "date": "2026-06-15",
+    "description": "U.S. District Judge Rita Lin in San Francisco dismissed with prejudice a lawsuit filed by Elon Musk's xAI that accused OpenAI of stealing core trade secrets. The court ruled that xAI failed to show OpenAI misappropriated proprietary code or information through its recruitment of a former xAI engineer.",
+    "category": "Policy",
+    "sources": [
+      {
+        "url": "https://www.aljazeera.com",
+        "label": "Al Jazeera"
+      }
+    ],
+    "votes": {
+      "accept": 0,
+      "reject": 1,
+      "gemini": "REJECT",
+      "gpt": "ABSTAIN",
+      "claude": "ABSTAIN"
+    },
+    "reviewedAt": "2026-06-16T20:02:59Z"
   }
 ]

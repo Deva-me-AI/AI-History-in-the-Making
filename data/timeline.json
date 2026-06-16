@@ -8185,5 +8185,22 @@
       }
     ],
     "issueNumber": 726
+  },
+  {
+    "title": "SpaceX Acquires Anysphere for $60 Billion to Bolster xAI Coding Ecosystem",
+    "date": "2026-06-16",
+    "description": "SpaceX announced its acquisition of Anysphere, Inc., the creator of the popular AI-powered coding editor Cursor, in an all-stock deal valued at $60 billion. The acquisition positions SpaceX’s xAI division (Grok) to aggressively compete with developer tools from Anthropic and OpenAI.",
+    "category": "Industry Structure",
+    "sources": [
+      {
+        "url": "https://www.forbes.com",
+        "label": "Forbes"
+      },
+      {
+        "url": "https://www.qz.com",
+        "label": "Quartz"
+      }
+    ],
+    "issueNumber": 729
   }
 ]
