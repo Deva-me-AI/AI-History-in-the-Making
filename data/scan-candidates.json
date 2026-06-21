@@ -1,1 +1,40 @@
-{"scanDate":"2026-06-21","candidates":[],"questionUpdates":[]}
+{
+  "scanDate": "2026-06-21",
+  "candidates": [
+    {
+      "title": "US Regulators Fast-Track Power Grid Access for AI Data Centers",
+      "date": "2026-06-20",
+      "description": "The Federal Energy Regulatory Commission (FERC) voted unanimously to direct regional grid operators to fast-track connections for AI data centers to the U.S. transmission system. The decision aims to secure U.S. AI infrastructure leadership against China, supported by major tech companies signing a 'Ratepayer Protection Pledge' to build or buy new power sources.",
+      "category": "Infrastructure",
+      "significance": "A major regulatory shift prioritizing AI compute over traditional utility timelines to secure national technology leadership, fundamentally altering public utility coordination for AI data centers.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://broadbandbreakfast.com",
+          "label": "Broadband Breakfast"
+        },
+        {
+          "url": "https://www.jamaica-gleaner.com",
+          "label": "Jamaica Gleaner"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Grassroots Group 'Humans First' Organizes Nationwide Protests Against AI Data Centers",
+      "date": "2026-06-19",
+      "description": "The grassroots group 'Humans First' organized a Nationwide Day of Protest scheduled for July 18, 2026, targeting hyperscale AI data centers across 13 locations in states like Virginia, Texas, Georgia, Florida, and California. Protesters are raising concerns about grid strain, water consumption, noise, and zoning.",
+      "category": "Infrastructure",
+      "significance": "Marks a significant cultural inflection point of organized, nationwide public resistance specifically targeting the physical environmental footprint and infrastructure of AI compute centers.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://techradar.com",
+          "label": "TechRadar"
+        }
+      ],
+      "type": "timeline_event"
+    }
+  ],
+  "questionUpdates": []
+}
