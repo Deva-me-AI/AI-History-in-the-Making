@@ -8202,5 +8202,39 @@
       }
     ],
     "issueNumber": 729
+  },
+  {
+    "title": "Anthropic Restores Claude Fable 5 with Nationality-Based Access and Biometric Controls",
+    "date": "2026-06-19",
+    "description": "Following a six-day emergency government shutdown, Anthropic restored access to its frontier model Claude Fable 5. In compliance with the U.S. Commerce Department's directive, the release introduces strict, first-of-its-kind nationality-based access controls and biometric/ID identity verification for API users.",
+    "category": "Policy",
+    "sources": [
+      {
+        "url": "https://aitoolsrecap.com",
+        "label": "AI Tools Recap"
+      },
+      {
+        "url": "https://www.medium.com",
+        "label": "Medium Reports"
+      }
+    ],
+    "issueNumber": 733
+  },
+  {
+    "title": "Senator Bernie Sanders Introduces American AI Sovereign Wealth Fund Act",
+    "date": "2026-06-18",
+    "description": "Senator Bernie Sanders introduced a bill to establish a $7 trillion national sovereign wealth fund funded by a one-time 50% stock tax on major AI companies. The bill proposes distributing a 5% annual dividend—approximately $1,000 per year—to every American citizen, and creating an independent commission with board-voting shares to oversee democratic AI development.",
+    "category": "Policy",
+    "sources": [
+      {
+        "url": "https://www.senate.gov",
+        "label": "U.S. Senate"
+      },
+      {
+        "url": "https://www.reason.com",
+        "label": "Reason Magazine"
+      }
+    ],
+    "issueNumber": 735
   }
 ]
