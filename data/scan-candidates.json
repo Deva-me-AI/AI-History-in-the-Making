@@ -40,6 +40,21 @@
       "type": "timeline_event"
     },
     {
+      "title": "Grassroots Group 'Humans First' Organizes Nationwide Protests Against AI Data Centers",
+      "date": "2026-06-19",
+      "description": "The grassroots group 'Humans First' organized a Nationwide Day of Protest scheduled for July 18, 2026, targeting hyperscale AI data centers across 13 locations in states like Virginia, Texas, Georgia, Florida, and California. Protesters are raising concerns about grid strain, water consumption, noise, and zoning.",
+      "category": "Infrastructure",
+      "significance": "This marks a major escalation in public backlash against physical AI infrastructure, indicating growing grassroots resistance to the resource footprint of LLM scaling.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://techradar.com",
+          "label": "TechRadar"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
       "title": "Senator Bernie Sanders Introduces American AI Sovereign Wealth Fund Act",
       "date": "2026-06-18",
       "description": "Senator Bernie Sanders introduced a bill to establish a $7 trillion national sovereign wealth fund funded by a one-time 50% stock tax on major AI companies. The bill proposes distributing a 5% annual dividend—approximately $1,000 per year—to every American citizen, and creating an independent commission with board-voting shares to oversee democratic AI development.",
@@ -54,21 +69,6 @@
         {
           "url": "https://www.reason.com",
           "label": "Reason Magazine"
-        }
-      ],
-      "type": "timeline_event"
-    },
-    {
-      "title": "Grassroots Group 'Humans First' Organizes Nationwide Protests Against AI Data Centers",
-      "date": "2026-06-19",
-      "description": "The grassroots group 'Humans First' organized a Nationwide Day of Protest scheduled for July 18, 2026, targeting hyperscale AI data centers across 13 locations in states like Virginia, Texas, Georgia, Florida, and California. Protesters are raising concerns about grid strain, water consumption, noise, and zoning.",
-      "category": "Infrastructure",
-      "significance": "This marks a major escalation in public backlash against physical AI infrastructure, indicating growing grassroots resistance to the resource footprint of LLM scaling.",
-      "confidence": "high",
-      "sources": [
-        {
-          "url": "https://techradar.com",
-          "label": "TechRadar"
         }
       ],
       "type": "timeline_event"
