@@ -1,5 +1,5 @@
 {
-  "scanDate": "2026-06-21",
+  "scanDate": "2026-06-22",
   "candidates": [
     {
       "title": "US Regulators Fast-Track Power Grid Access for AI Data Centers",
@@ -21,16 +21,50 @@
       "type": "timeline_event"
     },
     {
-      "title": "Grassroots Group 'Humans First' Organizes Nationwide Protests Against AI Data Centers",
-      "date": "2026-06-19",
-      "description": "The grassroots group 'Humans First' organized a Nationwide Day of Protest scheduled for July 18, 2026, targeting hyperscale AI data centers across 13 locations in states like Virginia, Texas, Georgia, Florida, and California. Protesters are raising concerns about grid strain, water consumption, noise, and zoning.",
-      "category": "Infrastructure",
-      "significance": "Marks a significant cultural inflection point of organized, nationwide public resistance specifically targeting the physical environmental footprint and infrastructure of AI compute centers.",
+      "title": "Over 100 Cybersecurity Leaders Openly Oppose U.S. Ban on Claude Fable 5",
+      "date": "2026-06-21",
+      "description": "Over 100 cybersecurity leaders and researchers signed an open letter demanding the U.S. government reverse the ban on Anthropic's Claude Fable 5 and Mythos 5 models. They called the 'zero jailbreaks' mandate technically impossible and warned that export restrictions are a disproportionate overreach that hinders defense research.",
+      "category": "Policy",
+      "significance": "A historic mobilization of the cybersecurity community against unilateral government model shutdowns, highlighting the friction between national security export controls and open security research.",
       "confidence": "high",
       "sources": [
         {
-          "url": "https://techradar.com",
-          "label": "TechRadar"
+          "url": "https://www.washingtonpost.com",
+          "label": "The Washington Post"
+        },
+        {
+          "url": "https://aitoolsrecap.com",
+          "label": "AI Tools Recap"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Google Cloud and Philippines Partner on National AI Defense Alliance",
+      "date": "2026-06-22",
+      "description": "The Philippine Department of Information and Communications Technology (DICT) partnered with Google Cloud to equip over 50,000 public servants with Gemini Enterprise and deploy 'Google Cloud Cybershield' AI defenses across 90 government agencies to establish a national cyber defense alliance.",
+      "category": "Military & Security",
+      "significance": "A major sovereign-level deployment of enterprise AI and national cyber defenses by a Southeast Asian nation in partnership with a U.S. cloud giant, signaling a shift toward AI-centric national defense and public sector modernization.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://googlecloudpresscorner.com",
+          "label": "Google Cloud Press Corner"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Getty Images Signs Landmark Display and Integration Agreement with OpenAI",
+      "date": "2026-06-21",
+      "description": "Getty Images announced a multi-year display agreement with OpenAI, integrating Getty's licensed content libraries directly into ChatGPT's search and discovery experiences to deliver richer, legally compliant visual responses.",
+      "category": "Industry Structure",
+      "significance": "A major commercial partnership bridging high-quality licensed creative content and generative search, establishing a new legal standard for integrating copyright-protected imagery into real-time LLM outputs.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://gettyimages.com",
+          "label": "Getty Images"
         }
       ],
       "type": "timeline_event"
