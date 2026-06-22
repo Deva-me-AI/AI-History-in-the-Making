@@ -2349,5 +2349,49 @@
       "claude": "ABSTAIN"
     },
     "reviewedAt": "2026-06-21T16:03:11Z"
+  },
+  {
+    "title": "US Regulators Fast-Track Power Grid Access for AI Data Centers",
+    "date": "2026-06-20",
+    "description": "The Federal Energy Regulatory Commission (FERC) voted unanimously to direct regional grid operators to fast-track connections for AI data centers to the U.S. transmission system. The decision aims to secure U.S. AI infrastructure leadership against China, supported by major tech companies signing a 'Ratepayer Protection Pledge' to build or buy new power sources.",
+    "category": "Infrastructure",
+    "sources": [
+      {
+        "url": "https://broadbandbreakfast.com",
+        "label": "Broadband Breakfast"
+      },
+      {
+        "url": "https://www.jamaica-gleaner.com",
+        "label": "Jamaica Gleaner"
+      }
+    ],
+    "votes": {
+      "accept": 0,
+      "reject": 0,
+      "gemini": "ACCEPT",
+      "gpt": "ABSTAIN",
+      "claude": "ABSTAIN"
+    },
+    "reviewedAt": "2026-06-22T08:01:23Z"
+  },
+  {
+    "title": "Grassroots Group 'Humans First' Organizes Nationwide Protests Against AI Data Centers",
+    "date": "2026-06-19",
+    "description": "The grassroots group 'Humans First' organized a Nationwide Day of Protest scheduled for July 18, 2026, targeting hyperscale AI data centers across 13 locations in states like Virginia, Texas, Georgia, Florida, and California. Protesters are raising concerns about grid strain, water consumption, noise, and zoning.",
+    "category": "Infrastructure",
+    "sources": [
+      {
+        "url": "https://techradar.com",
+        "label": "TechRadar"
+      }
+    ],
+    "votes": {
+      "accept": 0,
+      "reject": 1,
+      "gemini": "REJECT",
+      "gpt": "ABSTAIN",
+      "claude": "ABSTAIN"
+    },
+    "reviewedAt": "2026-06-22T08:02:31Z"
   }
 ]
