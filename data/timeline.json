@@ -8266,5 +8266,22 @@
       }
     ],
     "issueNumber": 742
+  },
+  {
+    "title": "Nvidia Launches 'Halos for Robotics' Safety Operating System",
+    "date": "2026-06-22",
+    "description": "At the Automate 2026 conference, Nvidia announced 'Halos for Robotics,' a full-stack, standardized safety architecture running Halos OS on IGX Thor hardware. The safety operating system allows humanoid robots to make split-second decisions to safely interact with humans in industrial environments, with Agility Robotics announced as the first partner to deploy it on Digit humanoid robots.",
+    "category": "Infrastructure",
+    "sources": [
+      {
+        "url": "https://nvidia.com",
+        "label": "NVIDIA Newsroom"
+      },
+      {
+        "url": "https://therobotreport.com",
+        "label": "The Robot Report"
+      }
+    ],
+    "issueNumber": 743
   }
 ]
