@@ -1,1 +1,78 @@
-{"scanDate":"2026-06-22","candidates":[],"questionUpdates":[]}
+{
+  "scanDate": "2026-06-23",
+  "candidates": [
+    {
+      "title": "Oracle Discloses 21,000 AI-Related Job Cuts in SEC Filing",
+      "date": "2026-06-22",
+      "description": "In its annual SEC regulatory filing, Oracle disclosed a reduction of 13% of its workforce (approximately 21,000 employees), explicitly stating that the adoption and deployment of AI technologies across operations driven by restructuring resulted in the reductions. The company spent $1.84 billion on severance as it shifts capital to a projected $70 billion in AI data center expenditures.",
+      "category": "Industry Structure",
+      "significance": "The first explicit acknowledgment by a major tech conglomerate in a regulatory filing of massive job reductions caused directly by AI replacement, while simultaneously pivoting capital into massive AI compute infrastructure.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://gizmodo.com",
+          "label": "Gizmodo"
+        },
+        {
+          "url": "https://theedgesingapore.com",
+          "label": "The Edge Singapore"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Nvidia Launches 'Halos for Robotics' Safety Operating System",
+      "date": "2026-06-22",
+      "description": "At the Automate 2026 conference, Nvidia announced 'Halos for Robotics,' a full-stack, standardized safety architecture running Halos OS on IGX Thor hardware. The safety operating system allows humanoid robots to make split-second decisions to safely interact with humans in industrial environments, with Agility Robotics announced as the first partner to deploy it on Digit humanoid robots.",
+      "category": "Infrastructure",
+      "significance": "The industry's first standardized safety operating system and architecture for physical AI and humanoid robots, establishing the foundational safety standards required for autonomous machines to work directly alongside humans.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://nvidia.com",
+          "label": "NVIDIA Newsroom"
+        },
+        {
+          "url": "https://therobotreport.com",
+          "label": "The Robot Report"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Security Researchers Disclose 'Agentjacking' Vulnerability Class Targeting AI Coding Agents",
+      "date": "2026-06-22",
+      "description": "Security researchers from Tenet Security disclosed 'Agentjacking,' a new class of cyber attack targeting AI coding agents such as Claude Code and Cursor. Attackers exploit public Sentry Data Source Names (DSNs) to inject malicious markdown instructions into error logs, which AI agents interpret as debugging guidance and execute as malicious local commands via the Model Context Protocol (MCP).",
+      "category": "Military & Security",
+      "significance": "The first major security exploit class targeting Model Context Protocol (MCP) integrations, highlighting the systemic vulnerability of autonomous AI agents executing local system commands based on untrusted external data inputs.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://thehackernews.com",
+          "label": "The Hacker News"
+        },
+        {
+          "url": "https://cloudsecurityalliance.org",
+          "label": "Cloud Security Alliance"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "EU Lawmakers Approve Provisional Delay of Key AI Act Timelines",
+      "date": "2026-06-22",
+      "description": "The European Parliament voted to adopt a provisional agreement on the EU Digital Omnibus on AI, delaying key compliance deadlines for high-risk AI systems and watermarking obligations for synthetic content to December 2, 2026. The postponement responds to heavy lobbying from European industry coalitions citing high compliance costs and unresolved technical standards.",
+      "category": "Policy",
+      "significance": "Marks the first significant regulatory retreat or delay of implementation timelines under the EU AI Act framework, acknowledging the immense practical and financial friction of enforcing compliance on frontier AI technologies.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://sidley.com",
+          "label": "Sidley Austin LLP"
+        }
+      ],
+      "type": "timeline_event"
+    }
+  ],
+  "questionUpdates": []
+}
