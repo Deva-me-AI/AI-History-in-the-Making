@@ -2393,5 +2393,53 @@
       "claude": "ABSTAIN"
     },
     "reviewedAt": "2026-06-22T08:02:31Z"
+  },
+  {
+    "title": "Nvidia Launches 'Halos for Robotics' Safety Operating System",
+    "date": "2026-06-22",
+    "description": "At the Automate 2026 conference, Nvidia announced 'Halos for Robotics,' a full-stack, standardized safety architecture running Halos OS on IGX Thor hardware. The safety operating system allows humanoid robots to make split-second decisions to safely interact with humans in industrial environments, with Agility Robotics announced as the first partner to deploy it on Digit humanoid robots.",
+    "category": "Infrastructure",
+    "sources": [
+      {
+        "url": "https://nvidia.com",
+        "label": "NVIDIA Newsroom"
+      },
+      {
+        "url": "https://therobotreport.com",
+        "label": "The Robot Report"
+      }
+    ],
+    "votes": {
+      "accept": 0,
+      "reject": 0,
+      "gemini": "ACCEPT",
+      "gpt": "ABSTAIN",
+      "claude": "ABSTAIN"
+    },
+    "reviewedAt": "2026-06-23T12:02:03Z"
+  },
+  {
+    "title": "Security Researchers Disclose 'Agentjacking' Vulnerability Class Targeting AI Coding Agents",
+    "date": "2026-06-22",
+    "description": "Security researchers from Tenet Security disclosed 'Agentjacking,' a new class of cyber attack targeting AI coding agents such as Claude Code and Cursor. Attackers exploit public Sentry Data Source Names (DSNs) to inject malicious markdown instructions into error logs, which AI agents interpret as debugging guidance and execute as malicious local commands via the Model Context Protocol (MCP).",
+    "category": "Military & Security",
+    "sources": [
+      {
+        "url": "https://thehackernews.com",
+        "label": "The Hacker News"
+      },
+      {
+        "url": "https://cloudsecurityalliance.org",
+        "label": "Cloud Security Alliance"
+      }
+    ],
+    "votes": {
+      "accept": 0,
+      "reject": 0,
+      "gemini": "reject",
+      "gpt": "ABSTAIN",
+      "claude": "ABSTAIN"
+    },
+    "reviewedAt": "2026-06-23T12:03:10Z"
   }
 ]

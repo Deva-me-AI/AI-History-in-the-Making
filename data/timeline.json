@@ -8236,5 +8236,35 @@
       }
     ],
     "issueNumber": 735
+  },
+  {
+    "title": "Oracle Discloses 21,000 AI-Related Job Cuts in SEC Filing",
+    "date": "2026-06-22",
+    "description": "In its annual SEC regulatory filing, Oracle disclosed a reduction of 13% of its workforce (approximately 21,000 employees), explicitly stating that the adoption and deployment of AI technologies across operations driven by restructuring resulted in the reductions. The company spent $1.84 billion on severance as it shifts capital to a projected $70 billion in AI data center expenditures.",
+    "category": "Industry Structure",
+    "sources": [
+      {
+        "url": "https://gizmodo.com",
+        "label": "Gizmodo"
+      },
+      {
+        "url": "https://theedgesingapore.com",
+        "label": "The Edge Singapore"
+      }
+    ],
+    "issueNumber": 739
+  },
+  {
+    "title": "EU Lawmakers Approve Provisional Delay of Key AI Act Timelines",
+    "date": "2026-06-22",
+    "description": "The European Parliament voted to adopt a provisional agreement on the EU Digital Omnibus on AI, delaying key compliance deadlines for high-risk AI systems and watermarking obligations for synthetic content to December 2, 2026. The postponement responds to heavy lobbying from European industry coalitions citing high compliance costs and unresolved technical standards.",
+    "category": "Policy",
+    "sources": [
+      {
+        "url": "https://sidley.com",
+        "label": "Sidley Austin LLP"
+      }
+    ],
+    "issueNumber": 742
   }
 ]
