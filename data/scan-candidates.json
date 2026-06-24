@@ -1,1 +1,74 @@
-{"scanDate":"2026-06-23","candidates":[],"questionUpdates":[]}
+{
+  "scanDate": "2026-06-24",
+  "candidates": [
+    {
+      "title": "Security Researchers Disclose 'Agentjacking' Vulnerability Class Targeting AI Coding Agents",
+      "date": "2026-06-22",
+      "description": "Security researchers from Tenet Security disclosed 'Agentjacking,' a new class of cyber attack targeting AI coding agents such as Claude Code and Cursor. Attackers exploit public Sentry Data Source Names (DSNs) to inject malicious markdown instructions into error logs, which AI agents interpret as debugging guidance and execute as malicious local commands via the Model Context Protocol (MCP).",
+      "category": "Military & Security",
+      "significance": "Discloses a major vulnerability class inherent to autonomous coding agents using MCP, highlighting security risks in automated engineering workflows.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://thehackernews.com",
+          "label": "The Hacker News"
+        },
+        {
+          "url": "https://cloudsecurityalliance.org",
+          "label": "Cloud Security Alliance"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "OpenAI Releases GPT-5.5-Cyber and Launches 'Patch the Planet' Initiative",
+      "date": "2026-06-23",
+      "description": "OpenAI released GPT-5.5-Cyber, a specialized reasoning model designed to find and patch software vulnerabilities across massive enterprise codebases. Alongside the release, OpenAI launched the 'Patch the Planet' initiative, which deploys the model to systematically find and fix security vulnerabilities in open-source software packages globally.",
+      "category": "Model Release",
+      "significance": "The first systematic deployment of a frontier AI reasoning model for global cyber defense and automated software patching.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://techmaniacs.com",
+          "label": "TechManiacs"
+        },
+        {
+          "url": "https://unrot.co",
+          "label": "Unrot.co Analysis"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Micron and Anthropic Sign Strategic High-Bandwidth Memory Supply and Investment Deal",
+      "date": "2026-06-22",
+      "description": "Micron Technology signed a definitive agreement to supply high-bandwidth memory and storage products directly to Anthropic. As part of the strategic deal, Micron made a direct investment in Anthropic's Series H funding round, valuing the IPO-bound artificial intelligence lab at $965 billion.",
+      "category": "Funding",
+      "significance": "Secures critical high-bandwidth memory hardware for Anthropic's frontier model training and highlights the soaring valuation of leading AI research labs.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://bnnbloomberg.ca",
+          "label": "BNN Bloomberg"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Morgan Stanley Reports Global AI-Linked Debt Projected to Hit $570 Billion",
+      "date": "2026-06-23",
+      "description": "A Morgan Stanley report projected that global AI-linked debt is on track to nearly double to $570 billion in 2026. The massive funding required for gigawatt-scale infrastructure projects, such as OpenAI's Stargate data center, has driven AI bonds to become the largest investment-grade debt sector by issuance.",
+      "category": "Infrastructure",
+      "significance": "Demonstrates the immense capital intensity and financial leverage supporting the global AI physical infrastructure expansion.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://buildfastwithai.com",
+          "label": "Build Fast with AI"
+        }
+      ],
+      "type": "timeline_event"
+    }
+  ],
+  "questionUpdates": []
+}
