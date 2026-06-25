@@ -8283,5 +8283,39 @@
       }
     ],
     "issueNumber": 743
+  },
+  {
+    "title": "Security Researchers Disclose 'Agentjacking' Vulnerability Class Targeting AI Coding Agents",
+    "date": "2026-06-22",
+    "description": "Security researchers from Tenet Security disclosed 'Agentjacking,' a new class of cyber attack targeting AI coding agents such as Claude Code and Cursor. Attackers exploit public Sentry Data Source Names (DSNs) to inject malicious markdown instructions into error logs, which AI agents interpret as debugging guidance and execute as malicious local commands via the Model Context Protocol (MCP).",
+    "category": "Military & Security",
+    "sources": [
+      {
+        "url": "https://thehackernews.com",
+        "label": "The Hacker News"
+      },
+      {
+        "url": "https://cloudsecurityalliance.org",
+        "label": "Cloud Security Alliance"
+      }
+    ],
+    "issueNumber": 747
+  },
+  {
+    "title": "OpenAI Releases GPT-5.5-Cyber and Launches 'Patch the Planet' Initiative",
+    "date": "2026-06-23",
+    "description": "OpenAI released GPT-5.5-Cyber, a specialized reasoning model designed to find and patch software vulnerabilities across massive enterprise codebases. Alongside the release, OpenAI launched the 'Patch the Planet' initiative, which deploys the model to systematically find and fix security vulnerabilities in open-source software packages globally.",
+    "category": "Model Release",
+    "sources": [
+      {
+        "url": "https://techmaniacs.com",
+        "label": "TechManiacs"
+      },
+      {
+        "url": "https://unrot.co",
+        "label": "Unrot.co Analysis"
+      }
+    ],
+    "issueNumber": 748
   }
 ]

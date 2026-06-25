@@ -2509,5 +2509,45 @@
       "claude": "ABSTAIN"
     },
     "reviewedAt": "2026-06-23T20:03:55Z"
+  },
+  {
+    "title": "Micron and Anthropic Sign Strategic High-Bandwidth Memory Supply and Investment Deal",
+    "date": "2026-06-22",
+    "description": "Micron Technology signed a definitive agreement to supply high-bandwidth memory and storage products directly to Anthropic. As part of the strategic deal, Micron made a direct investment in Anthropic's Series H funding round, valuing the IPO-bound artificial intelligence lab at $965 billion.",
+    "category": "Funding",
+    "sources": [
+      {
+        "url": "https://bnnbloomberg.ca",
+        "label": "BNN Bloomberg"
+      }
+    ],
+    "votes": {
+      "accept": 0,
+      "reject": 0,
+      "gemini": "ACCEPT",
+      "gpt": "ABSTAIN",
+      "claude": "ABSTAIN"
+    },
+    "reviewedAt": "2026-06-25T08:02:43Z"
+  },
+  {
+    "title": "Morgan Stanley Reports Global AI-Linked Debt Projected to Hit $570 Billion",
+    "date": "2026-06-23",
+    "description": "A Morgan Stanley report projected that global AI-linked debt is on track to nearly double to $570 billion in 2026. The massive funding required for gigawatt-scale infrastructure projects, such as OpenAI's Stargate data center, has driven AI bonds to become the largest investment-grade debt sector by issuance.",
+    "category": "Infrastructure",
+    "sources": [
+      {
+        "url": "https://buildfastwithai.com",
+        "label": "Build Fast with AI"
+      }
+    ],
+    "votes": {
+      "accept": 0,
+      "reject": 0,
+      "gemini": "ACCEPT",
+      "gpt": "ABSTAIN",
+      "claude": "ABSTAIN"
+    },
+    "reviewedAt": "2026-06-25T08:03:53Z"
   }
 ]
