@@ -2641,5 +2641,29 @@
       "claude": "ABSTAIN"
     },
     "reviewedAt": "2026-06-27T08:03:46Z"
+  },
+  {
+    "title": "OpenAI and Broadcom Unveil Custom 'Jalapeño' Inference Chip",
+    "date": "2026-06-24",
+    "description": "OpenAI unveiled its first custom-designed ASIC chip, 'Jalapeño,' built specifically for large language model inference. Developed in a rapid nine-month cycle in partnership with Broadcom and manufactured by TSMC, early lab testing shows it delivers approximately 50% lower inference costs per token than Nvidia's Blackwell GPUs while matching their performance.",
+    "category": "Infrastructure",
+    "sources": [
+      {
+        "url": "https://ratnesh-maurya.com",
+        "label": "Ratnesh Maurya Report"
+      },
+      {
+        "url": "https://buildfastwithai.com",
+        "label": "Build Fast with AI"
+      }
+    ],
+    "votes": {
+      "accept": 0,
+      "reject": 0,
+      "gemini": "ACCEPT",
+      "gpt": "ABSTAIN",
+      "claude": "ABSTAIN"
+    },
+    "reviewedAt": "2026-06-27T16:02:32Z"
   }
 ]
