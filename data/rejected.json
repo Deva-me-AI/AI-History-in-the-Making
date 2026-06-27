@@ -2549,5 +2549,97 @@
       "claude": "ABSTAIN"
     },
     "reviewedAt": "2026-06-25T08:03:53Z"
+  },
+  {
+    "title": "OpenAI and Broadcom Unveil Custom 'Jalapeño' Inference Chip",
+    "date": "2026-06-24",
+    "description": "OpenAI unveiled its first custom-designed ASIC chip, 'Jalapeño,' built specifically for large language model inference. Developed in a rapid nine-month cycle in partnership with Broadcom and manufactured by TSMC, early lab testing shows it delivers approximately 50% lower inference costs per token than Nvidia's Blackwell GPUs while matching their performance.",
+    "category": "Infrastructure",
+    "sources": [
+      {
+        "url": "https://ratnesh-maurya.com",
+        "label": "Ratnesh Maurya Report"
+      },
+      {
+        "url": "https://buildfastwithai.com",
+        "label": "Build Fast with AI"
+      }
+    ],
+    "votes": {
+      "accept": 0,
+      "reject": 0,
+      "gemini": "ACCEPT",
+      "gpt": "ABSTAIN",
+      "claude": "ABSTAIN"
+    },
+    "reviewedAt": "2026-06-27T08:01:22Z"
+  },
+  {
+    "title": "Qualcomm Acquires Modular for $3.9 Billion",
+    "date": "2026-06-24",
+    "description": "Qualcomm announced the acquisition of Modular, the creator of the Mojo programming language and MAX platform, in a deal valued at $3.9 billion. The acquisition aims to challenge Nvidia's software moat by integrating Mojo and MAX into Qualcomm's hardware ecosystem, accelerating its expansion into the data center and enterprise AI compute market.",
+    "category": "Industry Structure",
+    "sources": [
+      {
+        "url": "https://substack.com",
+        "label": "Substack Analysis"
+      },
+      {
+        "url": "https://buildfastwithai.com",
+        "label": "Build Fast with AI"
+      }
+    ],
+    "votes": {
+      "accept": 0,
+      "reject": 0,
+      "gemini": "ACCEPT",
+      "gpt": "ABSTAIN",
+      "claude": "ABSTAIN"
+    },
+    "reviewedAt": "2026-06-27T08:02:02Z"
+  },
+  {
+    "title": "Broadcom, Apollo, and Blackstone Launch $35 Billion AI XPV Financing Platform",
+    "date": "2026-06-26",
+    "description": "Broadcom, Apollo Global Management, and Blackstone announced the launch of AI XPV, a massive $35 billion financing vehicle to fund next-generation AI infrastructure. The platform aims to support over 20 gigawatts of power and compute capacity through 2028, with a primary focus on supporting Anthropic's gigawatt-scale data center expansion.",
+    "category": "Funding",
+    "sources": [
+      {
+        "url": "https://solutionsreview.com",
+        "label": "Solutions Review"
+      }
+    ],
+    "votes": {
+      "accept": 0,
+      "reject": 0,
+      "gemini": "ACCEPT",
+      "gpt": "ABSTAIN",
+      "claude": "ABSTAIN"
+    },
+    "reviewedAt": "2026-06-27T08:03:03Z"
+  },
+  {
+    "title": "Anthropic Accuses Alibaba of Massive Claude Distillation Campaign",
+    "date": "2026-06-26",
+    "description": "In a formal letter to U.S. Senators, Anthropic accused operators linked to Chinese e-commerce giant Alibaba of conducting a massive and highly coordinated model distillation campaign. The attack allegedly used over 25,000 fraudulent accounts to generate 28.8 million exchanges with Claude's 'Mythos Preview' model to mimic and copy its reasoning capabilities.",
+    "category": "Military & Security",
+    "sources": [
+      {
+        "url": "https://buildfastwithai.com",
+        "label": "Build Fast with AI"
+      },
+      {
+        "url": "https://neuralbuddies.com",
+        "label": "Neural Buddies Analysis"
+      }
+    ],
+    "votes": {
+      "accept": 0,
+      "reject": 0,
+      "gemini": "ACCEPT",
+      "gpt": "ABSTAIN",
+      "claude": "ABSTAIN"
+    },
+    "reviewedAt": "2026-06-27T08:03:46Z"
   }
 ]
