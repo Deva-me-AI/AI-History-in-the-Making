@@ -1,1 +1,78 @@
-{"scanDate":"2026-06-27","candidates":[],"questionUpdates":[]}
+{
+  "scanDate": "2026-06-27",
+  "candidates": [
+    {
+      "title": "Broadcom, Apollo, and Blackstone Launch $35 Billion AI XPV Financing Platform",
+      "date": "2026-06-26",
+      "description": "Broadcom, Apollo Global Management, and Blackstone announced the launch of AI XPV, a massive $35 billion financing vehicle to fund next-generation AI infrastructure. The platform aims to support over 20 gigawatts of power and compute capacity through 2028, with a primary focus on supporting Anthropic's gigawatt-scale data center expansion.",
+      "category": "Funding",
+      "significance": "This massive $35 billion joint financing vehicle marks a major shift in how AI infrastructure is funded, moving away from tech company balance sheets to structured utility-scale finance, directly enabling Anthropic's multi-gigawatt scaling path.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://solutionsreview.com",
+          "label": "Solutions Review"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Anthropic Accuses Alibaba of Massive Claude Distillation Campaign",
+      "date": "2026-06-26",
+      "description": "In a formal letter to U.S. Senators, Anthropic accused operators linked to Chinese e-commerce giant Alibaba of conducting a massive and highly coordinated model distillation campaign. The attack allegedly used over 25,000 fraudulent accounts to generate 28.8 million exchanges with Claude's 'Mythos Preview' model to mimic and copy its reasoning capabilities.",
+      "category": "Military & Security",
+      "significance": "This escalates geopolitical tensions between US frontier labs and Chinese giants, showcasing model distillation via API as a key vector for intellectual property theft/mimicry and prompting legislative scrutiny.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://buildfastwithai.com",
+          "label": "Build Fast with AI"
+        },
+        {
+          "url": "https://neuralbuddies.com",
+          "label": "Neural Buddies Analysis"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "OpenAI and Broadcom Unveil Custom 'Jalapeño' Inference Chip",
+      "date": "2026-06-24",
+      "description": "OpenAI unveiled its first custom-designed ASIC chip, 'Jalapeño,' built specifically for large language model inference. Developed in a rapid nine-month cycle in partnership with Broadcom and manufactured by TSMC, early lab testing shows it delivers approximately 50% lower inference costs per token than Nvidia's Blackwell GPUs while matching their performance.",
+      "category": "Infrastructure",
+      "significance": "OpenAI's transition to custom-designed silicon (developed with Broadcom and TSMC) directly challenges Nvidia's hardware monopoly and could radically alter inference economics, reducing API costs by 50%.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://ratnesh-maurya.com",
+          "label": "Ratnesh Maurya Report"
+        },
+        {
+          "url": "https://buildfastwithai.com",
+          "label": "Build Fast with AI"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Qualcomm Acquires Modular for $3.9 Billion",
+      "date": "2026-06-24",
+      "description": "Qualcomm announced the acquisition of Modular, the creator of the Mojo programming language and MAX platform, in a deal valued at $3.9 billion. The acquisition aims to challenge Nvidia's software moat by integrating Mojo and MAX into Qualcomm's hardware ecosystem, accelerating its expansion into the data center and enterprise AI compute market.",
+      "category": "Industry Structure",
+      "significance": "This major acquisition strengthens Qualcomm's position in data center and edge AI by integrating Mojo/MAX, representing a unified effort to dismantle Nvidia's CUDA-based software dominance.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://substack.com",
+          "label": "Substack Analysis"
+        },
+        {
+          "url": "https://buildfastwithai.com",
+          "label": "Build Fast with AI"
+        }
+      ],
+      "type": "timeline_event"
+    }
+  ],
+  "questionUpdates": []
+}
