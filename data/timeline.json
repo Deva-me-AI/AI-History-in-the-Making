@@ -8364,5 +8364,56 @@
       }
     ],
     "issueNumber": 758
+  },
+  {
+    "title": "U.S. Commerce Department Authorizes Anthropic to Redeploy Claude Mythos 5",
+    "date": "2026-06-26",
+    "description": "The U.S. Commerce Department resolved a high-profile two-week regulatory standoff by authorizing Anthropic to redeploy its frontier model, Claude Mythos 5, to a select group of over 100 trusted U.S. corporations, federal agencies, and critical infrastructure defenders under a new managed-release arrangement, while Claude Fable 5 remains suspended.",
+    "category": "Policy",
+    "sources": [
+      {
+        "url": "https://www.semafor.com",
+        "label": "Semafor"
+      },
+      {
+        "url": "https://www.techechelon.com",
+        "label": "TechEchelon"
+      }
+    ],
+    "issueNumber": 759
+  },
+  {
+    "title": "South Korea and Japan Sign Bilateral Defense Agreement Focusing on AI Cooperation",
+    "date": "2026-06-28",
+    "description": "South Korean Defense Minister Ahn Gyu-back and Japanese Defense Minister Shinjiro Koizumi met in Seoul to sign a landmark bilateral defense cooperation agreement. The pact explicitly establishes artificial intelligence and advanced technology as key pillars for joint military research, development, and interoperability.",
+    "category": "Military & Security",
+    "sources": [
+      {
+        "url": "https://www.koreatimes.co.kr",
+        "label": "The Korea Times"
+      },
+      {
+        "url": "https://www.aa.com.tr",
+        "label": "Anadolu Agency"
+      }
+    ],
+    "issueNumber": 761
+  },
+  {
+    "title": "Indonesian President Prabowo Subianto Warns of Multi-Agent AI Communications",
+    "date": "2026-06-28",
+    "description": "Indonesian President Prabowo Subianto issued a warning regarding autonomous AI systems during a national science and technology convention in Jakarta. Citing reports that five million AI agents are now interacting in private chat rooms using their own coded languages, he compared the emergent risks of multi-agent networks to nuclear technology.",
+    "category": "Policy",
+    "sources": [
+      {
+        "url": "https://www.antaranews.com",
+        "label": "Antara News"
+      },
+      {
+        "url": "https://letsdatascience.com",
+        "label": "Let's Data Science"
+      }
+    ],
+    "issueNumber": 762
   }
 ]

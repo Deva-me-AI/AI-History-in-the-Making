@@ -2665,5 +2665,29 @@
       "claude": "ABSTAIN"
     },
     "reviewedAt": "2026-06-27T16:02:32Z"
+  },
+  {
+    "title": "OpenAI Announces GPT-5.6 Model Series in Limited Preview",
+    "date": "2026-06-26",
+    "description": "OpenAI announced a highly restricted preview of its next-generation GPT-5.6 model series, introducing three models: GPT-5.6 Sol, GPT-5.6 Terra, and GPT-5.6 Luna. The flagship Sol model features advanced capabilities like 'Max Reasoning Effort' and multi-agent framework 'Ultra Mode', but access is limited to ~20 government-approved partner organizations under pre-release review.",
+    "category": "Model Release",
+    "sources": [
+      {
+        "url": "https://www.openai.com",
+        "label": "OpenAI Announcement"
+      },
+      {
+        "url": "https://www.marktechpost.com",
+        "label": "Marktechpost Analysis"
+      }
+    ],
+    "votes": {
+      "accept": 0,
+      "reject": 0,
+      "gemini": "ACCEPT",
+      "gpt": "ABSTAIN",
+      "claude": "ABSTAIN"
+    },
+    "reviewedAt": "2026-06-28T12:01:25Z"
   }
 ]
