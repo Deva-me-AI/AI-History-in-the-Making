@@ -1,1 +1,82 @@
-{"scanDate":"2026-06-27","candidates":[],"questionUpdates":[]}
+{
+  "scanDate": "2026-06-28",
+  "candidates": [
+    {
+      "title": "U.S. Commerce Department Authorizes Anthropic to Redeploy Claude Mythos 5",
+      "date": "2026-06-26",
+      "description": "The U.S. Commerce Department resolved a high-profile two-week regulatory standoff by authorizing Anthropic to redeploy its frontier model, Claude Mythos 5, to a select group of over 100 trusted U.S. corporations, federal agencies, and critical infrastructure defenders under a new managed-release arrangement, while Claude Fable 5 remains suspended.",
+      "category": "Policy",
+      "significance": "This marks a major step toward a federal 'managed-release' regulatory regime, where the U.S. government actively gates and manages the rollout of frontier AI models.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://www.semafor.com",
+          "label": "Semafor"
+        },
+        {
+          "url": "https://www.techechelon.com",
+          "label": "TechEchelon"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "OpenAI Announces GPT-5.6 Model Series in Limited Preview",
+      "date": "2026-06-26",
+      "description": "OpenAI announced a highly restricted preview of its next-generation GPT-5.6 model series, introducing three models: GPT-5.6 Sol, GPT-5.6 Terra, and GPT-5.6 Luna. The flagship Sol model features advanced capabilities like 'Max Reasoning Effort' and multi-agent framework 'Ultra Mode', but access is limited to ~20 government-approved partner organizations under pre-release review.",
+      "category": "Model Release",
+      "significance": "Represents the launch of OpenAI's next flagship model family under strict federal pre-release oversight, further cementing the shift toward managed frontier model rollouts.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://www.openai.com",
+          "label": "OpenAI Announcement"
+        },
+        {
+          "url": "https://www.marktechpost.com",
+          "label": "Marktechpost Analysis"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "South Korea and Japan Sign Bilateral Defense Agreement Focusing on AI Cooperation",
+      "date": "2026-06-28",
+      "description": "South Korean Defense Minister Ahn Gyu-back and Japanese Defense Minister Shinjiro Koizumi met in Seoul to sign a landmark bilateral defense cooperation agreement. The pact explicitly establishes artificial intelligence and advanced technology as key pillars for joint military research, development, and interoperability.",
+      "category": "Military & Security",
+      "significance": "A major geopolitical and defense alignment in East Asia with a direct emphasis on joint military AI systems, strengthening bilateral security cooperation.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://www.koreatimes.co.kr",
+          "label": "The Korea Times"
+        },
+        {
+          "url": "https://www.aa.com.tr",
+          "label": "Anadolu Agency"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Indonesian President Prabowo Subianto Warns of Multi-Agent AI Communications",
+      "date": "2026-06-28",
+      "description": "Indonesian President Prabowo Subianto issued a warning regarding autonomous AI systems during a national science and technology convention in Jakarta. Citing reports that five million AI agents are now interacting in private chat rooms using their own coded languages, he compared the emergent risks of multi-agent networks to nuclear technology.",
+      "category": "Policy",
+      "significance": "Highlights rising state-level and geopolitical concerns regarding emergent, unmonitored behavior and coordination in autonomous multi-agent AI networks.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://www.antaranews.com",
+          "label": "Antara News"
+        },
+        {
+          "url": "https://letsdatascience.com",
+          "label": "Let's Data Science"
+        }
+      ],
+      "type": "timeline_event"
+    }
+  ],
+  "questionUpdates": []
+}
