@@ -2689,5 +2689,49 @@
       "claude": "ABSTAIN"
     },
     "reviewedAt": "2026-06-28T12:01:25Z"
+  },
+  {
+    "title": "UN Launches AI for Good Global Commission",
+    "date": "2026-07-01",
+    "description": "The United Nations and the ITU officially established the AI for Good Global Commission, co-chaired by Marc Benioff and Paul Kagame, and featuring tech leaders including Jensen Huang, Andy Jassy, and Brad Smith, to develop international standards and address the global AI infrastructure gap.",
+    "category": "Policy",
+    "sources": [
+      {
+        "url": "https://easternherald.com",
+        "label": "Eastern Herald"
+      }
+    ],
+    "votes": {
+      "accept": 0,
+      "reject": 1,
+      "gemini": "REJECT",
+      "gpt": "ABSTAIN",
+      "claude": "ABSTAIN"
+    },
+    "reviewedAt": "2026-07-03T16:02:35Z"
+  },
+  {
+    "title": "OpenAI Proposes 5% Equity Stake to U.S. Government",
+    "date": "2026-07-02",
+    "description": "To align itself with national security priorities and address regulatory pressure ahead of its IPO, OpenAI CEO Sam Altman proposed allocating a 5% equity stake-worth approximately $42.6 billion-to a U.S. government public investment vehicle.",
+    "category": "Funding",
+    "sources": [
+      {
+        "url": "https://theguardian.com",
+        "label": "The Guardian"
+      },
+      {
+        "url": "https://yahoo.com",
+        "label": "Yahoo Finance"
+      }
+    ],
+    "votes": {
+      "accept": 0,
+      "reject": 0,
+      "gemini": "ACCEPT",
+      "gpt": "ABSTAIN",
+      "claude": "ABSTAIN"
+    },
+    "reviewedAt": "2026-07-03T16:04:03Z"
   }
 ]

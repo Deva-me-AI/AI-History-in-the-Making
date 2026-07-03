@@ -8415,5 +8415,39 @@
       }
     ],
     "issueNumber": 762
+  },
+  {
+    "title": "Anthropic Restores Claude Fable 5 Globally and Launches Claude Sonnet 5",
+    "date": "2026-07-01",
+    "description": "Anthropic restored global access to Claude Fable 5 after an 18-day suspension under a U.S. export control order, deploying it with a new safety classifier to prevent safety bypasses. Simultaneously, Anthropic launched Claude Sonnet 5, offering near-Opus-level reasoning for Free and Pro users while restricting hazardous cybersecurity capabilities.",
+    "category": "Model Release",
+    "sources": [
+      {
+        "url": "https://buildfastwithai.com",
+        "label": "Build Fast with AI"
+      },
+      {
+        "url": "https://buttondown.com",
+        "label": "Buttondown Analysis"
+      }
+    ],
+    "issueNumber": 763
+  },
+  {
+    "title": "FTC Proposes Policy Restricting Deceptive 'Ideological' AI Steering",
+    "date": "2026-07-01",
+    "description": "The Federal Trade Commission issued a proposed policy statement warning AI developers that quietly steering or distorting model outputs to achieve undisclosed ideological, political, or social objectives could violate Section 5 of the FTC Act prohibiting deceptive practices.",
+    "category": "Policy",
+    "sources": [
+      {
+        "url": "https://ftc.gov",
+        "label": "Federal Trade Commission"
+      },
+      {
+        "url": "https://aiweekly.co",
+        "label": "AI Weekly"
+      }
+    ],
+    "issueNumber": 765
   }
 ]
