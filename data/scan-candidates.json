@@ -1,5 +1,70 @@
 {
-  "scanDate": "2026-07-03",
-  "candidates": [],
+  "scanDate": "2026-07-04",
+  "candidates": [
+    {
+      "title": "OpenAI Proposes 5% Equity Stake to U.S. Government",
+      "date": "2026-07-02",
+      "description": "OpenAI CEO Sam Altman proposed allocating a 5% equity stake—worth approximately $42.6 billion based on its $852 billion valuation—to a U.S. government public investment vehicle modeled after the Alaska Permanent Fund. This move aims to align the company with national security priorities and address regulatory pressure ahead of its anticipated IPO.",
+      "category": "Funding",
+      "significance": "This proposal represents an unprecedented level of alignment and state-level coordination between a leading AI developer and the U.S. government, potentially setting a precedent for other AI labs and transforming the relationship between private tech companies and public oversight.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://theguardian.com",
+          "label": "The Guardian"
+        },
+        {
+          "url": "https://yahoo.com",
+          "label": "Yahoo Finance"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Anthropic Launches Claude Science Research Workbench",
+      "date": "2026-07-02",
+      "description": "Anthropic introduced 'Claude Science,' a dedicated research workbench integrating PubMed, Jupyter, R, cluster terminals, and NVIDIA's BioNeMo Agent Toolkit. The platform is designed to address the scientific reproducibility crisis by preserving code, environments, and agent logs during complex scientific discovery processes.",
+      "category": "Model Release",
+      "significance": "A major milestone in the transition from generic chat interfaces to specialized, autonomous scientific agents capable of handling complex research workflows.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://buttondown.com",
+          "label": "Buttondown Analysis"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Microsoft Launches Microsoft Frontier Company",
+      "date": "2026-07-02",
+      "description": "Microsoft announced 'Microsoft Frontier Company,' a new operating business unit backed by a $2.5 billion investment. The unit will embed 6,000 AI and engineering experts directly with enterprise customers to co-design, implement, and continuously improve custom, proprietary AI systems.",
+      "category": "Industry Structure",
+      "significance": "Signals a massive shift in how enterprise AI is delivered, moving away from off-the-shelf APIs toward highly customized, embedded engineering partnerships to capture enterprise value.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://infoworld.com",
+          "label": "InfoWorld"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Elon Musk Announces Grok 4.5 Enters Private Beta",
+      "date": "2026-07-04",
+      "description": "Elon Musk announced that Grok 4.5, built on a 1.5-trillion-parameter foundation, has entered private beta at SpaceX and Tesla. The model incorporates IDE session data from Cursor to boost its coding and technical reasoning capabilities.",
+      "category": "Model Release",
+      "significance": "Represents the next major leap in parameters and reasoning capabilities for xAI, leveraging real-world development data to challenge industry leaders.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://buildfastwithai.com",
+          "label": "Build Fast with AI"
+        }
+      ],
+      "type": "timeline_event"
+    }
+  ],
   "questionUpdates": []
 }
