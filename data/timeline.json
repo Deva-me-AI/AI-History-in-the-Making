@@ -8449,5 +8449,18 @@
       }
     ],
     "issueNumber": 765
+  },
+  {
+    "title": "Anthropic Launches Claude Science Research Workbench",
+    "date": "2026-07-02",
+    "description": "Anthropic introduced 'Claude Science,' a dedicated research workbench integrating PubMed, Jupyter, R, cluster terminals, and NVIDIA's BioNeMo Agent Toolkit. The platform is designed to address the scientific reproducibility crisis by preserving code, environments, and agent logs during complex scientific discovery processes.",
+    "category": "Model Release",
+    "sources": [
+      {
+        "url": "https://buttondown.com",
+        "label": "Buttondown Analysis"
+      }
+    ],
+    "issueNumber": 768
   }
 ]

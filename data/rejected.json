@@ -2733,5 +2733,69 @@
       "claude": "ABSTAIN"
     },
     "reviewedAt": "2026-07-03T16:04:03Z"
+  },
+  {
+    "title": "OpenAI Proposes 5% Equity Stake to U.S. Government",
+    "date": "2026-07-02",
+    "description": "OpenAI CEO Sam Altman proposed allocating a 5% equity stake—worth approximately $42.6 billion based on its $852 billion valuation—to a U.S. government public investment vehicle modeled after the Alaska Permanent Fund. This move aims to align the company with national security priorities and address regulatory pressure ahead of its anticipated IPO.",
+    "category": "Funding",
+    "sources": [
+      {
+        "url": "https://theguardian.com",
+        "label": "The Guardian"
+      },
+      {
+        "url": "https://yahoo.com",
+        "label": "Yahoo Finance"
+      }
+    ],
+    "votes": {
+      "accept": 0,
+      "reject": 0,
+      "gemini": "reject",
+      "gpt": "ABSTAIN",
+      "claude": "ABSTAIN"
+    },
+    "reviewedAt": "2026-07-04T16:00:59Z"
+  },
+  {
+    "title": "Microsoft Launches Microsoft Frontier Company",
+    "date": "2026-07-02",
+    "description": "Microsoft announced 'Microsoft Frontier Company,' a new operating business unit backed by a $2.5 billion investment. The unit will embed 6,000 AI and engineering experts directly with enterprise customers to co-design, implement, and continuously improve custom, proprietary AI systems.",
+    "category": "Industry Structure",
+    "sources": [
+      {
+        "url": "https://infoworld.com",
+        "label": "InfoWorld"
+      }
+    ],
+    "votes": {
+      "accept": 0,
+      "reject": 0,
+      "gemini": "ACCEPT",
+      "gpt": "ABSTAIN",
+      "claude": "ABSTAIN"
+    },
+    "reviewedAt": "2026-07-04T16:02:30Z"
+  },
+  {
+    "title": "Elon Musk Announces Grok 4.5 Enters Private Beta",
+    "date": "2026-07-04",
+    "description": "Elon Musk announced that Grok 4.5, built on a 1.5-trillion-parameter foundation, has entered private beta at SpaceX and Tesla. The model incorporates IDE session data from Cursor to boost its coding and technical reasoning capabilities.",
+    "category": "Model Release",
+    "sources": [
+      {
+        "url": "https://buildfastwithai.com",
+        "label": "Build Fast with AI"
+      }
+    ],
+    "votes": {
+      "accept": 0,
+      "reject": 0,
+      "gemini": "REJECT",
+      "gpt": "ABSTAIN",
+      "claude": "ABSTAIN"
+    },
+    "reviewedAt": "2026-07-04T16:03:13Z"
   }
 ]
