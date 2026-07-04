@@ -1,1 +1,55 @@
-{"scanDate":"2026-07-04","candidates":[],"questionUpdates":[]}
+{
+  "scanDate": "2026-07-04",
+  "candidates": [
+    {
+      "title": "OpenAI Proposes 5% Equity Stake to U.S. Government",
+      "date": "2026-07-02",
+      "description": "OpenAI CEO Sam Altman proposed allocating a 5% equity stake—worth approximately $42.6 billion based on its $852 billion valuation—to a U.S. government public investment vehicle modeled after the Alaska Permanent Fund. This move aims to align the company with national security priorities and address regulatory pressure ahead of its anticipated IPO.",
+      "category": "Funding",
+      "significance": "First proposal of direct government equity in a leading frontier AI lab, representing unprecedented state-firm integration and setting a major precedent for national security-aligned AI corporate governance.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://theguardian.com",
+          "label": "The Guardian"
+        },
+        {
+          "url": "https://yahoo.com",
+          "label": "Yahoo Finance"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Microsoft Launches Microsoft Frontier Company",
+      "date": "2026-07-02",
+      "description": "Microsoft announced 'Microsoft Frontier Company,' a new operating business unit backed by a $2.5 billion investment. The unit will embed 6,000 AI and engineering experts directly with enterprise customers to co-design, implement, and continuously improve custom, proprietary AI systems.",
+      "category": "Industry Structure",
+      "significance": "A major shift in enterprise AI delivery, transitioning from off-the-shelf software APIs to deeply embedded custom co-engineering at scale, indicating the limits of automated implementation and the need for specialized human-AI integration.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://infoworld.com",
+          "label": "InfoWorld"
+        }
+      ],
+      "type": "timeline_event"
+    },
+    {
+      "title": "Elon Musk Announces Grok 4.5 Enters Private Beta",
+      "date": "2026-07-04",
+      "description": "Elon Musk announced that Grok 4.5, built on a 1.5-trillion-parameter foundation, has entered private beta at SpaceX and Tesla. The model incorporates IDE session data from Cursor to boost its coding and technical reasoning capabilities.",
+      "category": "Model Release",
+      "significance": "Represents xAI's next-frontier model scaling milestone and signals a new trend of integrating proprietary real-time developer environment data (from Cursor) to directly train/fine-tune base models.",
+      "confidence": "high",
+      "sources": [
+        {
+          "url": "https://buildfastwithai.com",
+          "label": "Build Fast with AI"
+        }
+      ],
+      "type": "timeline_event"
+    }
+  ],
+  "questionUpdates": []
+}
