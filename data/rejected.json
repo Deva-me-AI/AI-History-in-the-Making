@@ -2797,5 +2797,25 @@
       "claude": "ABSTAIN"
     },
     "reviewedAt": "2026-07-04T16:03:13Z"
+  },
+  {
+    "title": "Elon Musk Announces Grok 4.5 Enters Private Beta",
+    "date": "2026-07-04",
+    "description": "Elon Musk announced that Grok 4.5, built on a 1.5-trillion-parameter foundation, has entered private beta at SpaceX and Tesla. The model incorporates IDE session data from Cursor to boost its coding and technical reasoning capabilities.",
+    "category": "Model Release",
+    "sources": [
+      {
+        "url": "https://buildfastwithai.com",
+        "label": "Build Fast with AI"
+      }
+    ],
+    "votes": {
+      "accept": 0,
+      "reject": 1,
+      "gemini": "REJECT",
+      "gpt": "ABSTAIN",
+      "claude": "ABSTAIN"
+    },
+    "reviewedAt": "2026-07-05T08:02:20Z"
   }
 ]
