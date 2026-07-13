@@ -8492,5 +8492,69 @@
       }
     ],
     "issueNumber": 772
+  },
+  {
+    "title": "China's AI Companion Rules Force ByteDance and Alibaba to Pull AI Companions",
+    "date": "2026-07-04",
+    "description": "Ahead of China's Interim Measures for AI Anthropomorphic Interactive Services taking effect on July 15, ByteDance's Doubao and Alibaba's Qwen began disabling user-created AI companion and custom-persona features, with Tencent's Yuanbao following suit. The rules ban 'virtual intimate relationship' services for minors and mandate age-tiered access, anti-addiction limits, and parental controls, making China one of the first countries to directly regulate AI companions. The affected apps serve hundreds of millions of users.",
+    "category": "Policy",
+    "sources": [
+      {
+        "url": "https://www.straitstimes.com/asia/east-asia/bytedance-alibaba-pull-ai-companions-as-beijing-tightens-rules",
+        "label": "The Straits Times"
+      },
+      {
+        "url": "https://www.techtimes.com/articles/319703/20260704/china-ai-companion-law-arrives-july-15-doubao-qwen-agent-data-will-deleted.htm",
+        "label": "Tech Times"
+      }
+    ],
+    "issueNumber": 774
+  },
+  {
+    "title": "United Nations Convenes First Global Dialogue on AI Governance",
+    "date": "2026-07-06",
+    "description": "The United Nations held the inaugural session of its Global Dialogue on AI Governance in Geneva on July 6-7, bringing together all 193 member states alongside industry, academia, and civil society. Established under the Global Digital Compact, it is the UN's first standing multilateral platform dedicated to international AI governance. Speakers including Yoshua Bengio warned that science cannot yet guarantee that increasingly capable AI systems will avoid causing catastrophic harm.",
+    "category": "Policy",
+    "sources": [
+      {
+        "url": "https://news.un.org/en/story/2026/07/1167862",
+        "label": "UN News"
+      },
+      {
+        "url": "https://www.un.org/global-dialogue-ai-governance/en",
+        "label": "United Nations"
+      }
+    ],
+    "issueNumber": 775
+  },
+  {
+    "title": "xAI Releases Grok 4.5",
+    "date": "2026-07-08",
+    "description": "xAI released Grok 4.5, billed as its strongest model yet and optimized for coding, agentic tasks, and knowledge work. Trained on tens of thousands of NVIDIA GB300 GPUs and integrated with developer tools such as Cursor, the company positioned it as roughly 'Opus-class' in capability but faster and more token-efficient, priced at $2 per million input tokens and $6 per million output tokens. It landed one day before OpenAI's GPT-5.6, capping an unusually dense week of frontier model releases.",
+    "category": "Model Release",
+    "sources": [
+      {
+        "url": "https://x.ai/news/grok-4-5",
+        "label": "xAI"
+      }
+    ],
+    "issueNumber": 776
+  },
+  {
+    "title": "OpenAI Releases the GPT-5.6 Model Family, Led by Flagship 'Sol'",
+    "date": "2026-07-09",
+    "description": "OpenAI made its GPT-5.6 model family generally available, led by the flagship 'Sol' variant alongside the mid-tier 'Terra' and low-cost 'Luna.' The models target complex reasoning, agentic workflows, coding, science, and cybersecurity, and followed a limited preview begun on June 26; the launch had been delayed pending a U.S. cybersecurity and national-security review. Sol was priced at $5 per million input tokens and $30 per million output tokens and rolled out across ChatGPT, Codex, and the API.",
+    "category": "Model Release",
+    "sources": [
+      {
+        "url": "https://openai.com/index/gpt-5-6/",
+        "label": "OpenAI"
+      },
+      {
+        "url": "https://www.nytimes.com/2026/07/09/technology/openai-sol-ai.html",
+        "label": "The New York Times"
+      }
+    ],
+    "issueNumber": 777
   }
 ]
